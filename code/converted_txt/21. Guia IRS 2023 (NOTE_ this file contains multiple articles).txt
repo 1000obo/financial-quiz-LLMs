@@ -1,0 +1,208 @@
+Guia IRS 2023
+
+Artigo 1: “1. Introdução”
+
+A maioria das pessoas não gosta de ter que lidar com o tema dos impostos em geral, e do IRS em particular. E diga-se que é algo perfeitamente compreensível, porque trata-se de uma matéria que não é fácil de entender, que não está disponível de forma rápida e clara, e que obriga a fazer alguma ginástica aritmética - o que para muitos não é algo atrativo. Mas então, vale a pena fazer o esforço? Não tenhas dúvida que sim. Dominar o tema dos impostos é algo que te pode permitir ganhar centenas ou milhares de euros por ano e, além disso, também te mantém a par de algumas das medidas do governo e sobre o que se passa a nível da economia nacional. O que, mais uma vez, é muito importante para as tuas finanças pessoais.
+
+Sobre o IRS 
+
+O IRS (Imposto sobre o Rendimento de pessoas Singulares) tem que ser declarado todos os anos  ao Estado, relativamente aos rendimentos que tenhas recebido no ano anterior. Este guia tem como objetivo  ajudar-te ao longo desse processo de declaração, uma vez que é normal existirem algumas dúvidas sobre como fazer as coisas na prática.
+
+Acessos
+
+A primeira coisa que deves fazer, caso ainda não o tenhas feito, é garantir que tens o teu acesso ao portal das finanças (https://www.portaldasfinancas.gov.pt) a funcionar. Se já acedeste anteriormente, tens só que experimentar uma vez a entrar, para garantir que sabes qual é a tua password e que não tens dificuldades de acesso. Se tiveres algum problema, procura garantir que estás a introduzir os dados de acesso corretos. Se mesmo assim não estiver a funcionar, poderás ter que solicitar uma nova senha de acesso seguindo a ligação “Recuperar Senha”. 
+
+Caso ainda não tenhas feito um registo no portal da finanças, então é altura de o fazeres. Carrega no botão “Registar-se” no topo da página principal do portal das finanças e preenche os dados requeridos. 
+
+Num caso ou no outro, garante que tens os acessos a funcionar correta e atempadamente, para que quando fores entregar a declaração não sejas surpreendido com alguma dificuldade inesperada, que te leve a ter que esperar algum tempo para conseguires aceder.
+
+Artigo 2: “2. Prazos”
+
+Prazos
+
+Outra coisa que tens que garantir é que conheces os prazos, para que não exista nenhuma infração que depois leve a penalizações sempre absurdas. Já basta ser necessário pagarmos o imposto, quanto mais ainda depois termos que suportar multas relacionadas com atrasos. Então os prazos que deves ter em conta em 2023 são os seguintes: 
+
+Até 15 de fevereiro: caso tenha havido alguma alteração na composição do teu agregado familiar (casamento, divórcio, nascimento, mudança no acordo parental, óbito), deves fazer a comunicação dessa alteração do teu agregado familiar. Depois de acederes à tua área pessoal no portal das finanças, escreve “Comunicar agregado familiar” na caixa de pesquisa e acede à opção certa para “Preencher”. Também deves fazer esta comunicação caso tenha havido uma alteração na tua residência permanente.
+
+Até 25 de fevereiro: até esta data deves fazer a confirmação das tuas faturas no portal e-Fatura (https://faturas.portaldasfinancas.gov.pt/). Deves complementar informações, registar faturas que estão em falta, mudar a categoria caso esta esteja incorreta, e resolver todas as situações que não estiverem corretas. É importante fazeres este trabalho, pois só uma correta classificação das faturas permite que, na altura do cálculo do teu IRS, sejam aplicadas as deduções adequadas. 
+
+Entre 1 de abril e 30 de junho: é o período em que deves entregar a tua declaração do IRS referente a 2022. Para isso acede ao portal das finanças, coloca “Entregar IRS” na caixa de pesquisa e depois escolhe “Entregar Declaração”. No écran seguinte carrega no botão “Preencher Declaração” para iniciares (ou continuares) o preenchimento da tua declaração de IRS. Neste écran tens também a possibilidade de escolher a opção para corrigir uma declaração que concluíste e já enviaste para a Autoridade Tributária - AT (para o caso de entretanto teres detetado alguma incorreção), ou a opção para enviar para a AT uma declaração que gravaste no teu computador mas que ainda não enviaste, e a opção para descarregares para o teu computador uma aplicação para poderes preencher o teu IRS sem estares ligado à internet, para envio posterior para a AT. 
+
+Para além destas datas existem outras que deverás também estar a par. Verifica se alguma das seguintes situações se aplica a ti:
+
+Até 31 de janeiro: caso sejas proprietário e tenhas contrato(s) de arrendamento (ou subarrendamento, cedência de uso do prédio, ou de parte dele, e ainda o aluguer de maquinismos e mobiliários instalados no imóvel alugado), tens que entregar a declaração modelo 44 até ao final do mês de janeiro. A não ser que emitas recibos eletrónicos pelo(s) arrendamento(s), situação em que não precisas de preencher o modelo 44.
+
+Até 15 de fevereiro: 
+
+Se estiveres a pagar alguma renda no interior do país deves comunicar o seu valor à AT, mas só no caso de teres transferido a tua residência permanente para alguma zona do interior. Existem benefícios fiscais associados.
+
+Se fores proprietário de imóveis arrendados deves comunicar a duração dos respetivos contratos de arrendamento, para obteres benefícios fiscais (caso tenhas arrendamentos de longa duração).
+
+Se fores proprietário e tiver havido alguma cessação de contrato(s) de arrendamento, deves comunicar essa situação, assim como o(s) motivo(s) da cessação.
+
+Se tens alguém no teu agregado familiar que frequenta um estabelecimento de ensino no interior do país ou numa das regiões autónomas, deves comunicar essa despesa de educação à AT.
+
+Uma vez conhecidos os elementos básicos necessários para a entrega da declaração de IRS (acessos e prazos), vamos passar agora a questões mais práticas relacionadas com o preenchimento da declaração.
+
+Artigo 3: “3. Preenchimento passo a passo”
+
+Entregar uma declaração individual ou conjunta?
+
+Caso estejas casado ou a viver em união de facto, esta é uma dúvida que poderás ter. Podes optar por qualquer uma das opções. Bom, então o que é mais vantajoso? Embora seja habitual verem-se vantagens na opção pela entrega conjunta, aconselhamos que simules as duas situações para teres mesmo a certeza. A escolha (por declaração individual ou conjunta) é feita no primeiro écran de  acesso ao preenchimento da declaração 
+
+Modelo 3
+
+A base da declaração do IRS é o modelo 3, onde são indicados os dados de todos os elementos que fazem parte da declaração (consoante se trate de uma declaração conjunta ou individual). Quando inicias o preenchimento do IRS é neste modelo que ficas posicionado automaticamente pelo sistema. Deves preencher todos os dados que são obrigatórios, tendo o cuidado de verificar se o teu IBAN está corretamente preenchido (a tua conta bancária que será creditada caso tenhas reembolso a receber após apuradas as contas finais do teu IRS). 
+
+Para continuares o preenchimento da tua declaração do IRS, deverás passar para o próximo documento, o anexo A.
+
+Anexo A -  Rendimentos do trabalho dependente (categoria A) e pensões (categoria H)
+
+Para iniciares o preenchimento deste anexo, deves juntá-lo à tua declaração na opção que está disponível no sistema para o efeito.
+
+Este anexo destina-se à declaração de rendimentos do trabalho dependente (categoria A) e de pensões (categoria H), ou seja o teu caso, pois ao trabalhares por conta de outrem, os teus rendimentos caem na categoria de trabalho dependente (A). Neste anexo devem constar  os rendimentos desta categoria de todos os elementos do agregado familiar que constam na declaração. Atenção que, se existirem dependentes também com rendimentos desta categoria, estes também têm de ser indicados. Caso a tua opção seja pela entrega da declaração de IRS individual, e caso haja dependentes com rendimentos da categoria A, cada um dos declarantes deve incluir neste anexo 50% desses rendimentos.
+
+Anexo B - Rendimentos do trabalho independente (categoria B) - regime simplificado e ato isolado
+
+Caso tenhas cumulativamente com o teu trabalho dependente, um segundo trabalho em regime trabalhador independente (regime simplificado) ou tenhas praticado um ato isolado, deves preencher também este anexo. Neste caso o preenchimento é individual, ou seja, cada pessoa que faz parte da declaração deve preencher o seu próprio anexo B, caso tenha tido rendimentos desta categoria.
+
+Anexo C - Rendimentos do trabalho independente (categoria C) - contabilidade organizada
+
+Aplica-se o referido no ponto anterior, mas no caso de teres uma atividade independente com contabilidade organizada.
+
+Anexo D - Imputação de rendimentos 
+
+Tens que preencher este anexo no caso de em 2022 teres recebido 1) rendimentos no âmbito de regimes de transparência fiscal (imputação de lucros ou de rendimentos obtidos por entidades não residentes em Portugal que estejam sujeitas, no país de residência, a um regime fiscal privilegiado); ou 2) rendimentos da categoria B resultantes de uma situação de herança indivisa.
+
+O preenchimento deste anexo é individual.
+
+Anexo E - Rendimentos de capitais (categoria E)
+
+Se em 2022 obtiveste rendimentos provenientes da aplicação de capitais (categoria E), deves preencher este anexo. Por exemplo, juros de depósitos à ordem ou a prazo, lucros, dividendos e seguros financeiros.
+
+O preenchimento deste anexo deve conter os rendimentos de todos os elementos do agregado familiar que figuram na declaração de IRS.
+
+Anexo F - Rendimentos prediais (categoria F)
+
+Este anexo destina-se a declarar os rendimentos prediais (categoria F), como por exemplo rendas de imóveis.
+
+O preenchimento deste anexo deve conter os rendimentos de todos os elementos do agregado familiar que figuram na declaração de IRS.
+
+
+
+Anexo G - Mais valias e outros incrementos patrimoniais (categoria G)
+
+Este anexo destina-se a declarar as mais-valias ou (menos-valias) resultantes da venda de imóveis ou títulos, por exemplo ações.
+
+O preenchimento deste anexo deve conter os rendimentos de todos os elementos do agregado familiar que figuram na declaração de IRS.
+
+Anexo G1 - Mais valias não tributadas
+
+Este anexo é somente de natureza informativa.
+
+Anexo H – Benefícios fiscais e deduções
+
+É neste anexo H que se declaram as deduções à coleta de algumas das nossas despesas, Deves ter em atenção que as deduções a que tens direito já se encontram pré-preenchidas neste anexo (embora não estejam visíveis), com base nas faturas carregadas no e-Fatura (daí a importância de estarem carregadas corretamente). Por este ser um tema que suscita sempre grande interesse por parte dos contribuintes, vamos detalhá-lo um pouco melhor mais abaixo neste guia.
+
+Anexo I – Rendimentos de herança indivisa
+
+Neste anexo são declarados os rendimentos da categoria B (lucros ou prejuízos) apurados pelo cabeça-de-casal ou administrador de herança indivisa que devam ser imputados aos respetivos herdeiros, na proporção das suas quotas na herança. É um anexo obrigatório sempre que a declaração de IRS inclua o anexo B ou anexo C, referente a herança indivisa.
+
+Anexo J – Rendimentos obtidos no estrangeiro
+
+O anexo J destina-se a comunicar os rendimentos obtidos no estrangeiro que são de declaração obrigatória em Portugal, como por exemplo pensões de reforma. Este anexo é individual. 
+
+Anexo L – Residentes não habituais
+
+Devem preencher este anexo contribuintes com o estatuto de residente não habitual em Portugal.
+
+Este anexo é individual.
+
+Anexo SS
+
+Este é o último dos anexos do IRS. O seu preenchimento é obrigatório para os trabalhadores independentes que reúnam cumulativamente as seguintes condições:
+
+Prestem serviços a pessoas coletivas e pessoas singulares com atividade empresarial, sem ser a título particular;
+
+Estejam obrigados a pagar contribuições para a Segurança Social;
+
+Tenham um rendimento anual obtido com prestação de serviços igual ou superior a seis vezes o valor do Indexante dos Apoios Sociais (IAS), isto é, 2 632,86 euros (para efeitos do IRS de 2021);
+
+Obtenham mais de 50% dos seus rendimentos de prestação de serviços de uma única entidade.
+
+A entrega deste anexo é fundamental para assegurar proteção social em situação de cessação da atividade. O seu preenchimento é individual. 
+
+
+
+Chegamos ao final da lista dos anexos que compõem a declaração do IRS. As explicações aqui dadas para alguns dos anexos são muito elementares, e têm como objetivo principal orientar-te numa primeira análise ao teu caso particular. Se estiveres incluído em alguma(s) da(s) categorias aqui mencionadas, não deixes de aprofundar a informação sobre como deves preencher de forma correta e completa o(s) anexo(s) em causa.
+
+Artigo 4: “4. Benefícios e deduções”
+
+Vejamos agora em maior detalhe o tema dos benefícios fiscais e deduções.
+
+Anexo H - Benefícios fiscais e deduções - detalhes
+
+Como referido anteriormente, é neste anexo que são considerados os benefícios e deduções à tua coleta. Os valores vêm pré-preenchidos (embora não visíveis) pelo que - se optares por preencher os campos - deves estar bem seguro que estás a preencher corretamente todos os dados e que tens comprovativos de tudo o que estás a mencionar. Uma coisa que podes fazer é simular o valor final do teu IRS antes de carregar qualquer valor no anexo H, e voltar a simular depois de carregares manualmente os valores. Se as faturas estiverem bem carregadas, deverás chegar ao mesmo valor final. Caso isso não aconteça, toma a tua opção sobre como avançar (carregamento manual ou não) de forma correta a consciente.
+
+
+
+Quais são então os benefícios e deduções a que tens direito?
+
+Educação e formação
+
+Podes deduzir no IRS as despesas de educação: mensalidade de colégios, creches e jardins de infância; propinas; manuais e livros escolares; explicações; refeições (nas cantinas escolares); alojamento de estudantes deslocados; e material escolar (se for adquirido na escola). O limite é de 30% das despesas até ao máximo de 800 euros para a totalidade do agregado familiar.
+
+As famílias com estudantes inscritos em estabelecimentos de ensino localizados no interior do país, ou nas Regiões Autónomas, beneficiam de uma majoração de 10%. Se os estudantes estiverem deslocados e a viver em casa ou quartos arrendados, usufruem de um limite dedutível até 1 000 euros (mas apenas se a diferença face ao limite de 800 euros for referente a despesas de arrendamento de estudantes deslocados).
+
+Consideram-se estudantes deslocados os jovens até 25 anos de idade e inscritos em estabelecimentos de ensino localizados a mais de 50 quilómetros da residência permanente do respetivo agregado familiar.
+
+Saúde
+
+As despesas de saúde podem ser deduzidas até ao limite de 15% com um máximo de 1 000 euros. São permitidas: despesas de consultas, exames, tratamentos, cirurgias, internamentos e medicamentos. São ainda dedutíveis despesas de máscaras e álcool gel, óculos (incluindo armações), lentes, fraldas para incontinentes, transporte em ambulâncias e não-urgentes de doentes, prémios de seguros de saúde, entre outras.
+
+Atenção que as despesas de saúde com IVA a 23% têm de ter receita médica e é necessário associar essa prescrição à respetiva fatura na página pessoal do e-Fatura, no Portal das Finanças.
+
+Imóveis
+
+Podes deduzir despesas de juros de empréstimos com imóveis desde que tenham sido contratados até ao final de 2011 e para compra de casa para habitação própria e permanente ou arrendamento permanente. O limite é de 15%, até o máximo de 296 euros por agregado familiar (os agregados familiares com rendimento coletável até 30 000 euros beneficiam de um limite mais elevado, de 450 euros).
+
+No caso das despesas com rendas para habitação permanente, pagas ao abrigo do RAU (Regime de Arrendamento Urbano), podes deduzir até ao máximo de 15% com o máximo de 502 euros por agregado familiar (para agregados familiares com rendimento coletável até 30 000 euros, o limite pode subir até 800 euros). 
+
+Há ainda uma majoração até 1 000 euros, durante três anos, para agregados familiares que transferiram a sua residência permanente para o interior do país.
+
+Lares
+
+Podes deduzir no IRS despesas de apoio domiciliário, lares e instituições de apoio à terceira idade do contribuinte e cônjuge. O mesmo se aplica a despesas de lares e residências para pessoas portadoras de deficiência, dependentes, ascendentes e colaterais até ao terceiro grau (irmãos ou tios), com a limitação de que o rendimento mensal destes familiares não pode ultrapassar o salário mínimo em vigor no ano a que respeita o imposto (705 euros, em 2022). O  máximo da dedução é de 25%, com o limite de 403,75 euros.
+
+Pensões de alimentos
+
+Podes deduzir 20% destas despesas, sem limite, desde que tenham sido decretadas por sentença judicial ou acordo homologado.
+
+IVA (mediante fatura)
+
+Podes deduzir uma percentagem do IVA suportado em despesas realizadas em alguns setores específicos e comprovadas por fatura (com número de contribuinte), até o limite de 250 euros por contribuinte:
+
+Despesas de reparação de automóveis e motociclos, alojamento e restauração, cabeleireiros, atividades veterinárias e ginásios é dedutível 15% do IVA. 
+
+Despesas de passes mensais de transportes públicos é dedutível 100% do IVA.
+
+Despesas de medicamentos de uso veterinário é dedutível 35% do IVA.
+
+Gerais familiares
+
+Aqui são agrupadas praticamente todas as despesas do dia a dia (por exemplo, água, eletricidade, gás, comunicações, lazer, supermercado, combustível e vestuário).
+
+A dedução no IRS é de 35%, até o limite de 250 euros, por contribuinte. As famílias monoparentais têm direito a uma dedução de 45%, até 335 euros.
+
+Artigo 5: “5. Envio”
+
+Envio da declaração para a AT (e correções)
+
+Quando chegares ao final do preenchimento da tua declaração, verifica a existência de erros através da opção existente no sistema e depois faz uma simulação final para ficares com uma ideia precisa sobre o que vais pagar ou receber no teu IRS. Depois de estar tudo verificado, escolhe a opção “Enviar” e assim terminas o processo de preenchimento e envio da tua declaração. Após passados alguns dias, lembra-te de voltar ao portal das finanças para consultar o estado da tua declaração. O seu “estado” deve ser “CERTA” para que tudo esteja em conformidade. Se isso não acontecer, consulta as incorreções e procede à sua correção.
+
+Depois resta esperares pela chegada da carta da AT com o resultado da tua declaração. Lembra-te que quanto mais depressa enviares a declaração, mais depressa receberás a resposta e - se for caso disso - o teu reembolso.
+
+Depois de enviares a tua declaração para a AT, pode sempre acontecer que detetes algum erro ou lapso. Habitualmente não há problema nenhum com isso, mesmo que já tenha sido ultrapassado o prazo limite para entrega da declaração. O que pode suceder é haver um atraso na receção da demonstração final do teu IRS, ou seres chamado a demonstrar alguma coisa. Para submeteres uma correção deves aceder ao portal das finanças da mesma forma que fizeste na primeira vez e, em vez de escolheres a opção de preenchimento inicial, escolhes a opção de correção. No restante é tudo igual.
+
+Continua a consultar os nossos artigos sobre este e outros temas. E lembra-te que podes sempre pedir conselhos ou acompanhamento mais especializado através da nossa App. 😊
+

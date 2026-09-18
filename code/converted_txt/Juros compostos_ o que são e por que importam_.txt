@@ -1,0 +1,74 @@
+Juros compostos: o que são e por que importam?
+
+Quando pensamos em poupar ou investir dinheiro, uma das primeiras perguntas que surge é: "Como é que o meu dinheiro pode crescer ao longo do tempo?" 
+
+A resposta está nos juros compostos, um conceito fundamental para quem quer construir um futuro financeiro mais estável.
+
+Mesmo que nunca tenha ouvido falar deles, os juros compostos já influenciam a sua vida - seja numa conta poupança, num investimento ou até numa dívida. Entender como funcionam é dar um passo importante rumo à sua independência financeira.
+
+🧠 Como funcionam?
+
+Imagine que coloca 100€ numa conta que oferece 5% de juro ao ano. Ao fim de um ano, recebe 5€ de juro e fica com 105€. No ano seguinte, não recebe 5% sobre os 100€ iniciais, mas sim sobre os 105€ - ou seja, os juros também geram juros. Esse é o poder dos juros compostos.
+
+Ano 1: 100€ × 1,05 = 105€
+
+Ano 2: 105€ × 1,05 = 110,25€
+
+Ano 3: 110,25€ × 1,05 = 115,76€
+
+E esse crescimento acelera com o passar dos anos!
+
+
+
+📊 Juros compostos vs. Juros simples
+
+Nos juros simples, os ganhos são sempre calculados sobre o valor inicial. Já nos juros compostos, os ganhos de cada período são adicionados ao capital, fazendo com que os rendimentos cresçam cada vez mais. É por isso que se diz que os juros compostos são "o melhor amigo do investidor e o pior inimigo do devedor".
+
+
+
+⏳ O tempo é o seu maior aliado
+
+Quanto mais cedo começar a poupar ou investir, mais tempo dá aos juros compostos para trabalharem por si. 
+
+Mesmo que invista pouco, o tempo transforma esse valor em algo muito maior. É como plantar uma árvore: os frutos aparecem com paciência e cuidado.
+
+
+
+
+
+
+
+
+
+
+
+🧮 A fórmula dos juros compostos
+
+Para quem gosta de números, aqui vai:
+
+VF = VI × (1 + i)^n
+
+VF = Valor Futuro
+
+VI = Valor Inicial
+
+i = Taxa de juro (decimal)
+
+n = Número de períodos (anos, meses, etc.)
+
+
+
+💡 Deixe o tempo trabalhar por si
+
+Os juros compostos mostram-nos que, no mundo das finanças, o tempo pode ser mais valioso do que o dinheiro. Não precisa de ser rico para começar, só precisa de começar. Quanto mais cedo, melhor.
+
+Se tem a oportunidade de poupar, mesmo que seja pouco, comece já. O seu “eu” do futuro vai agradecer!
+
+
+
+Ainda tem dúvidas ou gostava de debater alguma questão particular? Fale com o nosso coach financeiro! Todos os contactos são confidenciais 😊
+
+
+
+
+

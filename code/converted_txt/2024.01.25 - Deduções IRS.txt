@@ -1,0 +1,152 @@
+Deduções do IRS
+
+O código do IRS prevê a existência de um conjunto de montantes que podem ser deduzidos ao valor total da matéria coletável e, assim, reduzir o valor do imposto total que tem que pagar anualmente. Para estas deduções, contam vários tipos de despesas como, por exemplo, educação, saúde, lares, pensões de alimentos, IVA, imóveis, ou despesas gerais familiares. 
+
+Desde logo, é preciso ter em conta que cada tipo de despesas pode ser deduzido até um determinado limite. É assim importante que conheça ambos para conseguir fazer uma gestão mais eficiente dos seus gastos e, consequentemente, dos seus benefícios. 
+
+Um ponto prévio, ainda antes de avançarmos para o tema dos limites por tipo de despesa, para lhe referir a importância de validar as suas faturas no portal e-fatura até ao dia 25 de fevereiro de 2024 (leia o nosso artigo sobre este tema). Lembre-se que somente as faturas registadas e confirmadas com o seu NIF poderão contar para as suas deduções no IRS.
+
+
+
+Os princípios gerais das deduções
+
+Existem limites globais às deduções que servem como um teto que não pode ser ultrapassado, mesmo que os limites individuais por tipo de despesa o permitissem. 
+
+Para agregados com um rendimento coletável entre 7.112€ e 80.882€, o limite é definido com base numa fórmula matemática, podendo variar entre 1.000€ e 2.500€ (essa fórmula leva em conta os valores do primeiro escalão do IRS e do rendimento coletável, e pode ser consultada em info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs78.aspx). Para agregados com rendimento coletável superior a 80.882€, o limite global das deduções é fixo de 1.000€.
+
+A lógica é a de que quanto maior for o rendimento do agregado familiar, menor é o limite global a considerar. Nos agregados com três ou mais dependentes, os limites apresentados são majorados em 5% por cada membro.
+
+
+
+Tipos de despesas e respetivos limites
+
+Despesas Gerais Familiares
+
+Para esta categoria, contam um conjunto grande de despesas, nomeadamente, (lista não exaustiva):
+
+Supermercado;
+
+Combustíveis;
+
+Água;
+
+Energia;
+
+Gás;
+
+Eletrodomésticos;
+
+Comunicações (televisão, internet, telemóveis);
+
+Despesas de educação ou formação em entidades que faturam os seus serviços com IVA a 23% (as despesas com IVA a 6% ou isentas são consideradas em "Educação e Formação")
+
+Despesas de farmácia com IVA a 23% e não suportadas por receita médica (as restantes são consideradas em "Saúde");
+
+Vestuário;
+
+Lavandarias;
+
+Perfumarias;
+
+Decoração;
+
+Transportes;
+
+Bilhetes (concertos, cinema, …).
+
+A dedução das despesas desta categoria pode atingir 35% do seu valor total, até ao máximo de 250€ por cada sujeito passivo (no caso de famílias monoparentais, o limite é de 45% com um limite de 335€).
+
+Educação
+
+Estas despesas dizem respeito a propinas em colégios, creches e jardins de infância, manuais e livros escolares, explicações, refeições e transportes, e podem ser deduzidas até 30% do seu valor total, com um limite de 800€. No caso de o agregado ter estudantes a frequentar estabelecimentos de ensino no interior do país, o limite da dedução é estendido para 40% do total das despesas até ao limite de 1.000€, se houver gastos em despesas com rendas que justifiquem esse aumento de 200€. O teto máximo da dedução referente a rendas é de 300€.
+
+
+
+Nota: a partir de 2024, passam a poder ser também deduzidas nesta categoria despesas com formação profissional certificada. Mas isto não é válido para a declaração do IRS a efetuar em 2024, que se refere aos rendimentos e despesas efetuadas em 2023.
+
+Saúde
+
+Estas despesas dizem respeito a seguros de saúde, consultas, cirurgias, internamentos, tratamentos, medicamentos, próteses, aparelhos ortodônticos, óculos e armações, e podem ser deduzidas até 15% do seu valor total, com um limite de 1.000€.
+
+As despesas de saúde com IVA a 23% têm que ser obrigatoriamente acompanhadas de receita médica, que deve ser associada à respetiva fatura no portal e-fatura.
+
+IVA 
+
+Pode também deduzir uma percentagem do IVA suportado em despesas nos setores de atividade: 
+
+Reparação de automóveis e motociclos – 15%
+
+Alojamento e restauração – 15%, 
+
+Cabeleireiros – 15%
+
+Veterinários – 15%
+
+Passes Sociais de Transportes Públicos – 100%
+
+
+
+Naturalmente que para beneficiar desta dedução, tem que solicitar o registo do seu NIF em todas as faturas no momento das transações. O limite máximo dedutível nesta categoria é de 250 euros.
+
+Lares
+
+Estas despesas dizem respeito a apoio domiciliário, lares e outras instituições de apoio à terceira idade e ainda encargos com lares e residências autónomas para pessoas com deficiência, dependentes, ascendentes e colaterais até terceiro grau que não tenham rendimentos superiores ao salário mínimo nacional. O valor a deduzir pode ser de 25% com o limite máximo de 403,75€.
+
+Se tomar conta de pais ou avós, tem direito a deduzir 665€, se tiver um ascendente a cargo, ou 525€ por cada, a partir de dois ascendentes. Neste caso, o ascendente não pode ter rendimentos superiores à pensão mínima.
+
+
+
+Pensões de alimentos
+
+Estas despesas dizem respeito a pensões de alimentos pagas para filhos após situações de divórcio, fixadas por sentença ou acordo judicial. Podem ser deduzidas até 20% pelo progenitor pagador.
+
+
+
+Planos de Poupança Reforma
+
+Estas despesas dizem respeito às aplicações feitas anualmente para planos de poupança reforma, seja no momento da sua constituição, seja em momentos de reforço. O limite da dedução é de 20% dos capitais aplicados anualmente, por cada sujeito passivo, e com valores limite que variam em função da idade:
+
+Menos de 35 anos: 400€
+
+Entre 35 e 50 anos: 350€
+
+Mais de 50 anos: 300€
+
+
+
+Imóveis
+
+Estas despesas dizem respeito aos gastos com rendas para habitação, até 15% do seu valor total, com o limite máximo de 502€ (se o rendimento coletável for igual ou inferior ao valor do primeiro escalão, pode ir até 800€). Se arrendou uma casa no interior como residência permanente, então a dedução limite passa a ser de 1.000€, nos primeiros 3 anos.
+
+Nesta categoria podem ser também deduzidas as despesas com juros do crédito à habitação, igualmente até 15%, mas neste caso com um limite de 296€. Mas atenção, isto é válido somente para contratos de crédito à habitação celebrados até 31 de dezembro de 2011 (transferências do crédito entre bancos são consideradas um novo contrato).
+
+
+
+Filhos
+
+Os agregados familiares beneficiam de uma dedução fixa no IRS por cada filho dependente. O valor da dedução depende da idade do filho:
+
+Menos de 3 anos até 31 de dezembro do ano do imposto: 726€
+
+Mais de três anos: 600€
+
+Se houver mais do que um filho, por cada dependente adicional, tem direito a uma dedução de 900€ até que estes atinjam os seis anos de idade – independentemente da idade que tiver o primeiro filho. 
+
+Conclusão
+
+As deduções anteriormente mencionadas são as que podemos considerar como sendo as mais habituais. Existem mais alguns casos específicos que não tratamos neste artigo, mas que deve igualmente ter em conta, são eles: 
+
+Donativos
+
+Reabilitação de imóveis
+
+Dupla tributação internacional
+
+Pessoas deficientes
+
+Caso seja titular de alguma destas situações, deve procurar informar-se junto da Autoridade Tributária sobre quais são os valores das deduções em IRS a que tem direito.
+
+
+
+Tem até ao dia 25 de fevereiro para validar as suas faturas no portal e-fatura. Leia o nosso artigo sobre como fazer este passo. Se tiver alguma questão sobre este ou outros temas relacionados com a sua situação financeira, fale com o nosso coach financeiro através do chat na app da Paynest!
+

@@ -1,0 +1,56 @@
+Porquê poupar para a reforma?
+
+As pensões podem parecer complicadas, mas a ideia básica é simples. Vale a pena compreender os benefícios de poupar para um sistema de pensões porque a sua pensão do Estado pode não ser suficiente para viver. 
+
+Porque são importantes as pensões?
+
+Por que ter uma pensão? Milhões de pessoas não estão a poupar o suficiente para lhes dar o nível de vida que esperam quando se reformarem. Se tu és um deles, tens 3 opções. Podes:
+
+Reformar-te mais tarde
+
+Começar a poupar mais
+
+Reduzir as tuas expetativas sobre os teus rendimentos na altura da reforma
+
+É muito importante não confiares na pensão do Estado como única forma de sustentação quando atingires a idade da reforma. O ideal seria mesmo que tentasses criar a riqueza suficiente para não depender da pensão do Estado em nada. Que tudo o que de lá viesse, fosse uma espécie de bónus para o que tivesses alcançado pelos teus próprios meios.
+
+Repara nos seguintes impactos: 
+
+O aumento da esperança de vida da população - obriga o Estado a pagar mais pensões durante mais anos e a ter mais gastos com o sistema nacional de saúde. 
+
+A redução da natalidade - provoca a diminuição da população mais jovem no mercado de trabalho e portanto menos descontos para a segurança social por quem está a trabalhar. 
+
+Percebes rapidamente porque dizemos para não confiar na pensão do Estado como a tua única forma de sustentação quando atingires a idade da reforma.
+
+As vantagens de poupar para uma pensão
+
+A vantagem mais óbvia é a de complementar a pensão que vais receber do Estado e, assim, conseguires assegurar uma maior qualidade de vida para quando estiveres na idade da reforma. 
+
+Mas existem também outras vantagens. Por exemplo, se optares por fazer a tua poupança através de um plano de poupança reforma (PPR), podes obter benefícios fiscais relevantes todos os anos. Esses benefícios são de 20% na dedução à coleta, sobre o valor investido todos os anos no PPR, com um limite que varia em função da idade – entre 300€ e 400€. Estes planos são feitos em bancos e seguradoras e têm maiores ou menores graus de risco. Quanto maior for a percentagem de capital garantido, menor é a rendibilidade. Para um PPR que te garanta 100% do capital investido, a taxa de juro anual atual deverá rondar 1%. Enquanto isso, outros PPR que não te oferecem garantias de capital, podem oferecer rendimentos bastante superiores. O problema é que também podes perder parte do capital investido. Esta é uma questão que tem diretamente a ver com gestão de risco e isso será tema para outro(s) artigos. Neste caso, importa-nos que retenhas que os PPR te oferecem vantagens fiscais que deverás ter em conta no momento de decidir como vais poupar para a tua reforma.
+
+Outra vantagem, esta menos óbvia, é que ao poupar para a reforma estás a reduzir o teu orçamento disponível ao dia de hoje. E ao reduzir o teu orçamento disponível atual, estás a obrigar-te a ser mais seletivo e racional nas tuas despesas atuais, e assim a evitar desperdícios que são mais fáceis de acontecer quando o montante de dinheiro disponível é mais abundante.
+
+Alternativas para poupares para a tua pensão
+
+Já falamos acima nos planos poupança reforma (PPR), que constituem uma das formas mais usadas para a constituição de planos complementares à pensão do Estado. Se optares por um destes planos, analisa bem as condições e compara as propostas de alguns bancos e seguradoras antes de avançares. Vê como funcionam as vantagens fiscais e verifica o que acontece se por qualquer razão tivesses que utilizar parte do dinheiro (ou todo) antes da idade limite do plano (a idade da reforma – um dos pressupostos dos PPR é que não podes utilizar o dinheiro antes de atingir aquela idade).
+
+Para além dos PPR existem todas as outras formas de poupança disponíveis no mercado. Com maior ou menor risco, existe uma grande variedade de possibilidades para colocares o teu dinheiro. Podes optar por poupanças sem risco, como os depósitos a prazo ou os certificados do tesouro, mas isso não teria nenhuma vantagem sobre os PPR sem risco. Então podes optar por participar em fundos de investimento ou comprar ações. Neste caso o risco aumenta consideravelmente, mas a possibilidade de rendimento também. Se não te sentires muito à vontade com este tipo de investimentos, procura a ajuda de alguém antes de avançares. Evita o risco de não compreender a 100% o que estás a fazer.
+
+Não ponhas de parte a alternativa seguinte, se tiveres possibilidade de o fazer. Estamos a falar da obtenção de rendas através de imóveis. Esta é uma opção de risco relativamente baixo, pois para além de receberes rendas dos inquilinos tens garantido o valor do próprio imóvel. Se tiveres a possibilidade de comprar um ou mais imóveis com este fim, não só aumentas o teu rendimento atual, como garantes que na tua reforma terás um complemento que pode ser bem interessante.
+
+Aliás, deves considerar qualquer forma de rendimento passivo (aquele que recebes sem teres que dedicar tempo ou trabalho) como uma excelente alternativa de apoio à tua reforma. Atenção às propostas de rendimento passivo por parte de empresas de trabalho multinível (ou network marketing). É uma das estratégias de atração usadas por estas empresas e algo muito difícil de conseguir alcançar na prática.
+
+Como sei quanto valerá o meu plano na idade da reforma?
+
+Ao certo, será difícil dizer. Mas é possível teres uma ideia. Imagina que poupas por ano 1.000eur para um plano de poupança para a reforma. Se esse dinheiro tiver um rendimento médio de 1% ao ano, no final de 30 anos terás acumulado cerca de 35.000eur, Mas se conseguires uma média de 2% de rendimento anual, conseguirás acumular mais de 40.000eur. Se quiseres fazer as tuas próprias simulações e estiveres habituado a usar folhas de cálculo, podes usar a função VF que te permite apurar o valor futuro de uma série de poupanças anuais, com uma taxa de rendimento fixa que tu defines. 
+
+Por exemplo: =VF (2%;30;1000;;0) retorna o valor futuro de uma poupança anual de 1.000eur durante 30 anos, com uma taxa de rendimento anual de 2% (exemplo dado acima). Assim podes ter uma ideia do que precisas de poupar por ano para alcançar um determinado montante ao fim de um período de anos.
+
+Embora não seja muito percetível à primeira vista, o efeito daquilo a que se chama juro composto (quando o valor dos juros é somado no final do ano ao capital da poupança, e ambos continuam investidos para o ano seguinte) pode ser extraordinário ao final de alguns anos. 
+
+Continua a consultar os nossos artigos sobre este e outros temas. E lembra-te que podes sempre pedir conselhos ou acompanhamento mais especializado através da nossa App. 😊
+
+
+
+
+

@@ -1,0 +1,148 @@
+Planear as tuas finanças pessoais (parte 2)
+
+
+
+Na primeira parte deste artigo, falámos sobre a importância que o “poder da intenção” e a “disposição para pagar o preço”, têm para a concretização dos objetivos. Podíamos ter optado por falar na parte técnica de planeamento financeiro sem antes falar disso, mas achamos que era necessário abordar essa vertente que está na base de tantos objetivos e planos ficarem por alcançar. Caso não tenhas lido, recomendamos que o faças agora e depois voltes a este artigo.
+
+
+
+Os elementos de um plano financeiro básico
+
+
+
+Para realizares um plano financeiro, a primeira coisa que precisas de ter é um objetivo final claro e concreto, não de uma ideia. Ou seja, alcançar 100 000€ é um objetivo mensurável, enquanto “ter muito dinheiro” não é. Depois, define um prazo para o alcançar. Depois temos que considerar uma taxa de juro que será aplicada ao capital ao longo do tempo, pois ela é determinante para o cálculo dos valores.
+
+
+
+O efeito “composto”
+
+
+
+Um dos efeitos mais importantes, que deves conhecer e reter para o futuro no âmbito do teu planeamento financeiro, é o do juro composto. 
+
+
+
+Vamos imaginar que consegues poupar 200€ por mês durante 10 anos. Se guardares esse dinheiro, ou se o colocares no banco numa conta à ordem, ao final dos 10 anos vais ter 24 000€ acumulados (= 200€ * 12 meses * 10 anos). Se em vez de colocares o dinheiro no banco, o investires com uma taxa de juro média de 8% ao ano, o valor que terás acumulado no final dos 10 anos será de 36 589€. Agora, se em vez de 10 anos, considerarmos 20, os valores finais seriam de 48 000€ e de 117 894€, respetivamente.
+
+
+
+A diferença entre investir ou simplesmente guardar os 200€ por mês, durante 10 anos, é de 12 589€ (36 589 - 24 000). Mas se considerarmos 20 anos em vez de 10, a diferença passa a ser de 69 804€ (117 894 - 48 000). Este é o efeito incrível do juro composto ao longo do tempo. Gostavas de saber quanto terias acumulado ao investir, se o período fosse de 30 anos? Muito bem, terias acumulado cerca de 298 071€. 
+
+
+
+Nesta altura é caso para refletires: estás a investir parte do teu dinheiro de forma disciplinada e regular? Estás a desperdiçar dinheiro que te poderia dar muito jeito no futuro em coisas pouco ou nada relevantes?
+
+
+
+Como lidar com a incerteza
+
+
+
+É claro que o exemplo acima é uma ficção, pois não haverá talvez um único caso de alguém que poupe exatamente 200€ por mês, todos os meses, durante 10, 20, ou 30 anos. A realidade é que os valores vão variando ao longo do tempo, assim como a regularidade e a taxa de juro. Mas o que é importante é teres a noção daquilo que é possível alcançar e começares a traçar cenários. Vamos imaginar que agora só consegues investir 100€ por mês, mas que, no próximo ano, conseguirás investir 200 e, no ano seguinte, 300. Nos anos posteriores, não consegues imaginar, por isso vamos supor que continuas a manter esses 300€ por mês entre o 3º e o 10º ano. O resultado seria:
+
+
+
+
+
+
+
+Este é só um exemplo sobre como lidar com a incerteza. Será que conseguirias mesmo poupar 200€ por mês para o ano que vem? E depois 300€ por mês durante o ano seguinte? Talvez sim, talvez não, mas é preciso usar as melhores estimativas disponíveis e construir o plano dessa forma. Depois fazem-se os ajustes necessários à medida daquilo que for acontecendo na realidade. O mesmo em relação às taxas de juro. A vida sempre nos surpreende ao longo do tempo e aquilo que, por vezes, parece difícil ou até impossível, pode mudar com o passar dos acontecimentos. Muitas pessoas que alcançaram grandes sucessos na vida, no início não imaginavam que tal seria possível. Simplesmente foram determinadas e disciplinadas em relação ao que queriam e, com o tempo, as coisas foram acontecendo. Com querer, fé e determinação, podem alcançar-se resultados incríveis. Não tenhas dúvidas disso.
+
+
+
+Como podes efetuar os cálculos para o planeamento
+
+
+
+Podíamos dar-te aqui formas mais ou menos detalhadas para fazeres os cálculos necessários para fazer o teu planeamento. Optamos por partilhar uma muito fácil e acessível a todos, e ao mesmo tempo muito poderosa. Vai-te permitir “brincar” com os números e fazer várias projeções e experiências. É a função VF das folhas de cálculo. Significa Valor Futuro e usa 5 parâmetros. Vamos ver como funciona usando um dos exemplos que citei acima. 
+
+
+
+Para calcular o valor futuro de um investimento mensal de 200€, por um período de 10 anos, com uma taxa de juro esperada de 8%, os dados na folha de cálculo seriam os seguintes:
+
+
+
+
+
+Coluna A
+
+
+
+1
+
+0,6667%
+
+Taxa de juro anual convertida em mensal
+
+2
+
+120
+
+Número de períodos (meses)
+
+3
+
+-200
+
+Valor dos investimentos
+
+4
+
+0
+
+Valor do investimento inicial (se houver)
+
+5
+
+0
+
+Investimentos feitos no início de cada período (1) ou no final (0)
+
+
+
+A função seria a seguinte: FV(A1; A2; A3;0;0)
+
+
+
+O valor da célula A1 é o resultado da divisão da taxa de juro (8%) por 12 meses, uma vez que os investimentos são mensais e a taxa de juro é anual
+
+120 períodos é o número de meses correspondente a 10 anos
+
+200 é o valor de cada investimento (tem que ser negativo)
+
+O valor da célula A5 (zero) significa que os investimentos são feitos no final de cada mês (período)
+
+
+
+Experimenta escrever esta fórmula numa folha de cálculo e vê se chegas ao mesmo resultado: 36 589,21€.
+
+
+
+Agora é só começares a fazer os teus cálculos de acordo com as tuas melhores estimativas e objetivos. Aqui ficam umas dicas para experimentares:
+
+
+
+Se investires 100€ por mês durante 3 anos, e 200€ por mês nos 5 anos seguintes, qual será o valor que conseguirás acumular se conseguires uma taxa de juro média de 7%?
+
+
+
+Se quiseres ter 500 000€ aos 65 anos, quanto tens que investir por mês, se tiveres uma taxa de juro média de 8%?
+
+
+
+De volta ao fundamental
+
+
+
+Para concluirmos este artigo, queremos reforçar uma ideia que é fundamental. O mais difícil para alcançar o sucesso não é planear. Planear é fundamental mas, como viste, isso não é muito mais difícil do que fazermos umas previsões e preenchermos uma folha de cálculo. O mais difícil no planear é saber exatamente o que queres e a razão que está por detrás disso. E depois estares disposto a pagar o preço para lá chegar. 
+
+
+
+Não deixes de consultar o nosso artigo “Guia de Investimentos”. Vai ajudar-te a perceber melhor como gerir os teus investimentos.
+
+
+
+ 
+
+Mantém-te atento e continua a consultar os nossos artigos sobre este e outros temas. E lembra-te que podes sempre pedir conselhos ou acompanhamento mais especializado através da nossa App. 😊
+
