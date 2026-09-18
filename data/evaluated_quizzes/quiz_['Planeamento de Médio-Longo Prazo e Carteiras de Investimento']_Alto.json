@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Planeamento de Médio-Longo Prazo e Carteiras de Investimento"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como a taxa de juro influencia o processo de planeamento financeiro ao definir um objetivo de 100 000€?",
+      "options": {
+        "A": "A taxa de juro afeta os cálculos financeiros.",
+        "B": "A taxa de juro determina o prazo necessário para atingir o objetivo.",
+        "C": "A taxa de juro é irrelevante para o processo de planeamento financeiro.",
+        "D": "A taxa de juro fixa o montante inicial necessário."
+      },
+      "hint": "Considera como a taxa de juro impacta o crescimento do capital.",
+      "rationale": "A taxa de juro aplicada ao capital influencia diretamente os cálculos financeiros necessários para atingir um objetivo específico, como poupar 100 000€.",
+      "tag": "Planeamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de Planeamento Financeiro, pois aborda a influência da taxa de juro no processo de definição de objetivos financeiros."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância da taxa de juro nos cálculos financeiros."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito, mas a opção C é claramente errada, o que pode ser considerado uma fraqueza."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica orienta eficazmente o raciocínio, ajudando o participante a pensar sobre o impacto da taxa de juro sem revelar a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a influência da taxa de juro nos cálculos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.6,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não sei muito sobre taxas de juro e como elas funcionam. Para mim, o que importa é ter o dinheiro certo no final, então não vejo a taxa de juro como algo que vai mudar isso. Eu só quero juntar o dinheiro que preciso.",
+          "Eu não percebo bem o que é uma taxa de juro e como isso afeta o planeamento financeiro. Para mim, só importa saber quanto quero e quanto vou poupar, não estou a pensar em juros ou cálculos complicados.",
+          "Para mim, a taxa de juro não parece ser algo que eu precise de pensar muito quando faço planos para juntar dinheiro. O que interessa é o dinheiro que vou poupar e quanto tempo vai levar, não as taxas e números complicados que não entendo.",
+          "Eu não percebo bem o que é uma taxa de juro e para que serve. Para mim, o mais importante é saber que quero 100 000€, mas não vejo como isso está ligado a taxas ou cálculos. Parece que é algo que não importa.",
+          "Eu não percebo bem o que é a taxa de juro e como isso influencia o planeamento. Para mim, o mais importante é saber quanto preciso juntar, e não os números complicados que não entendo.",
+          "Eu não percebo bem o que é a taxa de juro e como isso influencia o planeamento financeiro. Para mim, o que importa é ter um objetivo e poupar, sem me preocupar com esses detalhes complicados.",
+          "Eu não percebo bem o que é a taxa de juro e para que serve, por isso acho que não tem a ver com o meu plano de juntar 100 000€. Para mim, é mais sobre o que eu consigo guardar todos os meses.",
+          "Para mim, a taxa de juro não faz muita diferença. Eu não entendo bem os termos técnicos, então acho que não preciso me preocupar com isso quando estou a pensar em juntar dinheiro.",
+          "Eu não entendo bem o que é a taxa de juro e não vejo como isso pode afetar o meu plano de juntar dinheiro. Para mim, o importante é saber que quero 100 mil euros, mas não sei se a taxa de juro tem a ver com isso.",
+          "Eu não percebo bem o que é a taxa de juro e não vejo como é que isso importa para o meu plano de juntar dinheiro. Parece mais complicado e eu só quero saber quanto preciso de poupar, não fazer cálculos difíceis."
+        ],
+        "Médio": [
+          "Eu não percebo muito bem como a taxa de juro pode influenciar o planeamento financeiro. Para mim, o que importa é juntar o dinheiro e conseguir o que quero, então acho que a taxa de juro não é tão importante.",
+          "Acho que a taxa de juro é importante porque pode mudar quanto tempo leva para juntar o dinheiro ou quanto preciso poupar. Não conheço bem os cálculos, mas parece que se a taxa de juro for alta, ajuda a poupar mais rápido.",
+          "Eu penso que a taxa de juro é importante porque pode afetar quanto dinheiro eu vou precisar poupar para chegar aos 100 000€. Não sei exatamente como, mas parece que ela vai influenciar os cálculos que eu tenho que fazer.",
+          "Acho que a taxa de juro é importante porque, se tiver um objetivo de 100 000€, o quanto eu preciso poupar pode mudar dependendo da taxa. Eu não percebo bem todos os detalhes e termos complicados, mas sei que juros fazem diferença no dinheiro que recebo ou pago.",
+          "Eu sei que a taxa de juro é importante, mas não entendo bem como ela funciona. Acredito que afeta os cálculos, porque se estamos a falar de dinheiro, a taxa deve de alguma forma influenciar quanto precisamos poupar ou quanto tempo leva a atingir os 100 000€. Não conheço bem os detalhes, mas parece-me que os números são afetados.",
+          "Eu acho que a taxa de juro é importante porque pode mudar o quanto vou ter que poupar ou quanto tempo vai demorar para chegar aos 100 000€. Não entendo bem todos os detalhes, mas parece que isso influencia o que preciso fazer para atingir o objetivo.",
+          "Eu escolhi a opção C porque, mesmo não sabendo muito sobre finanças, parece que a taxa de juro deve influenciar o quanto precisamos poupar para chegar a 100 000€. Não entendo bem os cálculos, mas imagino que se a taxa de juro for alta, precisamos de menos dinheiro agora, ou algo assim.",
+          "Acho que a taxa de juro é importante porque pode fazer com que demore mais ou menos tempo a juntar dinheiro. Não percebo bem todos os detalhes, mas sei que se a taxa for alta, pode ajudar a atingir o objetivo mais rápido.",
+          "Acho que a taxa de juro não é importante para planear como juntar 100 000€. Não percebo bem o que isso significa e parece que posso simplesmente poupar sem pensar nos juros.",
+          "Eu não percebo muito bem como a taxa de juro funciona, e acho que para fazer um plano financeiro só preciso saber quanto quero juntar. Para mim, a taxa de juro não parece ser tão importante."
+        ],
+        "Alto": [
+          "A taxa de juro é um fator crucial no planeamento financeiro, pois influencia diretamente o montante que precisa ser poupado inicialmente e o prazo necessário para atingir o objetivo de 100 000€. É fundamental considerar a taxa de juro nas simulações de poupança, uma vez que impacta o rendimento dos investimentos e a acumulação de capital ao longo do tempo.",
+          "A taxa de juro é um fator crucial no planeamento financeiro, pois influencia o montante a ser poupado e o tempo necessário para atingir um objetivo de 100 000€. Reconheço a relevância da taxa de juro nas simulações financeiras, como na aplicação de juros compostos, que afetam diretamente os cálculos de quanto é necessário poupar mensalmente.",
+          "A taxa de juro é um fator crucial no planeamento financeiro, pois influencia diretamente os cálculos de poupança e investimento necessários para atingir um objetivo financeiro, como 100 000€. Reconheço que a taxa de juro afeta tanto o montante total acumulado ao longo do tempo quanto o prazo necessário para alcançar o objetivo, tornando as opções A e B relevantes, mas a B é mais abrangente ao referir-se aos cálculos financeiros em geral.",
+          "A taxa de juro é um fator crucial em qualquer planeamento financeiro, pois influencia diretamente o montante que se deve poupar mensalmente ou anualmente para atingir um objetivo financeiro, como 100 000€. Os cálculos de juros compostos, por exemplo, são fundamentais para determinar quanto tempo será necessário para atingir esse montante, tornando a taxa de juro um elemento essencial nas simulações financeiras.",
+          "A taxa de juro é um fator crucial no planeamento financeiro, pois influencia diretamente o montante que será acumulado ao longo do tempo através da poupança ou do investimento. Reconheço que a taxa de juro impacta a rentabilidade dos investimentos e a quantia necessária para atingir um objetivo financeiro, como os 100 000€, tornando esta opção a mais correta.",
+          "A taxa de juro é um fator crucial no planeamento financeiro, pois influencia diretamente o montante a ser poupado e o tempo necessário para atingir um objetivo de 100 000€. Reconheço a relevância dos cálculos financeiros em função da taxa de juro, que afeta o crescimento do capital ao longo do tempo, impactando tanto o valor total acumulado quanto a quantidade a ser poupada periodicamente.",
+          "A taxa de juro influencia diretamente o montante que será necessário poupar para alcançar um objetivo financeiro definido, como 100 000€, através dos cálculos de capitalização e dos juros compostos. Reconheço que a taxa de juro é um fator essencial que afeta o montante final, o que torna esta opção a mais correta em relação às demais.",
+          "A taxa de juro impacta diretamente a forma como calculamos o montante necessário para atingir um objetivo financeiro, pois influencia o crescimento do capital ao longo do tempo. Compreender a relação entre a taxa de juro e os cálculos de poupança ou investimento é fundamental no planeamento financeiro.",
+          "A taxa de juro é um fator crucial em qualquer planejamento financeiro, pois afeta diretamente a acumulação de capital ao longo do tempo. Um maior juro pode reduzir o montante inicial que é necessário poupar para atingir um objetivo como 100 000€, bem como influenciar a duração do investimento e o total de juros obtidos.",
+          "A taxa de juro é um fator crucial nos cálculos financeiros, pois influencia o montante que será acumulado ao longo do tempo e, consequentemente, o valor que se deve poupar mensalmente para atingir o objetivo de 100 000€. Reconheço os termos usados, pois a taxa de juro afeta diretamente o montante final através do conceito de juros compostos e do tempo de investimento."
+        ]
+      }
+    },
+    {
+      "question": "Qual a importância de definir prazos e taxas de juro ao estabelecer um objetivo financeiro como poupar 10% do rendimento mensal?",
+      "options": {
+        "A": "Essencial para o sucesso do plano.",
+        "B": "É importante para garantir a segurança do investimento.",
+        "C": "Facilita a escolha dos produtos financeiros adequados.",
+        "D": "Ajuda a evitar perdas financeiras inesperadas."
+      },
+      "hint": "Pensa na clareza e mensurabilidade dos objetivos.",
+      "rationale": "Definir prazos e considerar taxas de juro são componentes essenciais para a definição de objetivos financeiros claros e mensuráveis, aumentando a probabilidade de sucesso.",
+      "tag": "Definição de objetivos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Definição de objetivos', pois aborda a importância de definir prazos e taxas de juro ao estabelecer um objetivo financeiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a necessidade de ter objetivos financeiros claros e mensuráveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de definição de objetivos financeiros, mas podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao mencionar a clareza e mensurabilidade dos objetivos, mas poderia ser um pouco mais específica em relação à pergunta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a definição de objetivos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 0.5,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é importante saber os prazos e taxas para ter sucesso em poupar. Não percebo bem o que são essas taxas, mas parece que sem isso não conseguimos fazer um bom plano.",
+          "Eu não percebo muito sobre taxas de juro e prazos, mas acho que se definir prazos, é para ter certeza que o dinheiro está seguro. Se não, pode ser arriscado.",
+          "Eu acho que é muito importante ter um plano para conseguir poupar, e definir prazos e taxas de juro ajuda a ter uma ideia melhor do que precisamos fazer para chegar ao nosso objetivo. Embora eu não saiba bem o que significam esses termos, parece que são coisas que ajudam a organizar as finanças.",
+          "Eu não percebo muito de prazos e taxas de juro, mas parece que saber isso pode ajudar a não perder dinheiro de repente. É como ter um plano, e se não sabemos o que esperar, pode dar confusão.",
+          "Eu penso que definir prazos e taxas de juro é muito importante porque ajuda a ter um plano claro. Mesmo que não perceba bem o que são taxas de juro, sinto que é preciso ter objetivos bem definidos para conseguir poupar.",
+          "Eu não percebo muito bem esses prazos e taxas de juro, mas acho que se soubermos o que estamos a fazer, podemos evitar perder dinheiro. Assim, é melhor não arriscar.",
+          "Eu não percebo muito bem o que são prazos e taxas de juro, mas acho que é importante garantir que o que estamos a fazer com o nosso dinheiro está seguro. Assim, escolhi a opção D porque parece que é sobre segurança e isso é importante.",
+          "Acho que é importante ter um plano claro para conseguir poupar. Mesmo que não perceba bem os termos, sei que sem um objetivo e um prazo, pode ser difícil conseguir o que quero.",
+          "Acho que definir prazos e taxas de juro é muito importante, porque assim conseguimos perceber melhor se estamos a poupar o suficiente. Eu não percebo bem esses termos, mas parece que sem um plano fica mais difícil atingir o que queremos.",
+          "Não percebo bem o que são prazos e taxas de juro, mas acho que é importante saber isso para não perder dinheiro. Se não souber, posso ficar numa situação complicada."
+        ],
+        "Médio": [
+          "Acho que definir prazos e taxas de juro é muito importante, porque sem isso não conseguimos saber se estamos a fazer as coisas bem ou se estamos a perder dinheiro. Mas não percebo bem o que são taxas de juro, só sei que temos que poupar.",
+          "Acho que definir prazos e taxas de juro é importante para não perder dinheiro, porque se não soubermos quanto tempo vamos poupar ou quanto estamos a ganhar com juros, podemos acabar a gastar mais do que devíamos. Não conheço bem todos os termos, mas parece que faz sentido.",
+          "Acho que é importante ter prazos e taxas de juro porque isso ajuda a saber se estamos a fazer bem o nosso plano de poupança. Não sei bem o que são todos os termos, mas parece que se não tivermos isso bem definido, pode ser mais difícil conseguir o que queremos.",
+          "Acho que é importante saber o que vamos escolher para poupar, mesmo que não perceba bem o que são prazos e taxas de juro. Se eu souber quanto quero poupar, talvez consiga encontrar maneiras de o fazer, mesmo que não perceba tudo.",
+          "Eu acho que é importante evitar perdas financeiras, então definir prazos e taxas pode ajudar nisso. Mas não sei muito bem o que significam essas taxas e prazos, só quero garantir que não perco dinheiro.",
+          "Acho que definir prazos e taxas de juro é muito importante para conseguir poupar e ter sucesso no que quero. Mas, para ser sincero, não sei muito bem o que são essas taxas de juro ou prazos, só sei que é importante para alcançar os objetivos.",
+          "Acho que definir prazos e taxas de juro é importante para ter certeza de que vou conseguir poupar o que quero. Não entendo bem todos os detalhes, mas imagino que isso ajude a fazer o plano funcionar melhor.",
+          "Acho que é importante definir prazos e taxas para conseguir alcançar o que queremos, tipo poupar 10% do que ganhamos. Mas não conheço bem esses termos, só sei que se não fizermos isso, pode ser que não consigamos poupar o que queremos.",
+          "Acho que saber os prazos e taxas de juro ajuda a escolher melhor onde poupar o dinheiro. Não entendo bem os detalhes, mas parece que é mais fácil decidir quando se sabe o que se quer.",
+          "Acho que definir prazos e taxas de juro é importante para não perder dinheiro sem querer. Não conheço bem todos esses termos, mas parece que ajuda a ter mais controle sobre as poupanças."
+        ],
+        "Alto": [
+          "Definir prazos e taxas de juro é crucial para um plano financeiro eficaz, pois permite calcular o montante total a ser poupado e a rentabilidade esperada, garantindo que o objetivo de poupança de 10% do rendimento mensal seja alcançado de forma realista e sustentável.",
+          "Definir prazos e taxas de juro é crucial para o sucesso do plano de poupança, pois permite quantificar o montante a ser poupado e a rentabilidade esperada. Com uma taxa de juro adequada e um prazo definido, é possível estabelecer metas realistas e monitorizar o progresso em direção ao objetivo financeiro.",
+          "Definir prazos e taxas de juro é crucial para o sucesso de um objetivo financeiro, pois permite calcular o montante final esperado e avaliar a viabilidade do plano de poupança. Além disso, compreender a relação entre a taxa de juro e o tempo de investimento ajuda a maximizar os retornos e a garantir que o objetivo de poupança seja alcançado de forma eficaz.",
+          "Definir prazos e taxas de juro é crucial para o sucesso de um objetivo financeiro, pois permite que o indivíduo tenha uma visão clara de quanto tempo será necessário para atingir a meta de poupança e que retorno pode esperar sobre o capital investido. Isso garante não só a viabilidade do plano, mas também uma melhor gestão do risco associado às diferentes opções de investimento.",
+          "Definir prazos e taxas de juro é crucial para o sucesso do plano de poupança, pois estabelece uma estrutura clara para atingir o objetivo financeiro. Sem prazos e taxas definidos, é difícil medir o progresso e ajustar as estratégias de investimento, o que pode comprometer a eficácia do plano.",
+          "Definir prazos e taxas de juro é crucial para a concretização de um objetivo financeiro, pois permite calcular o montante total a poupar e a rentabilidade esperada. Isso assegura que o plano seja realista e viável, aumentando as possibilidades de alcançar o objetivo de poupança de 10% do rendimento mensal.",
+          "Definir prazos e taxas de juro é fundamental para o sucesso do plano de poupança, pois permite quantificar o montante total que será poupado e a rentabilidade esperada, influenciando diretamente a capacidade de atingir o objetivo financeiro. Sem uma definição clara, é difícil avaliar a viabilidade do plano e a necessidade de ajustar o comportamento de poupança ao longo do tempo.",
+          "Definir prazos e taxas de juro é crucial para estabelecer um plano financeiro sólido, pois permite quantificar o impacto do tempo sobre o montante poupado e entender como as taxas influenciam o retorno do investimento. Sem essa definição, o objetivo de poupança pode ser vago e difícil de alcançar.",
+          "Definir prazos e taxas de juro é crucial para a escolha de produtos financeiros adequados, pois permite alinhar o perfil de risco e o horizonte temporal do investimento com as opções disponíveis no mercado. Além disso, a compreensão desses elementos é fundamental para maximizar a eficácia da poupança e do investimento, evitando assim decisões impulsivas ou inadequadas.",
+          "Definir prazos e taxas de juro é crucial para o sucesso do plano de poupança, pois permite calcular o montante a ser poupado mensalmente e a rentabilidade esperada. Sem uma definição clara desses parâmetros, torna-se difícil avaliar a viabilidade do objetivo de poupança e a adequação dos produtos financeiros escolhidos."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante conhecer o perfil de risco ao diversificar investimentos entre ações e Certificados de Aforro?",
+      "options": {
+        "A": "Para alinhar investimentos com tolerância ao risco.",
+        "B": "Para maximizar o retorno potencial dos investimentos.",
+        "C": "Para garantir a liquidez imediata dos investimentos.",
+        "D": "Para reduzir os custos associados aos investimentos."
+      },
+      "hint": "Reflete sobre a relação entre perfil de risco e tipos de ativos.",
+      "rationale": "Conhecer o perfil de risco permite que os investidores escolham investimentos que correspondam à sua tolerância ao risco, como a diversificação entre ações e produtos de baixo risco.",
+      "tag": "Perfil de investidor",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Perfil de investidor', pois aborda a importância de conhecer o perfil de risco ao diversificar investimentos, que é um conceito central nesse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a necessidade de alinhar investimentos com o perfil de risco do investidor."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas algumas opções, como a C (liquidez imediata), podem não estar diretamente ligadas ao perfil de risco."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante reflita sobre a relação entre perfil de risco e tipos de ativos, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de alinhar investimentos com a tolerância ao risco."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.6,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos todos que estão a usar, mas acho que é importante poder ter o dinheiro quando precisamos. Não sei o que é alinhar com tolerância ao risco ou maximizar retorno, mas garantir que posso usar o que investi rapidamente parece-me mais sensato.",
+          "Eu não entendo muito bem o que é isso de perfil de risco, mas penso que diversificar é para evitar gastar muito. Se juntar coisas diferentes dá para não perder dinheiro, então deve ser para isso, certo? Não conheço esses termos e não sei o que é isso de maximizar retorno ou garantir liquidez.",
+          "Eu não conheço bem os termos como 'perfil de risco' ou 'diversificar', mas penso que se queremos ganhar mais dinheiro com os nossos investimentos, devemos escolher bem onde colocar o nosso dinheiro. Por isso, escolhi a opção que fala sobre maximizar o retorno.",
+          "Eu acho que é importante saber como nos sentimos em relação a perder dinheiro. Se eu não gosto de arriscar muito, então talvez devesse escolher coisas mais seguras, como os Certificados de Aforro, em vez de ações que podem subir ou descer muito. Não entendo bem os termos financeiros, mas isso parece fazer sentido para mim.",
+          "Eu acho que é importante diversificar para ganhar mais dinheiro. Não entendo bem o que é perfil de risco, mas parece que se diversificarmos, podemos ter uma melhor oportunidade de ganhar mais com as ações e os Certificados de Aforro.",
+          "Eu não entendo muito bem essa questão do perfil de risco e investimentos. Mas, na minha opinião, é importante poder ter o dinheiro disponível quando precisar, por isso escolhi a opção A sobre a liquidez.",
+          "Não entendo bem os termos que estão a usar, mas acho que o importante é tentar ganhar mais dinheiro com o que investimos. Por isso, parece que escolher a opção D faz sentido.",
+          "Eu não percebo muito bem esses termos técnicos e jargão, mas parece-me que é mais importante ter acesso rápido ao dinheiro do que saber sobre riscos ou retornos. Portanto, escolheria a opção sobre garantir que posso usar o meu dinheiro quando precisar.",
+          "Eu não conheço muito sobre isso de perfil de risco e diversificação. Mas, parece que é importante saber se posso ter o meu dinheiro disponível logo, então escolhi a opção C porque penso que garantir liquidez é essencial.",
+          "Eu não entendo bem essas coisas de perfil de risco, mas acho que é importante ter acesso ao dinheiro rápido quando preciso. Por isso, escolhi que a liquidez é importante."
+        ],
+        "Médio": [
+          "Acho que é importante diversificar para tentar ganhar mais dinheiro, então vou escolher a opção que fala em maximizar retorno. Não conheço bem os termos técnicos, mas parece que é isso que se quer quando se investe.",
+          "Acho que é importante conhecer o perfil de risco para saber se podemos arriscar mais ou menos no que investimos. Não conheço bem os termos, mas parece que ter uma tolerância ao risco é sobre como lidamos com perdas e ganhos.",
+          "Acho que é importante diversificar para ganhar mais dinheiro, então a opção C parece a mais certa. Não consigo perceber bem os termos como 'perfil de risco', mas pelo que entendo, se juntarmos diferentes tipos de investimentos, podemos ter mais chance de ganhar.",
+          "Eu escolhi esta porque, mesmo que não perceba bem o que quer dizer 'tolerância ao risco', parece que é importante que os investimentos combinem com o que a pessoa está disposta a arriscar. Acho que, se a pessoa não quer perder dinheiro, deve escolher investimentos que não sejam muito arriscados.",
+          "Acho que é importante conhecer o perfil de risco para ver se as pessoas conseguem lidar com perdas ou não. Não percebo bem os termos, mas parece que tem a ver com o que cada um está disposto a arriscar.",
+          "Acho que é importante saber como os investimentos se encaixam com o que podemos aguentar perder. Não entendo bem o que é 'perfil de risco', mas acho que tem a ver com como nos sentimos em relação a perder dinheiro e isso faz sentido.",
+          "Eu escolhi a opção B porque parece que é importante saber como me sinto em relação ao risco quando decido onde colocar o meu dinheiro. Não conheço bem os termos, mas acho que é importante não arriscar demais.",
+          "Acho que é importante saber como investir para ganhar mais dinheiro, e as ações podem dar mais retorno do que os Certificados de Aforro. Não conheço bem os termos, mas parece que diversificar é uma boa maneira de tentar aumentar o que se ganha.",
+          "Acho que é importante saber o que cada um pode arriscar. Quando falam em perfil de risco, parece que é sobre o quanto a pessoa está disposta a perder ou ganhar, e isso faz sentido ao escolher entre ações e Certificados de Aforro, que são coisas diferentes. Não conheço bem os termos, mas acho que alinha-se com o que cada um pode suportar.",
+          "Acho que é importante conhecer o perfil de risco para tentar ganhar mais dinheiro com os investimentos. Não sei muito bem o que significa isso de perfil de risco, mas parece que é para escolher as melhores opções que dão mais retorno. Os outros termos, como liquidez e custos, são um bocado confusos para mim."
+        ],
+        "Alto": [
+          "Conhecer o perfil de risco é fundamental para garantir que os investimentos estejam alinhados com a tolerância ao risco do investidor, especialmente ao diversificar entre ativos com diferentes características, como ações (altamente voláteis) e Certificados de Aforro (mais seguros). Esta abordagem ajuda a evitar decisões impulsivas que possam comprometer a estabilidade financeira do investidor.",
+          "Conhecer o perfil de risco é essencial para garantir que a alocação de ativos entre ações, que geralmente apresentam maior volatilidade e potencial de retorno, e Certificados de Aforro, que são mais seguros e têm rendimento fixo, esteja em conformidade com a tolerância ao risco do investidor. Isso ajuda a evitar decisões impulsivas que podem levar a perdas significativas.",
+          "É crucial conhecer o perfil de risco para garantir que os investimentos se adequam à tolerância individual ao risco, pois isso ajuda a evitar perdas significativas em períodos de volatilidade. O alinhamento entre o perfil de risco e as escolhas de investimento é uma prática fundamental na gestão financeira, especialmente quando se diversificam entre ativos de diferentes naturezas como ações e Certificados de Aforro.",
+          "Conhecer o perfil de risco é crucial para que o investidor possa alinhar suas decisões de investimento às suas próprias capacidades e disposição para assumir riscos. A diversificação entre ações, que apresentam maior volatilidade e potencial de retorno, e Certificados de Aforro, que são mais seguros, permite uma gestão equilibrada do risco, respeitando a tolerância ao risco do investidor.",
+          "A opção A é a mais correta porque conhecer o perfil de risco é fundamental para garantir que os investimentos estão alinhados com a tolerância ao risco do investidor. A diversificação entre ações, que apresentam maior volatilidade e potencial de retorno, e Certificados de Aforro, que são mais seguros, deve refletir o apetite de risco da pessoa, permitindo uma gestão adequada do risco e dos retornos esperados.",
+          "Conhecer o perfil de risco é crucial ao diversificar investimentos, pois permite que o investidor selecione ativos que correspondam à sua tolerância ao risco, equilibrando potencial de retorno com segurança. A diversificação eficaz considera o risco associado a diferentes tipos de investimentos, como ações, que têm maior volatilidade, e Certificados de Aforro, que são mais seguros.",
+          "A escolha da opção A é fundamentada na compreensão de que o perfil de risco de um investidor determina a sua capacidade e disposição para aceitar perdas em busca de retornos mais elevados. A diversificação entre ações, que apresentam maior volatilidade e potencial de retorno, e Certificados de Aforro, que são mais seguros e estáveis, deve ser feita de acordo com a tolerância ao risco do investidor, garantindo que a alocação de ativos esteja alinhada com os seus objetivos financeiros e situação pessoal.",
+          "A opção A é a mais correta, pois conhecer o perfil de risco é essencial para garantir que os investimentos estejam de acordo com a tolerância ao risco do investidor. A diversificação entre ações e Certificados de Aforro deve ser feita considerando o apetite ao risco, uma vez que as ações tendem a ter maior volatilidade e potencial de retorno, enquanto os Certificados de Aforro oferecem segurança e menor risco.",
+          "Conhecer o perfil de risco é fundamental para que os investidores possam ajustar a sua carteira de investimentos de forma a refletir a sua tolerância ao risco. A diversificação entre ações, que geralmente apresentam maior volatilidade e potencial de retorno, e Certificados de Aforro, que são considerados investimentos de baixo risco, permite uma gestão adequada do risco, alinhando os investimentos aos objetivos financeiros e ao apetite por risco do investidor.",
+          "A escolha do perfil de risco é crucial para garantir que os investimentos estejam em consonância com a tolerância ao risco do investidor. A diversificação entre ações, que geralmente têm um risco mais elevado, e Certificados de Aforro, que são considerados investimentos de baixo risco, permite ao investidor equilibrar a possibilidade de retorno com a sua capacidade de suportar perdas, o que é fundamental para uma gestão financeira saudável."
+        ]
+      }
+    },
+    {
+      "question": "Como a diversificação de carteiras ajuda a mitigar riscos ao investir em ações de várias empresas?",
+      "options": {
+        "A": "Reduz a probabilidade de perdas significativas.",
+        "B": "Aumenta a rentabilidade potencial dos investimentos.",
+        "C": "Garante a liquidez imediata dos ativos.",
+        "D": "Elimina completamente o risco de perdas."
+      },
+      "hint": "Pensa no impacto da concentração de investimentos.",
+      "rationale": "A diversificação diminui o risco ao evitar a concentração de investimentos num único ativo, como investir em várias empresas em vez de uma só.",
+      "tag": "Diversificação de carteiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Diversificação de carteiras' e avalia claramente o conhecimento sobre como a diversificação ajuda a mitigar riscos ao investir."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que discute a importância da diversificação para reduzir riscos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de diversificação, mas a opção C ('Garante a liquidez imediata dos ativos') é um pouco menos relevante em relação ao tema."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense sobre a concentração de investimentos, mas poderia ser mais específica em relação à diversificação."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a diversificação e a mitigação de riscos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que diversificar é como não colocar todos os ovos na mesma cesta, assim se uma empresa não for bem, as outras podem ajudar a não perder muito. Não percebo bem os termos técnicos, mas acho que faz sentido.",
+          "Eu acho que diversificar é como não colocar todos os ovos na mesma cesta. Se uma empresa não vai bem, talvez as outras ajudem a não perder tanto. Não entendo bem o que significa garantir liquidez ou rentabilidade, mas parece que diversificar pode ajudar a não ter grandes perdas.",
+          "Eu não entendo muito bem o que significa diversificação, mas parece que se eu investir em várias empresas, se uma não for bem, as outras podem ajudar a perder menos. Não conheço os termos técnicos, mas faz sentido que ter várias opções é melhor do que ter só uma.",
+          "Não percebo muito bem os termos financeiros, mas parece-me que se investir em várias empresas, se uma não for bem, as outras podem ajudar a não perder tudo. Portanto, a opção A parece ser a mais lógica para mim.",
+          "Eu não entendo muito bem essas coisas de finanças, mas parece que investir em várias empresas é uma maneira de não perder tudo de uma vez. Se uma empresa vai mal, talvez as outras ajudem a compensar isso.",
+          "Eu não entendo muito bem o que é diversificação, mas parece que se eu investir em várias empresas, posso ganhar mais dinheiro. Então, acho que a resposta certa é que isso aumenta a rentabilidade dos investimentos.",
+          "Acho que a diversificação deve ajudar a não perder muito, mesmo que não entenda bem os termos e como funciona exatamente. Se investirmos em várias empresas, se uma não for bem, talvez as outras ajudem a compensar isso.",
+          "Eu não entendo bem os termos financeiros, mas parece que se eu investir em várias empresas, é menos provável que eu perca muito dinheiro. Se uma empresa não vai bem, talvez as outras ajudem a equilibrar as coisas.",
+          "Acho que diversificar significa que, se uma empresa vai mal, as outras podem estar a fazer bem, então assim não perco tanto. Não entendo bem os termos técnicos, mas parece lógico que, se tenho várias ações, a probabilidade de perder tudo é menor.",
+          "Acho que a diversificação ajuda porque se investirmos em várias empresas, se uma perder dinheiro, as outras podem não perder, então assim não ficamos tão mal. Não conheço bem os termos, mas faz sentido que ter várias opções diminui o risco."
+        ],
+        "Médio": [
+          "Acho que a diversificação ajuda porque, se uma empresa não vai bem, as outras podem ajudar a não perder tanto. Não percebo bem os termos técnicos, mas parece que ter várias ações é melhor do que só uma.",
+          "Acho que diversificar é bom porque se uma empresa não vai bem, as outras podem ajudar a perder menos. Não entendo bem os termos, mas parece que é para não arriscar tudo numa só ação.",
+          "Eu escolhi a opção D porque penso que diversificar é como não colocar todos os ovos na mesma cesta. Assim, se uma empresa não vai bem, as outras podem ajudar a evitar grandes perdas. Não entendo bem todos os termos, mas faz sentido que misturar ações de diferentes empresas ajuda a proteger o investimento.",
+          "Acho que diversificar é tipo não colocar todos os ovos na mesma cesta, então se uma ação não vai bem, as outras podem ajudar a não perder muito. Não reconheço bem os termos mais complicados, mas a ideia é que se tem menos chance de perder tudo.",
+          "Acho que diversificar é como não colocar todos os ovos na mesma cesta, ou seja, se uma empresa não vai bem, as outras podem ajudar a não perder tudo. Não sei bem o que são perdas significativas, mas parece que é isso que a diversificação faz.",
+          "Eu acho que diversificar significa espalhar o dinheiro por várias empresas, assim se uma não vai bem, as outras podem ajudar a não perder tudo. Não entendo bem os termos financeiros, mas parece que isso ajuda a ter menos perdas.",
+          "Acho que diversificar é como ter várias opções, se uma empresa não vai bem, as outras podem ajudar a não perder tanto. Não entendo bem os termos mais complicados, mas parece que é uma forma de proteger o dinheiro.",
+          "Acho que diversificar é como não pôr todos os ovos na mesma cesta, por isso, se uma ação não vai bem, as outras podem ajudar a não perder tanto. Não sei muito sobre os termos, mas parece que assim é mais seguro.",
+          "Acho que a diversificação ajuda porque se uma empresa vai mal, as outras podem estar a fazer bem, então não perco tudo. Não conheço muito bem os termos, mas parece que ter ações de várias empresas é uma boa ideia para não ter grandes perdas.",
+          "Acho que diversificar significa ter ações de várias empresas, o que pode ajudar caso uma empresa vá mal, então pode reduzir as perdas. Não conheço bem os termos técnicos, mas parece que faz sentido."
+        ],
+        "Alto": [
+          "A diversificação de carteiras é uma estratégia que diminui o risco específico associado a ações individuais, pois ao investir em várias empresas, as perdas em uma podem ser compensadas por ganhos em outra. Embora não elimine completamente o risco, reduz a probabilidade de perdas significativas, o que é um conceito fundamental na gestão de risco e investimentos.",
+          "A diversificação de carteiras é uma estratégia que ajuda a mitigar riscos ao distribuir investimentos em diferentes ações, o que reduz a probabilidade de perdas significativas, pois a performance negativa de uma ação pode ser compensada por outra que esteja a ter um desempenho positivo. Reconheço que a diversificação não elimina o risco, mas sim diminui a sua intensidade, o que é um conceito fundamental em finanças.",
+          "A diversificação de carteiras é uma estratégia que visa distribuir o investimento por várias ações, o que reduz a exposição ao risco de uma única empresa. Embora não elimine o risco de perdas, ao diversificar, o investidor pode mitigar perdas significativas, uma vez que o desempenho de diferentes ações pode não estar correlacionado.",
+          "A diversificação de carteiras é uma estratégia que visa distribuir os investimentos entre várias ações de diferentes empresas, setores ou geografias, o que ajuda a reduzir a exposição ao risco específico de uma única empresa. Embora não elimine o risco completamente, a diversificação diminui a probabilidade de perdas significativas, pois os desempenhos negativos de algumas ações podem ser compensados pelos desempenhos positivos de outras.",
+          "A diversificação de carteiras é uma estratégia que visa reduzir o risco específico associado a um único ativo, ao distribuir o investimento entre várias ações de diferentes empresas. Isso diminui a probabilidade de perdas significativas, uma vez que a performance negativa de uma ação pode ser compensada pela performance positiva de outras, mas não elimina completamente o risco de perdas, como afirmado na opção B.",
+          "A diversificação de carteiras é uma estratégia que permite espalhar o risco entre diferentes ativos, reduzindo assim a probabilidade de perdas significativas. Enquanto a diversificação não elimina o risco totalmente, ela ajuda a mitigar o impacto de uma má performance de uma ação específica sobre a carteira como um todo, o que é um conceito fundamental em gestão de riscos financeiros.",
+          "A diversificação de carteiras é uma estratégia que permite reduzir a exposição a riscos específicos de uma empresa ou setor, minimizando assim a probabilidade de perdas significativas. Reconheço que a diversificação não elimina o risco, mas sim o mitiga, ao distribuir o investimento entre várias ações, o que é um conceito fundamental em finanças.",
+          "A diversificação de carteiras é uma estratégia que visa distribuir os investimentos em diferentes ativos, o que pode reduzir a volatilidade e a probabilidade de perdas significativas. Embora não elimine o risco completamente, ajuda a mitigar o impacto de eventos adversos em ações individuais, reconhecendo a relação entre risco e retorno.",
+          "A diversificação de carteiras é uma estratégia que permite distribuir o risco entre várias ações, reduzindo a probabilidade de perdas significativas em caso de um desempenho negativo de uma única empresa. Reconheço que a diversificação não elimina o risco, mas ajuda a suavizar a volatilidade e a proteger o investidor contra flutuações bruscas no mercado.",
+          "A diversificação de carteiras, ao distribuir investimentos entre várias ações, ajuda a mitigar riscos específicos de empresas individuais, reduzindo assim a probabilidade de perdas significativas. Reconheço que diversificar não elimina totalmente o risco, mas é uma estratégia eficaz para equilibrar o risco/retorno no investimento."
+        ]
+      }
+    },
+    {
+      "question": "Que relação existe entre o potencial de retorno e o risco na alocação de ativos de uma carteira?",
+      "options": {
+        "A": "Maior retorno está associado a maior risco.",
+        "B": "Menor retorno está associado a maior risco.",
+        "C": "Maior retorno está associado a menor risco.",
+        "D": "Não existe relação entre retorno e risco."
+      },
+      "hint": "Considera a regra geral na escolha dos ativos.",
+      "rationale": "Na alocação de ativos, um maior potencial de retorno está geralmente associado a um maior risco, refletindo a necessidade de alinhar a alocação com o perfil de risco do investidor.",
+      "tag": "Alocação de ativos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Alocação de ativos', pois aborda a relação entre risco e retorno, que é um conceito fundamental na alocação de ativos."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute como a variação dos ativos e passivos afeta a situação financeira e menciona a relação entre risco e retorno."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de risco e retorno, mas a opção B poderia ser considerada menos plausível, pois a relação entre menor retorno e maior risco não é uma regra geral."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante considere a regra geral na escolha dos ativos, mas poderia ser mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a relação entre risco e retorno na alocação de ativos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.8,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não sei muito sobre essas coisas de finanças, mas pela lógica do dia-a-dia, parece que se algo é mais seguro, dá menos problemas e pode dar uma boa recompensa. Como não entendo bem de termos financeiros, achei que a opção A fazia sentido.",
+          "Acho que quando se tenta ganhar mais dinheiro, normalmente há mais riscos envolvidos. Não entendo bem os termos técnicos, mas parece lógico que quanto mais se quer ganhar, mais se arrisca.",
+          "Eu acho que quanto mais dinheiro se pode ganhar, mais arriscado deve ser. Não percebo bem os termos financeiros, mas parece lógico que se algo é mais arriscado, pode dar mais lucro.",
+          "Eu não entendo muito bem esses termos, mas parece que quando se fala em ganhar mais, também se fala em arriscar mais. É como quando jogas num jogo, se queres ganhar muito, precisas de apostar mais, certo?",
+          "Acho que o maior retorno está ligado a correr mais riscos, porque normalmente as coisas que parecem mais lucrativas também têm mais chance de dar errado. Não percebo bem os termos técnicos, mas é como na vida, se quiseres ganhar mais, tens de arriscar mais.",
+          "Acho que maior retorno deve vir com mais risco, porque se não arriscamos, não conseguimos ganhar mais. Não conheço bem as palavras técnicas, mas parece lógico.",
+          "Eu acho que, se uma pessoa quer ganhar mais dinheiro, tem que estar disposta a correr mais riscos. Não percebo bem os termos técnicos, mas parece lógico que quanto mais se arrisca, mais se pode ganhar.",
+          "Eu não percebo bem esses termos de finanças, mas parece-me que se eu quero ganhar mais dinheiro, talvez tenha que arriscar mais. Então, eu escolhi a opção que diz que maior retorno está associado a maior risco.",
+          "Eu acho que se quer ganhar mais dinheiro, tem que correr mais riscos. Não conheço bem os termos, mas parece lógico que quanto mais alto o retorno, mais arriscado deve ser.",
+          "Eu não percebo muito bem o que é essa coisa de risco e retorno, mas parece que se for mais arriscado, deve dar menos retorno, não? É como quando jogo à sorte, se for algo muito arriscado, normalmente não ganho muito."
+        ],
+        "Médio": [
+          "Acho que o retorno e o risco andam juntos, como quando se faz um investimento. Se quero ganhar mais, parece que também tenho que arriscar mais. Não conheço bem os termos, mas é assim que eu vejo.",
+          "Acho que o retorno e o risco andam juntos, porque se quiser ganhar mais dinheiro, parece que é preciso arriscar mais. Não conheço bem todos esses termos, mas faz sentido pensar assim.",
+          "Eu não percebo muito bem sobre esses conceitos de retorno e risco, mas acho que se não existe relação, então pode ser que as coisas funcionem de forma independente. Os termos são um bocado confusos para mim.",
+          "Acho que o retorno e o risco andam juntos, tipo se quiser ganhar mais, tenho que arriscar mais. Não conheço bem esses termos, mas parece que faz sentido.",
+          "Acho que, em geral, se quer ganhar mais dinheiro, tem que arriscar mais. Não conheço bem esses termos, mas parece lógico que o risco e o retorno estão ligados.",
+          "Acho que maior retorno significa que tens mais possibilidade de ganhar dinheiro, mas também parece que isso vem com mais risco. Não percebo bem o que é alocação de ativos, mas parece lógico que se arriscas mais, podes ganhar mais.",
+          "Eu acho que maior retorno está a ver com maior risco, porque parece que quanto mais arriscado é um investimento, mais dinheiro podes ganhar. Não entendo muito bem os termos, mas é o que parece fazer sentido para mim.",
+          "Penso que se quer ganhar mais dinheiro, tem que arriscar mais. Não percebo muito bem os conceitos, mas parece lógico que quanto mais arriscado, mais retorno pode haver.",
+          "Acho que, geralmente, quando se fala de investimento, as pessoas dizem que se queres ganhar mais, tens que arriscar mais. Não sei se isso é sempre verdade, mas é o que ouço. Não conheço bem os termos técnicos, mas parece fazer sentido.",
+          "Acho que a opção B faz sentido, porque normalmente quando se fala de investir, se ouve que se quer ganhar mais, mas isso também pode trazer mais problemas. Não conheço bem os termos, mas parece que é assim que funciona."
+        ],
+        "Alto": [
+          "A relação entre retorno e risco é um conceito fundamental na alocação de ativos. Em geral, investimentos que oferecem um potencial de retorno mais elevado, como ações ou ativos de maior volatilidade, apresentam também um maior risco de perda, enquanto investimentos mais seguros, como obrigações de baixo risco, tendem a oferecer retornos mais modestos.",
+          "A relação entre risco e retorno é um princípio fundamental em finanças, onde ativos com maior potencial de retorno geralmente implicam maior risco. Isso é reconhecido através do conceito de que investidores exigem uma compensação por assumir riscos adicionais, o que se reflete na alocação de ativos de uma carteira.",
+          "A relação entre risco e retorno é um princípio fundamental da teoria financeira. Em geral, investimentos que oferecem a possibilidade de retornos mais elevados vêm acompanhados de um maior risco, uma vez que os investidores exigem uma compensação pelo risco adicional que assumem.",
+          "Na alocação de ativos, existe uma relação positiva entre risco e retorno, onde maiores potenciais de retorno estão geralmente associados a um risco mais elevado. Esta relação é fundamental na teoria moderna de portfólios, que enfatiza a necessidade de um equilíbrio entre risco e retorno na construção de carteiras de investimento.",
+          "A relação entre retorno e risco é um princípio fundamental em finanças. Normalmente, ativos que apresentam um potencial de retorno mais elevado também vêm acompanhados de um risco superior, refletindo a exigência dos investidores por compensação pelo risco assumido.",
+          "Reconheço que a relação entre risco e retorno é um dos princípios fundamentais da teoria financeira. Em geral, ativos que oferecem potencial de retorno mais elevado tendem a estar associados a um maior risco, uma vez que os investidores exigem uma compensação por aceitarem a incerteza e a volatilidade associadas a esses investimentos.",
+          "Na teoria financeira, existe uma relação direta entre risco e retorno: quanto maior o potencial de retorno de um ativo, maior é o risco associado a esse investimento. Este conceito é fundamental na alocação de ativos, pois os investidores devem equilibrar o desejo de retornos elevados com a tolerância ao risco.",
+          "A relação entre risco e retorno é um princípio fundamental em finanças, reconhecido como a teoria do risco-retorno. Em geral, investimentos que oferecem potencial de retorno mais elevado tendem a estar associados a um risco maior, pois o investidor deve estar disposto a aceitar a volatilidade e a incerteza para obter ganhos superiores.",
+          "A relação entre retorno e risco é um princípio fundamental na alocação de ativos. Investimentos que oferecem potencial de retornos mais elevados geralmente implicam um nível de risco maior, devido à incerteza associada a esses retornos. Esta relação é bem reconhecida na teoria financeira e é um conceito que fundamenta a diversificação e o equilíbrio no planeamento de uma carteira.",
+          "A relação entre retorno e risco é fundamental na alocação de ativos, onde, geralmente, um maior potencial de retorno está associado a um maior nível de risco. Este é um conceito bem estabelecido em finanças, refletindo a ideia de que investimentos mais arriscados oferecem a possibilidade de retornos mais elevados, enquanto investimentos mais seguros tendem a proporcionar retornos mais baixos."
+        ]
+      }
+    },
+    {
+      "question": "Por que é crucial o reajustamento periódico de carteiras após variações significativas no mercado?",
+      "options": {
+        "A": "Para manter a alocação alinhada com objetivos.",
+        "B": "Para aumentar o retorno potencial da carteira.",
+        "C": "Para minimizar os custos de transação.",
+        "D": "Para garantir a liquidez imediata dos ativos."
+      },
+      "hint": "Pensa na relação entre mercado e alocação de ativos.",
+      "rationale": "O reajustamento de carteiras é necessário para assegurar que a alocação de ativos continua alinhada com os objetivos financeiros e o perfil de risco do investidor após mudanças no mercado.",
+      "tag": "Reajustamento de carteiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Reajustamento de carteiras', pois aborda a importância do reajustamento periódico de carteiras em resposta a variações no mercado."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não mencione especificamente o reajustamento de carteiras, ele discute a importância de manter as finanças e a alocação alinhadas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que se destaca claramente."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão de carteiras, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre a relação entre o mercado e a alocação de ativos, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a necessidade de alinhar a alocação de ativos com os objetivos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem o que querem dizer com 'reajustamento' ou 'alocação', mas acho que é importante ter acesso rápido ao dinheiro quando as coisas mudam no mercado. Assim, escolhi a opção C porque parece que fala sobre ter dinheiro pronto quando precisamos.",
+          "Acho que é importante manter as coisas em ordem, como quando arrumamos a casa. Não entendo bem os termos técnicos, mas parece que se não ajustarmos, podemos acabar com coisas que não queremos ou que não fazem sentido para o que queremos alcançar.",
+          "Eu não conheço bem os termos financeiros, mas acho que é importante ter o dinheiro disponível quando precisamos. Se o mercado muda muito, talvez seja bom ter acesso rápido ao que temos.",
+          "Não entendo bem os termos técnicos, mas parece que é importante ajustar as coisas para que continuem a fazer sentido com o que queremos. Se as coisas mudam no mercado, talvez os nossos planos também precisem de mudar.",
+          "Eu escolhi esta opção porque acho que é importante ter tudo em ordem e que as coisas estejam a funcionar como a gente quer. Não conheço bem os termos que usaram, mas parece que é bom ter uma estratégia e manter o foco nos nossos objetivos.",
+          "Eu não percebo muito sobre esses termos complicados, mas acho que é importante ter uma carteira que esteja de acordo com o que queremos alcançar. Se o mercado muda, talvez tenhamos que ajustar as coisas para que continuem a fazer sentido para os nossos objetivos.",
+          "Eu não percebo muito de finanças, mas acho que é importante ter o dinheiro disponível quando precisamos. Se o mercado muda muito, pode ser que algumas coisas fiquem difíceis de vender, então é bom garantir que conseguimos o que precisamos rapidinho.",
+          "Não entendo bem os termos, mas parece que ajustar a carteira pode ajudar a ganhar mais dinheiro, o que é sempre bom. A ideia de aumentar o retorno parece ser algo que qualquer pessoa gostaria.",
+          "Acho que é importante ajustar as coisas para que fiquem de acordo com o que queremos alcançar. Não entendo bem os termos técnicos, mas parece que é uma forma de garantir que estamos a fazer o que faz sentido para nós.",
+          "Eu não entendo bem essas coisas de mercado, mas acho que é importante ter dinheiro disponível quando precisamos. Assim, se as coisas mudam, é bom garantir que podemos usar o que temos, não sei se isso é o que a pergunta quer dizer."
+        ],
+        "Médio": [
+          "Eu acho que é importante manter as coisas organizadas e alinhadas com o que queremos. Não entendo bem os termos todos, mas parece que reajustar ajuda a garantir que estamos a seguir o que planeámos.",
+          "Acho que é importante manter as coisas em linha com o que queremos, mesmo que não perceba bem os termos. Não sei muito sobre a alocação, mas faz sentido que devamos ajustar as coisas se o mercado muda muito.",
+          "Acho que o importante é manter as coisas de acordo com o que queremos. Não percebo muito de termos complicados, mas se o mercado muda, precisamos de ajustar para não nos perdermos do que realmente estamos a tentar fazer. A opção C parece a mais certa para isso.",
+          "Acho que o reajustamento é importante para que as coisas fiquem mais ou menos como a pessoa queria no início. Não entendo bem o que são todos esses termos, mas parece que é para não sair do plano original.",
+          "Acho que é importante manter a alocação alinhada com os objetivos porque, se o mercado muda muito, pode ser que o que tínhamos planeado já não faça sentido. Mas não conheço bem esses termos, então é um pouco confuso.",
+          "Eu acho que é importante manter as coisas alinhadas com o que queremos, tipo os nossos objetivos. Não entendo bem todos esses termos, mas parece que se não fizermos isso, podemos acabar por perder o foco no que realmente queremos.",
+          "Eu não conheço bem todos esses termos, mas acho que é importante ajustar as coisas para que fiquem de acordo com o que queremos alcançar. Se o mercado muda muito, talvez o que está na carteira não esteja mais a ajudar a atingir os objetivos que temos.",
+          "Acho que é importante ajustar as coisas para tentar ganhar mais dinheiro, mas não percebo bem os termos e como isso funciona. Não sei muito sobre alocação ou liquidez, mas parece que se mudar as coisas, pode-se ganhar mais.",
+          "Acho que é importante ter a carteira de acordo com o que queremos, mas não entendo bem os termos. Não sei o que é alocação exatamente, mas se é para manter o que queremos, parece bom.",
+          "Acho que é importante ajustar as coisas para que ainda estejam de acordo com o que queremos alcançar. Não entendo bem os termos, mas parece que é sobre manter o foco nos nossos objetivos."
+        ],
+        "Alto": [
+          "O reajustamento periódico de carteiras é crucial para assegurar que a alocação de ativos se mantenha em linha com os objetivos de investimento do cliente, especialmente após variações significativas no mercado que podem desviar a proporção inicialmente estabelecida. Isso é importante para gerenciar o risco e maximizar o potencial de retorno, mantendo a estratégia de investimento alinhada com as metas financeiras.",
+          "O reajustamento periódico de carteiras é essencial para assegurar que a alocação de ativos continua a refletir os objetivos de investimento do investidor, especialmente após variações significativas no mercado que podem desbalancear a distribuição original. Este conceito é fundamental na gestão de carteiras, pois uma alocação inadequada pode aumentar o risco ou reduzir o potencial de retorno, comprometendo assim a realização dos objetivos financeiros.",
+          "O reajustamento periódico de carteiras é fundamental para assegurar que a alocação de ativos continua a refletir os objetivos de investimento e o perfil de risco do investidor, especialmente após variações significativas no mercado. Isso ajuda a evitar desvios da estratégia originalmente definida e a manter um equilíbrio adequado entre risco e retorno.",
+          "O reajustamento periódico de carteiras é crucial para assegurar que a alocação de ativos continua a refletir os objetivos e o perfil de risco do investidor, especialmente após variações significativas no mercado que podem alterar a proporção de ativos. Este processo ajuda a evitar que a carteira se desvie do plano inicial, o que é fundamental para a gestão eficaz do risco e para a realização de objetivos financeiros a longo prazo.",
+          "O reajustamento periódico de carteiras é crucial para garantir que a alocação de ativos continue alinhada com os objetivos financeiros do investidor, especialmente após variações significativas no mercado que podem alterar a proporção entre diferentes classes de ativos. Isso ajuda a mitigar o risco e a manter a estratégia de investimento desejada, reconhecendo a importância da gestão ativa na alocação de recursos.",
+          "O reajustamento periódico de carteiras é essencial para garantir que a alocação de ativos continua a refletir os objetivos financeiros do investidor, especialmente após variações significativas no mercado, que podem desviar a composição original da carteira. Manter essa alocação é fundamental para equilibrar risco e retorno, e assegurar que a estratégia de investimento esteja alinhada com o perfil e os objetivos de investimento do investidor.",
+          "O reajustamento periódico de carteiras é fundamental para assegurar que a alocação de ativos continua a refletir os objetivos financeiros do investidor, especialmente após variações significativas no mercado que podem desviar a proporção de ativos. Reconheço os termos usados, pois a manutenção da alocação é essencial para a gestão de risco e para alcançar metas financeiras a longo prazo.",
+          "O reajustamento periódico de carteiras é essencial para assegurar que a alocação de ativos continue a estar alinhada com os objetivos financeiros do investidor, especialmente após variações significativas no mercado. Este processo ajuda a evitar que a exposição ao risco se desvie do perfil de risco desejado e permite a realização de ajustes estratégicos em resposta a alterações nas condições do mercado, mantendo assim a eficácia do plano de investimento.",
+          "O reajustamento periódico de carteiras é essencial para assegurar que a alocação de ativos continue a refletir os objetivos de investimento do investidor, especialmente após variações significativas no mercado que podem desviar a composição original da carteira. Este processo ajuda a manter o perfil de risco desejado e a maximizar a eficiência da carteira em relação aos objetivos financeiros estabelecidos.",
+          "O reajustamento periódico de carteiras é essencial para assegurar que a alocação de ativos continue a refletir os objetivos de investimento do investidor, especialmente após flutuações significativas no mercado. Isso garante que o perfil de risco e a estratégia de investimento permaneçam alinhados com as metas financeiras a longo prazo, uma vez que as variações de mercado podem alterar a composição da carteira original."
+        ]
+      }
+    },
+    {
+      "question": "Como o horizonte temporal influencia a escolha de ativos para um investimento de longo prazo?",
+      "options": {
+        "A": "Permite tolerar mais volatilidade.",
+        "B": "Limita a escolha de ativos a opções de baixo risco.",
+        "C": "Exige um foco em ativos de curto prazo.",
+        "D": "Impede a diversificação da carteira."
+      },
+      "hint": "Reflete sobre o impacto do tempo na volatilidade.",
+      "rationale": "Investimentos de longo prazo podem tolerar mais volatilidade, permitindo a escolha de ativos que possam ter maior variação de valor ao longo do tempo.",
+      "tag": "Horizonte temporal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Horizonte temporal', pois questiona como esse conceito influencia a escolha de ativos para investimentos de longo prazo."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não aborde diretamente a relação entre horizonte temporal e escolha de ativos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas algumas opções, como a C e D, podem ser consideradas menos relevantes em um contexto de longo prazo."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante reflita sobre o impacto do tempo na volatilidade, embora pudesse ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conceito de tolerância à volatilidade em investimentos de longo prazo."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.7,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que, se o investimento é para longo prazo, isso significa que podemos aguentar algumas subidas e descidas sem nos preocuparmos muito. Não entendo bem os termos técnicos, mas parece que podemos arriscar mais se temos tempo para esperar.",
+          "Eu não percebo muito bem sobre investimentos e esses termos complicados, mas acho que se o horizonte temporal é longo, então não podemos ter muitas opções, não é? Assim, parece que isso pode atrapalhar a escolha.",
+          "Eu não percebo muito sobre isso, mas parece que se estamos a pensar em investimentos a longo prazo, podemos aguentar algumas oscilações, certo? Não conheço bem os termos financeiros, mas faz sentido que se tivermos mais tempo, não nos preocupamos tanto com as quedas.",
+          "Acho que, se estamos a investir por muito tempo, podemos aguentar algumas mudanças nos preços das coisas. Não percebo bem o que é 'volatilidade', mas parece que é normal as coisas subirem e descerem. Se for a longo prazo, talvez isso não seja tão preocupante.",
+          "Eu acho que a resposta certa é a que diz que permite tolerar mais volatilidade. Isso porque, se estamos a investir a longo prazo, podemos aguentar as oscilações do mercado e esperar que as coisas melhorem com o tempo. Não entendo bem os termos técnicos, mas isso parece fazer sentido no dia-a-dia.",
+          "Eu acho que quando se investe a longo prazo pode-se lidar melhor com as oscilações de preços, porque temos tempo para esperar que as coisas melhorem. Não entendo muito de termos complicados, mas a ideia de ter tempo parece fazer sentido.",
+          "Acho que, se estamos a pensar a longo prazo, podemos aguentar algumas oscilações nos preços das coisas. Não entendo bem os termos técnicos, mas parece que é normal que os investimentos subam e desçam ao longo do tempo.",
+          "Eu não percebo muito bem o que é um horizonte temporal, mas acho que se é longo prazo, deve ser melhor escolher coisas que dão retorno mais rápido, ou seja, ativos de curto prazo. Os outros termos parecem complicados e eu não os conheço.",
+          "Eu não percebo muito sobre investimentos, mas parece que se é a longo prazo, devíamos escolher coisas que dão resultados rápidos, certo? Por isso, pensei que ativos de curto prazo seriam melhores.",
+          "Eu não percebo muito sobre esses termos complicados, mas parece que, se estamos a pensar em investir a longo prazo, podemos aguentar algumas oscilações nos preços. É como quando deixamos o dinheiro a crescer e não nos importamos se ele sobe e desce um pouco no caminho."
+        ],
+        "Médio": [
+          "Acho que se é um investimento a longo prazo, podemos lidar melhor com as oscilações do mercado, porque temos mais tempo para recuperar de perdas. Não entendo bem os termos técnicos, mas parece que é assim.",
+          "Eu acho que, se estamos a pensar em investir a longo prazo, podemos aguentar algumas subidas e descidas no valor dos ativos. Não tenho certeza sobre os termos mais técnicos, mas parece que isso faz sentido, porque não vamos precisar do dinheiro imediatamente.",
+          "Eu acho que, se estamos a investir a longo prazo, podemos aguentar algumas oscilações no valor das coisas. Não percebo muito de finanças, mas parece que quando se investe mais tempo, o risco pode ser maior, mas também as possibilidades de ganhar. As outras opções não fazem sentido para mim.",
+          "Eu acho que a volatilidade é tipo as subidas e descidas dos preços, e se estamos a investir a longo prazo, podemos aguentar essas mudanças. Não entendo muito bem os termos mais complicados, mas parece que com mais tempo podemos esperar que as coisas melhorem.",
+          "Eu escolhi a opção C porque, se o investimento é para longo prazo, parece que dá mais tempo para lidar com as subidas e descidas do mercado. Não conheço bem todos os termos técnicos, mas acho que, com mais tempo, pode-se recuperar de perdas.",
+          "Eu acho que a opção D faz sentido porque, quando se investe a longo prazo, podemos aguentar as subidas e descidas dos preços dos ativos. Não percebo bem os termos, mas parece que ter mais tempo para investir ajuda a lidar com as mudanças no mercado.",
+          "Acho que, se estamos a investir a longo prazo, podemos aguentar as subidas e descidas dos preços das ações e assim. Não conheço bem todos os termos, mas parece que isso faz sentido.",
+          "Acho que quando se investe a longo prazo, é normal que o valor suba e desça, e se calhar isso não faz tanta diferença. Não conheço bem os outros termos, mas parece que a volatilidade é só um sobe e desce, e a longo prazo pode dar para aguentar isso.",
+          "Acho que, quando se investe a longo prazo, dá para aguentar mais altos e baixos no mercado, porque temos mais tempo para recuperar. Não conheço bem os termos, mas parece que faz sentido.",
+          "Acho que, com um investimento a longo prazo, dá para aguentar as subidas e descidas dos preços, ou seja, a volatilidade. Não percebo bem o que é um ativo de curto prazo ou diversificação, mas parece que se tem tempo, pode-se arriscar mais."
+        ],
+        "Alto": [
+          "A escolha de ativos para um investimento de longo prazo permite ao investidor tolerar mais volatilidade, uma vez que o horizonte temporal mais extenso possibilita absorver flutuações de mercado e beneficiar do potencial de valorização a longo prazo. Os investidores podem optar por ativos mais arriscados, como ações, que tendem a ter maior retorno, compensando a volatilidade em períodos mais curtos.",
+          "Um horizonte temporal mais longo geralmente permite que um investidor suporte flutuações de curto prazo nos preços dos ativos, já que a capacidade de recuperação ao longo do tempo é maior. Isso é especialmente relevante em investimentos que possam ter retornos mais altos, mas também maior volatilidade, como ações.",
+          "Um horizonte temporal longo permite ao investidor suportar as flutuações de curto prazo dos mercados, pois tem mais tempo para se recuperar de eventuais perdas. Isso é crucial para a escolha de ativos, pois estratégias que toleram mais volatilidade frequentemente resultam em melhores retornos a longo prazo.",
+          "O horizonte temporal mais longo permite que um investidor suporte flutuações de mercado, uma vez que tem tempo para se recuperar de eventuais perdas e beneficiar do potencial de valorização de ativos mais voláteis. Assim, a escolha de ativos pode incluir ações ou outros investimentos de maior risco, que, a longo prazo, tendem a oferecer retornos superiores.",
+          "O horizonte temporal de um investimento de longo prazo proporciona a capacidade de suportar flutuações de preço, uma vez que o investidor pode dar tempo para que os ativos se recuperem de eventuais perdas. Portanto, a escolha de ativos pode incluir opções mais voláteis, que potencialmente oferecem retornos mais elevados ao longo do tempo.",
+          "A escolha de ativos para um investimento de longo prazo é influenciada pelo horizonte temporal, permitindo ao investidor tolerar mais volatilidade, uma vez que tem tempo suficiente para recuperar eventuais perdas. Isso é especialmente relevante na alocação de ativos, onde investimentos mais arriscados podem oferecer retornos superiores ao longo do tempo, mesmo que apresentem flutuações no curto prazo.",
+          "Um horizonte temporal de longo prazo permite aos investidores tolerar mais volatilidade, uma vez que têm tempo suficiente para que as flutuações de mercado se estabilizem e se possam beneficiar do crescimento a longo prazo dos ativos. O investimento em ativos mais voláteis, como ações, pode ser mais apropriado, pois o risco é compensado por um potencial retorno mais elevado ao longo do tempo.",
+          "Um horizonte temporal longo permite aos investidores suportar a volatilidade dos mercados, uma vez que têm tempo suficiente para se recuperar de eventuais quedas. Além disso, um investimento a longo prazo geralmente está associado a ativos mais arriscados que, historicamente, oferecem melhores retornos, compensando a volatilidade no curto prazo.",
+          "Um horizonte temporal mais longo permite aos investidores suportar flutuações de preço mais acentuadas, dado que têm mais tempo para se recuperar de perdas temporárias. Isto é especialmente relevante em investimentos que apresentam uma maior volatilidade, como ações, onde a capacidade de esperar por uma valorização ao longo do tempo é crucial.",
+          "Um horizonte temporal longo permite que os investidores suportem flutuações de mercado e volatilidade, visto que têm mais tempo para recuperar eventuais perdas. Isso é consistente com a teoria de investimento, que sugere que ativos de maior risco, como ações, podem oferecer melhores retornos a longo prazo, compensando a volatilidade no curto prazo."
+        ]
+      }
+    },
+    {
+      "question": "De que forma a eficiência fiscal pode ser maximizada ao planear investimentos em relação ao IRS?",
+      "options": {
+        "A": "Minimizando a carga tributária.",
+        "B": "Aumentando a complexidade das estruturas de investimento.",
+        "C": "Maximizando o número de transações financeiras.",
+        "D": "Evitando qualquer tipo de investimento."
+      },
+      "hint": "Pensa no impacto fiscal dos investimentos.",
+      "rationale": "A eficiência fiscal envolve a minimização da carga tributária sobre os investimentos, o que é crucial ao planear em relação ao IRS para um ano fiscal mais saudável.",
+      "tag": "Eficiência fiscal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de eficiência fiscal, pois aborda como maximizar a eficiência fiscal ao planear investimentos em relação ao IRS, embora a conexão com o planeamento de médio-longo prazo e carteiras de investimento possa ser mais explícita."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de evitar erros que podem impactar a eficiência fiscal e a carga tributária."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a minimização da carga tributária."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de eficiência fiscal, embora a opção D, 'Evitando qualquer tipo de investimento', seja um pouco menos relevante."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense no impacto fiscal dos investimentos, mas poderia ser mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a minimização da carga tributária e a eficiência fiscal."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.8,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a melhor maneira de lidar com impostos é tentar pagar menos, porque isso faz mais sentido para quem não entende muito de finanças. Não percebo bem o que são algumas das palavras, mas sei que se não pagarmos tanto, fica melhor para nós.",
+          "Para mim, se não investir, não vou ter que me preocupar com impostos. Não entendo bem essas coisas de carga tributária e transações, então parece mais fácil evitar complicações.",
+          "Acho que a melhor maneira de lidar com impostos é tentar pagar menos, então escolhi a opção que fala em minimizar a carga tributária. Não entendo bem os termos técnicos, mas parece-me que quanto menos impostos, melhor.",
+          "Acho que a melhor opção é a que diz para minimizar a carga tributária porque parece ser a maneira mais simples de pagar menos impostos. Não percebo bem os termos técnicos, mas imagino que se eu puder pagar menos, isso é bom, certo?",
+          "Eu não percebo bem o que é ‘eficiência fiscal’ nem o que é ‘carga tributária’. Parece-me que, se não investir, não tenho que me preocupar com impostos. Portanto, evitar investimentos parece ser a melhor opção para não ter problemas.",
+          "Eu não percebo muito sobre isso de eficiência fiscal ou IRS, mas se evitar investimentos significa que não tenho que me preocupar com impostos, então parece mais fácil. Não conheço os outros termos e é confuso.",
+          "Eu não percebo muito sobre impostos e investimentos, mas se calhar evitar investimentos é a melhor forma de não ter problemas com o IRS. Assim, não tenho que me preocupar com cargas tributárias ou coisas complicadas.",
+          "Acho que a melhor forma de lidar com impostos é tentar pagar menos, porque ninguém gosta de dar dinheiro ao Estado. Não entendo bem os termos técnicos, mas faz sentido tentar ficar com mais do que dar.",
+          "Eu não percebo muito bem esses termos técnicos de finanças, mas parece que se eu puder pagar menos impostos, isso é bom, certo? Portanto, escolher a opção que fala em minimizar impostos faz sentido para mim, mesmo que não saiba exatamente como isso funciona.",
+          "Eu não percebo bem o que é eficiência fiscal ou IRS, mas pelo que entendo, se conseguimos pagar menos impostos, isso parece ser uma boa ideia. Assim, faz sentido escolher a opção que fala em minimizar a carga tributária."
+        ],
+        "Médio": [
+          "Acho que a melhor forma de lidar com impostos é tentar pagar menos, então 'minimizar a carga tributária' parece fazer sentido. Não entendo bem os outros termos, mas evitar investimentos não parece certo.",
+          "Acho que a melhor forma de lidar com impostos é tentar pagar menos, então 'minimizar a carga tributária' parece bom. Não percebo bem os termos técnicos, mas parece que é sobre pagar menos impostos no IRS.",
+          "Eu acho que a melhor forma de lidar com impostos é tentar pagar menos, então parece que minimizar a carga tributária é o melhor. Não entendo muito bem o que significa a eficiência fiscal ou as outras opções, mas pagar menos impostos parece ser o que todos querem.",
+          "Eu não percebo muito sobre eficiência fiscal e IRS. Para mim, a forma mais fácil de não ter problemas é evitar investimentos, assim não tenho que me preocupar com impostos ou outras coisas complicadas.",
+          "Acho que a melhor forma de lidar com impostos é tentar pagar menos, porque assim fica mais dinheiro para mim. Não entendo bem os detalhes todos sobre eficiência fiscal, mas parece que pagar menos impostos é uma boa ideia.",
+          "Acho que a melhor maneira de lidar com impostos é tentar pagar menos, ou seja, minimizar a carga tributária. Não entendo bem os termos técnicos, mas parece-me que isso ajuda a manter mais dinheiro. As outras opções não fazem sentido para mim.",
+          "Acho que é melhor pagar menos impostos, porque assim fica mais dinheiro para investir ou poupar. Não percebo bem o que é eficiência fiscal, mas parece que é sobre pagar menos impostos e isso faz sentido.",
+          "Eu penso que a melhor maneira de não ter problemas com impostos é não fazer investimentos, assim não se tem que se preocupar com impostos. Para mim, os termos fiscais e de investimento são confusos e complicados.",
+          "Acho que minimizar a carga tributária é importante porque, se pagar menos impostos, fica com mais dinheiro. Não entendo bem os outros termos, como eficiência fiscal ou estruturas de investimento, mas parece-me que o objetivo deve ser sempre pagar menos imposto.",
+          "Acho que a melhor forma de lidar com impostos é tentar pagar menos, por isso escolhi a opção A. Não entendo bem os termos complicados, mas parece lógico querer pagar menos impostos ao investir."
+        ],
+        "Alto": [
+          "A eficiência fiscal é otimizada ao planear investimentos de forma a reduzir a carga tributária, aproveitando deduções, isenções e incentivos fiscais disponíveis no IRS. A minimização da carga tributária permite aumentar o retorno líquido dos investimentos, o que é um conceito fundamental em planeamento financeiro.",
+          "A eficiência fiscal no planeamento de investimentos está diretamente relacionada à minimização da carga tributária. Isso pode ser alcançado através de estratégias como a utilização de produtos financeiros que ofereçam benefícios fiscais ou o aproveitamento das deduções permitidas no IRS, permitindo assim maximizar o retorno líquido dos investimentos.",
+          "A eficiência fiscal no planeamento de investimentos visa essencialmente a minimização da carga tributária, que se traduz em um maior retorno líquido para o investidor. Isso é alcançado através da escolha adequada de produtos financeiros, que permitam beneficiar de deduções, isenções e taxas mais baixas, sempre em conformidade com o IRS.",
+          "A eficiência fiscal no planeamento de investimentos deve focar na minimização da carga tributária, permitindo que o investidor maximize o seu retorno líquido. Essa abordagem é consistente com os princípios de optimização fiscal, onde se busca aproveitar deduções, isenções e benefícios fiscais disponíveis no âmbito do IRS.",
+          "A eficiência fiscal no planeamento de investimentos em relação ao IRS pode ser maximizada ao minimizar a carga tributária, uma vez que isso permite que o investidor maximize o retorno líquido sobre os seus investimentos. A opção A aborda diretamente a otimização fiscal, enquanto as outras opções não se relacionam com a eficiência do investimento.",
+          "A eficiência fiscal pode ser maximizada ao planear investimentos em relação ao IRS através da minimização da carga tributária, o que implica a utilização de estratégias legais para reduzir o imposto a pagar, como a escolha de produtos financeiros que oferecem benefícios fiscais, como PPRs. As outras opções, como evitar investimentos ou aumentar a complexidade, não contribuiriam para uma gestão eficiente da carga fiscal.",
+          "A eficiência fiscal é maximizada ao minimizar a carga tributária através de estratégias de investimento que aproveitam deduções, isenções e benefícios fiscais oferecidos pelo IRS. Reconheço que a minimização da carga tributária é uma abordagem comum e eficaz no planeamento fiscal, ao contrário das outras opções que não promovem uma gestão eficiente dos investimentos.",
+          "A eficiência fiscal é maximizada ao minimizar a carga tributária sobre os investimentos, o que pode ser feito através da utilização de deduções fiscais, isenções e outros mecanismos legais que permitam reduzir o montante a pagar em IRS. Evitar investimentos ou aumentar a complexidade não são estratégias eficazes para maximizar a eficiência fiscal.",
+          "A eficiência fiscal pode ser maximizada ao planear investimentos em relação ao IRS através da minimização da carga tributária, o que implica a utilização de estratégias que permitam reduzir o montante a pagar em impostos, como a utilização de deduções fiscais, isenções e investimentos em produtos que beneficiem de tratamento fiscal favorável. A opção D é a mais correta porque aborda diretamente a otimização da tributação, enquanto as outras opções não contribuem para uma gestão fiscal eficiente.",
+          "A eficiência fiscal no planeamento de investimentos em relação ao IRS é maximizada através da minimização da carga tributária, o que implica aproveitar isenções, deduções e regimes fiscais favoráveis. Evitar investimentos ou aumentar a complexidade não são estratégias eficazes para maximizar a eficiência fiscal."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o papel do 'poder da intenção' na concretização de objetivos financeiros de médio-longo prazo?",
+      "options": {
+        "A": "Fundamental para alcançar objetivos.",
+        "B": "Secundário na definição de objetivos financeiros.",
+        "C": "Irrelevante para a concretização de objetivos.",
+        "D": "Útil apenas para objetivos de curto prazo."
+      },
+      "hint": "Considera a motivação e determinação para atingir metas.",
+      "rationale": "O 'poder da intenção' é crucial no planeamento financeiro, pois motiva e direciona as ações necessárias para alcançar objetivos financeiros de médio-longo prazo.",
+      "tag": "Planeamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de Planeamento financeiro, abordando um conceito fundamental para a concretização de objetivos financeiros."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que destaca a importância do 'poder da intenção' no planeamento financeiro."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito, mas a opção D pode ser considerada um pouco menos relevante, pois o 'poder da intenção' pode ser importante em todos os prazos."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica em relação ao 'poder da intenção'."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do 'poder da intenção'."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.2,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que ter intenção é muito importante para conseguir o que queremos, mesmo que não perceba bem o que isso significa em termos financeiros. Se queremos algo, temos que nos esforçar e focar nisso. Portanto, parece que a intenção é essencial.",
+          "Eu não percebo muito sobre finanças e esses termos complicados. Para mim, o poder da intenção pode ajudar, mas não é o mais importante. Acho que é mais sobre o que se faz no dia-a-dia do que o que se pensa.",
+          "Eu não percebo muito de finanças e não sei o que é 'poder da intenção', então acho que não tem a ver com alcançar objetivos. Para mim, parece que o que importa é mais o trabalho e esforço do dia-a-dia.",
+          "Acho que ter uma intenção clara é muito importante para conseguir o que queremos, mesmo que não entenda bem os termos financeiros. Se queremos algo, precisamos de nos concentrar e trabalhar para isso.",
+          "Eu não entendo bem o que é o 'poder da intenção' e como isso se relaciona com objetivos financeiros. Para mim, o que importa é ter dinheiro e gastar com sabedoria, então acho que isso não é muito relevante.",
+          "Acho que o 'poder da intenção' não é assim tão importante. Para mim, o que conta é mais o que fazemos do que só pensar em objetivos. Não percebo bem esses termos financeiros, mas parece-me que é mais sobre ter um plano do que só intenção.",
+          "Eu não percebo bem o que é o 'poder da intenção', mas para mim, as coisas financeiras têm a ver mais com o que ganhamos e gastamos no dia-a-dia. Então, acho que não é assim tão importante.",
+          "Acho que o 'poder da intenção' não tem muito a ver com dinheiro. Para mim, se não tiver dinheiro, não consigo realizar os meus objetivos, independentemente da intenção. Não percebo bem esses termos, parece complicado.",
+          "Não entendo muito sobre o 'poder da intenção' e como isso se relaciona com dinheiro. Para mim, só o trabalho e a poupança são importantes para alcançar objetivos financeiros.",
+          "Acho que o 'poder da intenção' não tem muito a ver com objetivos financeiros. Para mim, é mais sobre trabalhar e ganhar dinheiro, e não tanto sobre ter intenções. Não entendo bem esses termos que usaram."
+        ],
+        "Médio": [
+          "Acho que o poder da intenção não é assim tão importante. Para mim, o que conta mais é o que podemos fazer na prática, como poupar um pouco todos os meses. Não percebo bem esses termos de 'poder da intenção', parece mais uma coisa de motivação do que algo que ajude a alcançar objetivos financeiros.",
+          "Eu não percebo muito sobre isso do 'poder da intenção'. Para mim, parece que só ter intenção não ajuda a fazer dinheiro ou a alcançar metas. É mais importante ter um plano prático e saber como guardar o dinheiro.",
+          "Acho que o poder da intenção é importante porque, se queremos algo, temos que nos focar nisso, mesmo que não saiba bem o que isso significa. Parece-me que, se temos a intenção, podemos ir atrás dos nossos objetivos financeiros.",
+          "Acho que ter intenção é importante para alcançar os objetivos, porque se não tivermos um objetivo claro, é difícil saber o que fazer. Não conheço bem o termo 'poder da intenção', mas parece que se refere a ter um foco e isso ajuda.",
+          "Eu não percebo bem o que é o 'poder da intenção', mas parece que não é algo que ajude muito. Para mim, o mais importante é ter dinheiro e saber como usá-lo, e não só ter intenção.",
+          "Acho que o 'poder da intenção' não é muito importante, porque para mim, o que conta mais é ter dinheiro e fazer um bom orçamento. Não entendo bem o que isso quer dizer, parece mais uma ideia complicada e eu prefiro focar nas coisas práticas.",
+          "Acho que o poder da intenção não é assim tão importante para conseguir objetivos financeiros. Para mim, o que conta mais é ter dinheiro e saber gerir bem o que se tem, mas essas coisas de intenção não parecem fazer grande diferença.",
+          "Acho que o 'poder da intenção' não é assim tão importante para definir objetivos financeiros. Para mim, o que conta mais é ter uma ideia clara do que quero e, depois, fazer um plano. Não percebo muito bem esses termos, mas parece que é mais sobre querer do que sobre fazer.",
+          "Eu não percebo muito bem o que é 'poder da intenção', mas parece algo que não tem muito a ver com dinheiro. Para mim, concretizar objetivos é mais sobre ter um plano e juntar dinheiro, então a intenção não deve ser tão importante.",
+          "Para mim, o 'poder da intenção' parece algo que não tem muito a ver com dinheiro. Eu acho que é mais importante saber como poupar ou fazer um orçamento. Não entendo bem o que isso significa e se realmente ajuda a conseguir objetivos financeiros."
+        ],
+        "Alto": [
+          "O 'poder da intenção' é crucial na concretização de objetivos financeiros de médio e longo prazo, pois estabelece um foco claro e a motivação necessária para a execução de um plano financeiro. Reconheço que a intenção proporciona a disciplina e a persistência, que são vitais para superar os desafios e alcançar metas financeiras sustentáveis.",
+          "O 'poder da intenção' é crucial para a concretização de objetivos financeiros a médio-longo prazo, pois envolve a definição clara de metas e a motivação necessária para implementar um plano de ação. Reconheço que estabelecer intenções concretas é um passo essencial no planeamento financeiro, alinhando a mentalidade e o foco na execução eficaz das estratégias financeiras.",
+          "O 'poder da intenção' é crucial na concretização de objetivos financeiros de médio-longo prazo, pois ajuda a manter o foco e a motivação necessários para planear e executar estratégias de poupança e investimento. Reconheço que a definição clara de intenções pode influenciar positivamente a disciplina financeira e a resiliência frente a desafios.",
+          "O 'poder da intenção' é crucial na definição e na concretização de objetivos financeiros, pois estabelece um foco claro e motivação para o planejamento financeiro, ajudando a superar obstáculos e a manter a disciplina necessária para alcançar metas de médio- longo prazo. Reconheço a importância deste conceito, pois está intrinsecamente ligado à psicologia do comportamento financeiro e ao compromisso com as decisões financeiras.",
+          "O 'poder da intenção' é crucial na concretização de objetivos financeiros de médio-longo prazo, pois estabelece um foco claro e motiva a disciplina necessária para seguir um plano financeiro. Reconheço a importância da intenção como um fator que influencia o comportamento financeiro e a capacidade de manter a consistência nas poupanças e investimentos ao longo do tempo.",
+          "O 'poder da intenção' é crucial na concretização de objetivos financeiros de médio-longo prazo, pois estabelece um compromisso mental que impulsiona a ação e a disciplina necessárias para a execução de um plano financeiro. Reconheço que a definição clara de intenções pode orientar prioridades e decisões orçamentais, facilitando a poupança e o investimento ao longo do tempo.",
+          "O 'poder da intenção' é crucial na definição e na concretização de objetivos financeiros de médio a longo prazo, pois a clareza e a determinação na definição de metas financeiras facilitam o planeamento e a execução de estratégias de poupança e investimento. Este conceito é reconhecido como uma força motivacional que impulsiona a disciplina necessária para alcançar objetivos financeiros complexos.",
+          "O 'poder da intenção' é um conceito que enfatiza a importância da motivação e do foco na realização de objetivos financeiros. Para objetivos de médio-longo prazo, a clareza na definição das intenções é crucial, pois orienta as decisões de poupança, investimento e gestão de dívida, facilitando a disciplina necessária para atingir esses objetivos.",
+          "O 'poder da intenção' é crucial na definição e concretização de objetivos financeiros, pois motiva a disciplina e o foco necessários para manter um plano de poupança e investimento a longo prazo. Este conceito reconhece a importância da mentalidade e da determinação na gestão financeira, que são fundamentais para o sucesso na realização de metas financeiras.",
+          "O 'poder da intenção' é crucial na definição e concretização de objetivos financeiros, pois estabelece um foco e uma motivação que impulsionam a ação necessária para alcançar metas de médio e longo prazo. Reconheço que a intenção orienta o planejamento financeiro e a disciplina na gestão de recursos, fatores essenciais para o sucesso financeiro."
+        ]
+      }
+    },
+    {
+      "question": "Como a escolha de alocação de ativos deve refletir o perfil de risco do investidor?",
+      "options": {
+        "A": "Deve alinhar-se com a tolerância ao risco.",
+        "B": "Deve contrariar a tolerância ao risco do investidor.",
+        "C": "Deve ser indiferente à tolerância ao risco.",
+        "D": "Deve ignorar completamente o perfil de risco do investidor."
+      },
+      "hint": "Pensa na relação entre perfil de risco e tipos de investimento.",
+      "rationale": "A alocação de ativos deve ser feita de forma a refletir o perfil de risco do investidor, garantindo que os investimentos estão alinhados com a sua tolerância ao risco e objetivos financeiros.",
+      "tag": "Alocação de ativos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Alocação de ativos', pois aborda como a escolha de alocação deve refletir o perfil de risco do investidor, um conceito central nesse tópico."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não aborde diretamente a alocação de ativos, ele discute a importância de entender a situação financeira e o perfil de risco."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de alocação de ativos, embora a opção B e C possam ser consideradas menos prováveis, ainda são alternativas que um investidor poderia considerar."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao sugerir que o participante pense na relação entre perfil de risco e tipos de investimento, embora pudesse ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de alinhar a alocação de ativos com o perfil de risco do investidor."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo bem o que significa 'perfil de risco' ou 'alocação de ativos'. Mas parece que a questão está a perguntar se é importante ou não, então eu acho que pode ser melhor ignorar essas coisas, porque às vezes é melhor arriscar e ver o que acontece.",
+          "Não percebo bem o que significa 'perfil de risco', mas acho que não importa muito. De qualquer forma, a escolha de investimento deve ser feita sem pensar muito nas preferências ou medos das pessoas.",
+          "Acho que é importante que a escolha de onde colocar o dinheiro tenha a ver com o que a pessoa se sente confortável em perder. Não percebo bem esses termos complicados, mas parece lógico que alguém que tem medo de perder dinheiro não deve arriscar muito.",
+          "Não percebo bem o que é alocação de ativos ou perfil de risco, mas acho que a escolha deve ser algo que não se preocupe com isso. Às vezes, é melhor não pensar muito nas coisas e escolher de qualquer forma.",
+          "Eu não percebo bem o que é o perfil de risco, mas parece que não faz sentido considerar isso. Se eu quero investir, deveria apenas fazer o que parece melhor, sem pensar muito no que me pode fazer sentir inseguro.",
+          "Não percebo muito bem o que significa 'tolerância ao risco', mas acho que os investimentos devem ser feitos sem se preocupar muito com isso. Se a pessoa quiser investir, deve fazê-lo de qualquer forma, independentemente do que sente sobre os riscos.",
+          "Eu acho que o que se escolhe deve ter a ver com o que a pessoa consegue aguentar, ou seja, se é mais cautelosa ou se gosta de correr riscos. Não percebo bem os termos técnicos, mas isso parece fazer sentido.",
+          "Não percebo muito de finanças e, por isso, acho que não é preciso pensar no que a pessoa quer ou consegue arriscar. Se calhar, é melhor fazer as coisas sem se preocupar com isso.",
+          "Eu não percebo bem o que é isso de 'perfil de risco' e 'alocação de ativos', mas se calhar não deveria importar, porque o que importa é o que se pode ganhar, certo? Então, a minha escolha é que não deve ter a ver com o risco.",
+          "Eu não percebo muito de finanças e não sei o que é alocação de ativos ou perfil de risco. Para mim, acho que não faz sentido estar sempre a pensar nisso. Se eu quero investir, só quero que o dinheiro cresça, independentemente do risco."
+        ],
+        "Médio": [
+          "Eu acho que a escolha deve ter a ver com o que a pessoa se sente confortável em arriscar. Se não quer perder muito dinheiro, então deve escolher algo que não seja muito arriscado, por isso acho que se deve alinhar com a tolerância ao risco.",
+          "Acho que a escolha de onde colocar o dinheiro deve ter a ver com o que a pessoa está disposta a arriscar. Se alguém não gosta de riscos, deve escolher coisas mais seguras. Não entendo muito sobre esses termos complicados, mas parece lógico.",
+          "Acho que a escolha de como investir deve estar ligada ao que a pessoa se sente confortável a arriscar. Não percebo bem os termos complicados, mas parece lógico que se alguém não gosta de arriscar muito, deve escolher investimentos mais seguros.",
+          "Acho que a escolha de onde colocar o dinheiro deve ter a ver com o que a pessoa se sente confortável em perder ou ganhar. Não faz sentido arriscar muito se a pessoa não gosta de riscos, por isso escolhi a opção que diz que deve alinhar-se com a tolerância ao risco.",
+          "Eu penso que a escolha de como investir deve estar relacionada com o que a pessoa aguenta perder, ou seja, o risco que está disposta a correr. Não percebo bem os termos mais complicados, mas parece lógico que as pessoas devem investir de acordo com o que se sentem confortáveis.",
+          "Acho que a alocação de ativos deve ter a ver com o quanto a pessoa está disposta a arriscar. Se alguém não gosta de arriscar, deve escolher opções mais seguras. Não entendo bem os termos, mas parece lógico pensar assim.",
+          "Acho que a alocação de ativos deve ter em conta o que a pessoa está disposta a arriscar. Se alguém não gosta de arriscar muito, então deve escolher opções mais seguras. Não entendo muito bem os termos, mas parece que faz sentido.",
+          "Eu acho que a escolha de como investir deve ser como uma roupa que se adapta ao que a pessoa gosta. Se alguém não gosta de arriscar, então não deve escolher investimentos que sejam muito arriscados, certo? Mas não reconheço bem os termos técnicos.",
+          "Acho que a escolha de onde colocar o dinheiro deve ter a ver com o que a pessoa consegue suportar em termos de perder dinheiro. Não percebo muito dos termos, mas parece lógico que se deve escolher algo que se encaixe no que a pessoa está disposta a arriscar.",
+          "Acho que a alocação de ativos deve ter a ver com o que a pessoa consegue aceitar em termos de risco. Se alguém se preocupa muito com perder dinheiro, então deve escolher algo mais seguro. Não percebo todos os termos, mas parece lógico."
+        ],
+        "Alto": [
+          "A alocação de ativos deve refletir a tolerância ao risco do investidor, pois isso garante que a estratégia de investimento esteja em sintonia com a capacidade e disposição do investidor para suportar perdas potenciais. Ignorar ou contrariar o perfil de risco pode levar a decisões financeiras desastrosas e à insatisfação do investidor.",
+          "A alocação de ativos deve refletir a tolerância ao risco do investidor para garantir que a estratégia de investimento esteja de acordo com as suas expectativas e capacidade de suportar perdas. Ignorar o perfil de risco pode levar a decisões financeiras inadequadas e a um aumento do stress financeiro, pois o investidor pode não estar preparado para a volatilidade do mercado.",
+          "A alocação de ativos deve refletir o perfil de risco do investidor, pois é fundamental que o portfólio esteja em consonância com a capacidade e disposição do investidor para assumir riscos. Ignorar essa tolerância pode resultar em decisões de investimento inadequadas que não correspondem aos objetivos financeiros e ao conforto emocional do investidor.",
+          "A alocação de ativos deve ser feita de forma a refletir a tolerância ao risco do investidor, pois isso garante que a carteira esteja em linha com as expectativas e a capacidade do investidor de suportar perdas. Ignorar ou contrariar essa tolerância pode levar a decisões emocionais e a um maior risco de insatisfação com os resultados do investimento.",
+          "A escolha de alocação de ativos deve ser cuidadosamente alinhada com a tolerância ao risco do investidor, pois isso garante que o portfólio esteja em conformidade com os objetivos financeiros e a capacidade do investidor de suportar perdas. Ignorar ou contrariar a tolerância ao risco pode levar a decisões financeiras inadequadas e a um maior nível de stress financeiro.",
+          "A alocação de ativos deve refletir o perfil de risco do investidor para garantir que a estratégia de investimento esteja em conformidade com a capacidade e disposição do investidor para assumir riscos. Reconheço os termos utilizados, como 'tolerância ao risco', que são fundamentais na construção de um portfólio que visa equilibrar risco e retorno de forma adequada.",
+          "A alocação de ativos deve sempre refletir a tolerância ao risco do investidor, pois isso garante que a estratégia de investimento seja adequada ao perfil financeiro e psicológico do investidor. Ignorar a tolerância ao risco pode levar a decisões de investimento inadequadas e a perdas financeiras indesejadas.",
+          "A escolha da alocação de ativos deve sempre refletir o perfil de risco do investidor, pois isso garante que a carteira esteja de acordo com a capacidade e vontade do investidor de assumir riscos, maximizando assim a probabilidade de atingir os objetivos financeiros sem expor o investidor a riscos excessivos. Ignorar a tolerância ao risco pode levar a decisões financeiras prejudiciais.",
+          "A alocação de ativos deve refletir o perfil de risco do investidor, uma vez que isso garante que o investidor se sinta confortável com a volatilidade e os possíveis retornos dos investimentos. Alinhar a alocação aos níveis de tolerância ao risco é fundamental para otimizar o desempenho do portfólio e minimizar a ansiedade em períodos de flutuação do mercado.",
+          "A alocação de ativos deve sempre refletir o perfil de risco do investidor, pois isso garante que a estratégia de investimento esteja em sintonia com a capacidade e disposição do investidor para suportar perdas. A tolerância ao risco é um conceito fundamental na gestão de portfólios, pois uma alocação inadequada pode levar a decisões emocionais e financeiras prejudiciais."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.7,
+    "answer_exclusivity": 5,
+    "distractor_quality": 4,
+    "hint_quality": 4.1,
+    "rationale_quality": 5,
+    "tag_diversity": 0.8,
+    "overall_score": 4.62
+  }
+}

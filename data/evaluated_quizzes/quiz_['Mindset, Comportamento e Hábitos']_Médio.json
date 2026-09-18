@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Mindset, Comportamento e Hábitos"
+  ],
+  "fin_lit_level": "Médio",
+  "question_results": [
+    {
+      "question": "Como pode a clareza sobre a situação financeira ajudar a mitigar a ansiedade financeira?",
+      "options": {
+        "A": "Compreender rendimentos, despesas e dívidas.",
+        "B": "Ignorar despesas não essenciais.",
+        "C": "Aumentar o número de cartões de crédito.",
+        "D": "Investir sem considerar riscos."
+      },
+      "hint": "Reflete sobre o impacto de conhecer bem as finanças pessoais.",
+      "rationale": "Ter clareza sobre a situação financeira, como rendimentos, despesas e dívidas, ajuda a reduzir a ansiedade financeira, pois permite um melhor controlo e planeamento das finanças pessoais.",
+      "tag": "Mentalidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mentalidade financeira', pois aborda como a clareza financeira pode impactar a ansiedade, um aspecto importante da mentalidade em relação ao dinheiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que destaca a importância de conhecer a situação financeira para mitigar a ansiedade."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão financeira, mas a opção C ('Aumentar o número de cartões de crédito') pode ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica sobre como a clareza financeira se relaciona com a ansiedade."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da clareza financeira na redução da ansiedade."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.8,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que se souber melhor o que ganho e gasto, fico menos preocupado com dinheiro. Não entendo bem os termos financeiros, mas parece que se souber o que tenho e o que devo, é mais fácil controlar as coisas.",
+          "Acho que entender o que ganhamos e gastamos é importante para não ficarmos preocupados, porque assim sabemos o que podemos fazer. Os outros termos soam complicados e não sei muito sobre isso.",
+          "Acho que entender o que ganho e o que gasto pode ajudar a sentir-me mais calmo. Não percebo bem os termos técnicos, mas pensar sobre isso parece ser uma boa ideia para não ficar ansioso.",
+          "Acho que entender o que ganho, o que gasto e as dívidas que tenho é importante, porque assim sei onde estou a gastar o meu dinheiro e posso evitar surpresas. Não percebo bem os termos técnicos, mas parece que saber isso tudo ajuda a ficar mais calmo em relação a dinheiro.",
+          "Acho que é importante saber quanto ganho e quanto gasto. Se souber isso, posso ficar mais tranquilo e não me preocupar tanto com dinheiro. Não percebo muito de termos complicados, mas parece-me que entender a minha situação ajuda a sentir-me melhor.",
+          "Acho que entender o que ganho e gasto ajuda a ficar menos preocupado com dinheiro. Não sei bem o que são alguns termos, mas parece que saber o que se tem e o que se deve é importante para não ficar ansioso.",
+          "Acho que se ignorar as despesas que não são tão importantes, isso ajuda a não pensar tanto em dinheiro. Não entendo bem os termos financeiros, mas parece mais fácil viver sem me preocupar com o que não preciso.",
+          "Eu acho que é importante saber o que entra e sai, porque assim a gente consegue ver melhor se temos dinheiro para as coisas. Não percebo bem os termos técnicos, mas saber sobre rendimentos e despesas parece que ajuda a ficar mais tranquilo.",
+          "Acho que é importante saber o que ganho e o que gasto, assim consigo perceber melhor a minha situação. Os outros termos parecem complicados e eu não os entendo bem.",
+          "Acho que ter mais cartões de crédito pode fazer com que a gente tenha mais opções e, de certa forma, isso pode aliviar a ansiedade. Não entendo bem o que significa compreender rendimentos e despesas, mas mais cartões parece uma solução simples."
+        ],
+        "Médio": [
+          "Acho que perceber o que entra e sai do meu dinheiro ajuda a ficar mais tranquilo. Os outros pontos, como mais cartões ou ignorar despesas, parecem complicar as coisas e não ajudam a resolver. Não entendo muito bem o que é investir, mas saber o que tenho e gasto parece mais simples.",
+          "Acho que entender o que ganho e gasto é importante para não me sentir tão perdido. Os outros pontos parecem complicados e eu não sei muito sobre investimentos ou cartões de crédito.",
+          "Eu acho que entender o que ganho e o que gasto ajuda a perceber melhor a minha situação. As outras opções parecem que são más ideias, como ignorar despesas ou ter muitos cartões de crédito, que pode só trazer mais confusão e problemas.",
+          "Acho que perceber o que ganho, o que gasto e o que devo ajuda a ficar mais tranquilo. Se souber essas coisas, posso planear melhor e não ter tanto medo do dinheiro.",
+          "Acho que entender bem o que ganho e o que gasto pode ajudar a saber se estou a gastar demais ou se posso poupar. As outras opções parecem confusas ou até arriscadas, como ter mais cartões de crédito.",
+          "Acho que entender o que ganho e o que gasto pode ajudar a saber se estou a controlar bem o meu dinheiro. Os outros pontos parecem confusos ou até arriscados, tipo investir ou ter mais cartões de crédito, que eu não sei bem se é bom.",
+          "Acho que saber o que ganho e o que gasto ajuda a entender melhor a minha situação. Se eu souber as minhas dívidas e quanto posso gastar, fica mais fácil não ficar ansioso com dinheiro.",
+          "Acho que entender o que ganho e o que gasto ajuda a sentir-me mais calmo com o dinheiro. Ignorar despesas ou ter muitos cartões parece confuso e arriscado, e investir sem pensar é ainda mais complicado.",
+          "Acho que entender o que ganho, o que gasto e quanto devo me ajuda a sentir-me mais tranquilo com o dinheiro. Não conheço bem os termos técnicos, mas parece que saber essas coisas é importante para não ficar ansioso.",
+          "Acho que entender o que ganho e o que gasto ajuda a ter menos preocupações. Se souber o que está a acontecer com o meu dinheiro, fico mais tranquilo e não fico tão ansioso. Os outros pontos parecem confusos ou arriscados."
+        ],
+        "Alto": [
+          "A clareza sobre a situação financeira, que inclui a compreensão de rendimentos, despesas e dívidas, permite uma melhor gestão do orçamento e reduz a incerteza, que é uma das principais causas de ansiedade financeira. Reconheço a importância destes termos, pois uma visão clara das finanças pessoais é fundamental para tomar decisões informadas e estratégicas.",
+          "A clareza sobre a situação financeira, que inclui a compreensão dos rendimentos, despesas e dívidas, permite que uma pessoa tenha um panorama claro da sua saúde financeira, o que, por sua vez, reduz a incerteza e a ansiedade. Ignorar despesas ou aumentar o número de cartões de crédito não contribui para uma gestão financeira saudável.",
+          "A clareza sobre a situação financeira, que inclui o entendimento dos rendimentos, despesas e dívidas, é fundamental para reduzir a ansiedade financeira. Isso permite um melhor planeamento orçamental e a identificação de áreas onde se pode poupar ou ajustar os gastos, contribuindo para uma maior segurança financeira e controle sobre a situação.",
+          "A clareza sobre a situação financeira, que envolve entender rendimentos, despesas e dívidas, permite uma melhor gestão do orçamento e ajuda a identificar áreas de melhoria. Esta compreensão reduz a incerteza e, consequentemente, a ansiedade financeira.",
+          "A clareza sobre a situação financeira, através da compreensão dos rendimentos, despesas e dívidas, permite a uma pessoa identificar áreas de melhoria e controlar melhor as suas finanças, reduzindo assim a ansiedade financeira. Ao ter um panorama claro, é mais fácil tomar decisões informadas e estratégicas, sabendo exatamente onde pode fazer ajustes.",
+          "A clareza sobre a situação financeira, que implica compreender rendimentos, despesas e dívidas, permite à pessoa ter uma visão realista das suas obrigações e recursos. Isto, por sua vez, reduz a incerteza e a ansiedade financeira, uma vez que a pessoa pode tomar decisões informadas e planeadas, evitando surpresas desagradáveis.",
+          "A clareza sobre a situação financeira, que se refere à compreensão dos rendimentos, despesas e dívidas, permite que uma pessoa tenha uma visão realista da sua saúde financeira, o que ajuda a reduzir a ansiedade relacionada a incertezas e imprevistos. Ignorar despesas ou aumentar a quantidade de crédito não resolve os problemas financeiros e, na verdade, pode aumentar a ansiedade.",
+          "A clareza sobre a situação financeira, que inclui a compreensão dos rendimentos, despesas e dívidas, permite que a pessoa tenha uma visão clara do seu fluxo de caixa e das suas obrigações financeiras. Isso diminui a incerteza e, consequentemente, a ansiedade financeira, pois a pessoa pode fazer um planeamento mais eficaz e tomar decisões informadas sobre poupança e investimento.",
+          "A clareza sobre a situação financeira resulta da compreensão dos rendimentos, despesas e dívidas, o que permite um melhor planeamento financeiro e a tomada de decisões informadas. Isso, por sua vez, diminui a incerteza e a ansiedade associadas à gestão financeira.",
+          "A clareza sobre a situação financeira, que inclui o entendimento dos rendimentos, despesas e dívidas, permite às pessoas tomar decisões informadas e planeadas, reduzindo a ansiedade financeira. As outras opções, como aumentar cartões de crédito ou ignorar despesas, podem piorar a situação financeira e, consequentemente, aumentar a ansiedade."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma forma eficaz de desmistificar crenças financeiras limitantes?",
+      "options": {
+        "A": "Conversar sobre dinheiro com pessoas de confiança.",
+        "B": "Evitar falar sobre dinheiro em público.",
+        "C": "Confiar apenas em conselhos de especialistas financeiros.",
+        "D": "Manter crenças financeiras em segredo."
+      },
+      "hint": "Pensa em como o diálogo pode influenciar as crenças.",
+      "rationale": "Conversar sobre dinheiro com pessoas de confiança pode ajudar a desmistificar crenças financeiras limitantes, promovendo uma abordagem mais saudável em relação ao dinheiro.",
+      "tag": "Crenças financeiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crenças financeiras' e avalia claramente o conhecimento que esse tópico pretende abordar."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora não haja uma citação direta que suporte a ideia de que conversar sobre dinheiro desmistifica crenças."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, sem ambiguidades."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de crenças financeiras, mas algumas opções, como 'manter crenças financeiras em segredo', podem ser consideradas menos relevantes."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o diálogo pode influenciar crenças, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais explícita ao conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que falar sobre dinheiro com amigos ou familiares é bom porque podemos aprender uns com os outros e tirar dúvidas. Não entendo bem os termos técnicos, mas sei que ter apoio das pessoas que conhecemos ajuda a ver as coisas de forma diferente.",
+          "Acho que falar sobre dinheiro com amigos ou família ajuda a entender melhor as coisas. Assim, podemos deixar de ter medo ou dúvidas sobre o que é certo ou errado, mesmo que não perceba bem os termos financeiros.",
+          "Acho que falar sobre dinheiro é importante, porque assim aprendemos uns com os outros e percebemos que não estamos sozinhos nas dificuldades. Não entendo bem os termos financeiros, mas sei que partilhar experiências ajuda a ver as coisas de forma diferente.",
+          "Acho que falar sobre dinheiro com amigos ou família pode ajudar a entender melhor as coisas. Manter segredos ou evitar o assunto só traz mais confusão, e não sei bem o que são especialistas financeiros.",
+          "Acho que falar sobre dinheiro com amigos ou família pode ajudar a entender melhor as coisas. Se mantiver tudo em segredo, só complica, e quem não gosta de partilhar experiências com quem confia?",
+          "Acho que falar sobre dinheiro é importante, e se tivermos alguém em quem confiamos, pode ajudar a entender melhor as coisas. As outras opções parecem mais sobre esconder ou evitar o assunto, que não ajuda a resolver dúvidas.",
+          "Eu acho que falar sobre dinheiro com amigos ou família é uma boa ideia, porque assim podemos perceber melhor o que os outros pensam e talvez aprender uns com os outros. Os outros podem ter experiências diferentes e isso ajuda a mudar a maneira como vemos o dinheiro.",
+          "Acho que falar sobre dinheiro com amigos ou familiares ajuda a entender melhor. Falar é mais fácil do que ficar calado e ter ideias esquisitas sobre dinheiro.",
+          "Acho que falar sobre dinheiro com pessoas que conhecemos pode ajudar a entender melhor as coisas. Evitar falar ou manter segredos só faz com que a gente fique mais confuso sobre o que é certo ou errado.",
+          "Acho que é mais fácil falar com amigos ou família sobre dinheiro do que só ouvir especialistas que podem parecer distantes. Falar ajuda a entender melhor e a desmistificar as ideias que temos sobre o assunto."
+        ],
+        "Médio": [
+          "Acho que falar sobre dinheiro com amigos ou família ajuda a perceber melhor as coisas. Falar em segredo ou evitar o assunto só faz com que as dúvidas fiquem, e eu não percebo bem como é que funciona o dinheiro.",
+          "Acho que conversar sobre dinheiro com amigos ou família pode ajudar, porque assim podemos aprender uns com os outros e perceber que não estamos sozinhos nas dificuldades financeiras. As outras opções parecem mais complicadas ou estranhas para mim.",
+          "Acho que falar sobre dinheiro com amigos ou familiares pode ajudar a perceber melhor as coisas e a lidar com as crenças que temos. Manter tudo em segredo só traz mais confusão e não ajuda a entender melhor a situação.",
+          "Acho que conversar sobre dinheiro com amigos ou família pode ajudar a perceber melhor as coisas. Falar sobre as nossas dúvidas pode fazer com que as crenças que temos sobre dinheiro não sejam tão confusas.",
+          "Acho que falar sobre dinheiro com amigos ou familiares é uma boa maneira de perceber que não sou só eu a ter dificuldades. Não entendo bem o que são crenças financeiras limitantes, mas se posso partilhar as minhas preocupações, talvez ajude a esclarecer as coisas.",
+          "Acho que conversar sobre dinheiro com pessoas de confiança é uma boa ideia, porque assim podemos aprender uns com os outros e talvez perceber que não estamos sozinhos nas nossas preocupações financeiras. Não entendo muito bem os outros termos, mas falar ajuda a clarear as ideias.",
+          "Acho que falar sobre dinheiro com amigos ou familiares ajuda a perceber melhor as coisas. Manter tudo em segredo só complica mais, e eu não confio muito em conselhos de especialistas, porque muitas vezes não sei se eles têm as melhores intenções.",
+          "Acho que a melhor forma de perceber melhor as coisas sobre dinheiro é falar com pessoas que conhecemos e em quem confiamos. Falar em segredo ou evitar o assunto só faz com que fiquemos mais confusos. Não conheço muito sobre especialistas financeiros, mas acho que é bom ouvir quem já passou por isso.",
+          "Acho que a melhor forma é falar sobre dinheiro com pessoas que conhecemos, porque isso ajuda a esclarecer dúvidas e a perceber que não estamos sozinhos nas nossas preocupações. Não entendo muito sobre termos complicados, mas sei que conversar ajuda.",
+          "Acho que falar sobre dinheiro com amigos ou família pode ajudar a entender melhor as coisas. Não sei muito sobre finanças, mas se falarmos, podemos aprender uns com os outros e tirar dúvidas. As outras opções parecem que só complicam as coisas."
+        ],
+        "Alto": [
+          "Conversar sobre dinheiro com pessoas de confiança é uma forma eficaz de desmistificar crenças financeiras limitantes, pois permite a troca de experiências e a desmistificação de tabus associados ao dinheiro. Essa abordagem promove um ambiente de aprendizagem e apoio, essencial para o desenvolvimento de uma literacia financeira saudável.",
+          "A opção A é a mais eficaz, pois dialogar sobre dinheiro com pessoas de confiança permite desmistificar crenças financeiras limitantes, promove uma troca de experiências e oferece novas perspetivas. As outras opções, como manter crenças em segredo ou evitar conversas, perpetuam a desinformação e não ajudam a confrontar as limitações financeiras.",
+          "Conversar sobre dinheiro com pessoas de confiança é uma forma eficaz de desmistificar crenças financeiras limitantes, pois permite a troca de experiências e a normalização de discussões sobre finanças, reduzindo o estigma associado ao tema. Este tipo de diálogo pode ajudar a identificar e desafiar crenças erradas, promovendo uma maior literacia financeira e um entendimento mais claro sobre a gestão de dinheiro.",
+          "A opção D é a mais eficaz porque a troca de experiências e informações sobre finanças com pessoas de confiança pode ajudar a desmistificar crenças limitantes, promovendo uma maior literacia financeira. A conversa aberta sobre dinheiro permite a partilha de conhecimentos e a confrontação de mitos associados às finanças pessoais, o que é fundamental para o desenvolvimento de uma mentalidade financeira saudável.",
+          "Conversar sobre dinheiro com pessoas de confiança é uma forma eficaz de desmistificar crenças financeiras limitantes, pois promove a troca de experiências e conhecimentos, permitindo que se confrontem mitos e se adquiram novas perspetivas. Os termos usados refletem a importância da comunicação aberta e do suporte social na educação financeira.",
+          "A opção C é a mais eficaz pois a comunicação aberta sobre dinheiro ajuda a desmistificar crenças financeiras limitantes. Falar com pessoas de confiança permite partilhar experiências e obter diferentes perspetivas, promovendo uma melhor literacia financeira e ajudando a superar estigmas associados a discussões sobre finanças.",
+          "A opção D é a mais eficaz porque discutir abertamente questões financeiras ajuda a desmistificar crenças limitantes e promove uma maior literacia financeira. Falar com pessoas de confiança permite partilhar experiências e aprender diferentes perspetivas, o que pode levar a uma melhor compreensão das finanças pessoais.",
+          "A opção C é a mais eficaz porque a troca de experiências e informações sobre dinheiro com pessoas de confiança pode ajudar a desmistificar crenças financeiras limitantes. Esta abordagem promove a educação financeira e a partilha de conhecimentos, permitindo que se confrontem ideias erradas e se desenvolvam percepções mais saudáveis sobre a gestão do dinheiro.",
+          "Conversar sobre dinheiro com pessoas de confiança permite a troca de informações e experiências, ajudando a desmistificar crenças limitantes. Esta abordagem é mais eficaz do que evitar o assunto ou manter crenças em segredo, pois promove um ambiente de aprendizagem e apoio mútuo.",
+          "A opção A é a mais eficaz, pois a partilha de experiências e conhecimentos sobre finanças pode ajudar a desmistificar crenças limitantes. Conversar com pessoas de confiança pode proporcionar uma nova perspetiva e encorajar uma abordagem mais saudável em relação ao dinheiro, ao mesmo tempo que diminui o estigma associado ao tema."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante incluir um valor para prazer no orçamento pessoal?",
+      "options": {
+        "A": "Evita frustração e descontrolo financeiro.",
+        "B": "Focar apenas nas necessidades básicas.",
+        "C": "Priorizar sempre poupança em detrimento de lazer.",
+        "D": "Definir um orçamento sem espaço para imprevistos."
+      },
+      "hint": "Considera o impacto emocional de um orçamento equilibrado.",
+      "rationale": "Incluir um valor para prazer no orçamento pessoal é importante para evitar frustração e descontrolo financeiro, alinhando os gastos com os valores pessoais.",
+      "tag": "Valores pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Valores pessoais', pois aborda a importância de equilibrar o orçamento pessoal com gastos que refletem os valores e prazeres individuais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de um orçamento equilibrado e a gestão das finanças pessoais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que se destaca sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de orçamento, mas algumas opções podem ser interpretadas de forma menos relevante em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica orienta eficazmente o raciocínio do participante, sugerindo que considere o impacto emocional de um orçamento equilibrado sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte e justificando adequadamente a resposta correta."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é importante ter um valor para prazer no orçamento porque, se não tivermos isso, podemos ficar muito frustrados e acabar por gastar mais do que devíamos. Não sei muito sobre os termos que falam, mas faz sentido querer ter um pouco de diversão sem ficar a dever dinheiro.",
+          "Acho que é importante ter algum dinheiro para coisas boas, senão ficamos chateados e podemos gastar muito de uma vez só. Não entendo bem essas palavras difíceis, mas sei que precisamos de um pouco de diversão no orçamento.",
+          "Porque, se não deixarmos um espaço para nos divertirmos, acabamos por ficar muito chateados e até podemos gastar mais do que devíamos. Não entendo bem os termos que usaram, mas parece que é importante ter um pouco de dinheiro para coisas que gostamos.",
+          "Acho que é importante ter um pouco de dinheiro para se divertir, senão a vida fica chata e podemos acabar a gastar tudo de uma vez quando temos vontade. Não conheço bem os termos, mas parece que se não incluirmos prazer no orçamento, podemos ficar frustrados.",
+          "Acho que é importante ter um pouco de dinheiro para coisas que gostamos, senão ficamos muito chateados e podemos gastar tudo de uma vez. Não percebo bem os termos técnicos, mas sei que é bom ter um equilíbrio entre o que precisamos e o que nos faz felizes.",
+          "Acho que é importante ter um pouco de dinheiro para coisas que gostamos de fazer, senão ficamos muito stressados e podemos acabar a gastar tudo de uma vez. Não entendo bem os termos técnicos, mas sei que é bom ter um equilíbrio entre gastar e poupar.",
+          "Acho que é importante ter um pouco de dinheiro para coisas que nos fazem felizes, senão ficamos sempre a pensar nas contas e isso pode ser chato. Não percebo bem os termos técnicos, mas sinto que se não incluirmos prazer no orçamento, podemos acabar a gastar tudo de uma vez e depois ter problemas.",
+          "Acho que é importante ter um pouco de diversão no orçamento porque se só pensarmos em poupar, acabamos por ficar chateados e a gastar tudo de uma vez. Não conheço bem os termos financeiros, mas sei que se não houver espaço para o que gostamos, podemos acabar a fazer dívidas ou a ficar tristes.",
+          "Acho que é importante ter algum dinheiro para coisas que nos fazem felizes, assim não ficamos sempre a pensar só nas contas e isso evita que fiquemos frustrados. Não percebo bem os termos técnicos, mas sei que se não tivermos um pouco de espaço para prazer, podemos acabar por gastar tudo de uma vez.",
+          "Acho que é importante ter um pouco de dinheiro para coisas que nos fazem felizes, senão acabamos por ficar chateados e podemos gastar tudo de uma vez. Não conheço bem os termos financeiros, mas sei que é sempre bom ter um equilíbrio."
+        ],
+        "Médio": [
+          "Acho que é importante ter um pouquinho de dinheiro para coisas que gostamos, senão ficamos muito chateados e podemos gastar de forma descontrolada. Não entendo bem os termos técnicos, mas sei que precisamos de um equilíbrio.",
+          "Eu acho que é importante ter um valor para prazer no orçamento, porque se não tivermos, podemos ficar muito frustrados. Às vezes, poupar muito pode fazer com que a gente se sinta mal e acabe por gastar tudo de uma vez, então é melhor ter um pouco para gastar e assim evitamos descontrolos.",
+          "Acho que é importante ter um valor para prazer no orçamento porque assim não ficamos só a pensar nas coisas chatas e isso pode evitar que fiquemos frustrados. Não percebo muito de finanças, mas parece que se não tivermos um pouco para gastar em coisas que gostamos, podemos acabar a gastar muito de uma vez e perder o controlo.",
+          "Acho que é importante ter um valor para o prazer no orçamento porque, se não tivermos, podemos ficar muito frustrados. Se só pensarmos em poupar e nas coisas necessárias, podemos acabar por gastar muito de uma vez quando sentimos que precisamos de diversão, e isso pode ser descontrolado.",
+          "Acho que é importante ter um espaço para lazer no orçamento, porque se não tivermos, acabamos por ficar muito stressados e a gastar tudo de uma vez. Isso pode levar a problemas financeiros, e eu não quero isso.",
+          "Acho que é importante ter um valor para prazer no orçamento porque se não tivermos, podemos ficar frustrados e acabar a gastar de forma descontrolada. Não conheço bem os termos mais técnicos, mas faz sentido ter um espaço para as coisas que gostamos.",
+          "Acho que é importante ter algum dinheiro para coisas que gostamos, senão acabamos por ficar muito frustrados e podemos acabar a gastar mais do que devíamos. Não percebo bem os termos técnicos, mas sei que se não incluirmos coisas para prazer, podemos perder o controlo do nosso orçamento.",
+          "Acho que é importante incluir um valor para prazer no orçamento porque assim não ficamos tão frustrados. Se só pensarmos em poupar, pode ser chato e depois gastamos tudo de uma vez sem pensar.",
+          "Acho que é importante ter algum dinheiro para coisas que nos fazem felizes, senão ficamos muito stressados e podemos acabar a gastar muito de uma vez. Não conheço bem os termos, mas parece-me que se não temos prazer no orçamento, podemos perder o controlo.",
+          "Acho que é importante ter um pouco de dinheiro para coisas que gostamos, senão ficamos frustrados e podemos gastar tudo de uma vez. Não conheço bem os outros termos, mas sei que se não tivermos um espaço para lazer, isso pode dar problemas."
+        ],
+        "Alto": [
+          "Incluir um valor para prazer no orçamento pessoal é fundamental para garantir um equilíbrio entre as necessidades e os desejos, evitando assim frustrações que podem levar ao descontrolo financeiro. Reconheço que a gestão do orçamento deve ser holística, considerando tanto a poupança quanto o lazer, para manter a motivação e a adesão ao plano financeiro.",
+          "Incluir um valor para prazer no orçamento pessoal é crucial para evitar frustrações e garantir que se mantém um equilíbrio entre poupança e consumo. Isso permite uma gestão financeira saudável, onde os imprevistos e as necessidades de lazer são considerados, evitando o descontrolo financeiro.",
+          "Incluir um valor para prazer no orçamento pessoal é fundamental para equilibrar as despesas com as necessidades e os desejos, evitando assim a frustração que pode levar a decisões financeiras impulsivas e descontrolo. Reconheço que um orçamento equilibrado deve contemplar tanto as necessidades básicas quanto um espaço para lazer, pois isso promove uma gestão financeira saudável e sustentável.",
+          "Incluir um valor para prazer no orçamento é essencial para garantir que existem recursos para atividades que promovem bem-estar e satisfação pessoal, ajudando a evitar a frustração que pode advir de um orçamento excessivamente restritivo. A abordagem equilibrada entre necessidades e desejos é fundamental para uma gestão financeira saudável.",
+          "Incluir um valor para prazer no orçamento pessoal é fundamental para evitar frustrações e o descontrolo financeiro, pois permite que a pessoa desfrute de atividades de lazer sem comprometer a sua saúde financeira. O equilíbrio entre necessidades, poupança e prazer é essencial para uma gestão financeira sustentável.",
+          "Incluir um valor para prazer no orçamento pessoal é crucial para manter um equilíbrio saudável entre poupança e lazer. Ignorar esse aspecto pode levar a frustrações e um eventual descontrolo financeiro, pois as pessoas podem sentir-se privadas e, assim, desviar-se do plano orçamental.",
+          "Incluir um valor para prazer no orçamento pessoal é vital para manter um equilíbrio saudável entre poupança e lazer, evitando a frustração que pode levar a desvios excessivos do plano orçamental. Reconheço que a gestão financeira consciente exige uma abordagem holística, onde o prazer é considerado para garantir a sustentabilidade das finanças pessoais.",
+          "Incluir um valor para prazer no orçamento pessoal é fundamental para manter um equilíbrio saudável entre poupança e lazer. Ignorar estes gastos pode levar a frustrações e a um eventual descontrolo financeiro, pois a privação excessiva pode resultar em impulsos de consumo descontrolados.",
+          "Incluir um valor para prazer no orçamento pessoal é crucial, pois permite um equilíbrio entre a satisfação das necessidades e a realização de desejos, evitando sentimentos de privação que podem levar a impulsos de gasto não controlados. Reconheço que a gestão do orçamento deve incluir uma margem para lazer, pois isso contribui para a saúde mental e a sustentabilidade financeira a longo prazo.",
+          "Incluir um valor para prazer no orçamento pessoal é fundamental para manter o equilíbrio entre as necessidades e os desejos. Isso previne a frustração que pode ocorrer se um orçamento for excessivamente restritivo, evitando assim o descontrolo financeiro que pode levar a gastos impulsivos."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o resultado de orçamentar 1.200€ de receitas e 1.130€ de despesas?",
+      "options": {
+        "A": "Uma margem de 70€ para poupança.",
+        "B": "Um défice de 70€ que precisa ser coberto.",
+        "C": "Um equilíbrio perfeito entre receitas e despesas.",
+        "D": "Uma necessidade de cortar despesas adicionais."
+      },
+      "hint": "Calcula a diferença entre receitas e despesas.",
+      "rationale": "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, a diferença de 70€ representa uma margem que pode ser poupada, demonstrando a importância de hábitos financeiros consistentes.",
+      "tag": "Hábitos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 3,
+          "justification": "A pergunta está relacionada com o tópico de hábitos financeiros, mas não aborda diretamente os hábitos mencionados no conteúdo-fonte, como levar almoço de casa ou adiar compras online."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas, pois a diferença entre receitas e despesas é uma noção básica de gestão financeira, embora não esteja diretamente ligada ao conteúdo-fonte."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta sem ambiguidades."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são plausíveis, mas alguns podem não ser tão relacionados com o conceito de orçamento, como 'um equilíbrio perfeito' que não se aplica a esta situação."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o participante a calcular a diferença, mas poderia ser mais específica em relação ao contexto da pergunta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar a importância da poupança com os hábitos financeiros mencionados no conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.9,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu sei que receitas são o dinheiro que entra e despesas são o que sai. Se eu tenho mais receitas do que despesas, isso significa que ainda sobrou algum dinheiro, que posso usar para poupança.",
+          "Eu não percebo muito de números e termos complicados, mas se as despesas são mais baixas que as receitas, pode ser que eu precise de cortar em alguma coisa para não ficar apertado. Não percebo bem o que é um défice ou uma margem.",
+          "Eu não entendo muito bem o que significam essas palavras todas, mas se eu tenho menos dinheiro a gastar do que o que ganho, parece que vou precisar de gastar menos. Portanto, a resposta A faz mais sentido para mim.",
+          "Eu não entendo bem os termos que estão a usar, mas se eu tenho mais receitas do que despesas, parece que sobra dinheiro. Então, é como se eu tivesse uma margem para guardar um bocado.",
+          "Eu acho que se eu tenho mais receitas do que despesas, então estou a ganhar um pouco e posso guardar algum dinheiro. Não entendo muito bem os outros termos, mas parece que essa é a melhor opção.",
+          "Eu não percebo bem esses números e termos complicados, mas se as despesas são mais altas do que as receitas, parece que precisamos de gastar menos. Portanto, a melhor opção parece ser a de cortar despesas.",
+          "Eu não percebo bem esses termos complicados, mas se tenho mais receitas do que despesas, parece que sobra dinheiro. Portanto, acho que é uma margem para poupança.",
+          "Eu não percebo bem esses termos todos, mas como as receitas são mais altas que as despesas, parece que sobra dinheiro, então deve ser uma margem para poupança.",
+          "Eu não entendo muito bem esses termos financeiros, mas parece que se estamos a ter mais receitas do que despesas, então podemos guardar um pouco, certo? Portanto, acho que isso significa que sobra dinheiro para poupança.",
+          "Eu não entendo muito bem o que significa défice ou equilíbrio, mas se as despesas são mais baixas que as receitas, parece que não é preciso cortar. Portanto, a opção A parece mais lógica para mim."
+        ],
+        "Médio": [
+          "Eu acho que se as receitas são maiores que as despesas, isso significa que ainda sobra dinheiro, que pode ser usado para poupança. Não conheço bem os termos como défice, mas parece que é bom ter um pouco a mais.",
+          "Eu sei que, se tenho 1.200€ de receitas e 1.130€ de despesas, isso significa que estou a ganhar mais do que gasto. Então, parece que sobra algum dinheiro, que seria a margem para poupança. Não conheço bem os termos como 'défice' ou 'equilíbrio perfeito', mas parece que estou no positivo.",
+          "Se as receitas são 1.200€ e as despesas são 1.130€, parece que sobra dinheiro. Portanto, eu diria que dá para poupar 70€. Não entendo bem os outros termos, mas parece simples que se sobra dinheiro, pode-se poupar.",
+          "Eu acho que se ganho 1.200€ e gasto 1.130€, sobra-me algum dinheiro, não é? Isso parece ser uma margem para poupança, mas não tenho certeza se é assim que se diz. Não percebo muito de orçamentos.",
+          "Eu sei que se as receitas são mais altas do que as despesas, isso significa que posso guardar algum dinheiro. Não estou muito certo sobre o que é um défice ou um equilíbrio, mas parece-me que ter 70€ a mais é uma boa coisa para poupar.",
+          "Eu acho que se eu tenho 1.200€ de receitas e 1.130€ de despesas, isso significa que ainda me sobram 70€, que posso usar para poupança. Não entendo muito bem os termos mais complicados, mas parece que é bom ter algum dinheiro a mais.",
+          "Parece-me que, se temos 1.200€ de receitas e 1.130€ de despesas, sobram 70€, o que é bom para poupar. Não reconheço bem os termos técnicos, mas parece que está tudo certo porque sobra dinheiro.",
+          "Eu acho que como as despesas são mais altas que as receitas, isso significa que há um défice. Não entendo bem os termos, mas parece que precisamos de arranjar dinheiro para cobrir essa diferença.",
+          "Se eu tenho 1.200€ de receitas e 1.130€ de despesas, parece que sobra dinheiro, que é 70€. Assim, eu posso guardar esse dinheiro para poupança. Não percebo bem os outros termos, mas parece que estou a ganhar mais do que gasto.",
+          "Se eu tenho 1.200€ de receitas e gasto 1.130€, parece que me sobra 70€. Isso dá-me a ideia de que posso poupar esse valor. Não conheço bem os termos como défice ou equilíbrio, mas poupar soa bem."
+        ],
+        "Alto": [
+          "Orçamentar 1.200€ de receitas e 1.130€ de despesas resulta numa margem de 70€, que pode ser considerada como uma oportunidade para poupança. Reconheço os termos utilizados, pois refletem uma prática saudável de gestão financeira pessoal ao permitir a alocação de uma parte das receitas para poupança após a cobertura das despesas.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, resulta um défice de 70€, pois as despesas superam as receitas. Este é um conceito claro de orçamento, onde a diferença entre receitas e despesas é essencial para entender a saúde financeira.",
+          "Ao orçamentar 1.200€ em receitas e 1.130€ em despesas, resulta numa diferença positiva de 70€, o que representa uma margem que pode ser direcionada para poupança. Reconheço os termos orçamentação, receitas e despesas, e entendo que um excedente financeiro é uma oportunidade para aumentar a poupança.",
+          "Com receitas de 1.200€ e despesas de 1.130€, resulta numa margem de 70€ (1.200€ - 1.130€), que pode ser utilizada para poupança. Esta análise reflete a compreensão de orçamentação e gestão financeira, reconhecendo a importância de poupar parte do excedente.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, resulta numa diferença positiva de 70€, que representa uma margem para poupança. O termo 'margem' é reconhecível e pertinente neste contexto, pois indica a quantia que pode ser destinada a poupança após cobrir todas as despesas.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, temos um excedente de 70€, que pode ser considerado como uma margem para poupança. Reconheço os termos usados, pois refletem conceitos fundamentais de gestão financeira, onde as receitas superam as despesas, permitindo a acumulação de capital.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, resulta numa diferença positiva de 70€, que pode ser considerada como uma margem de poupança. Reconheço a terminologia usada, pois a margem para poupança é o valor que sobra após cobrir as despesas, permitindo um planeamento financeiro mais sólido.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, resulta numa margem de 70€ que pode ser direcionada para poupança. Reconheço os termos utilizados, pois refletem a diferença entre receitas e despesas, que é fundamental em qualquer planeamento financeiro.",
+          "Ao orçamentar 1.200€ de receitas e 1.130€ de despesas, resulta numa diferença positiva de 70€, o que representa uma margem disponível para poupança. Este conceito é fundamental em literacia financeira, pois demonstra a importância de gastar menos do que se ganha para poder poupar.",
+          "Orçamentar 1.200€ de receitas e 1.130€ de despesas resulta numa margem positiva de 70€, que pode ser destinada à poupança. Este cálculo é simples e direto, pois a diferença entre receitas e despesas é claramente favorável, o que não indica a necessidade de cortes ou um défice."
+        ]
+      }
+    },
+    {
+      "question": "Como pode a educação financeira ajudar a reduzir a ansiedade financeira?",
+      "options": {
+        "A": "Desenvolvendo comportamentos mais saudáveis.",
+        "B": "Aumentando a dependência de crédito.",
+        "C": "Promovendo gastos impulsivos.",
+        "D": "Encorajando a omissão de problemas financeiros."
+      },
+      "hint": "Considera o papel da aprendizagem nas finanças pessoais.",
+      "rationale": "A educação financeira, através de leitura e cursos, pode ajudar a reduzir a ansiedade financeira ao desenvolver comportamentos mais saudáveis e uma melhor gestão das finanças pessoais.",
+      "tag": "Comportamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Comportamento financeiro', pois aborda como a educação financeira pode impactar a gestão das emoções e comportamentos financeiros."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância da literacia financeira na redução da ansiedade e na promoção de comportamentos saudáveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que se destaca claramente das demais."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de educação financeira, mas alguns podem ser considerados menos prováveis de serem escolhidos por alguém que compreende o tema."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o papel da aprendizagem nas finanças pessoais, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre como a educação financeira pode ajudar a mitigar a ansiedade financeira."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que a educação financeira pode ajudar a gente a lidar melhor com o dinheiro e a não ficar tão ansioso. Se soubermos como gastar de forma certa e não andar a comprar coisas que não precisamos, isso pode ajudar a sentir-nos mais calmos. Os outros termos não fazem muito sentido para mim.",
+          "Acho que a educação financeira pode ajudar a gente a ficar menos preocupado com o dinheiro, porque se aprendemos a lidar melhor com ele, vamos fazer escolhas mais certas. Não entendo bem os termos técnicos, mas parece que saber mais sobre como gastar e poupar é bom.",
+          "Acho que a educação financeira pode ajudar as pessoas a gastarem melhor e a não se preocuparem tanto com dinheiro. A opção C parece fazer sentido porque, se as pessoas souberem mais sobre como lidar com o dinheiro, podem se sentir mais calmas e seguras.",
+          "Acho que a educação financeira pode ajudar porque, se soubermos mais sobre como gerir o nosso dinheiro, podemos evitar stress e preocupações. Não conheço bem os termos, mas parece que aprender a controlar as despesas é melhor do que ficar a dever dinheiro ou a gastar à toa.",
+          "Acho que a educação financeira pode ajudar as pessoas a lidarem melhor com o dinheiro, fazendo-as pensar de forma mais saudável sobre como gastar. Não entendo bem os termos técnicos, mas parece que se a pessoa souber mais sobre dinheiro, vai ficar menos ansiosa.",
+          "Acho que se as pessoas soubessem mais sobre dinheiro, podiam tomar decisões melhores e não ficarem tão stressadas com contas. Não entendo bem os termos financeiros, mas parece que é bom saber mais para não gastar de forma louca.",
+          "Penso que a educação financeira ajuda as pessoas a saberem como gastar melhor e a não se preocuparem tanto com dinheiro. Se aprendemos a gerir o que temos, isso pode fazer com que fiquemos menos ansiosos.",
+          "Acho que a educação financeira pode ajudar as pessoas a lidarem melhor com o dinheiro e, assim, evitarem problemas que causam ansiedade. Não conheço muitos termos técnicos, mas parece lógico que saber gerir o que temos é bom para a nossa saúde mental.",
+          "Acho que ter uma boa educação financeira pode ajudar a gente a fazer melhores escolhas e a evitar problemas com dinheiro. Não entendo muito de termos complicados, mas sei que se aprendermos a gastar melhor, ficamos menos ansiosos.",
+          "Acho que a educação financeira pode ajudar as pessoas a entenderem melhor as suas despesas e a serem mais responsáveis com o dinheiro. Isso deve fazer com que se sintam menos ansiosas em relação a dinheiro, mesmo que eu não saiba o que são termos complicados."
+        ],
+        "Médio": [
+          "Acho que a educação financeira pode ajudar a ter melhores hábitos, como gastar menos e poupar mais, o que faz com que a gente se sinta mais tranquilo com o dinheiro. Não sei muito sobre os outros termos, mas parece que 'comportamentos saudáveis' é algo bom.",
+          "Acho que a educação financeira pode ajudar porque, se soubermos gerir melhor o nosso dinheiro, podemos evitar preocupações e stress. Não percebo bem os outros termos, mas parece que ter comportamentos saudáveis é o melhor caminho.",
+          "Acho que a educação financeira ajuda a aprender a gastar melhor e a poupar, o que pode fazer as pessoas se sentirem mais seguras com o dinheiro e menos nervosas. Não reconheço bem termos complicados, mas parece que entender como lidar com o dinheiro é importante.",
+          "Acho que a educação financeira pode ajudar as pessoas a serem mais organizadas com o dinheiro e a não gastar à toa. Isso faz com que fiquem menos preocupadas com dinheiro, porque sabem como planejar melhor.",
+          "Acho que quando se fala de educação financeira, é sobre aprender a lidar melhor com o dinheiro e a fazer escolhas melhores. Isso pode ajudar a sentir-me mais tranquilo em vez de preocupar-me tanto com dívidas ou gastar demasiado, mesmo que não saiba bem o que são todos os termos.",
+          "Acho que a educação financeira ajuda as pessoas a entenderem melhor o que estão a fazer com o dinheiro, e isso pode fazer com que se sintam mais seguras e menos ansiosas. Não conheço bem os outros termos, mas parece que os outros falam de coisas que não são boas.",
+          "Acho que a educação financeira pode ajudar porque se aprendermos a gerir melhor o nosso dinheiro, ficamos menos stressados com dívidas e contas. Não conheço bem os termos técnicos, mas parece que saber como poupar e gastar bem pode fazer com que nos sintamos mais tranquilos.",
+          "Acho que a educação financeira pode ajudar a ter uma melhor relação com o dinheiro e a evitar preocupações. Se aprendermos a gerir melhor o que temos, podemos gastar com mais calma e evitar dívidas. Não conheço bem os termos técnicos, mas parece-me que ser mais responsável com o dinheiro ajuda a ficar menos ansioso.",
+          "Eu acho que a educação financeira pode ajudar porque, se aprendermos a gerir melhor o nosso dinheiro e a fazer escolhas mais sensatas, isso pode fazer-nos sentir menos stressados. Não percebo bem os termos técnicos, mas parece lógico que saber mais sobre dinheiro ajuda a evitar problemas.",
+          "Acredito que aprender sobre finanças pode ajudar a fazer escolhas melhores, como gastar menos e poupar mais. Não entendo bem os termos técnicos, mas sei que ter um bom comportamento financeiro pode reduzir a preocupação com dinheiro."
+        ],
+        "Alto": [
+          "A educação financeira proporciona as ferramentas necessárias para gerir melhor as finanças, levando a uma maior segurança e controle sobre as despesas. Isso reduz a ansiedade financeira ao promover uma abordagem consciente e planeada em relação ao dinheiro, ao invés de estratégias como omissão ou dependência de crédito.",
+          "A educação financeira capacita os indivíduos a gerir melhor os seus recursos, promovendo uma compreensão clara de orçamentos, poupança e investimento. Isso leva ao desenvolvimento de comportamentos financeiros mais saudáveis, reduzindo a ansiedade associada à incerteza financeira.",
+          "A educação financeira capacita os indivíduos a tomarem decisões mais informadas sobre o seu dinheiro, o que, por sua vez, reduz a ansiedade financeira ao criar uma maior compreensão e controle sobre as suas finanças. Esta abordagem promove comportamentos saudáveis no que toca ao orçamento e à poupança, ao invés de encorajar a omissão de problemas ou dependência de crédito.",
+          "A educação financeira ajuda a reduzir a ansiedade financeira ao promover comportamentos mais saudáveis, como o planeamento orçamental e a poupança, que permitem uma melhor gestão dos recursos financeiros. Ao compreender melhor as suas finanças, as pessoas podem tomar decisões informadas, reduzindo assim a incerteza e a ansiedade associada a problemas financeiros.",
+          "A educação financeira ajuda a desenvolver comportamentos saudáveis em relação ao dinheiro, como o planeamento orçamental e a poupança, que podem reduzir a ansiedade financeira ao proporcionar um maior controlo sobre as finanças pessoais. Reconheço a importância de cultivar hábitos financeiros positivos para evitar problemas como dívidas excessivas e stress financeiro.",
+          "A educação financeira ajuda a desenvolver comportamentos mais saudáveis, como o planeamento orçamental e a poupança, o que por sua vez reduz a ansiedade financeira. Esta opção reconhece que adquirir conhecimentos financeiros adequados permite uma melhor gestão dos recursos e evita decisões impulsivas, contribuindo para uma maior tranquilidade financeira.",
+          "A educação financeira ajuda a desenvolver comportamentos mais saudáveis ao fornecer conhecimentos e ferramentas que permitem uma melhor gestão do orçamento, evitando a dependência excessiva de crédito e os gastos impulsivos. Isso, por sua vez, reduz a ansiedade financeira, pois as pessoas se sentem mais preparadas e seguras em relação às suas finanças.",
+          "A educação financeira ajuda a desenvolver comportamentos mais saudáveis ao promover a literacia em gestão de finanças pessoais, permitindo que os indivíduos façam escolhas informadas, estabeleçam orçamentos e criem poupanças, o que reduz a incerteza e a ansiedade relacionadas com a sua situação financeira. As outras opções, como promover gastos impulsivos ou aumentar a dependência de crédito, apenas exacerbariam a ansiedade financeira.",
+          "A educação financeira capacita os indivíduos a compreenderem melhor a gestão do seu dinheiro, promovendo decisões de gasto mais conscientes e um planeamento financeiro adequado. Isso reduz a ansiedade financeira, pois as pessoas sentem-se mais no controlo da sua situação financeira e capazes de enfrentar desafios económicos.",
+          "A educação financeira ajuda a desenvolver comportamentos mais saudáveis ao ensinar os indivíduos a gerir melhor os seus recursos, a planear orçamentos e a evitar a dívida excessiva. Isso contribui para uma maior confiança nas suas capacidades financeiras e, consequentemente, reduz a ansiedade associada à instabilidade financeira."
+        ]
+      }
+    },
+    {
+      "question": "Como pode a entrega do IRS ser vista positivamente em termos de identidade financeira?",
+      "options": {
+        "A": "Como uma oportunidade para planeamento financeiro.",
+        "B": "Como uma obrigação burocrática sem benefícios.",
+        "C": "Como uma tarefa anual sem impacto financeiro.",
+        "D": "Como um fardo financeiro inevitável."
+      },
+      "hint": "Pensa em como reavaliar um evento financeiro comum.",
+      "rationale": "Ver a entrega do IRS como uma oportunidade para planeamento financeiro pode ajudar a construir uma identidade financeira mais positiva, mudando a forma de pensar sobre as finanças pessoais.",
+      "tag": "Identidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Identidade financeira', pois aborda como a entrega do IRS pode influenciar a percepção e o comportamento financeiro de um indivíduo."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas no conteúdo-fonte, embora a ligação ao conceito de identidade financeira possa ser mais explicitada."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de entrega do IRS, mas alguns podem ser considerados menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica para direcionar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais forte com o conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.3,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito bem sobre finanças, mas acho que o IRS é só uma coisa que temos de fazer todos os anos, não vejo como isso pode mudar a nossa situação financeira. Para mim, é só uma obrigação que não traz grandes consequências.",
+          "Eu não percebo muito bem de finanças, mas para mim, entregar o IRS parece mais uma coisa chata que tenho de fazer e que não vejo como me ajuda. É só mais uma papelada que não traz nada de bom.",
+          "Para mim, entregar o IRS parece mais uma obrigatoriedade chata que temos de fazer todos os anos e não vejo grandes vantagens nisso. Não percebo bem o que se pode planear com isso, parece só uma tarefa que tira tempo e não traz nada de bom.",
+          "Para mim, entregar o IRS parece só uma coisa que tenho que fazer todos os anos, mas não vejo como isso afeta o meu dinheiro de verdade. Não entendo bem os benefícios ou se é uma oportunidade, por isso acho que é só uma tarefa sem grande importância.",
+          "Para mim, entregar o IRS parece mais uma tarefa chata e sem grande importância. Não entendo muito bem como isso pode ajudar financeiramente, então vejo como algo que só dá trabalho e não traz vantagens.",
+          "Para mim, a entrega do IRS parece mais uma chatice que somos obrigados a fazer todos os anos e não vejo como isso pode ajudar em algo. Não percebo bem esses termos de planeamento ou identidade financeira, então para mim é só uma burocracia sem grande impacto.",
+          "Eu vejo o IRS como algo que temos que fazer todos os anos, mas não percebo bem se tem realmente um impacto nas minhas finanças. Para mim, é só uma coisa chata que tenho que entregar e não vejo como isso pode ajudar ou prejudicar o meu dinheiro.",
+          "Acho que a entrega do IRS é só mais uma coisa que temos que fazer e não vejo muitos benefícios. Para mim, é apenas uma obrigação chata que não traz nada de bom.",
+          "Eu não percebo muito sobre finanças, mas parece-me que entregar o IRS é só mais uma coisa que temos de fazer e que não traz grandes vantagens. Para mim, é só uma obrigação e não vejo onde isso possa ajudar na minha vida financeira.",
+          "Eu não percebo muito sobre finanças e termos complicados, mas para mim, entregar o IRS parece só uma chateação que tenho que fazer todos os anos e não vejo grandes vantagens nisso. É só mais uma obrigação que as pessoas têm."
+        ],
+        "Médio": [
+          "A entrega do IRS pode ser uma forma de ver o que ganhei e onde posso gastar melhor. Mesmo que não perceba todos os detalhes, sei que pode ajudar a organizar as minhas finanças.",
+          "Acho que a entrega do IRS é apenas mais uma coisa que precisamos fazer, como uma obrigação. Não vejo muitos benefícios, só parece complicado e chato, e não entendo muito bem o que isso tem a ver com a nossa identidade financeira.",
+          "Acho que a entrega do IRS é só uma coisa que se faz todos os anos e não vejo como isso pode ter um impacto real nas finanças. Não entendo bem de planeamento ou benefícios, e para mim parece mais uma obrigação do que uma oportunidade.",
+          "Eu vejo o IRS mais como uma coisa que temos de fazer, tipo uma obrigação, do que como algo que nos traz benefícios. Não percebo bem como isso pode ajudar no nosso planeamento financeiro, parece só mais uma burocracia sem grandes vantagens.",
+          "Eu vejo o IRS como algo que tenho de fazer, tipo uma papelada chata. Não percebo muito bem como isso pode ajudar nas minhas finanças, então parece mais uma obrigação do que uma oportunidade.",
+          "Acho que o IRS pode ser visto como uma oportunidade, porque ao fazer isso, podemos perceber melhor como gastamos o nosso dinheiro e talvez até ver se conseguimos poupar ou ter algum reembolso. Não conheço muitos detalhes, mas parece-me que pode ajudar a organizar as finanças.",
+          "Eu vejo a entrega do IRS como algo que tenho de fazer todos os anos, mas não acho que tenha um impacto real nas minhas finanças. Não entendo muito bem como isso pode ajudar a planear ou a melhorar a situação financeira.",
+          "Eu acho que a entrega do IRS pode ser uma oportunidade porque, de certa forma, podemos ver quanto ganhamos e quanto pagamos. Mesmo que não perceba tudo, parece que é uma maneira de organizar as nossas finanças e talvez até de pensar em como poupar ou gastar melhor.",
+          "Eu acho que a entrega do IRS é mais uma chatice que temos de fazer todos os anos e não vejo grandes benefícios nisso. Para mim, é só uma obrigação que nos dá trabalho e não ajuda muito a nossa situação financeira.",
+          "Eu vejo o IRS como uma coisa que temos que fazer todos os anos, mas não acho que traga grandes benefícios. Parece mais uma obrigação do que uma oportunidade de melhorar as nossas finanças."
+        ],
+        "Alto": [
+          "A entrega do IRS pode ser vista como uma oportunidade para planeamento financeiro porque permite ao contribuinte avaliar a sua situação financeira anual, identificar potenciais deduções e créditos fiscais, e ajustar o seu orçamento e poupança para o ano seguinte. Reconheço a importância de entender os impactos fiscais no planeamento financeiro pessoal, pois isso pode influenciar decisões sobre poupança e investimento.",
+          "A entrega do IRS pode ser vista como uma oportunidade para planeamento financeiro, pois permite analisar a situação financeira do contribuinte, identificar deduções e créditos fiscais, e planear melhor os próximos anos. Isso ajuda a otimizar a carga fiscal e a fazer escolhas financeiras mais informadas.",
+          "A entrega do IRS é uma oportunidade para analisar a situação financeira anual, permitindo identificar deduções, otimizar a poupança e ajustar o planeamento financeiro para o ano seguinte. Este processo não deve ser visto apenas como uma obrigação, mas como uma ferramenta que pode contribuir para a saúde financeira pessoal.",
+          "A entrega do IRS pode ser vista como uma oportunidade para planeamento financeiro, pois permite ao contribuinte avaliar a sua situação financeira, refletir sobre despesas e receitas, e ajustar o seu orçamento de forma a maximizar deduções fiscais e evitar surpresas no futuro. Reconheço os termos usados, pois a análise do IRS é crucial para uma gestão financeira eficiente.",
+          "A entrega do IRS deve ser encarada como uma oportunidade para analisar a situação financeira pessoal, permitindo identificar deduções e créditos fiscais que podem otimizar a carga tributária. Além disso, é um momento propício para rever despesas e poupanças, contribuindo para um melhor planeamento financeiro a longo prazo.",
+          "A entrega do IRS deve ser encarada como uma oportunidade para realizar um planeamento financeiro eficaz, pois permite aos contribuintes reverem as suas despesas e rendimentos do ano anterior, identificando áreas onde podem otimizar a sua situação fiscal e financeira. Isso possibilita a maximização de reembolsos e a minimização de encargos fiscais, contribuindo assim para uma melhor saúde financeira.",
+          "A entrega do IRS deve ser vista como uma oportunidade para planear as finanças, pois permite avaliar a situação fiscal, identificar deduções e otimizar a gestão de recursos. Reconheço que o planeamento financeiro eficaz pode levar a benefícios a longo prazo, como uma melhor alocação de investimentos e maximização de poupanças.",
+          "A entrega do IRS deve ser encarada como uma oportunidade para o planeamento financeiro, pois permite analisar rendimentos, despesas e deduções, possibilitando uma melhor gestão fiscal e a maximização de reembolsos. Reconheço que a declaração de IRS é uma ferramenta essencial para a organização financeira pessoal e para a otimização de estratégias de poupança.",
+          "A entrega do IRS deve ser vista como uma oportunidade para planeamento financeiro, pois permite avaliar rendimentos, despesas e deduções, o que pode levar a uma melhor gestão do orçamento e a estratégias de poupança. Reconheço que este processo é fundamental para entender a situação financeira pessoal e maximizar benefícios fiscais.",
+          "A entrega do IRS deve ser vista como uma oportunidade para planeamento financeiro, pois permite ao contribuinte avaliar a sua situação financeira global, identificar deduções fiscais e otimizar a sua carga tributária. Além disso, a reavaliação anual das finanças pessoais através do IRS pode contribuir para um melhor controlo orçamental e uma efetiva gestão de poupanças."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma prática essencial para alcançar a estabilidade financeira?",
+      "options": {
+        "A": "Resistir a compras impulsivas.",
+        "B": "Fazer compras por impulso para aproveitar promoções.",
+        "C": "Evitar todas as formas de crédito.",
+        "D": "Investir em esquemas de enriquecimento rápido."
+      },
+      "hint": "Considera a importância do controlo nas decisões de compra.",
+      "rationale": "Resistir a compras impulsivas é uma prática essencial para manter hábitos financeiros saudáveis e alcançar a estabilidade financeira, demonstrando autocontrolo e disciplina.",
+      "tag": "Autocontrolo e disciplina",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Autocontrolo e disciplina', pois aborda práticas que envolvem controle nas finanças pessoais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância do autocontrolo e da disciplina nas finanças."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de finanças, mas a opção B, por exemplo, é claramente errada, o que pode ser um ponto fraco."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a importância do controle nas decisões de compra, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do autocontrolo para a estabilidade financeira."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que resistir a compras impulsivas é importante porque assim não gastamos dinheiro à toa e conseguimos poupar. Não conheço bem esses termos técnicos, mas parece que é melhor controlar o que compramos.",
+          "Eu acho que fazer compras por impulso é algo bom, especialmente quando há promoções. Se vejo algo que gosto a um preço baixo, porque não comprar? Isso parece uma boa maneira de aproveitar as oportunidades.",
+          "Acho que é importante não comprar tudo o que vemos, senão depois não temos dinheiro para coisas que realmente precisamos. Não percebo muito de finanças, mas sei que gastar demais não é bom.",
+          "Eu acho que evitar crédito é importante porque assim não me meto em dívidas. O resto parece complicado ou arriscado, e eu não gosto de comprar coisas sem pensar.",
+          "Eu acho que aproveitar as promoções é importante, mesmo que eu não saiba bem o que isso significa em termos financeiros. Às vezes, é difícil resistir a comprar coisas que parecem boas ofertas.",
+          "Eu acho que aproveitar promoções é uma boa ideia, porque se está a gastar menos, então é bom. Não percebo muito de finanças, mas parece que é uma maneira inteligente de comprar coisas.",
+          "Acho que aproveitar promoções é sempre uma boa ideia, mesmo que compre coisas que não preciso. Não entendo bem termos como 'estabilidade financeira', mas parece que comprar coisas em promoção é uma forma de economizar, certo?",
+          "Eu não percebo muito destas coisas de dinheiro, mas às vezes acho que se vejo uma promoção, é melhor comprar logo antes que acabe. Parece que é uma boa ideia aproveitar as ofertas, mesmo que não precise realmente daquilo.",
+          "Acho que evitar crédito é uma boa ideia, porque assim não fico a dever dinheiro a ninguém. Não percebo bem o que são esquemas de enriquecimento ou compras impulsivas, mas parece que o melhor é não me meter em dívidas.",
+          "Acho que a melhor opção é resistir a compras impulsivas, porque às vezes compramos coisas que não precisamos e isso pode complicar a nossa vida. Não entendo muito bem os termos financeiros, mas sei que controlar os gastos é importante."
+        ],
+        "Médio": [
+          "Acho que resistir a compras impulsivas é importante para não gastar dinheiro à toa. Não sei muito sobre finanças, mas sei que comprar só quando realmente precisamos é uma boa ideia para não ficar sem dinheiro.",
+          "Acho que resistir a compras impulsivas é importante, porque assim não gasto dinheiro à toa. Não entendo bem os outros termos, mas sei que gastar sem pensar pode dar problemas.",
+          "Acho que resistir a compras que não preciso é importante, porque assim consigo poupar mais dinheiro e não gastar à toa. Não conheço muito sobre investimentos ou crédito, mas sei que é bom controlar os gastos.",
+          "Acho que evitar crédito é bom porque assim não fico com dívidas. Não percebo muito bem como funciona o crédito, mas parece arriscado. As outras opções parecem um pouco confusas ou não tão boas.",
+          "Acho que é melhor não comprar coisas de forma rápida, porque assim não gasto muito dinheiro. Não percebo bem de finanças, mas parece que controlar as compras pode ajudar a ter mais dinheiro no fim do mês.",
+          "Acho que resistir a compras impulsivas é importante porque ajuda a não gastar dinheiro à toa. As outras opções parecem arriscadas ou más ideias, como evitar crédito totalmente ou investir em esquemas que não conheço.",
+          "Acho que resistir a compras impulsivas é importante porque muitas vezes gastamos dinheiro em coisas que não precisamos. Não conheço bem os outros termos, como esquemas de enriquecimento rápido, mas parece-me que podem ser arriscados.",
+          "Acho que é importante não comprar coisas só porque estão em promoção, porque isso pode fazer com que eu gaste mais do que deveria. Não entendo bem os termos financeiros, mas parece que controlar as compras ajuda a ter mais dinheiro no fim do mês.",
+          "Acho que resistir a compras impulsivas é importante porque assim não gasto dinheiro à toa. Os outros pontos parecem arriscados ou não fazem sentido para mim.",
+          "Acho que resistir a compras impulsivas é importante porque é fácil gastar dinheiro sem pensar. Não entendo muito sobre investimentos ou crédito, mas sei que controlar o que compramos ajuda a ter mais dinheiro no final do mês."
+        ],
+        "Alto": [
+          "A prática de resistir a compras impulsivas é fundamental para alcançar a estabilidade financeira, pois permite um melhor controlo do orçamento e evita gastos desnecessários. Esta escolha reconhece a importância de uma gestão financeira consciente, evitando decisões que possam comprometer a saúde financeira a longo prazo.",
+          "Resistir a compras impulsivas é uma prática fundamental para alcançar a estabilidade financeira, pois permite manter um orçamento equilibrado e evitar dívidas desnecessárias. Essa abordagem é essencial para a gestão eficaz das finanças pessoais, alinhando-se com os princípios de poupança e planeamento financeiro.",
+          "A resistência a compras impulsivas é uma prática essencial para alcançar a estabilidade financeira, pois permite controlar gastos e priorizar a poupança e o investimento a longo prazo. Reconheço que evitar compras impulsivas ajuda a evitar endividamento desnecessário, o que é fundamental para um bom planeamento financeiro pessoal.",
+          "A opção D é a mais adequada, pois resistir a compras impulsivas ajuda a manter um orçamento equilibrado e a poupança, fundamentais para a estabilidade financeira. As compras impulsivas podem comprometer a capacidade de investir e poupar, levando a dificuldades financeiras a longo prazo.",
+          "Resistir a compras impulsivas é fundamental para a estabilidade financeira, pois permite que uma pessoa mantenha o controle sobre o seu orçamento e evite gastos desnecessários que podem comprometer a sua poupança e investimentos. Ao evitar decisões financeiras impulsivas, a pessoa pode planear melhor as suas finanças e construir uma base sólida para o futuro.",
+          "A resistência a compras impulsivas é fundamental para alcançar a estabilidade financeira, pois permite manter o controlo sobre o orçamento e priorizar poupança e investimento a longo prazo, evitando o endividamento desnecessário. Os outros comportamentos, como investir em esquemas de enriquecimento rápido ou fazer compras por impulso, podem levar a perdas financeiras e instabilidade.",
+          "A resistência a compras impulsivas é fundamental para alcançar a estabilidade financeira, pois permite que um indivíduo mantenha o controlo sobre os seus gastos e priorize a poupança e o investimento. Fazer compras por impulso pode levar a um desequilíbrio orçamental e ao endividamento, enquanto evitar dívidas e focar nas necessidades reais ajuda a construir um futuro financeiro sólido.",
+          "A resistência a compras impulsivas é fundamental para a manutenção de um orçamento saudável e para evitar o endividamento desnecessário. A literacia financeira implica reconhecer a importância de controlar os gastos e priorizar a poupança e o investimento a longo prazo, em vez de ceder a impulsos momentâneos.",
+          "A prática de resistir a compras impulsivas é fundamental para alcançar a estabilidade financeira, pois permite um melhor controlo do orçamento e contribui para a poupança. As outras opções não promovem uma gestão financeira saudável: evitar todas as formas de crédito pode ser prejudicial em certas circunstâncias, investir em esquemas de enriquecimento rápido é arriscado e fazer compras por impulso geralmente resulta em despesas desnecessárias.",
+          "Resistir a compras impulsivas é crucial para alcançar a estabilidade financeira, pois permite manter o controlo sobre o orçamento e priorizar o que é realmente necessário. As outras opções, como investir em esquemas de enriquecimento rápido ou fazer compras por impulso, representam comportamentos que podem comprometer a saúde financeira a longo prazo."
+        ]
+      }
+    },
+    {
+      "question": "Como pode um propósito financeiro claro influenciar as decisões financeiras?",
+      "options": {
+        "A": "Dá sentido e mantém o foco nas metas.",
+        "B": "Aumenta a ansiedade sobre decisões financeiras.",
+        "C": "Dificulta a adaptação a mudanças financeiras.",
+        "D": "Impede a flexibilidade em oportunidades inesperadas."
+      },
+      "hint": "Reflete sobre o impacto de ter objetivos financeiros definidos.",
+      "rationale": "Ter um propósito financeiro claro, como poupar para um fundo de emergência, dá sentido às decisões financeiras, ajudando a manter o foco e a motivação para alcançar as metas.",
+      "tag": "Propósito financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Propósito financeiro', pois explora como um propósito claro pode influenciar decisões financeiras, que é o conhecimento que este tópico pretende avaliar."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de ter um objetivo claro para a concretização de metas financeiras."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, embora a opção B, por exemplo, possa ser considerada menos relevante em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante reflita sobre o impacto de ter objetivos financeiros, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao mencionar como um propósito financeiro claro ajuda a manter o foco e a motivação."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que ter um propósito claro ajuda a saber o que realmente queremos. Se estamos focados, é mais fácil decidir o que fazer com o dinheiro, mesmo que não perceba bem os termos técnicos.",
+          "Acho que ter um objetivo financeiro ajuda a saber o que quero e a não me perder com outras coisas. Se tenho um plano, fica mais fácil decidir o que fazer com o meu dinheiro.",
+          "Eu acho que ter um propósito financeiro ajuda a saber o que queremos alcançar, mesmo que eu não perceba bem os termos técnicos. Assim, fica mais fácil decidir como gastar ou poupar o dinheiro.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber para onde estamos a ir. Assim, conseguimos manter o foco e não nos perder em decisões que podem não fazer sentido.",
+          "Acho que ter um propósito financeiro claro ajuda a perceber melhor o que queremos e a não nos perdermos em coisas que não são importantes. Não entendo bem os termos técnicos, mas parece-me que, se sabemos o que queremos, fica mais fácil tomar decisões.",
+          "Acho que ter um propósito financeiro ajuda a saber o que queremos fazer com o dinheiro, como poupar ou comprar algo importante. Não percebo bem as outras opções, mas parece que esta é a que faz mais sentido.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber para onde estamos a ir com o dinheiro. Assim, é mais fácil decidir o que fazer, em vez de ficar confuso ou a pensar em mil coisas.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber o que queremos alcançar, como poupar para uma viagem ou comprar uma casa. Assim, focamo-nos no que é importante e não nos perdemos em gastos desnecessários.",
+          "Eu acho que ter um propósito claro ajuda a saber para onde estamos a ir com o dinheiro. Se sabemos o que queremos, fica mais fácil decidir como gastar ou poupar. Não entendo muito de termos financeiros, mas parece que faz sentido.",
+          "Acho que ter um propósito financeiro ajuda a saber o que queremos e a não nos perder em decisões. Não conheço bem os termos financeiros, mas parece lógico que ter um objetivo claro nos ajuda a manter o foco."
+        ],
+        "Médio": [
+          "Acho que ter um propósito financeiro claro ajuda a saber o que queremos e nos dá uma direção. Assim, conseguimos focar nas nossas metas e tomar melhores decisões, mesmo que não entenda completamente todos os termos.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber o que queremos e isso faz com que não nos dispersemos com outras coisas. Assim, podemos concentrar-nos mais nas nossas metas e no que realmente importa, mesmo que eu não perceba bem todos os termos.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber o que queremos e isso pode nos guiar nas decisões. Assim, é mais fácil manter o foco nas nossas metas, mesmo que eu não entenda bem todos os termos técnicos.",
+          "Eu acho que ter um propósito financeiro claro ajuda a saber o que queremos alcançar. Assim, ficamos mais focados nas nossas metas e não nos deixamos levar por outras coisas que aparecem.",
+          "Acho que ter um propósito financeiro ajuda a saber o que queremos, tipo poupar para algo especial. Isso faz com que as decisões sejam mais fáceis, porque sabemos para onde estamos a ir. Não entendo bem os termos financeiros, mas sinto que ter um objetivo é bom.",
+          "Acho que ter um propósito financeiro claro ajuda a saber o que queremos e a não nos distrairmos com coisas que não são importantes. Não conheço bem os outros termos, mas parece que um propósito ajuda a tomar decisões melhores.",
+          "Penso que ter um propósito financeiro ajuda a ter uma ideia clara do que queremos, assim podemos focar nas nossas metas, como poupar para uma viagem ou algo que queremos comprar. Os outros pontos parecem mais negativos e não ajudam muito.",
+          "Penso que ter um propósito financeiro claro ajuda a saber o que queremos e a manter o foco nas nossas metas, que é importante. Não conheço bem os outros termos, mas parece que ter uma direção é sempre bom.",
+          "Acho que ter um propósito financeiro é importante porque ajuda a saber para onde queremos ir com o dinheiro. Assim, é mais fácil tomar decisões, em vez de ficar confuso ou nervoso com o que fazer.",
+          "Acho que ter um propósito financeiro ajuda a saber o que queremos e a não nos perdermos. Sem um objetivo claro, podemos gastar dinheiro em coisas que não são importantes."
+        ],
+        "Alto": [
+          "Um propósito financeiro claro orienta as decisões, ajudando a priorizar gastos e investimentos em função das metas estabelecidas. Isso permite uma melhor gestão dos recursos, tornando mais fácil resistir a decisões impulsivas e manter a disciplina financeira.",
+          "Um propósito financeiro claro é fundamental para orientar as decisões financeiras, pois proporciona uma direção e prioriza as metas a longo prazo. Reconheço a importância de ter um objetivo definido, uma vez que isso ajuda a evitar decisões impulsivas e a concentrar esforços em poupança e investimentos que estão alinhados com os meus objetivos financeiros.",
+          "Um propósito financeiro claro serve como um guia para as decisões financeiras, permitindo que o indivíduo mantenha o foco nas suas metas e direcione os seus recursos de forma eficaz. Reconheço que ter um objetivo definido ajuda a evitar distrações e a tomar decisões mais informadas e alinhadas com o que se quer alcançar financeiramente.",
+          "Um propósito financeiro claro orienta as decisões, permitindo que o indivíduo mantenha a clareza nas suas metas e evite dispersões. Essa clareza é essencial para o planeamento financeiro eficaz e para a maximização da poupança e investimento, reconhecendo a importância de alinhar ações com objetivos financeiros específicos.",
+          "Um propósito financeiro claro é fundamental para direcionar as decisões financeiras, pois permite que o indivíduo estabeleça prioridades e mantenha a disciplina nas suas ações. Reconheço a importância de definir metas específicas, pois isso ajuda a evitar dispersões e facilita a avaliação do progresso em relação ao objetivo financeiro definido.",
+          "Um propósito financeiro claro é fundamental para orientar decisões financeiras, pois permite estabelecer prioridades e avaliar se as escolhas estão alinhadas com os objetivos definidos. Reconheço que esta opção reflete a importância de ter um plano claro, o que ajuda a evitar a dispersão e a manter a disciplina financeira.",
+          "Um propósito financeiro claro é fundamental, pois orienta as decisões e prioriza ações que estão alinhadas com as metas a longo prazo. Isso evita dispersão e ajuda na gestão eficiente dos recursos financeiros, permitindo que se mantenha um foco claro nas prioridades financeiras, o que é essencial para um planeamento financeiro bem-sucedido.",
+          "Um propósito financeiro claro é fundamental para orientar as decisões e ações financeiras. Ele permite que o indivíduo mantenha o foco nas suas metas, evitando distrações e promovendo uma gestão mais eficaz dos recursos, o que é essencial para alcançar objetivos financeiros a longo prazo.",
+          "Um propósito financeiro claro é fundamental para orientar as decisões financeiras, pois proporciona uma direção e um foco nas metas estabelecidas. Isso permite que o indivíduo priorize despesas e investimentos que estejam alinhados com os seus objetivos financeiros, evitando distrações e decisões impulsivas.",
+          "Um propósito financeiro claro serve como um norte que orienta as decisões financeiras, permitindo que uma pessoa mantenha o foco em suas metas a longo prazo. Reconheço que isso é fundamental para uma boa gestão financeira, pois ajuda a priorizar despesas, investimentos e estratégias de poupança, alinhando as ações diárias com os objetivos financeiros estabelecidos."
+        ]
+      }
+    },
+    {
+      "question": "Que comportamento pode indicar uma mentalidade financeira negativa?",
+      "options": {
+        "A": "Evitar ver o saldo da conta.",
+        "B": "Revisar frequentemente os gastos mensais.",
+        "C": "Estabelecer metas de poupança a longo prazo.",
+        "D": "Investir em formação financeira contínua."
+      },
+      "hint": "Pensa em ações que refletem ansiedade financeira.",
+      "rationale": "Evitar ver o saldo da conta é um comportamento que pode indicar uma mentalidade financeira negativa, associada à ansiedade financeira.",
+      "tag": "Mentalidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mentalidade financeira' e avalia um comportamento que reflete essa mentalidade, alinhando-se perfeitamente com o que se pretende avaliar."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona comportamentos associados à ansiedade financeira, como evitar ver o saldo da conta."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 2,
+          "justification": "Os distratores, embora relacionados com finanças, não são plausíveis como comportamentos que indicam uma mentalidade financeira negativa, pois revisar gastos e estabelecer metas de poupança são comportamentos positivos."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que se pense em ações que refletem ansiedade financeira, mas poderia ser mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar a resposta com outros comportamentos mencionados no conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não está a lidar bem com o dinheiro. Não percebo bem todos esses termos técnicos, mas parece que quem não quer saber do saldo pode estar a ter problemas financeiros.",
+          "Acho que evitar ver o saldo da conta é uma coisa que se faz quando não se quer saber de problemas. Não entendo bem esses termos financeiros, mas parece que se a pessoa não quer olhar, é porque está com medo de ver que não tem dinheiro.",
+          "Se não vejo o saldo da conta, é como se não quisesse saber do dinheiro que tenho, o que pode ser um sinal de que não me importo muito com isso. Não entendo bem os termos financeiros, mas parece que evitar ver o saldo é algo que alguém que não tem uma boa mentalidade em relação ao dinheiro faria.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer saber como está a sua situação financeira. Não entendo bem o que são metas de poupança ou formação financeira, mas parece que quem está a tratar bem do seu dinheiro não teria esse comportamento.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer lidar com a situação financeira. Não percebo muito de finanças, mas parece que se alguém não quer olhar para o que tem, é porque está a ter dificuldades.",
+          "Acho que evitar ver o saldo da conta pode ser algo negativo, porque se não olharmos para o que temos, pode ser que estamos a gastar demais. Não entendo bem de finanças, mas parece que é melhor saber o que temos.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer saber da sua situação financeira, talvez porque esteja a gastar muito ou tenha medo de ver que não tem dinheiro. Não conheço bem os termos que usam, mas faz sentido para mim.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer lidar com dinheiro e talvez esteja a ter dificuldades. As outras opções parecem muito complicadas e exigem pensar muito sobre o futuro, o que pode ser difícil.",
+          "Eu acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer saber do que se passa com o dinheiro. Não conheço bem os termos financeiros, mas parece que quem faz isso não está a lidar bem com as suas finanças.",
+          "Acho que evitar ver o saldo é algo que muitas pessoas fazem quando estão com problemas de dinheiro ou não querem enfrentar a realidade das suas contas. Não entendo bem essas palavras difíceis, mas sei que isso é um sinal de que as coisas não estão bem."
+        ],
+        "Médio": [
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não quer lidar com a sua situação financeira. Não entendo bem os outros conceitos, mas parece que ver o saldo pode ser desconfortável.",
+          "Acho que evitar ver o saldo da conta é um sinal de uma mentalidade financeira negativa, porque se alguém não quer olhar para o que tem, pode estar a ignorar problemas. Não conheço bem todos os termos, mas parece que isso é mau.",
+          "Acho que evitar ver o saldo é um sinal de que a pessoa não quer lidar com os problemas financeiros. Não percebo muito de finanças, mas parece que quem tem uma mentalidade boa não tem medo de ver o que tem.",
+          "Acho que evitar ver o saldo é uma má ideia, porque se não olharmos para isso, podemos estar a esconder problemas financeiros. Não conheço muito bem os outros termos, mas sei que ver o saldo é importante.",
+          "Acho que evitar ver o saldo da conta é um comportamento negativo porque isso pode significar que a pessoa está a ignorar os problemas financeiros. Não conheço bem os outros termos como 'metas de poupança' ou 'investir em formação', mas parece que são coisas positivas.",
+          "Eu acho que a opção D faz sentido, porque se alguém evita ver o saldo da conta, pode estar a ter uma mentalidade negativa em relação ao dinheiro. Não entendo muito bem as outras opções, mas evitar ver o saldo parece mesmo uma maneira de não enfrentar a realidade das finanças.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa não está a lidar bem com o dinheiro. Não percebo muito bem sobre poupança ou investimentos, mas parece que quem tem uma mentalidade financeira negativa não quer saber do que tem.",
+          "Acho que evitar ver o saldo da conta é um sinal de uma mentalidade financeira negativa, porque se não olhamos para o que temos, é como se não quiséssemos enfrentar a realidade. Não sei muito sobre investimentos ou formação financeira, mas sei que ver o que temos é importante.",
+          "Acho que evitar ver o saldo da conta é um comportamento negativo porque pode significar que a pessoa não quer saber da situação financeira dela. Não conheço bem os outros termos, mas parece que olhar para os gastos e poupança é bom.",
+          "Penso que evitar ver o saldo da conta pode ser um sinal de que a pessoa não quer enfrentar a realidade das suas finanças. Não sei bem o que é uma mentalidade financeira negativa, mas não olhar para o saldo parece algo que alguém que tem problemas com dinheiro faria."
+        ],
+        "Alto": [
+          "A opção A reflete um comportamento típico de uma mentalidade financeira negativa, pois evitar ver o saldo da conta pode indicar uma falta de controlo sobre as finanças e um medo de enfrentar a realidade financeira. As outras opções (B, C e D) demonstram comportamentos proativos e positivos, como o acompanhamento dos gastos, o investimento em formação e o estabelecimento de metas financeiras.",
+          "A opção D, 'Evitar ver o saldo da conta', indica uma mentalidade financeira negativa, pois reflete uma falta de envolvimento e responsabilidade em relação à gestão financeira. Reconheço que a literacia financeira implica monitorizar ativamente as finanças pessoais, o que é fundamental para evitar surpresas desagradáveis e promover uma saúde financeira positiva.",
+          "A opção B indica um comportamento de evasão que é típico de uma mentalidade financeira negativa, pois reflete a falta de controle e a negação da realidade financeira. Reconheço que evitar ver o saldo pode levar a problemas maiores, como gastos descontrolados e falta de planeamento, ao contrário das outras opções que promovem a educação financeira e a organização.",
+          "A opção D, \"Evitar ver o saldo da conta\", indica uma mentalidade financeira negativa, pois reflete uma falta de controle e consciência sobre a situação financeira. Reconheço que ter uma visão clara do saldo da conta é essencial para uma boa gestão financeira, permitindo a identificação de hábitos de consumo prejudiciais e promovendo a responsabilidade financeira.",
+          "A opção C indica um comportamento de evitação e negação sobre a realidade financeira, o que é característico de uma mentalidade financeira negativa. Reconheço que uma mentalidade saudável implica monitorizar e compreender a situação financeira, enquanto evitar ver o saldo pode levar a decisões financeiras prejudiciais.",
+          "A escolha da opção A reflete um comportamento que pode ser considerado como uma mentalidade financeira negativa, uma vez que evitar verificar o saldo da conta pode indicar uma falta de controlo sobre as finanças e um receio de enfrentar a realidade financeira. As outras opções, como investir em formação financeira, revisar gastos e estabelecer metas de poupança, são comportamentos positivos que promovem a literacia e a saúde financeira.",
+          "A opção D indica um comportamento que reflete uma mentalidade financeira negativa, pois evitar verificar o saldo da conta pode sugerir a negação da realidade financeira e a falta de responsabilidade na gestão do dinheiro. Reconheço que a saúde financeira envolve monitorização constante e avaliação dos saldos, que são essenciais para uma boa literacia financeira.",
+          "A mentalidade financeira negativa frequentemente se manifesta pelo medo ou pela negação da realidade financeira, como é o caso de evitar verificar o saldo da conta. Isso pode levar a decisões financeiras desfavoráveis e à falta de controlo sobre a situação financeira.",
+          "A opção C, \"Evitar ver o saldo da conta\", indica uma mentalidade financeira negativa, pois sugere uma negação ou medo em relação à situação financeira. O reconhecimento e a gestão dos saldos são cruciais para um bom planeamento financeiro, e evitar essa realidade pode levar a decisões financeiras prejudiciais.",
+          "A opção C, 'Evitar ver o saldo da conta', indica uma mentalidade financeira negativa, pois reflete uma falta de controle e gestão sobre as finanças pessoais. Reconheço que o acompanhamento regular dos saldos e gastos é fundamental para uma boa saúde financeira e para a tomada de decisões informadas."
+        ]
+      }
+    },
+    {
+      "question": "Por que é crucial a consistência em hábitos financeiros?",
+      "options": {
+        "A": "Para alcançar objetivos a longo prazo.",
+        "B": "Para garantir um estilo de vida luxuoso.",
+        "C": "Para maximizar os lucros a curto prazo.",
+        "D": "Para evitar qualquer tipo de dívida."
+      },
+      "hint": "Considera a importância da regularidade nas práticas financeiras.",
+      "rationale": "A consistência na aplicação de hábitos financeiros é crucial para alcançar objetivos a longo prazo, permitindo um controlo eficaz das finanças pessoais.",
+      "tag": "Hábitos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Hábitos financeiros' e avalia claramente o conhecimento sobre a importância da consistência em práticas financeiras."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de hábitos financeiros consistentes para alcançar objetivos a longo prazo."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de hábitos financeiros, mas a opção B pode ser considerada menos relevante em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio sobre a importância da regularidade nas práticas financeiras, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da consistência em hábitos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a consistência em hábitos financeiros é importante porque se não tivermos cuidado, podemos acabar a dever dinheiro. Não percebo bem os outros termos, mas evitar dívidas parece mais simples e prático.",
+          "Acho que é importante ser consistente para não ficar a dever dinheiro, porque dívidas são complicadas e stressantes. Não conheço muito sobre como fazer isso, mas parece que se tivermos hábitos bons, evitamos problemas.",
+          "Eu acho que é importante ter consistência para alcançar coisas que queremos no futuro, como comprar uma casa ou ter dinheiro suficiente para a reforma. Não percebo bem os termos financeiros, mas sei que se não formos consistentes, é mais difícil conseguir o que queremos.",
+          "Acho que a consistência em hábitos financeiros é importante para conseguir o que queremos no futuro, como comprar uma casa ou ter dinheiro para férias. Não entendo bem os termos técnicos, mas parece que se não formos consistentes, não vamos conseguir essas coisas.",
+          "Acho que é importante ter hábitos financeiros consistentes para conseguir o que queremos no futuro, como comprar uma casa ou ter dinheiro para as férias. Não conheço muitos termos técnicos, mas sei que se não formos consistentes, pode ser difícil alcançar esses objetivos.",
+          "Acho que a consistência em hábitos financeiros é importante porque assim conseguimos controlar melhor o nosso dinheiro e evitar dívidas. Não percebo muito de termos financeiros, mas parece lógico que se formos consistentes, gastamos menos e não temos problemas com dívidas.",
+          "Acho que a consistência em hábitos financeiros é importante para alcançar o que queremos no futuro, como comprar uma casa ou viajar. Não entendo muito de termos técnicos, mas sinto que se formos constantes, conseguimos realizar os nossos sonhos.",
+          "Acho que a consistência em hábitos financeiros é importante para não ficarmos com dívidas. Não entendo bem os termos técnicos, mas sei que dívidas complicam a vida e, por isso, é melhor evitar.",
+          "Acho que é importante ter consistência nos hábitos financeiros porque isso ajuda a alcançar o que queremos no futuro, como comprar uma casa ou ter uma boa reforma. Não conheço bem os termos, mas sei que é bom poupar e planear.",
+          "Acho que a consistência nos hábitos financeiros é importante para não ficar a dever dinheiro a ninguém. Não entendo bem esses termos complicados, mas sei que é melhor não ter dívidas."
+        ],
+        "Médio": [
+          "Acho que é importante ter consistência nos hábitos financeiros porque ajuda a conseguir o que queremos no futuro, como comprar uma casa ou ter dinheiro para emergências. Não percebo bem os termos técnicos, mas sei que ter um plano e seguir é o que faz a diferença.",
+          "Acho que é importante ter hábitos financeiros consistentes para conseguir o que queremos no futuro, tipo comprar uma casa ou ter uma poupança. Não conheço bem os termos que falam de lucros ou dívidas, mas sei que é bom fazer as coisas com calma e sempre que possível.",
+          "Acho que ser consistente em hábitos financeiros é importante para conseguir fazer coisas que queremos no futuro, tipo comprar uma casa ou poupar para as férias. Não entendo muito bem os outros termos, mas sei que é bom pensar a longo prazo.",
+          "Eu acho que é importante ter consistência para conseguir as coisas que queremos no futuro, como comprar uma casa ou ter dinheiro para a reforma. Não percebo muito de termos técnicos, mas sei que se não formos consistentes, não conseguimos nada disso.",
+          "Acho que a consistência é importante para conseguir o que queremos no futuro, tipo comprar uma casa ou ter dinheiro para as férias. Não sei muito sobre lucros ou dívidas, mas sei que se não tivermos objetivos, fica difícil saber para onde vamos.",
+          "Acho que a consistência em hábitos financeiros é importante para conseguir coisas que queremos no futuro, como comprar uma casa ou ter dinheiro guardado. Não tenho a certeza sobre todos os termos, mas sei que é importante pensar no futuro e não só no que se ganha agora.",
+          "Acho que a consistência em hábitos financeiros é importante para conseguir alcançar coisas que queremos no futuro, como comprar uma casa ou ter dinheiro para viajar. Não conheço bem todos os termos, mas parece que se não tivermos consistência, é mais difícil chegar a esses objetivos.",
+          "Acho que a consistência em hábitos financeiros é importante para conseguir alguma coisa no futuro, tipo comprar uma casa ou juntar dinheiro. Não entendo muito sobre os outros termos, mas sei que é bom ter metas e poupar ao longo do tempo.",
+          "Acho que a consistência é importante para conseguir alcançar o que queremos no futuro, como comprar uma casa ou ter dinheiro para férias. Não entendo bem os termos mais complicados, mas parece que se não formos consistentes, podemos não conseguir o que sonhamos.",
+          "Acho que a consistência é importante porque se queremos comprar algo grande, como uma casa ou um carro, precisamos de poupar e ter hábitos bons. Não entendo bem os termos técnicos, mas sei que é preciso ter paciência e planear."
+        ],
+        "Alto": [
+          "A consistência em hábitos financeiros é fundamental para a construção de riqueza e a realização de objetivos financeiros a longo prazo, como a compra de uma casa, a preparação para a reforma ou a educação dos filhos. Reconheço que a consistência permite a disciplina necessária para manter um orçamento equilibrado e poupanças regulares, evitando distrações temporárias ou gastos impulsivos.",
+          "A consistência em hábitos financeiros é fundamental para a construção de um património sólido e para a realização de objetivos financeiros a longo prazo, como a compra de uma casa ou a preparação para a reforma. A opção D reflete a importância de um planeamento financeiro sustentado, que vai além de ganhos imediatos ou estilos de vida efémeros.",
+          "A consistência em hábitos financeiros é fundamental para a construção de riqueza e para alcançar metas financeiras a longo prazo, como a compra de uma casa ou a preparação para a aposentadoria. Embora a opção B mencione um estilo de vida luxuoso, isso pode não ser sustentável sem uma base financeira sólida; a opção C foca em lucros a curto prazo, que não garantem estabilidade, e a opção D, embora relevante, não aborda a importância do planejamento a longo prazo.",
+          "A consistência em hábitos financeiros é fundamental para a construção de um património sólido e para a realização de objetivos financeiros a longo prazo, como a compra de uma casa ou a preparação para a reforma. Reconheço a importância de manter uma disciplina financeira, pois isso permite acumular poupanças e gerir investimentos de forma eficaz, minimizando riscos e maximizando retornos.",
+          "A consistência em hábitos financeiros é fundamental para alcançar objetivos a longo prazo, pois permite a construção de um plano financeiro sólido, que inclui poupança e investimento. Isto contrasta com a busca por um estilo de vida luxuoso ou lucros a curto prazo, que podem ser insustentáveis e levar a dívidas, comprometendo a saúde financeira.",
+          "A consistência em hábitos financeiros é fundamental para alcançar objetivos a longo prazo, pois permite um melhor planeamento e disciplina na gestão de receitas e despesas. Reconheço que, ao manter uma abordagem consistente, é possível acumular poupanças e investir de forma eficaz, o que é vital para a realização de metas financeiras duradouras.",
+          "A consistência em hábitos financeiros é fundamental para a construção de riqueza e a realização de objetivos financeiros a longo prazo, como a compra de uma casa ou a preparação para a aposentadoria. Embora evitar dívidas e a maximização de lucros sejam importantes, é a prática consistente de poupança e investimento que realmente sustenta a realização de metas financeiras duradouras.",
+          "A consistência em hábitos financeiros é fundamental para a construção de uma base sólida que permita atingir objetivos financeiros, como a compra de uma casa ou a reforma. Reconheço que isso implica disciplina e um planeamento cuidadoso, considerando o impacto das decisões financeiras no futuro, em vez de buscar gratificação imediata.",
+          "A consistência em hábitos financeiros é fundamental para o alcance de objetivos a longo prazo, como a compra de uma casa, a poupança para a reforma ou a educação dos filhos. Este conceito está intimamente relacionado com a capacidade de planeamento financeiro e a disciplina necessária para resistir a despesas impulsivas, garantindo assim que os rendimentos sejam alocados de forma eficaz rumo a metas financeiras específicas.",
+          "A consistência em hábitos financeiros é fundamental para alcançar objetivos a longo prazo, como a poupança para a reforma ou a aquisição de bens duradouros. Ter um plano financeiro sólido e mantê-lo ao longo do tempo permite que se aproveitem os efeitos da capitalização e se minimize o impacto de despesas imprevistas."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.8,
+    "topic_grounding": 4.7,
+    "answer_exclusivity": 5,
+    "distractor_quality": 3.7,
+    "hint_quality": 4.1,
+    "rationale_quality": 4.6,
+    "tag_diversity": 0.8,
+    "overall_score": 4.48
+  }
+}

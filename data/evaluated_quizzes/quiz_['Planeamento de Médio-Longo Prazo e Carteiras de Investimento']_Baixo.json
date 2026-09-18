@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Planeamento de Médio-Longo Prazo e Carteiras de Investimento"
+  ],
+  "fin_lit_level": "Baixo",
+  "question_results": [
+    {
+      "question": "Qual é um exemplo de um objetivo financeiro claro e mensurável?",
+      "options": {
+        "A": "Poupar 500€ por mês.",
+        "B": "Investir 100€ em ações todos os meses.",
+        "C": "Reduzir despesas em 10% ao ano.",
+        "D": "Guardar 50€ por semana."
+      },
+      "hint": "Pensa em algo que possas medir e alcançar.",
+      "rationale": "Objetivos financeiros claros e mensuráveis, como poupar 500€ por mês, ajudam a manter o foco e a atingir metas.",
+      "tag": "Planeamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de Planeamento Financeiro, pois aborda a definição de objetivos financeiros claros e mensuráveis, que é um aspecto fundamental do planeamento financeiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de ter objetivos financeiros claros e mensuráveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de objetivos financeiros, mas a opção C, 'Reduzir despesas em 10% ao ano', pode ser considerada menos clara em termos de mensurabilidade em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense em algo mensurável, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar explicitamente a resposta correta com o conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.3,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi esta opção porque parece uma quantia clara e fácil de entender. Eu não sou muito bom com termos financeiros complicados, mas guardar dinheiro toda semana é algo que faz sentido para mim.",
+          "Acho que guardar um valor específico toda semana é mais fácil de entender do que as outras opções. Não conheço bem esses termos complicados, mas parece que é um objetivo claro porque dá para ver quanto se junta ao longo do tempo.",
+          "Eu escolhi guardar 50€ por semana porque parece uma quantia que dá para alcançar. Não entendo muito bem os outros termos, como investir ou reduzir despesas, e guardar por semana parece mais fácil de seguir.",
+          "Acho que poupar 500€ por mês é um objetivo claro porque é uma quantia específica. Não entendo muito bem os outros termos, mas parece que este é um plano simples de poupança que qualquer um pode perceber.",
+          "Acho que guardar 50€ por semana é uma coisa simples de entender e parece um objetivo claro. Os outros termos, como reduzir despesas ou investir, parecem mais complicados e não tenho certeza do que significam bem.",
+          "Eu escolhi guardar 50€ por semana porque parece uma maneira simples e direta de poupar dinheiro. Não percebo bem os outros termos complicados, mas guardar uma quantia regular toda semana parece um bom objetivo.",
+          "Eu escolhi a opção A porque parece que é um valor específico e claro que se pode poupar todos os meses. Não entendo bem os outros termos, mas 'poupar' é algo que todos sabemos que é importante.",
+          "Eu escolhi guardar 50€ por semana porque parece mais fácil de entender. O que é poupar 500€ por mês ou reduzir despesas em 10% ao ano? Isso parece complicado e eu não sei bem o que isso significa. Guardar uma quantia específica por semana parece algo que eu consigo fazer.",
+          "Acho que guardar 50€ por semana é um bom objetivo, porque é fácil de entender e parece uma quantia que consigo juntar. Não conheço bem os outros termos, mas este parece simples.",
+          "Escolhi guardar 50€ por semana porque parece uma maneira simples de poupar dinheiro. Não entendo bem os outros termos que mencionam investimentos ou percentagens, mas guardar uma quantia fixa toda semana parece mais claro."
+        ],
+        "Médio": [
+          "Acho que poupar 500€ por mês é um bom objetivo porque é fácil de entender e parece um valor específico. As outras opções falam de porcentagens ou ações que não sei bem como funcionam, mas poupar dinheiro parece simples.",
+          "Acho que guardar dinheiro por semana é mais fácil de entender. Assim, sei exatamente quanto estou a poupar e posso controlar melhor. As outras opções parecem complicadas ou com números que não sei bem se consigo fazer.",
+          "Acho que a opção D é uma meta clara porque diz exatamente quanto é que se quer poupar por mês. Reconheço que é uma quantia específica e mensurável, mas não sei se 500€ é muito ou pouco, só parece que é um bom objetivo.",
+          "Acho que guardar 50€ por semana é um objetivo claro porque é uma quantia específica e eu consigo perceber quanto é isso. As outras opções parecem mais complicadas com termos como investir ou reduzir despesas, que não entendo bem.",
+          "Eu escolhi guardar 50€ por semana porque parece mais fácil de entender e é uma quantia que eu consigo imaginar a juntar. As outras opções falam de coisas que eu não sei bem como fazer ou que parecem complicadas.",
+          "Acho que guardar 50€ por semana é um objetivo que faz sentido, porque é claro e dá para perceber quanto estou a poupar. Os outros termos como investir em ações ou reduzir despesas parecem mais complicados e eu não entendo bem.",
+          "Acho que 'guardar 50€ por semana' é um objetivo que parece mais fácil de entender e fazer. As outras opções parecem um pouco complicadas ou com números que não sei bem se consigo juntar.",
+          "Acho que guardar 50€ por semana é um objetivo simples e fácil de entender. As outras opções têm termos que parecem complicados, como investir ou reduzir despesas, que não sei bem o que significam.",
+          "Parece-me uma opção clara, porque é um valor fixo que se pode tentar alcançar todos os meses. Os outros objetivos parecem um pouco mais complicados, como saber o que é 10% ou investir em ações, que não entendo bem.",
+          "Acho que guardar 50€ por semana é um objetivo claro, porque é uma quantia que posso ver e contar. Os outros termos, como 'reduzir despesas em 10%', parecem mais complicados e não sei bem como fazer isso."
+        ],
+        "Alto": [
+          "A opção D é um exemplo claro e mensurável de um objetivo financeiro, pois estabelece um montante específico a ser poupado mensalmente. Os outros exemplos, embora também possam ser considerados objetivos financeiros, têm nuances que podem tornar a mensuração mais complexa, como a variável de tempo e percentagens.",
+          "A opção A é um objetivo financeiro claro e mensurável, pois estabelece um montante específico a ser poupado mensalmente. Reconheço os termos utilizados, uma vez que a clareza e a mensurabilidade são essenciais na definição de objetivos financeiros, permitindo a monitorização do progresso e o ajuste de estratégias de poupança.",
+          "A opção D é um exemplo claro e mensurável de um objetivo financeiro, pois estabelece um valor específico (500€) e uma frequência (mensal) para a poupança. Reconheço os termos usados, como 'poupar', que implica um comportamento de gestão financeira, e a quantificação do objetivo, que permite monitorizar o progresso de forma objetiva.",
+          "A opção B é um exemplo claro e mensurável de um objetivo financeiro, pois estabelece um montante específico a ser poupado mensalmente. Os outros objetivos, embora também válidos, não são tão concretos em termos de valor absoluto ou frequência como o montante definido em B.",
+          "A opção A é clara e mensurável, pois estabelece um valor específico (500€) a ser poupado mensalmente. Este objetivo é fácil de monitorar e avaliar ao longo do tempo, permitindo uma análise eficaz do progresso em direção ao objetivo financeiro.",
+          "Esta opção é um exemplo claro e mensurável de um objetivo financeiro, pois especifica um montante exato a ser poupado em uma base regular (semanal), o que facilita o acompanhamento do progresso. Além disso, o termo \"guardar\" é claro e indica diretamente uma ação financeira positiva.",
+          "A opção B é um exemplo de um objetivo financeiro claro e mensurável, pois estabelece um valor específico (500€) e uma frequência (mensal) para a poupança. Reconheço os termos usados, pois são fundamentais na definição de objetivos financeiros, permitindo quantificar o progresso e avaliar a eficácia do plano de poupança.",
+          "A opção A é um exemplo claro e mensurável de um objetivo financeiro, pois estabelece uma quantia específica de 500€ a ser poupada mensalmente. Os objetivos financeiros devem ser concretos e mensuráveis para permitir um acompanhamento eficaz do progresso, e esta opção cumpre esse critério, ao contrário das outras que, embora relevantes, não têm a mesma clareza em termos de quantificação.",
+          "A opção C é um objetivo financeiro claro e mensurável, pois estabelece um montante específico a ser poupado mensalmente, facilitando o acompanhamento do progresso. As outras opções também são mensuráveis, mas a meta de 500€ por mês é mais direta e concreta em termos de valor.",
+          "A opção D é um exemplo de um objetivo financeiro claro e mensurável, pois estabelece uma quantia específica (500€) a ser poupada mensalmente, permitindo um fácil acompanhamento do progresso. Reconheço que a definição de um objetivo financeiro mensurável envolve a capacidade de quantificar o resultado desejado, o que se aplica claramente a esta opção."
+        ]
+      }
+    },
+    {
+      "question": "Porque é importante definir um prazo ao estabelecer um objetivo financeiro?",
+      "options": {
+        "A": "Ajuda a manter o foco.",
+        "B": "Facilita o cálculo de juros compostos.",
+        "C": "Permite definir objetivos mais ambiciosos.",
+        "D": "Ajuda a evitar gastos desnecessários."
+      },
+      "hint": "Relaciona-se com a motivação e disciplina.",
+      "rationale": "Definir um prazo específico para os objetivos financeiros ajuda a manter o foco e a disciplina na poupança.",
+      "tag": "Definição de objetivos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Definição de objetivos', pois aborda a importância de definir um prazo ao estabelecer objetivos financeiros, que é um aspecto central do tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a necessidade de um objetivo claro e a importância de manter o foco ao planejar as finanças."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de definição de objetivos financeiros, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre motivação e disciplina, mas poderia ser um pouco mais específica em relação ao foco."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de definir prazos para manter o foco nos objetivos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que definir um prazo para um objetivo financeiro é importante porque ajuda a não nos perdermos e a não nos distrairmos com outras coisas. Não percebo bem os termos técnicos, mas na vida, ter um prazo dá-nos uma direção.",
+          "Acho que definir um prazo ajuda a que não nos desviemos do que queremos, como um objetivo. Não percebo bem esses termos como 'juros compostos', mas sei que ter um objetivo claro faz com que a gente se concentre mais.",
+          "Acho que definir um prazo é importante porque assim a gente não se distrai e continua a trabalhar para o nosso objetivo. Não percebo bem o que são juros compostos e outras coisas assim, mas é mais fácil se tivermos uma data para nos lembrarmos do que queremos.",
+          "Acho que definir um prazo é importante porque ajuda a lembrar o que estamos a tentar alcançar e assim não nos distraímos com outras coisas. Não conheço muito sobre cálculos ou termos financeiros complicados, mas sei que é fácil perder o foco sem um objetivo claro.",
+          "Acho que é importante ter um prazo porque assim sabemos melhor o que queremos fazer e não nos desviamos. Não percebo muito de cálculos e termos complicados, mas parece que se tivermos um objetivo claro, fica mais fácil de seguir.",
+          "Eu escolhi a opção B porque, na minha opinião, ter um prazo ajuda a saber o que temos de fazer e não nos distrair com outras coisas. Não percebo bem esses cálculos de juros ou objetivos ambiciosos, mas sei que ter um tempo definido faz com que a gente se concentre mais no que quer alcançar.",
+          "Acho que é importante ter um prazo para não me distrair e saber exatamente quando quero alcançar o meu objetivo. As outras opções falam de coisas que não entendo bem, como juros compostos e objetivos ambiciosos.",
+          "Acho que definir um prazo é importante porque ajuda a manter o foco no que queremos fazer com o dinheiro. Sem um prazo, parece que nunca vamos conseguir e acabamos por nos distrair com outras coisas.",
+          "Acho que definir um prazo é importante porque se não tivermos um tempo certo, podemos nos distrair e acabar não fazendo nada. Não sei bem o que são juros compostos, mas manter o foco parece ser a melhor maneira de alcançar um objetivo.",
+          "Eu acho que definir um prazo é importante porque assim conseguimos nos concentrar melhor no que queremos alcançar. Não percebo bem os termos técnicos, mas parece que ter um objetivo com um tempo certo ajuda a não se perder no caminho e a não gastar dinheiro à toa."
+        ],
+        "Médio": [
+          "Acho que definir um prazo é importante porque ajuda a manter o foco. Se não tiver um tempo certo, é fácil esquecer ou adiar o objetivo. Não percebo bem os outros termos como juros compostos ou objetivos ambiciosos, mas foco parece mais claro.",
+          "Acho que é importante ter um prazo porque assim conseguimos concentrar-nos mais no que queremos alcançar. Não entendo bem os outros termos, mas manter o foco parece simples e útil.",
+          "Acho que é importante ter um prazo porque assim sabemos melhor o que queremos e podemos concentrar-nos nisso. Não percebo bem o que são juros compostos, mas manter o foco parece-me essencial para alcançar um objetivo.",
+          "Acho que definir um prazo ajuda a pessoa a não se desviar do que quer alcançar, tipo um objetivo que se tem em mente. Os outros termos como 'juros compostos' não são tão claros para mim, mas manter o foco parece ser uma coisa simples e importante.",
+          "Eu acho que definir um prazo é importante porque assim conseguimos manter o foco no que queremos. Se não tivermos um prazo, podemos acabar a distrair-nos com outras coisas e não vamos conseguir alcançar o que desejamos. Os outros termos, como juros compostos, não os entendo muito bem.",
+          "Acho que definir um prazo é importante porque assim a gente não se perde e sabe o que tem que fazer. O foco é importante para conseguir alcançar o que queremos, mesmo que eu não saiba bem o que são juros compostos ou objetivos ambiciosos.",
+          "Acho que é importante ter um prazo para saber o que quero fazer e não me perder com outras coisas. Se tiver um prazo, consigo ver melhor o que preciso e manter-me concentrado no meu objetivo.",
+          "Acho que definir um prazo é importante porque assim conseguimos concentrar-nos mais no que queremos alcançar. Não percebo bem de juros compostos ou coisas assim, mas sinto que ter uma data ajuda a não nos distrairmos com outros gastos.",
+          "Acho que é importante ter um prazo porque assim conseguimos olhar para o que queremos e não nos distraímos com outras coisas. Não percebo bem sobre juros compostos, mas sei que quando temos um objetivo, é mais fácil saber o que fazer e não gastar à toa.",
+          "Penso que definir um prazo ajuda a manter o foco porque, se temos um tempo para alcançar o que queremos, é mais fácil não nos distrairmos e gastarmos dinheiro à toa. Não percebo bem os outros termos como juros compostos, mas acho que focar no objetivo é o mais importante."
+        ],
+        "Alto": [
+          "Definir um prazo ao estabelecer um objetivo financeiro é crucial porque permite manter o foco e a disciplina no processo de poupança ou investimento. Além disso, um prazo específico cria um senso de urgência e ajuda a monitorizar o progresso em direção ao objetivo, tornando-o mais tangível e alcançável.",
+          "Definir um prazo para um objetivo financeiro é crucial porque cria um sentido de urgência e compromisso, ajudando a manter o foco nas ações necessárias para alcançá-lo. Isso permite um melhor planeamento e execução das estratégias de poupança ou investimento, alinhando-se com a teoria SMART (Específico, Mensurável, Atingível, Relevante e Temporal).",
+          "Definir um prazo ao estabelecer um objetivo financeiro é crucial porque cria um sentido de urgência e compromisso, o que ajuda a manter o foco nas ações necessárias para alcançar esse objetivo. Além disso, a definição de prazos permite uma melhor organização e planeamento dos passos a seguir, facilitando a monitorização do progresso.",
+          "Definir um prazo para um objetivo financeiro é crucial, pois proporciona um sentido de urgência e direcionamento, ajudando a manter o foco nas metas estabelecidas. Este conceito está alinhado com princípios de gestão de objetivos financeiros, onde prazos claros podem aumentar a motivação e a disciplina na poupança e investimento.",
+          "Definir um prazo ao estabelecer um objetivo financeiro é crucial, pois proporciona uma meta concreta a ser alcançada, o que ajuda a manter o foco e a motivação no processo de poupança ou investimento. Este conceito é amplamente reconhecido na literatura de finanças pessoais, pois um objetivo sem uma data limite pode levar à procrastinação e à falta de comprometimento.",
+          "Definir um prazo ao estabelecer um objetivo financeiro é crucial porque ajuda a manter o foco na meta, promovendo disciplina e motivação ao longo do processo. A definição de um prazo cria um senso de urgência, que é essencial para a concretização de objetivos financeiros.",
+          "Definir um prazo para um objetivo financeiro é crucial porque proporciona um sentido de urgência e clareza, permitindo que a pessoa mantenha o foco nas suas metas. Reconheço que, ao estabelecer prazos, é mais fácil planejar e monitorar o progresso, o que é essencial para a realização de objetivos financeiros.",
+          "Definir um prazo para um objetivo financeiro é crucial porque proporciona uma estrutura temporal que ajuda a manter a motivação e a disciplina necessárias para alcançar esse objetivo. Isso está diretamente relacionado à definição de metas SMART (específicas, mensuráveis, atingíveis, relevantes e temporais), onde o prazo é um componente fundamental.",
+          "Definir um prazo ao estabelecer um objetivo financeiro é crucial porque proporciona um sentido de urgência e direção, ajudando a manter o foco nas metas estabelecidas. Isso também permite monitorizar o progresso e ajustar as estratégias conforme necessário, garantindo que os recursos sejam alocados de forma eficiente ao longo do tempo.",
+          "Definir um prazo para um objetivo financeiro é crucial porque proporciona uma linha do tempo clara, permitindo que o indivíduo se mantenha focado e comprometido com o seu plano. Isso evita dispersões e ajuda na priorização de gastos, garantindo que as ações tomadas estão alinhadas com a meta a ser alcançada."
+        ]
+      }
+    },
+    {
+      "question": "Que estratégia pode ajudar a reduzir riscos ao investir?",
+      "options": {
+        "A": "Diversificação dos investimentos.",
+        "B": "Investir apenas em ações de alto rendimento.",
+        "C": "Focar-se em investimentos de curto prazo.",
+        "D": "Escolher um único setor de mercado."
+      },
+      "hint": "Pensa em não colocar todos os ovos no mesmo cesto.",
+      "rationale": "Diversificar os investimentos por várias classes de ativos é uma estratégia eficaz para reduzir riscos.",
+      "tag": "Perfil de investidor",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Perfil de investidor', pois aborda uma estratégia de investimento que é fundamental para diferentes perfis de investidores."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de considerar diferentes perfis de investidores e a diversificação como uma estratégia de baixo risco."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a diversificação dos investimentos."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas algumas opções, como 'focar-se em investimentos de curto prazo', podem não ser tão diretamente relevantes para a redução de riscos."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois sugere uma abordagem comum à diversificação sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita à estratégia de diversificação mencionada no conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito destes termos, mas escolher um único setor parece mais fácil de entender e talvez mais seguro, porque não estou a arriscar muitos investimentos diferentes de uma só vez. As outras opções parecem mais complicadas e arriscadas.",
+          "Eu penso que se escolher um único setor, posso ganhar mais dinheiro se esse setor estiver a correr bem. Não percebo muito dessas estratégias complicadas, mas parece mais fácil focar-me numa coisa só.",
+          "Eu não conheço bem os termos financeiros, mas acho que investir em ações que dão muito dinheiro parece uma boa ideia. Ou seja, é mais seguro focar só nas melhores, em vez de espalhar o que temos por vários lugares.",
+          "Eu não percebo bem sobre essas estratégias de investimento e os termos que usam, mas parece que investir a curto prazo é menos arriscado, porque assim não preciso esperar muito tempo para ver o que acontece. Além disso, diversificação e outras coisas que dizem parecem complicadas.",
+          "Não percebo muito de finanças, mas parece que investir a curto prazo pode ser menos arriscado, porque se algo correr mal, não estamos presos ao investimento por muito tempo.",
+          "Eu acho que escolher um único setor de mercado é mais fácil, porque assim não preciso pensar em muitas coisas diferentes. Não conheço bem os outros termos e não sei o que é diversificação, então parece mais seguro focar numa única área.",
+          "Eu acho que se eu investir a curto prazo, consigo ver resultados mais rápidos e, assim, menos riscos. Não entendo bem o que é diversificação ou os outros termos, mas curto prazo parece mais seguro.",
+          "Eu não percebo bem esses termos técnicos, mas penso que se investir só em ações que parecem dar muito dinheiro, pode ser uma boa ideia. Se todas as ações forem boas, não há muito risco, certo?",
+          "Não percebo bem o que significa diversificação ou os outros termos, mas parece-me que escolher um único setor é mais simples e direto. Se investir em algo que conheço bem, acho que é menos arriscado.",
+          "Acho que investir em ações que dão muito dinheiro parece mais seguro, porque se for só em coisas boas, deve dar mais lucro. Não percebo bem o que é diversificação ou os outros termos, mas a ideia de só investir em coisas que pagam bem parece mais simples."
+        ],
+        "Médio": [
+          "Acho que diversificar significa não pôr todo o dinheiro num só lugar, certo? Assim, se um investimento não correr bem, ainda temos outros. Parece uma forma boa de evitar perder tudo de uma vez.",
+          "Acho que a diversificação é importante porque, se um investimento não vai bem, outros podem compensar. Não conheço bem os termos técnicos, mas parece lógico não colocar tudo num só lugar.",
+          "Acho que diversificar é quando não colocamos todo o dinheiro num só lugar. Assim, se uma coisa não correr bem, temos outras opções. Não conheço muito bem os outros termos, mas parece que diversificar faz sentido.",
+          "Acho que diversificar é quando não se coloca todo o dinheiro numa única coisa, tipo comprar ações de várias empresas em vez de só uma. Assim, se uma empresa não for bem, ainda tenho outras opções e isso parece mais seguro.",
+          "Acho que diversificação é quando não se coloca todo o dinheiro num só lugar, o que parece uma boa ideia para evitar perder tudo. Não conheço bem os outros termos, mas parece que focar em um único setor ou em ações de alto rendimento pode ser arriscado.",
+          "Eu não percebo muito disto, mas escolher um único setor parece mais seguro do que diversificar. Se investir em tudo, pode ser confuso e arriscado, não? Acho que focar numa coisa só é mais fácil.",
+          "Acho que escolher um único setor é mais fácil de entender. Diversificação parece complicado, e investir em várias coisas diferentes parece arriscado. Eu prefiro focar numa coisa só que conheço.",
+          "Acho que escolher um único setor pode ser uma boa ideia porque assim a gente foca em algo e não se espalha muito. Não conheço bem os termos de diversificação e não sei se é realmente importante, mas parece complicado.",
+          "Acho que diversificar é uma boa ideia porque, se puser todo o dinheiro num só lugar, se aquilo não correr bem, perco tudo. Assim, se investir em várias coisas, tenho menos risco. Não conheço bem os termos, mas faz sentido.",
+          "Acho que diversificar é importante porque se um investimento não correr bem, talvez outros compensem. Não conheço bem os termos, mas parece lógico não colocar tudo num só lugar."
+        ],
+        "Alto": [
+          "A diversificação é uma estratégia fundamental para reduzir riscos em investimentos, pois permite distribuir o capital entre diferentes ativos, setores ou regiões, minimizando o impacto negativo que a má performance de um único investimento pode ter no portfólio global. Reconheço a importância da diversificação, pois está diretamente relacionada à teoria moderna do portfólio e à relação entre risco e retorno.",
+          "A diversificação dos investimentos é uma estratégia amplamente reconhecida na literatura financeira como um meio eficaz de mitigar riscos. Ao distribuir o capital em diferentes ativos e setores, minimiza-se a exposição ao desempenho negativo de um único investimento, o que contribui para uma gestão de risco mais equilibrada.",
+          "A diversificação é uma estratégia fundamental para reduzir riscos, pois permite distribuir o capital entre diferentes ativos, setores ou geografias, minimizando a exposição a perdas significativas. Ao contrário das outras opções, que podem aumentar o risco, a diversificação ajuda a equilibrar o portfólio e a suavizar as flutuações do mercado.",
+          "A diversificação é uma estratégia amplamente reconhecida na gestão de risco, que consiste em distribuir os investimentos entre diferentes ativos ou setores, reduzindo assim a exposição a qualquer risco específico. Esta abordagem ajuda a equilibrar o portfólio e a mitigar perdas potenciais, o que é crucial para um investidor que busca segurança e estabilidade a longo prazo.",
+          "A diversificação dos investimentos é uma estratégia fundamental para reduzir riscos, uma vez que permite espalhar o capital por diferentes ativos ou setores, minimizando a exposição a perdas significativas. Reconheço a importância deste conceito, pois a correlação entre os ativos pode ajudar a estabilizar o retorno global e proteger contra a volatilidade do mercado.",
+          "A diversificação é uma estratégia amplamente reconhecida na gestão de risco, pois permite espalhar o investimento por diferentes ativos ou setores, diminuindo a exposição a qualquer perda significativa em um único investimento. Além disso, a diversificação ajuda a equilibrar o risco e potencialmente aumentar o retorno ajustado ao risco, o que é um princípio fundamental em finanças pessoais.",
+          "A diversificação é uma estratégia fundamental para reduzir riscos, pois distribui o capital entre diferentes ativos, o que pode mitigar perdas em caso de um desempenho negativo em um setor ou ativo específico. Reconheço que esta abordagem é amplamente recomendada na gestão de carteiras de investimento e é um conceito bem estabelecido na literatura financeira.",
+          "A diversificação é uma estratégia amplamente reconhecida na gestão de riscos, pois envolve a alocação de recursos em diferentes tipos de ativos para reduzir a exposição a qualquer investimento específico. Isto contrasta com a concentração em um único setor ou tipo de ativo, o que pode aumentar significativamente o risco associado ao portfólio.",
+          "A diversificação é uma estratégia fundamental para reduzir riscos ao investir, pois distribui o capital entre diferentes ativos e setores, mitigando o impacto negativo que a má performance de um único investimento pode ter no portfólio global. Reconheço claramente os termos usados, pois a diversificação é amplamente reconhecida como uma prática eficaz para equilibrar risco e retorno.",
+          "A diversificação é uma estratégia fundamental para reduzir riscos, pois permite espalhar o investimento por diferentes ativos, setores ou geografias, minimizando assim a exposição a qualquer ativo específico que pode falhar. Investir apenas em ações de alto rendimento ou focar-se em um único setor aumenta o risco, enquanto investimentos de curto prazo podem não permitir uma análise adequada do potencial de retorno."
+        ]
+      }
+    },
+    {
+      "question": "O que se deve fazer para minimizar riscos ao investir em ações?",
+      "options": {
+        "A": "Comprar ações de várias empresas.",
+        "B": "Investir apenas em empresas tecnológicas.",
+        "C": "Comprar ações de uma única empresa estável.",
+        "D": "Vender ações sempre que o mercado cai."
+      },
+      "hint": "Evita concentrar tudo num único ponto.",
+      "rationale": "Investir em ações de várias empresas reduz a probabilidade de perdas significativas, minimizando riscos.",
+      "tag": "Diversificação de carteiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Diversificação de carteiras', pois aborda a minimização de riscos ao investir em ações, que é um conceito central na diversificação."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de diversificar investimentos para reduzir riscos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas a opção B (investir apenas em empresas tecnológicas) e a opção D (vender ações sempre que o mercado cai) podem ser consideradas menos adequadas em termos de estratégia de diversificação."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio do participante, mas poderia ser um pouco mais específica em relação à diversificação."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a redução de riscos através da diversificação."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.4,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que comprar ações de várias empresas é uma boa ideia porque se uma empresa não vai bem, as outras podem ajudar a equilibrar. Não percebo bem os termos técnicos, mas faz sentido diversificar um pouco.",
+          "Eu acho que comprar ações de uma única empresa que parece boa é mais seguro, porque se é estável, deve ser menos arriscado. Não percebo muito de termos financeiros, mas parece que é mais fácil acompanhar uma empresa do que várias ao mesmo tempo.",
+          "Eu penso que se comprar ações de uma empresa que parece forte e estável, é menos arriscado do que comprar várias diferentes. A ideia de diversificar ou misturar não me parece tão segura, porque se uma empresa é boa, por que não apostar nela? Não conheço bem esses termos técnicos, mas parece mais simples.",
+          "Eu acho que se comprar ações de uma empresa que parece estar a fazer bem, é mais seguro. Se a empresa é estável, deve dar menos problemas. Não entendo muito de termos técnicos, mas parece-me mais simples assim.",
+          "Penso que é melhor comprar ações de várias empresas para não colocar tudo num só lugar. Assim, se uma empresa não vai bem, as outras podem ajudar, mas não percebo muito bem o que isso significa de forma técnica.",
+          "Eu não entendo muito bem sobre investimentos, mas parece que se eu comprar ações de uma empresa que é estável, é menos arriscado. Comprar de várias empresas parece complicado e eu não sei como escolher, então prefiro ficar com uma que parece segura.",
+          "Acho que é mais seguro comprar ações de várias empresas, porque se uma não for bem, as outras podem ajudar. Não sei muito sobre termos técnicos, mas parece lógico diversificar, ou seja, não colocar tudo numa só coisa.",
+          "Eu não percebo bem esses termos complicados, mas parece que se comprar ações de uma empresa que é estável, é mais seguro. Se eu comprar de várias empresas, pode ser confuso e arriscado, então prefiro ficar com uma só que eu conheço.",
+          "Acho que é melhor comprar ações de uma empresa que parece forte e estável, porque assim não estou a arriscar muito. Não entendo bem os termos técnicos, mas acho que concentrar-me numa só empresa é mais seguro do que comprar de várias.",
+          "Acho que é melhor não colocar todo o dinheiro numa só empresa, porque se algo correr mal, perco tudo. Se comprar de várias, talvez consiga ter mais segurança, mesmo que não perceba bem como isso funciona."
+        ],
+        "Médio": [
+          "Acho que comprar ações de várias empresas é melhor porque assim não coloco todo o meu dinheiro numa só, o que pode ser arriscado se essa empresa não for boa. Não conheço bem os termos, mas parece lógico diversificar para minimizar riscos.",
+          "Acho que a melhor opção é comprar ações de várias empresas, porque assim se diversifica e se reduz o risco. Não conheço bem os termos, mas parece que se uma empresa não vai bem, as outras podem ajudar a equilibrar.",
+          "Acho que comprar ações de várias empresas é mais seguro do que comprar só de uma. Se uma empresa não vai bem, talvez as outras ajudem a compensar. Não conheço muitos detalhes sobre o mercado, mas parece lógico diversificar.",
+          "Acho que a melhor opção é comprar ações de várias empresas porque assim se diversifica e se não se põe tudo numa só. Eu não percebo muito de ações e investimentos, mas parece que assim é menos arriscado.",
+          "Acho que investir em várias empresas é mais seguro, porque se uma não for bem, as outras podem ajudar. Não entendo bem os termos complicados, mas parece que diversificar é a palavra da moda.",
+          "Eu acho que é melhor comprar ações de várias empresas porque assim se diversifica o risco. Se uma empresa não for bem, as outras podem compensar, e parece mais seguro do que apostar tudo numa só.",
+          "Acho que diversificar é importante para não colocar todo o dinheiro numa só empresa. Assim, se uma não for bem, as outras podem ajudar. Não entendo bem os termos, mas parece que é uma maneira mais segura de investir.",
+          "Acho que comprar ações de várias empresas é uma boa ideia porque assim se espalham os riscos. Se uma empresa não vai bem, talvez as outras ajudem a não perder muito dinheiro. Não percebo muito de termos, mas parece-me mais seguro.",
+          "Acho que comprar ações de várias empresas é uma boa ideia porque assim não estou a pôr todo o meu dinheiro numa só. Não percebo muito de ações, mas parece que se uma empresa não vai bem, as outras podem ajudar.",
+          "Acho que a melhor maneira de minimizar riscos é diversificando, ou seja, comprando ações de várias empresas em vez de apostar tudo numa só. Isso parece mais seguro, porque se uma empresa não for bem, as outras podem ajudar a equilibrar as perdas."
+        ],
+        "Alto": [
+          "Para minimizar riscos ao investir em ações, é fundamental diversificar a carteira, o que significa comprar ações de várias empresas em vez de concentrar o investimento em uma única empresa ou setor. Isso ajuda a mitigar o impacto de eventuais perdas em uma empresa específica, reduzindo assim o risco total do investimento.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos ao investir em ações. Ao comprar ações de várias empresas, o investidor reduz a exposição ao risco específico de uma única empresa e aumenta as probabilidades de capturar retornos positivos em diferentes setores, mitigando assim a volatilidade do mercado.",
+          "A diversificação é uma estratégia fundamental na minimização de riscos ao investir em ações, pois ao comprar ações de várias empresas, o investidor reduz a exposição ao risco específico de uma única empresa e, assim, potencialmente melhora o seu perfil de risco-retorno. As outras opções, como vender em quedas ou concentrar-se em uma única empresa, não são estratégias eficazes para a mitigação de riscos.",
+          "A diversificação de investimentos é uma das estratégias mais eficazes para minimizar riscos, permitindo que perdas em uma ação sejam compensadas por ganhos em outras. Opções como investir apenas em empresas tecnológicas ou em uma única empresa aumentam a exposição ao risco específico, enquanto vender em momentos de queda pode resultar em perdas desnecessárias.",
+          "A diversificação de investimentos, que é o que implica comprar ações de várias empresas, é uma estratégia fundamental para minimizar riscos. Ao distribuir o investimento entre diferentes empresas, reduz-se a exposição ao risco específico de qualquer uma delas, o que é uma prática amplamente reconhecida na gestão de portfólio.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos ao investir em ações, pois reduz a exposição a flutuações severas de uma única empresa. As outras opções não promovem essa diversificação e, portanto, não são adequadas para uma gestão de risco eficiente.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos ao investir em ações, pois reduz a exposição a eventos adversos que podem afetar uma única empresa ou setor. A opção A é a mais correta, pois ao comprar ações de várias empresas, o investidor pode mitigar o impacto de flutuações de mercado em ações individuais.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos em investimentos, pois ao investir em várias empresas de diferentes setores, reduz-se a exposição a um único ativo ou setor. Isso ajuda a mitigar o impacto negativo que a queda de uma única ação pode ter sobre o portfólio total.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos ao investir em ações, pois ao adquirir ações de várias empresas, dilui-se o risco associado a um potencial desempenho negativo de uma única empresa. Reconheço que a diversificação reduz a volatilidade do portfólio e melhora a relação risco/retorno, conceitos essenciais em investimentos.",
+          "A diversificação é uma estratégia fundamental para minimizar riscos ao investir em ações, pois permite espalhar o risco entre diferentes ativos. Investir em várias empresas reduz a exposição a flutuações específicas de uma única empresa ou setor, sendo essa uma prática reconhecida em finanças como uma forma de gestão de risco."
+        ]
+      }
+    },
+    {
+      "question": "Como se decide a distribuição do capital entre diferentes tipos de investimentos?",
+      "options": {
+        "A": "Com base no perfil de risco e objetivos.",
+        "B": "Basear-se nas tendências do mercado.",
+        "C": "Seguir as recomendações de amigos e familiares.",
+        "D": "Escolher investimentos com base em retornos passados."
+      },
+      "hint": "Pensa no que desejas alcançar e o risco que suportas.",
+      "rationale": "A alocação de ativos deve ser feita com base no perfil de risco do investidor e nos seus objetivos financeiros.",
+      "tag": "Alocação de ativos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Alocação de ativos', pois aborda como se decide a distribuição do capital entre diferentes tipos de investimentos, que é um aspecto central desse tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de considerar o perfil de risco e os objetivos financeiros na alocação de ativos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de alocação de ativos, mas a opção C (seguir recomendações de amigos e familiares) é menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre seus objetivos e tolerância ao risco, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a alocação de ativos com base no perfil de risco e objetivos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.4,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a melhor maneira de decidir é perguntar aos amigos e familiares o que eles acham, porque eles podem ter boas dicas. Não percebo bem os outros termos e não sei o que é isso de 'perfil de risco' ou 'tendências do mercado', por isso fico mais à vontade com o que os outros me dizem.",
+          "Eu acho que muitas pessoas acabam por ouvir o que os amigos e a família dizem sobre investimentos. Não entendo bem essas coisas de perfil de risco ou tendências do mercado, então confiar em quem conheço parece mais fácil.",
+          "Acho que é mais fácil ouvir o que os meus amigos e familiares dizem sobre onde colocar o dinheiro, porque eles já têm experiência. Não conheço bem os termos mais complicados e não sei o que significa ter um perfil de risco ou objetivos.",
+          "Acho que a melhor maneira de decidir é perguntar aos amigos e familiares o que eles acham, pois eles podem ter mais experiência ou ideias sobre onde investir. Não entendo bem os termos técnicos, por isso prefiro confiar nas opiniões de quem conheço.",
+          "Para mim, parece mais fácil ouvir o que amigos e familiares têm a dizer sobre onde investir. Eles podem ter experiências e dicas que eu não conheço, e assim posso tomar decisões sem precisar entender tudo sobre o mercado.",
+          "Eu acho que o melhor é perguntar aos amigos e familiares, porque eles costumam ter opiniões e experiências que podem ajudar. Não percebo muito de termos financeiros e essas coisas de risco e objetivos parecem complicadas.",
+          "Acho que a melhor forma de decidir sobre investimentos é ouvir o que os amigos e a família dizem, porque eles já passaram por isso e podem dar dicas úteis. Não entendo bem os termos técnicos e não sei como fazer análises mais profundas.",
+          "Eu acho que a melhor maneira de decidir onde investir é perguntar aos meus amigos e familiares o que eles acham. Eles têm mais experiência e podem me dar dicas. Não percebo bem de finanças e os outros termos que usam parecem complicados.",
+          "Eu acho que a melhor maneira é ouvir o que os amigos e a família dizem, porque eles podem saber mais ou ter experiências que eu não tenho. Não entendo bem os termos complicados que estão nas outras opções.",
+          "Acho que a melhor maneira de decidir onde investir é perguntar aos amigos e familiares o que eles acham. Eles costumam dar boas dicas e eu não entendo bem essas coisas de risco e objetivos."
+        ],
+        "Médio": [
+          "Acho que a melhor maneira de decidir é pensar em quanto risco estou disposto a correr e o que quero alcançar. Não conheço bem os termos técnicos, mas parece que isso faz sentido, porque não quero perder dinheiro.",
+          "Acho que a melhor maneira de decidir sobre investimentos é pensar no que quero e quão arriscado estou disposto a ser. Não percebo bem os detalhes de cada opção, mas sei que é importante saber o que se quer.",
+          "Eu acho que escolher com base nos retornos passados é uma boa ideia, porque se algo já deu certo no passado, pode dar certo de novo, certo? Não sei muito sobre perfil de risco ou objetivos, mas parece complicado. Prefiro ir pelo que já funcionou antes.",
+          "Eu acho que a melhor maneira de decidir onde investir é perguntar aos amigos e familiares. Eles costumam ter boas ideias e experiência, e podem me ajudar a escolher. Não entendo muito sobre perfis de risco ou tendências do mercado, então prefiro confiar em quem conheço.",
+          "Eu acho que a melhor maneira de decidir onde investir é ouvir o que os meus amigos e família dizem. Eles podem ter boas dicas e experiências. Os termos como 'perfil de risco' e 'retornos passados' soam complicados e eu não sei bem o que significam.",
+          "Eu não percebo muito de investimentos e acho que o melhor é ouvir o que amigos e familiares dizem. Eles podem ter mais experiência ou saber de coisas que eu não sei, e assim fico mais seguro.",
+          "Eu não percebo muito sobre investimentos, então acho que seguir o que amigos e família dizem é mais fácil. Não sei muito sobre como escolher com base em riscos ou objetivos, ou o que são tendências de mercado.",
+          "Acho que a melhor forma de decidir seria ver o que eu quero alcançar e como me sinto em relação ao risco. Não entendo muito sobre investimentos, mas parece que é importante saber o que se quer antes de investir.",
+          "Acho que a melhor maneira de decidir sobre investimentos é pensar no que se quer alcançar e quão confortável se está com o risco. Não reconheço bem os termos mais técnicos, mas parece que esta opção faz sentido porque fala de objetivos e risco, que são coisas que todos devemos ter em mente.",
+          "Acho que a melhor maneira de decidir onde investir é perguntar aos amigos e familiares o que eles acham. Eles podem ter experiências que eu não tenho, e isso pode ajudar a escolher investimentos. Não conheço bem os outros termos, como perfil de risco ou tendências de mercado."
+        ],
+        "Alto": [
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser baseada no perfil de risco do investidor e nos seus objetivos financeiros, pois isso assegura que a alocação de ativos esteja alinhada com a capacidade de suportar perdas e as metas a longo prazo. As outras opções, como seguir recomendações de amigos ou basear-se em retornos passados, não consideram a situação financeira individual do investidor e podem resultar em decisões inadequadas.",
+          "A decisão sobre a distribuição do capital entre diferentes tipos de investimentos deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros, pois isso garante que a alocação seja adequada às suas necessidades e expectativas. As outras opções são menos estratégicas e podem levar a decisões financeiras inadequadas.",
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser feita com base no perfil de risco do investidor e nos seus objetivos financeiros. Essa abordagem permite uma alocação adequada que maximiza o potencial de retorno, ao mesmo tempo que minimiza o risco, considerando as circunstâncias e preferências pessoais do investidor.",
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser baseada no perfil de risco e nos objetivos financeiros do investidor, pois isso garante que a alocação de ativos esteja alinhada com a tolerância ao risco e as metas de retorno. Essa abordagem é fundamental para uma gestão financeira eficaz e responsável.",
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros. Esta abordagem permite alinhar os investimentos com a capacidade de tolerância ao risco do investidor e as suas metas a curto, médio ou longo prazo, garantindo uma estratégia de investimento mais adequada e personalizada.",
+          "A escolha da distribuição do capital entre diferentes investimentos deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros a longo prazo. Isso garante que a carteira esteja alinhada com as expectativas de retorno e a tolerância ao risco, evitando decisões impulsivas baseadas em recomendações de terceiros ou tendências de mercado que podem não ser sustentáveis.",
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros. Isso permite uma alocação adequada que considera a tolerância ao risco e as metas financeiras a curto, médio e longo prazo, ao invés de se basear em fatores subjetivos ou retrospectivos.",
+          "A decisão sobre a distribuição do capital deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros. Essa abordagem permite uma alocação adequada dos ativos, garantindo que os investimentos correspondam ao apetite de risco e às metas de retorno a longo prazo, em vez de se basear em recomendações subjetivas ou tendências de mercado que podem ser voláteis.",
+          "A decisão sobre a distribuição do capital entre diferentes tipos de investimentos deve ser fundamentada no perfil de risco do investidor e nos seus objetivos financeiros. Essa abordagem permite uma alocação mais adequada e alinhada com a tolerância ao risco e o horizonte de investimento, maximizando o potencial de retorno enquanto se minimiza a exposição ao risco indesejado.",
+          "A distribuição do capital entre diferentes tipos de investimentos deve ser feita com base no perfil de risco do investidor e os seus objetivos financeiros. Isso permite alinhar a estratégia de investimento com a tolerância ao risco e as metas de retorno, em vez de se basear em retornos passados, recomendações de terceiros ou tendências de mercado, que podem ser voláteis e não garantem sucesso."
+        ]
+      }
+    },
+    {
+      "question": "Quando se deve rever a carteira de investimentos?",
+      "options": {
+        "A": "Regularmente, para garantir alinhamento com os objetivos.",
+        "B": "Quando o mercado está em alta.",
+        "C": "Sempre que há uma mudança na taxa de juro.",
+        "D": "Quando se atinge um ganho específico."
+      },
+      "hint": "Pensa em manter algo sempre atualizado.",
+      "rationale": "Revisar regularmente a carteira de investimentos assegura que ela continua alinhada com os objetivos financeiros e o perfil de risco.",
+      "tag": "Reajustamento de carteiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de 'Reajustamento de carteiras', pois questiona sobre a frequência com que se deve rever a carteira de investimentos, um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não mencione especificamente a revisão de carteiras, a ideia de manter as finanças atualizadas é consistente com a necessidade de revisão."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de revisão de carteiras, embora a opção B (quando o mercado está em alta) possa ser considerada uma prática comum, não é a mais adequada."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica sugere que o participante pense em manter algo sempre atualizado, o que é útil, mas poderia ser mais específica em relação à revisão de carteiras."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação é clara e completa, justificando adequadamente a resposta correta e estabelecendo uma ligação explícita ao conceito de alinhamento com objetivos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.5,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi esta opção porque parece lógico rever os investimentos quando já ganhei algum dinheiro. Não percebo bem os termos financeiros, mas se estou a ganhar, é bom ver se quero continuar ou mudar alguma coisa.",
+          "Eu não percebo bem essas coisas de investimentos e taxas, mas parece que faz sentido olhar para as coisas quando se ganha algum dinheiro. Se ganhei, é bom ver como estão as minhas opções, certo?",
+          "Eu acho que devemos rever a carteira quando conseguimos um bom ganho, porque é quando sentimos que é hora de olhar para o que fizemos. Não percebo bem o que são taxas de juro ou alinhamentos com objetivos, mas quando temos lucro, parece uma boa altura para parar e pensar.",
+          "Penso que a melhor altura para rever os investimentos é quando já ganhei alguma coisa. Não entendo bem o que são taxas de juro ou o que significa alinhar com objetivos, mas sei que quando estou a ganhar, é bom olhar para o que fiz.",
+          "Eu acho que devemos rever a carteira quando temos um ganho, porque parece que é um bom momento para ver o que está a acontecer. Não entendo muito de taxas de juro ou objetivos específicos, então isso parece mais simples.",
+          "Acho que devemos rever a carteira quando ganhamos algum dinheiro, porque é sempre bom ver se podemos aproveitar o que conseguimos. Não entendo bem o que significam os outros termos, como taxa de juro ou mercado em alta.",
+          "Acho que é mais fácil rever quando se ganha alguma coisa, porque assim dá uma sensação de que valeu a pena. Não percebo bem os termos técnicos e não sei quando mais seria bom fazer isso.",
+          "Eu acho que a melhor altura para rever é quando já ganhei um bom dinheiro. Não percebo bem esses termos complicados e, para mim, faz sentido olhar para o que consegui, em vez de estar a pensar em taxas de juro ou em objetivos.",
+          "Eu não percebo muito de finanças e não conheço os termos técnicos, mas parece que se deve olhar para os investimentos quando se ganha algum dinheiro, não é? Se eu tiver um lucro, talvez seja hora de rever o que estou a fazer.",
+          "Acho que faz sentido rever a carteira quando se ganha algum dinheiro, porque assim podemos ver se vale a pena continuar com o que temos ou mudar. Não entendo bem os outros termos que falam de objetivos ou taxa de juro."
+        ],
+        "Médio": [
+          "Acho que é bom rever a carteira de investimentos de vez em quando, para ver se está tudo a correr bem e se ainda se encaixa nos nossos planos. Não conheço muito bem os termos, mas parece-me que é importante estar atento para não perder oportunidades.",
+          "Acho que a melhor opção é quando se atinge um ganho específico, porque parece que temos que fazer algo quando ganhamos dinheiro. Não conheço bem os outros termos como 'alinhamento com os objetivos' ou 'taxa de juro', por isso fico confuso com isso.",
+          "Eu penso que devemos rever a carteira de investimentos quando conseguimos um bom ganho, porque é uma maneira de ver se devemos mudar alguma coisa. Os outros termos como taxa de juro ou mercado em alta não me parecem tão importantes, ou pelo menos eu não os entendo bem.",
+          "Acho que se deve rever a carteira quando se ganha dinheiro, porque é bom ver se está tudo a correr bem. Não entendo muito sobre o que é o mercado ou a taxa de juro, mas se ganhei, parece uma boa altura para olhar para isso.",
+          "Acho que é importante ver as coisas de vez em quando, para ter a certeza que está tudo a correr bem e que ainda quero o mesmo. Não entendo muito bem os termos, mas parece que rever regularmente é uma boa ideia.",
+          "Acho que é importante ver as coisas de vez em quando, para ter certeza que ainda está tudo no caminho certo, mas não sei bem o que significa 'alinhamento com os objetivos'. Não conheço muito sobre investimentos.",
+          "Acho que deve ser quando se ganha dinheiro, porque assim podemos ver se está tudo a correr bem. Não percebo bem os outros termos, como 'alinhamento' ou 'taxa de juro', mas parece que a opção B é mais simples.",
+          "Acho que devemos rever a carteira de investimentos quando temos um ganho, porque se estamos a ganhar, é bom ver se devemos continuar ou mudar alguma coisa. Não estou muito certo sobre as taxas de juro ou o que é 'alinhamento com os objetivos', mas ganhar parece uma boa razão.",
+          "Acho que é melhor rever a carteira de investimentos de vez em quando, para ver se ainda está a dar certo com o que queremos. Não conheço bem os termos como taxa de juro ou ganhos específicos, mas sinto que é importante acompanhar as coisas.",
+          "Acho que é importante ver as coisas de vez em quando para ter certeza de que estamos a fazer o que queremos. Não entendo bem sobre as taxas de juro e os mercados, mas rever de vez em quando parece uma boa ideia para não perder o foco."
+        ],
+        "Alto": [
+          "A revisão da carteira de investimentos deve ser feita regularmente para assegurar que continua a estar alinhada com os objetivos financeiros do investidor, considerando fatores como a tolerância ao risco, horizonte de investimento e mudanças nas condições de mercado. Esta abordagem evita que a carteira se torne desatualizada e garante uma gestão proativa do risco e do retorno.",
+          "A revisão da carteira de investimentos deve ser feita regularmente para assegurar que a alocação de ativos continua a refletir os objetivos financeiros pessoais e a tolerância ao risco. Este processo é fundamental para ajustar a carteira às mudanças nas condições de mercado, na situação financeira pessoal ou nos objetivos de vida, garantindo assim uma gestão financeira eficiente.",
+          "A opção D é a mais correta, pois a revisão regular da carteira de investimentos é essencial para assegurar que a alocação de ativos continua a refletir os objetivos financeiros, o perfil de risco e as condições de mercado. O conceito de revisão periódica é fundamental em gestão de investimentos, uma vez que permite ajustes necessários em resposta a mudanças nos objetivos pessoais ou na situação do mercado.",
+          "A revisão regular da carteira de investimentos é crucial para garantir que os ativos estão alinhados com os objetivos financeiros e o perfil de risco do investidor. Mudanças no mercado, na situação financeira pessoal ou nos objetivos de longo prazo podem exigir ajustes na alocação de ativos, tornando essa prática fundamental para uma gestão financeira eficaz.",
+          "A revisão regular da carteira de investimentos é crucial para assegurar que os ativos continuam alinhados com os objetivos financeiros do investidor, especialmente em resposta a mudanças no mercado ou na situação pessoal. Ignorar essa prática pode levar a desequilíbrios indesejados e riscos aumentados.",
+          "A revisão regular da carteira de investimentos é fundamental para assegurar que os ativos continuam a alinhar-se com os objetivos financeiros a longo prazo. Além disso, a abordagem regular permite ajustar a carteira em resposta a mudanças nas condições de mercado e na situação financeira pessoal, algo que é essencial para uma gestão eficaz de riscos e retornos.",
+          "A revisão regular da carteira de investimentos é fundamental para assegurar que os ativos se alinhem com os objetivos financeiros do investidor, considerando a evolução do mercado e as alterações nas circunstâncias pessoais. Isso permite uma gestão proativa do risco e garante que a estratégia de investimento permaneça relevante.",
+          "A revisão regular da carteira de investimentos é crucial para assegurar que os investimentos continuam a estar alinhados com os objetivos financeiros pessoais, especialmente em face de mudanças nas circunstâncias pessoais ou no mercado. Esta abordagem permite ajustar a alocação de ativos e mitigar riscos, tendo em conta a tolerância ao risco e a situação financeira atual.",
+          "A revisão regular da carteira de investimentos é essencial para garantir que os ativos continuam a alinhar-se com os objetivos financeiros do investidor, especialmente em face de mudanças nas circunstâncias pessoais ou nas condições de mercado. Essa prática incorpora a noção de reequilíbrio e ajusta as alocações conforme necessário para atender ao perfil de risco e retorno desejado.",
+          "A revisão regular da carteira de investimentos é essencial para assegurar que os ativos continuam alinhados com os objetivos financeiros do investidor, especialmente em resposta a alterações nas condições de mercado ou na situação pessoal. Manter um alinhamento com os objetivos é uma prática recomendada em gestão de investimentos, pois ajuda a mitigar riscos e a maximizar retornos ao longo do tempo."
+        ]
+      }
+    },
+    {
+      "question": "Porque é que investimentos de longo prazo podem tolerar mais volatilidade?",
+      "options": {
+        "A": "Têm mais tempo para recuperar de perdas.",
+        "B": "Porque são menos afetados por crises económicas.",
+        "C": "Porque oferecem retornos garantidos a longo prazo.",
+        "D": "Porque os riscos são menores ao longo do tempo."
+      },
+      "hint": "Considera o tempo disponível até precisas do dinheiro.",
+      "rationale": "Investimentos de longo prazo podem recuperar de perdas devido ao tempo adicional disponível antes de ser necessário resgatar o investimento.",
+      "tag": "Horizonte temporal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Horizonte temporal', pois aborda a tolerância à volatilidade em investimentos de longo prazo, que é um conceito central nesse contexto."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não mencione diretamente a volatilidade, a ideia de que o tempo permite recuperação é consistente com os princípios de investimento."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são relacionados com o tema, mas alguns, como a opção C, são incorretos de forma evidente, o que diminui a plausibilidade geral."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o tempo é um fator a considerar, mas poderia ser mais específica em relação à volatilidade."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como o tempo permite a recuperação de perdas em investimentos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que investimentos de longo prazo têm mais tempo para se recuperarem, porque se eu puser dinheiro hoje, tenho muitos anos para ele voltar a crescer, mesmo que haja algumas quedas pelo caminho. Não entendo bem os termos financeiros, mas parece lógico que ter mais tempo ajuda.",
+          "Acho que investimentos a longo prazo têm mais tempo para se recuperar, porque se algo correr mal, ainda há tempo para melhorar. Não conheço bem os termos técnicos, mas parece que é assim que funciona.",
+          "Eu acho que investimentos a longo prazo são mais seguros e que os riscos diminuem com o tempo. Não entendo muito bem esses termos técnicos, mas parece lógico pensar que, com mais tempo, as coisas podem ficar melhores.",
+          "Eu acho que investimentos de longo prazo podem aguentar mais altos e baixos porque têm mais tempo para voltar ao normal. Não conheço muito sobre termos financeiros, mas parece lógico que, se tiver mais tempo, é mais fácil recuperar de perdas.",
+          "Acho que investimentos de longo prazo podem recuperar melhor porque têm mais tempo, ou seja, se as coisas correrem mal, ainda têm muito tempo para se recompor. Não entendo bem de termos técnicos ou do que significa volatilidade, mas parece-me que é normal as coisas mudarem ao longo do tempo.",
+          "Eu acho que, se um investimento tem um longo prazo, então ele pode passar por altos e baixos e ainda ter tempo para se recuperar. Não percebo bem os termos técnicos, mas faz sentido pensar que, com mais tempo, as coisas podem melhorar.",
+          "Eu acho que investimentos de longo prazo podem tolerar mais volatilidade porque, se as coisas correrem mal, têm mais tempo para se recuperar. Não percebo muito de termos financeiros, mas parece lógico que com mais tempo, as coisas podem melhorar.",
+          "Eu não conheço muito sobre finanças, mas parece que se um investimento é a longo prazo, pode demorar mais tempo a recuperar de perdas, então talvez isso signifique que as pessoas não precisam de se preocupar tanto. Não entendo bem os termos técnicos, mas faz sentido pensar que com mais tempo as coisas podem melhorar.",
+          "Eu escolhi a opção D porque, na minha cabeça, se estamos a investir a longo prazo, temos mais tempo para as coisas voltarem ao normal se acontecer alguma coisa má. Não percebo bem os termos técnicos, mas parece lógico que o tempo ajuda a recuperar.",
+          "Acho que os investimentos de longo prazo podem aguentar mais altos e baixos porque têm mais tempo para se recuperar das perdas. Não conheço bem os termos técnicos, mas parece-me que se tiveres muito tempo, as coisas podem melhorar."
+        ],
+        "Médio": [
+          "Acho que a resposta certa é a C, porque se um investimento vai para o longo prazo, ele pode voltar a subir depois de uma queda. Não entendo muito bem as outras opções, mas parece que esta faz sentido.",
+          "Acho que a resposta certa é que têm mais tempo para recuperar de perdas, porque se um investimento perde valor, ao longo dos anos ele pode voltar a subir. Não percebo bem as outras opções e não conheço muitos termos financeiros, mas parece lógico que o tempo ajuda a recuperar.",
+          "Acho que investimentos de longo prazo podem aguentar mais altos e baixos porque têm mais tempo para voltar a subir. Não estou muito a par dos termos técnicos, mas parece-me que se demorar mais tempo, há mais chances de recuperar o que se perdeu.",
+          "Eu acho que a resposta é a D, porque investimentos de longo prazo têm mais tempo para se recuperar de perdas. Não sei bem o que é volatilidade, mas parece que se pode esperar mais tempo para que as coisas melhorem, talvez como quando guardamos dinheiro e eventualmente conseguimos mais.",
+          "Acho que esta opção faz sentido porque, se um investimento cai, ele pode subir outra vez com o tempo. Não percebo bem as outras opções, mas parece que esta é a que mais se encaixa na ideia de que é preciso tempo para as coisas melhorarem.",
+          "Eu acho que é porque, se os investimentos forem a longo prazo, têm mais tempo para voltar a subir depois de uma crise ou de uma perda. Não entendo bem os termos, mas parece que assim dá mais segurança.",
+          "Eu acho que a opção C faz sentido, porque se um investimento tem mais tempo, então pode ter mais oportunidades para voltar ao que era antes. Não conheço muito sobre isso, mas parece que se tiver mais tempo, é mais fácil recuperar de perdas.",
+          "Eu acho que a opção B faz sentido porque se um investimento tem mais tempo, pode voltar a ficar bom depois de uma queda. Não percebo muito bem de finanças, mas parece lógico que se tivermos tempo, as coisas podem melhorar.",
+          "Acho que a resposta certa é a C, porque investimentos de longo prazo têm mais tempo para se recuperar de quedas. Não sei muito sobre os outros termos, mas parece lógico que com mais tempo, as perdas podem ser recuperadas.",
+          "Acho que os investimentos a longo prazo podem ter altos e baixos, mas como duram mais tempo, eles podem voltar a subir depois de perderem valor. Não conheço bem os termos, mas parece que faz sentido."
+        ],
+        "Alto": [
+          "A opção A é a mais correta, pois investimentos de longo prazo têm a vantagem de permitir que o capital se recupere de flutuações de mercado ao longo do tempo. Isto é essencial num contexto de volatilidade, já que a capacidade de manter um investimento durante períodos de incerteza pode resultar em retornos positivos a longo prazo, mitigando assim os riscos associados a quedas temporárias no valor.",
+          "Investimentos de longo prazo podem tolerar mais volatilidade porque, ao longo do tempo, têm mais oportunidades para se recuperar de perdas e, portanto, o impacto de flutuações de curto prazo é diluído. O conceito de tempo é crucial em finanças, pois o histórico de retornos de ativos tende a mostrar que, a longo prazo, os mercados se ajustam e as perdas podem ser recuperadas.",
+          "Investimentos de longo prazo podem tolerar mais volatilidade porque têm mais tempo para se recuperar de perdas ocasionais. Esta capacidade de recuperação é fundamental em mercados que podem experimentar flutuações significativas, permitindo que o investidor beneficie do crescimento do capital ao longo do tempo, mesmo que haja períodos de descidas.",
+          "A opção A é a mais correta, pois investimentos de longo prazo têm a vantagem de permitir que o capital se recupere de flutuações de mercado, uma vez que o tempo é um fator crucial na amortização de perdas e na realização de retornos. As outras opções não refletem a realidade dos investimentos, pois não há garantias de retorno, os riscos não diminuem com o tempo e os investimentos ainda podem ser impactados por crises económicas.",
+          "Investimentos de longo prazo podem tolerar mais volatilidade porque possuem um horizonte temporal maior, permitindo que os ativos se recuperem de flutuações de mercado. Essa capacidade de recuperação é fundamental, especialmente em mercados voláteis, onde perdas podem ser temporárias e o potencial de valorização a longo prazo é maior.",
+          "Investimentos de longo prazo podem tolerar mais volatilidade porque têm mais tempo para se recuperar de perdas. Esta opção reconhece o princípio de que a volatilidade a curto prazo é menos preocupante para um investidor que está disposto a manter os seus ativos por um período mais extenso, permitindo que as flutuações do mercado se estabilizem e potencialmente resultem em ganhos a longo prazo.",
+          "Os investimentos de longo prazo podem tolerar mais volatilidade porque têm mais tempo para se recuperar de perdas. A volatilidade a curto prazo pode ser significativa, mas ao longo de um horizonte temporal mais extenso, os mercados tendem a se estabilizar e a fornecer retornos positivos. Este conceito é fundamental na teoria de investimentos, onde o tempo é um aliado na mitigação de riscos.",
+          "Investimentos de longo prazo podem tolerar mais volatilidade porque, ao longo do tempo, têm mais oportunidades de se recuperar de perdas decorrentes de flutuações do mercado. A volatilidade pode ser uma preocupação a curto prazo, mas ao longo de um horizonte temporal mais extenso, os mercados tendem a se estabilizar e a gerar retornos positivos.",
+          "Investimentos de longo prazo, como ações ou imóveis, têm a vantagem de disporem de um horizonte temporal mais extenso, permitindo que possam recuperar de possíveis perdas devido a flutuações de mercado. Isso ocorre porque, historicamente, os mercados tendem a valorizar-se ao longo do tempo, apesar das volatilidades de curto prazo.",
+          "Investimentos de longo prazo têm a vantagem de permitir que o capital se recupere de flutuações de mercado, uma vez que o tempo pode suavizar os ciclos de volatilidade. Esta opção reconhece a natureza cíclica dos mercados e como o tempo pode ajudar a mitigar as perdas, ao contrário de outras opções que não refletem a realidade dos investimentos."
+        ]
+      }
+    },
+    {
+      "question": "O que envolve a eficiência fiscal na gestão de investimentos?",
+      "options": {
+        "A": "Maximizar rendimentos líquidos através de deduções fiscais.",
+        "B": "Evitar qualquer tipo de imposto sobre os rendimentos.",
+        "C": "Concentrar investimentos em produtos isentos de impostos.",
+        "D": "Maximizar o capital inicial investido."
+      },
+      "hint": "Relaciona-se com pagar menos impostos.",
+      "rationale": "A eficiência fiscal envolve a utilização de deduções e benefícios fiscais para maximizar os rendimentos líquidos dos investimentos.",
+      "tag": "Eficiência fiscal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com a tag 'Eficiência fiscal', pois aborda a gestão de investimentos em relação à maximização de rendimentos líquidos através de deduções fiscais, que é um aspecto central da eficiência fiscal."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de deduções fiscais, embora não aborde diretamente a eficiência fiscal como um conceito."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de eficiência fiscal, embora a opção B ('Evitar qualquer tipo de imposto sobre os rendimentos') seja um pouco exagerada e não reflete a realidade da eficiência fiscal."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio do participante, mas poderia ser um pouco mais específica para ajudar a direcionar a resposta correta sem revelar diretamente a solução."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conceito de eficiência fiscal e à utilização de deduções e benefícios fiscais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.3,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem o que é a eficiência fiscal, mas a ideia de evitar impostos parece-me boa. Não gosto de pagar impostos, então deve ser isso que se quer fazer com investimentos.",
+          "Eu não entendo muito bem o que é a eficiência fiscal e esses termos complicados. Mas parece que evitar impostos é sempre uma boa ideia, porque assim fica mais dinheiro para mim.",
+          "Eu não percebo bem esses termos complicados, mas acho que a melhor maneira de lidar com impostos é não os pagar. Portanto, a ideia de evitar impostos parece ser a mais sensata.",
+          "Eu não percebo muito sobre impostos e investimentos, mas parece que a melhor maneira de ganhar dinheiro é não pagar impostos. Por isso, acho que evitar impostos é o mais importante.",
+          "Eu não percebo muito de impostos ou investimentos. Mas parece que a opção A faz sentido porque ninguém gosta de pagar impostos, então seria bom evitar isso.",
+          "Eu não conheço bem os termos técnicos e não percebo muito de impostos. Para mim, o mais importante é ter mais dinheiro para começar a investir, então escolhi maximizar o capital inicial.",
+          "Eu não entendo muito bem esses termos, mas parece que evitar impostos é algo que muitas pessoas querem fazer, então escolhi a opção A. Não conheço bem o que é eficiência fiscal, mas acho que se puder não pagar impostos sobre o que ganho, isso é bom.",
+          "Não percebo bem esses termos financeiros, mas parece que evitar impostos é algo que as pessoas sempre querem fazer. Então, a opção que fala em evitar impostos parece a mais lógica para mim.",
+          "Acho que a maneira mais fácil de lidar com dinheiro é não ter que dar nada ao governo. Não percebo bem os termos complicados, mas parece que a melhor opção é não pagar impostos.",
+          "Acho que a melhor opção é concentrar investimentos em produtos isentos de impostos, porque assim não tenho que me preocupar com pagar mais. Não entendo bem os termos e jargões, mas parece mais simples não ter impostos."
+        ],
+        "Médio": [
+          "Acho que a eficiência fiscal tem a ver com conseguir mais dinheiro no final, então talvez as deduções fiscais ajudem a aumentar o que fica na conta. Não percebo bem os termos, mas parece que é sobre pagar menos impostos.",
+          "Eu acho que a eficiência fiscal é sobre conseguir mais dinheiro no final, então talvez fazer deduções fiscais ajude a ter mais rendimentos. Mas não conheço bem esses termos, por isso estou um pouco confuso.",
+          "Eu acho que a eficiência fiscal tem a ver com evitar impostos, porque a maioria das pessoas não gosta de pagar impostos e quer manter mais do seu dinheiro. Não entendo muito bem os termos técnicos, mas parece que a ideia é não ter que dar dinheiro ao governo.",
+          "Acho que a eficiência fiscal tem a ver com evitar impostos, porque a gente não quer perder dinheiro com impostos. Não entendo bem os outros termos, mas parece que a opção A é a mais direta sobre não querer pagar impostos.",
+          "Acho que maximizar rendimentos líquidos deve ter a ver com tirar o melhor proveito do que ganho, talvez usando algumas deduções fiscais que ajudam a pagar menos impostos. Não conheço muito bem os termos, mas parece que é isso que se quer fazer.",
+          "Eu não estou muito por dentro de termos complicados, mas parece-me que a melhor forma de gerir investimentos é não ter que pagar impostos. Se evitar impostos ajuda a guardar mais dinheiro, isso deve ser bom, certo?",
+          "Eu acho que a eficiência fiscal tem a ver com evitar impostos, então a opção que fala sobre produtos isentos parece fazer sentido. Não entendo bem os detalhes, mas parece que é melhor não pagar impostos.",
+          "Eu não percebo muito sobre impostos e investimentos, mas a opção C parece ser a mais simples. Afinal, quem é que quer pagar impostos, não é? A ideia de evitar impostos soa bem, mesmo que eu não saiba como isso funcionaria na prática.",
+          "Eu acho que a eficiência fiscal é sobre não pagar impostos, então a opção A parece a melhor escolha. Não conheço bem os outros termos, e evitar impostos parece uma coisa boa para qualquer investimento.",
+          "Acho que a eficiência fiscal é mais sobre ter mais dinheiro para investir, então maximizar o capital inicial parece o mais importante. Não entendo bem os outros termos, como deduções fiscais ou produtos isentos, parecem complicados."
+        ],
+        "Alto": [
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de um investidor em maximizar os rendimentos líquidos, ou seja, os rendimentos após a dedução de impostos. A opção C é a mais correta porque aborda diretamente a utilização de deduções fiscais para melhorar os resultados financeiros, enquanto as outras opções não refletem uma abordagem eficaz e legal em termos de eficiência fiscal.",
+          "A eficiência fiscal na gestão de investimentos implica otimizar os rendimentos líquidos, ou seja, o retorno que se obtém após a dedução de impostos. A opção D aborda diretamente a maximização desses rendimentos através de estratégias que permitem tirar partido de deduções fiscais, o que é um conceito relevante e técnico na área da literacia financeira.",
+          "A eficiência fiscal na gestão de investimentos implica encontrar formas de aumentar os rendimentos líquidos, ou seja, o que realmente se recebe após impostos. A opção A reflete essa ideia, pois as deduções fiscais podem ajudar a otimizar a tributação sobre os rendimentos, aumentando assim o retorno efetivo do investimento.",
+          "A eficiência fiscal na gestão de investimentos implica otimizar os rendimentos líquidos, ou seja, maximizar o retorno após a tributação. A opção B reflete corretamente essa estratégia, já que deduções fiscais podem aumentar os rendimentos líquidos, enquanto as outras opções ou são inviáveis ou não capturam a essência da eficiência fiscal.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de otimizar os rendimentos líquidos, ou seja, os rendimentos após a dedução de impostos. A opção D é a mais adequada porque enfatiza a maximização dos rendimentos líquidos, considerando a legislação fiscal e as deduções disponíveis, em vez de simplesmente evitar impostos ou concentrar-se apenas em produtos isentos.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de maximizar os rendimentos líquidos, ou seja, os rendimentos após impostos. A opção B é a mais correta, pois destaca a importância de utilizar deduções fiscais para aumentar os rendimentos que efetivamente se retêm, o que é uma prática comum no planeamento financeiro.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de maximizar os rendimentos líquidos após impostos, o que implica aproveitar deduções fiscais e outras estratégias que minimizam a carga tributária sobre os ganhos. Esta abordagem é fundamental para otimizar o retorno do investimento e é um conceito bem estabelecido na gestão financeira.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de maximizar os rendimentos líquidos, ou seja, os rendimentos após impostos. A opção B reflete corretamente essa ideia, pois foca na utilização de deduções fiscais para aumentar o retorno efetivo do investimento, o que é um conceito fundamental em planejamento financeiro.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de maximizar os rendimentos líquidos, o que implica a utilização de deduções fiscais permitidas. A opção A é a mais correta, pois envolve estratégias que buscam reduzir a carga tributária sobre os rendimentos, ao contrário das outras opções que são menos realistas ou sustentáveis. A utilização de deduções fiscais é uma prática comum e reconhecida na otimização fiscal.",
+          "A eficiência fiscal na gestão de investimentos refere-se à capacidade de maximizar os rendimentos líquidos após impostos. Isso implica utilizar estratégias que aproveitem deduções fiscais e créditos, de modo a minimizar a carga tributária sobre os rendimentos dos investimentos. As opções A e C focam em evitar impostos, mas não necessariamente em maximizar os rendimentos líquidos, enquanto a opção D não aborda a questão fiscal."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma vantagem de investir em diferentes classes de ativos?",
+      "options": {
+        "A": "Reduzir a probabilidade de perdas significativas.",
+        "B": "Aumentar o potencial de retorno a curto prazo.",
+        "C": "Facilitar a gestão do portfólio.",
+        "D": "Permitir ganhos consistentes em todos os investimentos."
+      },
+      "hint": "Pensa em espalhar o risco.",
+      "rationale": "Investir em diferentes classes de ativos diversifica o risco, reduzindo a probabilidade de perdas significativas.",
+      "tag": "Diversificação de carteiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Diversificação de carteiras', pois aborda a vantagem de investir em diferentes classes de ativos, que é um conceito central na diversificação."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que explica claramente como a diversificação ajuda a reduzir o risco e a probabilidade de perdas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas a opção D ('Permitir ganhos consistentes em todos os investimentos') pode ser considerada menos realista, pois a consistência de ganhos não é garantida em investimentos."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica 'Pensa em espalhar o risco' orienta eficazmente o raciocínio do participante sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a diversificação e a redução do risco."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que ao investir em diferentes tipos de coisas, como ações e imóveis, se pode evitar perder muito dinheiro de uma só vez. Não percebo bem os termos técnicos, mas parece-me que é uma forma de não colocar todos os ovos na mesma cesta.",
+          "Eu acho que, se investirmos em coisas diferentes, pode ser que consigamos ganhar sempre um bocadinho em cada um. Não consigo perceber bem os outros termos, mas parece que esta opção fala sobre ganhar dinheiro, o que é bom.",
+          "Eu acho que ao investir em coisas diferentes, é mais fácil ganhar sempre um bocadinho. Não percebo bem esses termos complicados, mas parece que se tivermos várias opções, é mais seguro e podemos ganhar mais.",
+          "Acho que investir em coisas diferentes pode ajudar a evitar perder muito dinheiro de uma vez só. Não percebo bem os termos técnicos, mas parece-me que se tiver várias opções, se uma correr mal, as outras podem ajudar.",
+          "Acho que a melhor opção é a B porque parece que diversificar os investimentos ajuda a ganhar sempre um bocadinho, mesmo que seja pouco. Não conheço bem esses termos financeiros, mas parece lógico que se eu tiver vários investimentos, as coisas boas e más se equilibram.",
+          "Acho que se investirmos em coisas diferentes, se uma delas não correr bem, as outras podem ajudar a não perder tudo. Os termos que aparecem são complicados, mas parece-me que assim é mais seguro.",
+          "Acho que se investirmos em várias coisas, é mais fácil ganhar sempre um bocadinho, mesmo que seja pouco. Não percebo bem os termos que usam, mas parece-me que diversificar é uma forma de garantir que não perdemos tudo de uma vez.",
+          "Eu acho que investir em diferentes coisas é bom porque assim podemos ganhar sempre um bocadinho, mesmo que seja pouco. Não percebo bem os termos técnicos, mas parece que é uma maneira de garantir que estamos sempre a ganhar alguma coisa.",
+          "Eu não entendo muito bem os termos técnicos que vocês usam, mas penso que investir em coisas diferentes pode fazer com que eu ganhe mais dinheiro rapidamente. É como quando jogamos em várias lotarias, se uma não ganhar, talvez a outra ganhe.",
+          "Eu não percebo bem esses termos de investir e tal, mas acho que investir em diferentes coisas deve ser bom porque se pode ganhar mais dinheiro rápido. Não sei o que é um portfólio ou perdas significativas, mas quem não quer ganhar dinheiro rápido?"
+        ],
+        "Médio": [
+          "Acho que diversificar é uma boa ideia para não perder tudo de uma vez. Não conheço bem os termos, mas parece que se investirmos em várias coisas, se uma perder, não perdemos tudo. Isso parece sensato.",
+          "Acho que investir em diferentes coisas ajuda a não perder tudo de uma vez. Se um investimento não vai bem, talvez os outros ajudem a compensar. Não entendo muito bem os termos, mas parece que faz sentido diversificar para não ter grandes prejuízos.",
+          "Acho que investir em diferentes coisas pode fazer com que se ganhe mais dinheiro rápido, mesmo que não entenda muito bem como funciona. Não conheço bem os outros termos, mas parece que ter várias opções pode ser bom para ganhar mais.",
+          "Acho que uma vantagem de investir em diferentes classes de ativos é que isso pode ajudar a evitar grandes perdas. Se um investimento não vai bem, talvez outros estejam a fazer melhor e assim não perco tudo. Não conheço bem os termos técnicos, mas a ideia de diversificar parece-me boa.",
+          "Acho que investir em diferentes tipos de coisas ajuda a não perder muito dinheiro de uma vez. Não conheço bem os termos, mas parece que se um investimento não vai bem, os outros podem ajudar a compensar.",
+          "Acho que diversificar os investimentos é bom porque se um investimento não vai bem, talvez os outros possam ajudar a não perder tudo. Não conheço bem os termos, mas parece que é uma forma de proteger o dinheiro.",
+          "Acho que a vantagem de investir em diferentes coisas é que se uma delas não for boa, as outras podem ajudar. Não conheço muito bem os termos, mas parece que diversificar é uma forma de não perder tudo de uma vez.",
+          "Acho que diversificar investimentos pode ajudar a não perder muito dinheiro de uma só vez. Não conheço bem os termos, mas faz sentido que investir em coisas diferentes possa proteger o que já tenho.",
+          "Acho que diversificar os investimentos pode ajudar a não perder muito dinheiro de uma vez, porque se um investimento não vai bem, outros podem compensar. Não entendo bem os termos, mas parece que é uma maneira de proteger o que temos.",
+          "Acho que diversificar os investimentos ajuda a não perder muito de uma vez, porque se uma coisa não vai bem, pode haver outras que estão melhores. Não conheço muito sobre os termos técnicos, mas parece lógico que ao ter coisas diferentes, uma pode compensar a outra."
+        ],
+        "Alto": [
+          "A diversificação entre diferentes classes de ativos é uma estratégia essencial para mitigar o risco, pois permite que a performance negativa de um ativo seja compensada pelo desempenho positivo de outro. Esta abordagem ajuda a suavizar a volatilidade do portfólio e, portanto, reduz a probabilidade de perdas significativas, o que é um princípio fundamental na gestão de investimentos.",
+          "A diversificação entre diferentes classes de ativos é uma estratégia fundamental na gestão de riscos, pois permite equilibrar o desempenho do portfólio. Ao investir em ativos distintos, como ações, obrigações e imobiliário, é possível mitigar impactos negativos de uma classe de ativos, reduzindo assim a probabilidade de perdas significativas.",
+          "Investir em diferentes classes de ativos, como ações, obrigações e imóveis, permite uma diversificação que ajuda a mitigar riscos e a reduzir a volatilidade do portfólio. Essa estratégia é fundamental para proteger o capital contra perdas significativas, já que diferentes ativos podem reagir de forma distinta a condições de mercado.",
+          "A diversificação entre diferentes classes de ativos é uma estratégia fundamental em investimentos, pois permite mitigar riscos. Ao espalhar o capital por várias classes, como ações, obrigações e imóveis, o investidor pode reduzir a probabilidade de perdas significativas, uma vez que não depende apenas de uma única classe de ativos para o seu retorno.",
+          "A diversificação em diferentes classes de ativos é uma estratégia fundamental para mitigar o risco, pois ao espalhar os investimentos, reduz-se a exposição a qualquer ativo individual que possa depreciar. Esta abordagem é bem reconhecida no planeamento financeiro, pois permite que o investidor minimize as perdas em períodos de volatilidade do mercado.",
+          "Investir em diferentes classes de ativos permite a diversificação do portfólio, o que é fundamental para mitigar riscos. A diversificação ajuda a reduzir a probabilidade de perdas significativas, uma vez que diferentes ativos podem reagir de forma distinta a condições de mercado, diminuindo a volatilidade geral do portfólio.",
+          "Investir em diferentes classes de ativos, como ações, obrigações e imóveis, permite diversificação, o que é fundamental para mitigar riscos. Ao diversificar, reduz-se a correlação entre os ativos, o que pode diminuir a probabilidade de perdas significativas em momentos de volatilidade do mercado.",
+          "A diversificação entre diferentes classes de ativos é uma estratégia fundamental de gestão de risco que visa mitigar perdas. Ao espalhar os investimentos, a exposição a um único ativo ou setor é diminuída, reduzindo assim a probabilidade de perdas significativas em todo o portfólio, o que é uma prática reconhecida na teoria moderna de portfólios.",
+          "A diversificação em diferentes classes de ativos é uma estratégia fundamental para mitigar o risco. Ao espalhar investimentos por várias categorias, como ações, obrigações e imobiliário, é possível minimizar o impacto negativo que uma classe de ativos pode ter sobre o portfólio, reduzindo assim a probabilidade de perdas significativas.",
+          "Investir em diferentes classes de ativos, como ações, obrigações e imóveis, permite a diversificação do portfólio, o que reduz o risco global. Esta estratégia ajuda a mitigar perdas em um ativo específico, visto que diferentes classes de ativos podem reagir de forma distinta às condições de mercado."
+        ]
+      }
+    },
+    {
+      "question": "O que é essencial entender antes de tomar decisões de investimento?",
+      "options": {
+        "A": "O próprio perfil de investidor.",
+        "B": "As tendências atuais do mercado.",
+        "C": "Os conselhos de investidores experientes.",
+        "D": "O histórico de retornos de diferentes investimentos."
+      },
+      "hint": "Reflete sobre o teu conforto com o risco.",
+      "rationale": "Entender o próprio perfil de investidor é essencial para tomar decisões de investimento adequadas ao nível de risco que se está disposto a assumir.",
+      "tag": "Perfil de investidor",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Perfil de investidor', pois aborda a compreensão do perfil pessoal antes de realizar investimentos."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de entender o perfil de investidor ao considerar diferentes ativos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre o conforto com o risco, mas poderia ser mais específica em relação ao perfil de investidor."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do perfil de investidor."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.6,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que ouvir quem já passou por isso é importante. Não percebo bem as tendências do mercado ou o histórico de retornos, mas se alguém que sabe me dá dicas, pode ajudar. Não conheço bem o que é o perfil de investidor, por isso prefiro seguir conselhos.",
+          "Eu não percebo muito sobre investimentos, então acho que ouvir quem já tem experiência é importante. Não conheço bem os outros termos como histórico de retornos ou tendências, por isso confio mais em quem já passou por isso.",
+          "Acho que ouvir pessoas que já investiram antes pode ajudar, porque elas têm mais experiência. Não entendo bem os termos técnicos, mas parece que a experiência é importante para evitar erros.",
+          "Eu não percebo muito sobre investimentos e termos complicados, mas acho que ouvir quem já entende do assunto pode ajudar. Assim, fico mais seguro nas minhas decisões.",
+          "Acho que entender o meu próprio perfil é importante porque, assim, sei melhor o que posso arriscar. Não percebo bem os outros termos, como o histórico de retornos ou tendências, mas sei o que gosto e o que me faz sentir seguro.",
+          "Acho que ouvir pessoas que já investiram é importante, porque elas podem dar dicas sobre o que funciona e o que não funciona. Não entendo muito dos outros termos, como histórico de retornos ou tendências do mercado, mas confiar em quem sabe parece um bom caminho.",
+          "Eu não percebo muito sobre investimentos, mas acho que ouvir quem já tem experiência pode ajudar. Não conheço bem os outros termos, como tendências ou histórico de retornos, então prefiro seguir o que os mais velhos dizem.",
+          "Eu não percebo bem o que é um perfil de investidor ou tendências do mercado. Acho que ouvir quem já investiu pode ser mais útil, porque eles já passaram por isso e podem dar dicas.",
+          "Acho que é importante ouvir quem já passou por isso e tem mais experiência. Não entendo muito bem as outras opções, como histórico de retornos ou tendências, mas conselhos de quem sabe é sempre útil.",
+          "Acho que ouvir quem já passou por isso é importante, mesmo que eu não perceba bem todos os termos. Não sei o que são as tendências do mercado ou o perfil de investidor, mas se alguém que sabe me dá dicas, pode ajudar."
+        ],
+        "Médio": [
+          "Acho que ouvir pessoas com mais experiência é importante, porque eles podem saber mais sobre o que funciona ou não. Não entendo muito sobre perfis de investidores ou tendências do mercado, então prefiro seguir conselhos.",
+          "Acho que ouvir quem já investiu pode ser importante, porque eles têm mais experiência. Não percebo bem o que é o perfil de investidor ou as tendências do mercado.",
+          "Acho que é importante saber como eu sou como investidor, ou seja, se sou mais arriscado ou mais cauteloso. Não reconheço bem os termos das outras opções, mas sei que preciso entender o que eu quero antes de investir.",
+          "Acho que é importante saber como cada um é, porque se não soubermos se gostamos de arriscar ou não, pode ser complicado escolher. Não conheço bem os outros termos, mas parece que é mais sobre conhecer a nós próprios.",
+          "Acho que é importante saber como sou eu em relação ao dinheiro antes de investir. Não conheço bem os termos mais complicados, mas sentir se sou mais cauteloso ou arriscado deve ajudar a decidir.",
+          "Acho que ouvir quem já investiu antes é importante. Não percebo bem as tendências ou o histórico de investimentos, mas conselhos de pessoas mais velhas podem ajudar a decidir.",
+          "Acho que é importante saber quem somos antes de investir, tipo se somos mais arriscados ou se preferimos algo mais seguro. Não percebo muito dos outros termos, mas sei que é bom saber o que nós queremos.",
+          "Acho que ouvir pessoas mais velhas ou com mais experiência é importante porque podem dar dicas sobre o que fazer. Não entendo bem as outras opções, como histórico de retornos ou tendências, são termos que parecem complicados.",
+          "Acho que é importante entender como eu sou como investidor, se sou mais arriscado ou mais cuidadoso. Não conheço bem os outros termos, como histórico de retornos ou tendências de mercado, então fico com o que sei sobre mim.",
+          "Eu acho que é importante saber como somos em relação a investir, se somos mais seguros ou arriscados. Não conheço bem os outros termos como histórico de retornos ou tendências de mercado, mas saber se sou um investidor cuidadoso parece ser uma boa ideia."
+        ],
+        "Alto": [
+          "Entender o próprio perfil de investidor é essencial, uma vez que determina a tolerância ao risco, os objetivos de investimento e a estratégia adequada a seguir. Embora o histórico de retornos, as tendências do mercado e conselhos de investidores experientes sejam importantes, a autocompreensão é fundamental para tomar decisões de investimento alinhadas com as necessidades e circunstâncias pessoais.",
+          "Antes de tomar decisões de investimento, é fundamental compreender o próprio perfil de investidor, pois isso determina a tolerância ao risco, os objetivos financeiros e a estratégia de investimento adequada. Reconheço a importância de alinhar os investimentos com as características individuais, garantindo uma abordagem personalizada e informada.",
+          "Antes de tomar decisões de investimento, é fundamental compreender o próprio perfil de investidor, pois isso influencia diretamente a tolerância ao risco e as escolhas de investimento adequadas. Reconheço que o perfil de investidor é uma variável crítica na formulação de uma estratégia de investimento bem-sucedida.",
+          "Antes de tomar decisões de investimento, é crucial entender o próprio perfil de investidor, pois isso determina a tolerância ao risco, os objetivos financeiros e a estratégia de investimento. Um investidor deve estar ciente das suas preferências e limitações para alinhar as suas escolhas a um plano financeiro sustentável, evitando decisões impulsivas que possam comprometer a sua segurança financeira.",
+          "Antes de tomar decisões de investimento, é fundamental compreender o próprio perfil de investidor, pois isso influencia a tolerância ao risco, os objetivos financeiros e o horizonte temporal. Reconheço que entender as características individuais é a base para escolher investimentos adequados e evitar decisões impulsivas ou inadequadas.",
+          "Antes de tomar decisões de investimento, é crucial entender o próprio perfil de investidor, pois este determina a tolerância ao risco, os objetivos financeiros e o horizonte de investimento, que são fundamentais para alinhar as escolhas de investimento com as necessidades pessoais. Reconheço a importância deste conceito, uma vez que o conhecimento sobre o próprio perfil ajuda a evitar decisões impulsivas e a construir uma carteira de investimentos adequada.",
+          "Antes de tomar decisões de investimento, é fundamental entender o próprio perfil de investidor, pois isso determina a tolerância ao risco, os objetivos financeiros e o horizonte temporal. Reconheço a importância desse conceito, uma vez que um perfil bem definido guiará as escolhas de investimento de forma a alinhar-se com a situação financeira e as expectativas do investidor.",
+          "Antes de tomar decisões de investimento, é crucial entender o próprio perfil de investidor, que inclui a tolerância ao risco, objetivos financeiros e horizonte de investimento. Essa autocompreensão é fundamental para alinhar as escolhas de investimento com as circunstâncias pessoais e as expectativas financeiras, evitando decisões impulsivas ou inadequadas.",
+          "Entender o próprio perfil de investidor é essencial, pois permite alinhar as escolhas de investimento com os objetivos financeiros, tolerância ao risco e horizonte de tempo. Conhecer-se a si mesmo é fundamental para tomar decisões informadas e sustentáveis no mundo dos investimentos.",
+          "Antes de tomar decisões de investimento, é crucial entender o próprio perfil de investidor, pois isso determina a tolerância ao risco, os objetivos financeiros e a duração do investimento. O conhecimento do perfil ajuda a alinhar as escolhas de investimento com a capacidade de suportar perdas e a expectativa de retorno, o que é fundamental para uma estratégia de investimento bem-sucedida."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.7,
+    "answer_exclusivity": 5,
+    "distractor_quality": 3.9,
+    "hint_quality": 4.2,
+    "rationale_quality": 4.8,
+    "tag_diversity": 0.8,
+    "overall_score": 4.58
+  }
+}

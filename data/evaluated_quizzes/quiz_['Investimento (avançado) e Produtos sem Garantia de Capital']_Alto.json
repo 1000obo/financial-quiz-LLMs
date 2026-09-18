@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Investimento (avançado) e Produtos sem Garantia de Capital"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como é que a diversificação pode mitigar riscos nos mercados financeiros?",
+      "options": {
+        "A": "Reduz exposição a perdas significativas",
+        "B": "Aumenta a volatilidade do portfólio",
+        "C": "Garante retornos consistentes",
+        "D": "Elimina completamente o risco de mercado"
+      },
+      "hint": "Pensa na variedade de ativos e classes.",
+      "rationale": "A diversificação permite investir em diferentes classes de ativos e dentro de cada classe, reduzindo assim a exposição a perdas significativas, dado que o risco é distribuído.",
+      "tag": "Mercados financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de 'Mercados financeiros', pois aborda um conceito fundamental de gestão de risco que é relevante para investidores."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a volatilidade e o risco elevado em investimentos, embora não trate diretamente da diversificação."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de diversificação, embora a opção D seja um pouco exagerada ao afirmar que elimina completamente o risco."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a diversificação, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conceito de diversificação e à redução de riscos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Escolhi a opção D porque, na minha opinião, diversificar significa não colocar todos os ovos na mesma cesta. Assim, se uma coisa não vai bem, não perco tudo. Não entendo bem os termos financeiros, mas parece lógico que diversificar ajuda a evitar grandes perdas.",
+          "Não percebo muito bem essas palavras complicadas, mas acho que diversificação é como não colocar todos os ovos na mesma cesta. Se tiver várias coisas, se uma não correr bem, ainda posso ganhar com as outras.",
+          "Eu não percebo muito desses termos financeiros, mas acho que se diversificar é ter mais coisas diferentes, então se uma coisa não vai bem, as outras podem ajudar. Isso parece fazer sentido, por isso escolhi a opção A.",
+          "Acho que a diversificação é como não colocar todos os ovos na mesma cesta. Se um investimento não correr bem, ter outros pode ajudar a não perder muito. Não entendo bem os termos técnicos, mas faz sentido que espalhar o risco diminua as perdas.",
+          "Acho que a diversificação é como ter várias opções, então se uma coisa correr mal, não perco tudo. Não entendo bem os termos técnicos, mas parece que se eu tiver várias coisas, fica mais seguro.",
+          "Acho que a diversificação é como não colocar todos os ovos na mesma cesta. Se um investimento não correr bem, ter outros pode ajudar a não perder tudo. Não entendo bem os termos financeiros, mas parece que isso faz sentido.",
+          "Acho que diversificação significa ter várias coisas, então ajuda a não perder tudo de uma vez. Não entendo bem os outros termos, mas parece que ter mais opções é melhor para evitar grandes perdas.",
+          "Eu não entendo bem os termos técnicos, mas parece que diversificar é como não apostar tudo em um único lugar. Se eu tiver várias coisas, se uma perder, as outras talvez ajudem a não perder tanto. Por isso, acho que a opção A faz mais sentido.",
+          "Eu não sei muito sobre esses termos financeiros, mas parece que diversificar é como não colocar todos os ovos na mesma cesta. Se eu tiver várias opções, talvez se uma perder, as outras ajudem a não perder tanto.",
+          "Eu não entendo bem o que é diversificação, mas parece que se eu tiver várias coisas em vez de só uma, se uma perder, não perco tudo. Portanto, acho que a opção A faz sentido."
+        ],
+        "Médio": [
+          "Eu acho que a diversificação é quando se investe em várias coisas, assim se uma delas não vai bem, as outras podem ajudar. Por isso, parece que a opção A faz mais sentido, porque se não puser tudo em um só lugar, não perco tudo de uma vez.",
+          "Acho que a diversificação é sobre ter diferentes investimentos para não perder tudo de uma vez. Por isso, a opção A parece certa, porque se um investimento não for bom, os outros podem ajudar a não perder muito.",
+          "Acho que a diversificação ajuda porque se investimos em várias coisas, se uma delas perder dinheiro, as outras podem não perder tanto. Não entendo muito bem os termos complicados, mas parece que é uma forma de não colocar tudo num só lugar.",
+          "Eu acho que a diversificação ajuda a não perder muito dinheiro de uma só vez se uma coisa correr mal. Não entendo bem os outros termos, mas parece-me que é mais seguro ter várias coisas em vez de só uma.",
+          "Eu escolhi esta opção porque acho que diversificar significa ter diferentes investimentos, e isso pode ajudar a não perder muito dinheiro de uma vez. Não conheço bem os termos técnicos, mas parece que faz sentido proteger-se contra grandes perdas.",
+          "Eu acho que a diversificação ajuda a não perder muito dinheiro de uma vez, porque se um investimento não vai bem, outros podem estar a funcionar melhor. Não conheço bem todos os termos, mas parece lógico que ter diferentes opções ajuda a proteger o que temos.",
+          "Acho que a diversificação é importante porque, se investirmos em várias coisas diferentes, se uma delas não for bem, as outras podem ajudar a compensar. Não conheço bem os termos financeiros, mas parece que faz sentido que ter várias opções possa proteger-nos de grandes perdas.",
+          "Acho que diversificar é como ter várias coisas diferentes, assim se uma coisa não correr bem, não perco tudo. Não conheço bem os termos financeiros, mas parece que faz sentido não colocar todo o dinheiro num só lugar.",
+          "Eu acho que diversificação ajuda porque se uma coisa vai mal, há outras que podem estar a fazer bem e assim não se perde tudo. Não percebo bem os termos, mas parece que é isso.",
+          "Acho que diversificar significa ter diferentes tipos de investimentos, então isso deve ajudar a não perder muito se um deles não for bom. Não percebo bem os outros termos, mas sei que é importante tentar não pôr tudo num só lugar."
+        ],
+        "Alto": [
+          "A diversificação reduz a exposição a perdas significativas ao distribuir investimentos entre diferentes ativos, que podem reagir de forma diferente às flutuações do mercado. Embora não elimine completamente o risco, ajuda a mitigar o impacto negativo de um ativo específico no portfólio.",
+          "A diversificação é uma estratégia que envolve a distribuição dos investimentos entre diferentes ativos para reduzir o risco. Ao diversificar, um investidor pode minimizar a exposição a perdas significativas, uma vez que a desvalorização de um ativo pode ser compensada pelo desempenho de outros ativos no portfólio.",
+          "A diversificação é uma estratégia que visa distribuir investimentos entre diferentes ativos, o que reduz a exposição a perdas significativas em caso de decréscimo no valor de um ou mais desses ativos. Embora não elimine o risco de mercado, ela ajuda a mitigar o impacto de flutuações em setores específicos, reconhecendo assim a importância de uma alocação equilibrada para uma gestão de risco eficaz.",
+          "A diversificação é uma estratégia que visa distribuir o investimento entre diferentes ativos, reduzindo a exposição a perdas significativas que podem ocorrer em um único ativo ou setor. Embora não elimine completamente o risco, ajuda a mitigar o impacto de flutuações negativas nos mercados.",
+          "A diversificação é uma estratégia que permite distribuir investimentos em diferentes ativos, reduzindo assim a exposição a perdas significativas em um único ativo ou setor. Essa abordagem não elimina o risco de mercado, mas ajuda a mitigar os impactos negativos de flutuações específicas, reconhecendo a relação entre risco e retorno.",
+          "A diversificação não elimina completamente o risco de mercado (opção A) nem garante retornos consistentes (opção B); pelo contrário, ela atua para reduzir a exposição a perdas significativas ao distribuir os investimentos entre diferentes ativos, o que diminui a probabilidade de que um único evento negativo possa afetar drasticamente o portfólio como um todo. A opção D é incorreta, pois a diversificação geralmente visa reduzir a volatilidade, não aumentá-la.",
+          "A diversificação não elimina completamente o risco de mercado, mas através da alocação de investimentos em diferentes ativos, setores ou geografias, consegue-se reduzir a exposição a eventos adversos que possam afetar um único investimento. Assim, a diversificação é uma estratégia eficaz para mitigar perdas significativas, equilibrando o risco e o retorno do portfólio.",
+          "A diversificação reduz a exposição a perdas significativas ao distribuir os investimentos entre diferentes ativos, setores ou geografias, o que diminui a probabilidade de que um evento negativo afete todo o portfólio. Esta estratégia reconhece a relação entre risco e retorno e é fundamental na gestão de portfólios para mitigar a volatilidade.",
+          "A diversificação é uma estratégia que envolve distribuir investimentos entre diferentes ativos ou classes de ativos para reduzir o risco total do portfólio. Embora não elimine completamente o risco, ela ajuda a mitigar as perdas significativas que podem ocorrer em um único ativo ou setor, pois a performance negativa de um investimento pode ser compensada pela performance positiva de outro.",
+          "A diversificação é uma estratégia que envolve a alocação de investimentos em diferentes ativos para reduzir a exposição a riscos específicos de um único ativo. Ao diversificar, um investidor pode mitigar perdas significativas, uma vez que a performance negativa de um ativo pode ser compensada pela performance positiva de outros, reduzindo assim o risco global do portfólio."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a principal diferença de risco entre investir em ações e em obrigações do Estado?",
+      "options": {
+        "A": "Ações têm risco mais elevado",
+        "B": "Obrigações têm risco mais elevado",
+        "C": "Ações e obrigações têm o mesmo nível de risco",
+        "D": "Obrigações garantem sempre retorno"
+      },
+      "hint": "Considera a solvência e o tipo de emitente.",
+      "rationale": "As ações têm um risco mais elevado devido à sua volatilidade e dependem do desempenho da empresa, enquanto as obrigações do Estado são consideradas de baixo risco devido à solvência do emitente.",
+      "tag": "Ações e obrigações",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Ações e obrigações', pois aborda a diferença de risco entre esses dois tipos de investimento."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que explica claramente a relação de risco entre ações e obrigações do Estado."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito, mas a opção D ('Obrigações garantem sempre retorno') pode ser considerada enganosa, pois não é uma afirmação totalmente correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao sugerir que o participante considere a solvência e o tipo de emitente, mas poderia ser mais específica em relação ao risco."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao descrever a diferença de risco entre ações e obrigações do Estado."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que as ações são mais arriscadas porque o valor delas pode mudar muito e de forma rápida. Não entendo bem os termos, mas parece que as obrigações são mais seguras e as ações podem fazer a pessoa perder dinheiro mais facilmente.",
+          "Penso que as ações são mais arriscadas porque podem subir e descer muito rápido, e isso parece perigoso. Não conheço bem os termos, mas sei que as obrigações parecem mais seguras, talvez porque são do Estado.",
+          "Eu não sei bem o que são ações e obrigações, mas acho que as ações são mais arriscadas porque o valor delas pode mudar muito rápido. As obrigações parecem mais seguras, então imagino que as ações sejam mais perigosas.",
+          "Acho que as ações são mais arriscadas porque, geralmente, as pessoas falam que é fácil perder dinheiro nelas. Não percebo muito bem as obrigações, mas parece que são mais seguras. Os termos técnicos confundem-me.",
+          "Eu não percebo muito de finanças, mas acho que ações são mais arriscadas porque o valor delas pode subir e descer muito. Obrigações parecem mais seguras, mas eu não sei bem como isso funciona.",
+          "Eu não sei muito sobre finanças, mas acho que ações são mais arriscadas porque as pessoas falam que podem subir e descer muito. Obrigações parecem mais seguras, mas não sei bem o porquê. Não reconheço bem esses termos técnicos.",
+          "Eu não entendo muito bem os termos financeiros, mas parece-me que as ações são mais arriscadas porque o valor pode subir ou descer muito. Já as obrigações, pelo que sei, são mais seguras e talvez garantam algum retorno, mas eu não tenho certeza.",
+          "Eu não percebo bem essas coisas de investimentos e riscos, mas parece que ações são mais arriscadas porque podem subir ou descer muito. Obrigações parecem ser mais seguras, como se fossem um empréstimo ao governo, que não costuma falhar.",
+          "Acho que investir em ações é mais arriscado porque o valor das ações pode subir e descer muito, enquanto as obrigações parecem ser mais seguras. Não entendo bem os termos, mas pelo que vejo, as ações parecem ser mais instáveis.",
+          "Eu não percebo muito de finanças, mas parece que as ações são mais arriscadas porque as pessoas podem perder dinheiro facilmente. As obrigações do Estado parecem ser mais seguras, mas como não conheço bem os termos, fico confuso."
+        ],
+        "Médio": [
+          "Eu acho que as ações têm mais risco porque podem subir e descer muito de preço. Não sei muito sobre obrigações, mas parece que as ações são mais complicadas e podem dar problemas.",
+          "Eu acho que as ações são mais arriscadas porque o seu valor pode mudar muito e rapidamente. Não entendo muito sobre obrigações, mas penso que elas são mais seguras, então escolhi que as ações têm mais risco.",
+          "Eu acho que as ações são mais arriscadas porque o preço delas pode subir e descer muito, e não sei se as obrigações sempre garantem retorno. Os termos como 'obrigações' e 'retorno' são um pouco confusos para mim, mas parece que as ações são mais incertas.",
+          "Eu acho que as ações são mais arriscadas porque podem subir e descer muito de valor, enquanto as obrigações parecem ser mais seguras. Não conheço bem os termos, mas parece que as pessoas falam mais sobre ações serem arriscadas.",
+          "Eu acho que ações são mais arriscadas porque podem subir e descer muito, enquanto obrigações parecem ser mais seguras. Não tenho a certeza do que é cada uma, mas parece que as ações podem dar mais problemas.",
+          "Eu acho que as ações têm mais risco porque o valor pode subir e descer muito. As obrigações do Estado parecem mais seguras, mas não tenho certeza do que isso significa exatamente.",
+          "Eu acho que as ações são mais arriscadas porque podem subir e descer muito de preço, enquanto as obrigações, que acho que são mais seguras, dão um retorno mais estável. Não conheço bem os termos, mas parece-me que as ações são para quem quer arriscar mais.",
+          "Eu acho que as ações têm mais risco porque podem subir e descer muito de preço. As obrigações, pelo que sei, são mais seguras, mas não percebo bem os detalhes, então escolhi a opção que diz que as ações têm mais risco.",
+          "Eu acho que as ações são mais arriscadas porque podem subir e descer muito de valor. Obrigações parecem mais seguras, mas não conheço bem esses termos todos.",
+          "Eu acho que as ações são mais arriscadas porque podem subir ou descer muito de preço, enquanto as obrigações parecem ser mais seguras. Não entendo muito bem os termos, mas parece que é isso."
+        ],
+        "Alto": [
+          "A principal diferença de risco entre investir em ações e em obrigações do Estado é que as ações tendem a apresentar maior volatilidade e risco, uma vez que o seu retorno depende do desempenho da empresa e do mercado. Por outro lado, as obrigações do Estado, embora também possam ter riscos, são geralmente consideradas mais seguras, pois representam uma dívida emitida por entidades soberanas que têm maior capacidade de pagamento.",
+          "A principal diferença de risco entre investir em ações e em obrigações do Estado reside no fato de que as ações são consideradas mais voláteis e, portanto, mais arriscadas, uma vez que o seu valor pode flutuar significativamente. Por outro lado, as obrigações do Estado, embora não sejam isentas de risco, tendem a oferecer um retorno mais estável e previsível, sendo frequentemente vistas como investimentos mais seguros.",
+          "A opção A é a mais correta, pois as ações, ao representarem uma participação na propriedade de uma empresa, estão sujeitas a maior volatilidade e risco de mercado em comparação com as obrigações do Estado, que tendem a oferecer um retorno fixo e previsível. Reconheço claramente a diferença nas características de risco associado a cada tipo de investimento, com as obrigações geralmente consideradas mais seguras.",
+          "As ações são consideradas investimentos de maior risco em comparação com as obrigações do Estado, uma vez que o seu valor pode flutuar significativamente devido a factores de mercado, enquanto as obrigações tendem a oferecer um retorno fixo e previsível, embora não sejam isentas de risco. A opção D é a mais correta, dado que reconhece a natureza volátil das ações em contraste com a relativa estabilidade das obrigações.",
+          "Ações são consideradas investimentos de maior risco devido à sua natureza volátil e à possibilidade de perda de capital, enquanto as obrigações do Estado, especialmente as de países com boa classificação de crédito, oferecem um retorno mais estável e previsível, embora não garantam sempre o retorno.",
+          "A principal diferença de risco entre investir em ações e obrigações do Estado é que as ações tendem a ter um risco mais elevado devido à sua natureza volátil e à dependência do desempenho da empresa. As obrigações do Estado, por outro lado, são consideradas investimentos mais seguros, uma vez que, em geral, oferecem um retorno fixo e são apoiadas pelo governo.",
+          "Investir em ações é geralmente considerado mais arriscado do que investir em obrigações do Estado, pois as ações estão sujeitas a flutuações de mercado e não garantem retorno, enquanto as obrigações tendem a oferecer um fluxo de rendimento mais estável e previsível, embora possam ainda envolver risco de crédito.",
+          "As ações são geralmente consideradas mais voláteis e suscetíveis a flutuações de mercado, enquanto as obrigações do Estado, especialmente as de países com boa classificação de crédito, tendem a oferecer um retorno mais estável e previsível. Portanto, a opção D é a mais correta, uma vez que reflete a natureza intrínseca do risco associado a cada tipo de investimento.",
+          "As ações são consideradas investimentos de maior risco em comparação com obrigações do Estado, pois estão sujeitas a maior volatilidade e incerteza em relação ao retorno. As obrigações, por outro lado, geralmente oferecem um fluxo de rendimento mais estável e previsível, embora possam ter risco de crédito se o emissor não honrar a dívida.",
+          "As ações geralmente apresentam um risco mais elevado em comparação com as obrigações do Estado, uma vez que o retorno das ações é variável e depende do desempenho da empresa, enquanto as obrigações, embora também possam envolver riscos, tendem a oferecer uma maior previsibilidade de retorno, especialmente se forem emitidas por entidades estáveis. Reconheço os termos utilizados, pois a análise do risco é fundamental na avaliação de instrumentos financeiros."
+        ]
+      }
+    },
+    {
+      "question": "O que caracteriza um ETF que replica o S&P500 em termos de rentabilidade?",
+      "options": {
+        "A": "Retorno médio de 6,29% em cinco anos",
+        "B": "Retorno médio de 8% em cinco anos",
+        "C": "Retorno garantido de 6,29% ao ano",
+        "D": "Rentabilidade fixa de 6,29% em cinco anos"
+      },
+      "hint": "Analisa o desempenho histórico dos índices.",
+      "rationale": "Um ETF que replica o S&P500 teve um retorno médio de 6,29% nos últimos cinco anos, embora com variações significativas de ano para ano.",
+      "tag": "Fundos, ETFs e REITs",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Fundos, ETFs e REITs', pois aborda especificamente a rentabilidade de um ETF que replica o S&P500, que é um exemplo claro de um fundo de investimento."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente o retorno médio de 6,29% para um ETF que segue o índice S&P500."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de rentabilidade de ETFs, mas a opção B apresenta um erro claro, pois não corresponde ao valor mencionado no conteúdo-fonte."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o participante a considerar o desempenho histórico dos índices, o que é útil, mas poderia ser mais específica em relação ao ETF em questão."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao mencionar o retorno médio de 6,29% e as variações de ano para ano."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.4,
+        "Alto": 0.4
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito destes números e termos técnicos, mas parece que a opção A diz que é um retorno garantido, e isso soa bem. Se é garantido, deve ser bom, certo? As outras opções falam de médias e não sei se isso é seguro.",
+          "Eu não percebo muito sobre essas coisas de finanças e rentabilidade, mas parece que um retorno médio de 8% em cinco anos soa bem. Não conheço os outros números e não sei o que isso significa direito, mas esse parece ser um valor positivo.",
+          "Eu não entendo muito bem esses termos financeiros, mas parece que um retorno médio é uma coisa que pode acontecer ao longo de cinco anos. Então, escolhi a opção A porque fala de um valor médio, que me parece mais realista do que garantir um retorno.",
+          "Não percebo muito de finanças e não conheço esses números. Mas parece que uma rentabilidade fixa é melhor, porque é garantida e não varia, o que faz mais sentido para alguém que não entende bem como funcionam os investimentos.",
+          "Eu não percebo bem essas porcentagens e termos técnicos. Mas parece que 8% é um número maior e parece bom, então escolhi essa opção.",
+          "Eu não entendo muito bem sobre finanças e esses números parecem todos complicados. Mas se é 'fixa', parece mais seguro, então acho que pode ser essa a resposta certa.",
+          "Eu não percebo bem esses números e termos técnicos, mas parece que o 8% é um valor maior e pode ser melhor do que apenas 6%, então escolhi essa opção. Não sei o que é um ETF ou S&P500, mas se é para investir, normalmente as pessoas querem a maior rentabilidade possível, certo?",
+          "Eu não entendo muito bem esses termos financeiros, mas parece que a opção A diz que é um retorno garantido, o que parece seguro. Então, eu escolheria isso porque gosto de coisas que são garantidas.",
+          "Não percebo bem esses números e termos como rentabilidade e retorno, mas a ideia de ter uma rentabilidade fixa parece mais segura e fácil de entender. Então, escolhi a opção A porque parece que é garantido.",
+          "Eu não percebo muito desses números e termos complicados, mas 8% parece um número maior e mais interessante. Acho que é melhor do que 6,29%, então escolhi essa."
+        ],
+        "Médio": [
+          "Penso que a opção C é a melhor porque fala de um retorno médio, e isso parece mais razoável do que garantir um valor fixo. Não sei bem o que significam todos os termos, mas a ideia de 'médio' parece mais certa do que 'garantido'.",
+          "Eu escolhi a opção A porque parece que fala de um número específico que é fácil de entender. Não sei muito sobre ETFs ou S&P500, mas a ideia de ter uma rentabilidade fixa parece boa e mais segura.",
+          "Eu não percebo muito de finanças, mas parece-me que este retorno garantido é uma coisa boa. Não tenho certeza se isso é mesmo verdade ou se pode mudar, mas a ideia de um retorno garantido soa seguro.",
+          "Eu não percebo muito bem sobre esses números e percentagens, mas parece que o retorno médio é uma coisa que pode acontecer. Então, escolhi a opção A porque fala em retorno médio, o que parece mais seguro do que ter uma rentabilidade fixa.",
+          "Eu não percebo muito bem sobre ETFs ou S&P500, mas 8% parece um número bom. Acho que é mais fácil pensar que é um retorno médio, porque não pode ser garantido, certo? Os outros números são confusos para mim.",
+          "Eu não conheço muito sobre ETFs ou o que é o S&P500, mas parece que a ideia de um retorno garantido é boa. Se é garantido, então deve ser seguro, certo? Não tenho certeza se é assim que funciona, mas é o que eu penso.",
+          "Eu acho que a resposta é a A porque parece que fala de um retorno garantido, e eu prefiro coisas que são garantidas. Não entendo muito bem os outros números e termos, então escolhi o que parece mais seguro.",
+          "Acho que é a opção C porque diz que é um retorno médio, e parece mais realista do que garantir um valor fixo. Não percebo muito bem esses termos complicados, mas 'médio' parece indicar que não é certo, só uma média, o que faz sentido.",
+          "Eu escolhi a opção A porque parece que fala de um valor fixo, que é mais fácil de entender. Não sei bem o que é um ETF ou o S&P500, mas uma rentabilidade fixa parece mais segura do que um retorno médio, que pode mudar.",
+          "Acho que o retorno médio é o que faz mais sentido, porque não é garantido e a rentabilidade pode variar. Não entendo muito bem sobre ETFs e S&P500, mas 6,29% parece uma média razoável para o que se espera."
+        ],
+        "Alto": [
+          "A opção C reflete uma abordagem mais realista em relação ao retorno de um ETF que replica o S&P 500, uma vez que, historicamente, o S&P 500 tem apresentado uma rentabilidade média de cerca de 8% ao ano, ajustada para a inflação, ao longo de períodos mais longos. As opções A e B descrevem retornos garantidos e fixos, o que não é aplicável a um ETF que investe em ações, onde a rentabilidade pode variar significativamente.",
+          "A rentabilidade de um ETF que replica o S&P 500 não é fixa e varia ao longo do tempo, sendo mais correto afirmar que a rentabilidade média histórica é em torno de 8% ao ano ao longo de períodos prolongados, como cinco anos. As outras opções apresentam valores garantidos ou fixos, o que não se aplica ao mercado de ações.",
+          "A opção B menciona um retorno médio de 6,29% em cinco anos, o que é uma afirmação realista sobre a rentabilidade histórica do S&P 500, diferentemente das outras opções que apresentam garantias ou valores fixos, o que não é típico em investimentos em ações. Reconheço os termos utilizados, pois a rentabilidade de um ETF que replica o S&P 500 não é garantida nem fixa, mas sim média e histórica.",
+          "A rentabilidade de um ETF que replica o S&P 500 não é garantida e varia ao longo do tempo. A opção D, que menciona um retorno médio de 8% em cinco anos, é mais precisa, pois reflete a performance histórica esperada do índice, enquanto as outras opções apresentam informações incorretas ou garantias que não são típicas em investimentos.",
+          "A opção A é a mais correta, pois descreve um retorno médio, que é uma característica típica dos ETFs. A rentabilidade de um ETF que replica o S&P500 não é garantida nem fixa, e a média histórica de retorno pode variar ao longo do tempo, mas o valor de 6,29% é plausível em contextos de análise de desempenho do índice.",
+          "Um ETF que replica o S&P500 não oferece rentabilidade fixa, mas sim um retorno médio que historicamente tem estado na ordem dos 8% ao ano a longo prazo. As outras opções mencionam garantias ou valores específicos que não refletem a natureza volátil e histórica do mercado de ações.",
+          "A opção C é a mais adequada, pois um ETF que replica o S&P 500 não oferece uma rentabilidade fixa ou garantida, mas sim um retorno médio baseado no desempenho histórico do índice. Reconheço que a rentabilidade de um ETF é variável e depende da performance do mercado, logo, a referência de 6,29% deve ser vista como uma média e não uma garantia.",
+          "A resposta B é a mais adequada, pois reflete o retorno médio histórico de um ETF que replica o S&P 500, que não é garantido e pode variar de ano para ano. As opções C e D falham ao afirmar uma rentabilidade garantida ou fixa, o que não se aplica a investimentos em ações.",
+          "A opção C é a mais correta porque, historicamente, o S&P 500 tem apresentado um retorno médio anual em torno de 7% a 10%, e a média de 8% em cinco anos é um valor razoável com base em dados históricos. As outras opções mencionam retornos garantidos ou fixos, o que não é característico do mercado de ações, onde a rentabilidade é variável e não assegurada.",
+          "Um ETF que replica o S&P500 tipicamente apresenta uma rentabilidade média que pode variar ao longo do tempo, mas um retorno médio de cerca de 8% em cinco anos é uma estimativa razoável, considerando o histórico de performance do índice. As opções que mencionam retornos fixos ou garantidos não são realistas, visto que o mercado de ações é sujeito a volatilidade e não garante rentabilidades específicas."
+        ]
+      }
+    },
+    {
+      "question": "Porque é que investir em várias empresas pode ser uma boa estratégia de diversificação?",
+      "options": {
+        "A": "Reduz risco de perdas significativas",
+        "B": "Aumenta a exposição ao risco de mercado",
+        "C": "Garante lucros elevados",
+        "D": "Elimina o risco de flutuações de preços"
+      },
+      "hint": "Pensa na distribuição do risco.",
+      "rationale": "Investir em ações de várias empresas ajuda a reduzir o risco de perdas significativas, pois o desempenho negativo de uma empresa pode ser compensado pelo desempenho positivo de outra.",
+      "tag": "Diversificação e risco",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Diversificação e risco', pois aborda a estratégia de diversificação em investimentos."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que explica como a diversificação ajuda a reduzir o risco."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é inequívoca."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de diversificação, mas a opção C ('Garante lucros elevados') pode ser considerada um pouco enganosa, pois não garante lucros."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a distribuição do risco, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre como a diversificação reduz o risco."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.8,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que investir em várias empresas é bom porque se uma não vai bem, as outras podem compensar. Não entendo bem os termos técnicos, mas parece lógico que assim não se perde tudo de uma vez.",
+          "Parece-me que se eu investir em várias empresas, se uma não for bem, talvez as outras ajudem a compensar isso. Não percebo bem os termos técnicos, mas faz sentido que espalhar o dinheiro por várias opções pode proteger contra grandes perdas.",
+          "Parece-me que se investir em várias empresas, se uma delas não for bem, as outras podem ajudar a compensar isso. Não entendo bem os termos técnicos, mas isso faz sentido no dia-a-dia.",
+          "Eu não entendo muito desses jargões financeiros, mas parece que se investir em várias empresas pode aumentar o risco. Se uma empresa vai mal, talvez as outras também possam. Não sei se isso é bom ou mau, mas não gosto muito da ideia de perder dinheiro.",
+          "Acho que investir em várias empresas é bom porque, se uma não for bem, as outras podem compensar. Não conheço bem os termos, mas parece lógico que assim não perco tanto dinheiro.",
+          "Parece-me que se eu investir em várias empresas, se uma não for bem, as outras podem ajudar a não perder tanto dinheiro. Não entendo bem os termos, mas faz sentido que diversificar proteja um pouco das perdas.",
+          "Eu não percebo muito de finanças e esses termos técnicos são confusos. Mas, acho que se investir em mais empresas pode dar mais dinheiro, então é uma boa ideia. Se várias empresas forem boas, posso ganhar mais.",
+          "Eu acho que investir em várias empresas é bom porque, se uma não correr bem, as outras podem ajudar a não perder tudo. Não entendo bem os termos técnicos, mas parece lógico que assim se perde menos.",
+          "Acho que se eu investir em várias empresas, se uma não for bem, talvez as outras ajudem a não perder tanto dinheiro. Não sei muito sobre os termos que usaram, mas parece que ter várias opções é melhor do que ter só uma.",
+          "Acho que investir em várias empresas é bom porque assim, se uma não vai bem, talvez as outras ajudem a não perder muito dinheiro. Não conheço bem os termos, mas parece lógico que assim é mais seguro."
+        ],
+        "Médio": [
+          "Acho que investir em várias empresas é bom porque se uma empresa não for bem, pelo menos as outras podem ajudar. Não entendo bem os termos técnicos, mas parece que se diversificar é uma forma de não perder tudo de uma vez.",
+          "Acho que investir em várias empresas é bom porque, se uma não vai bem, as outras podem ajudar a não perder tudo. Não conheço bem os termos, mas parece lógico pensar que diversificar é uma forma de proteger o dinheiro.",
+          "Eu acho que escolher a opção C é uma boa ideia porque, se investirmos em várias empresas, se uma delas não estiver a correr bem, podemos ainda ter outras que estão a dar lucro. Não entendo bem os termos técnicos, mas parece lógico que diversificar pode ajudar a não perder tudo de uma vez.",
+          "Acho que investir em várias empresas é bom porque se uma não vai bem, as outras podem ajudar a não perder tanto dinheiro. Não percebo muito de termos financeiros, mas parece que assim fica mais seguro.",
+          "Acho que escolher a opção C faz sentido porque, se investirmos em várias empresas, se uma delas não for bem, as outras podem ajudar a compensar isso. Não conheço bem os termos mais técnicos, mas parece que é uma forma de não perder tudo de uma vez.",
+          "Acho que investir em várias empresas é bom porque, se uma empresa não vai bem, as outras podem compensar, assim não perco tudo de uma vez. Não conheço bem os termos, mas parece que é uma maneira de não ficar tão exposto ao risco.",
+          "Acho que investir em várias empresas é bom porque, se uma não for bem, as outras podem ajudar a não perder muito dinheiro. Não conheço bem os termos, mas parece que diversificar é como não colocar todos os ovos na mesma cesta.",
+          "Acho que investir em várias empresas é bom porque se uma não vai bem, as outras podem compensar. Não percebo muito de termos, mas parece que assim não perco tudo de uma vez.",
+          "Acho que investir em várias empresas é uma boa ideia porque se uma delas não for bem, as outras podem ajudar a não perder muito dinheiro. Não conheço bem todos os termos, mas parece que diversificar é ter mais opções e isso ajuda.",
+          "Acho que diversificar é uma boa ideia porque se uma empresa não vai bem, as outras podem compensar. Não sei bem o que significa 'risco de mercado' ou 'flutuações de preços', mas parece que ter várias empresas ajuda a não perder tudo de uma vez."
+        ],
+        "Alto": [
+          "Investir em várias empresas permite diversificar a carteira, o que ajuda a mitigar o risco específico associado a uma única empresa. Mesmo que algumas ações possam ter um desempenho inferior, outras podem superar, equilibrando assim o risco total e reduzindo as perdas significativas.",
+          "Investir em várias empresas é uma estratégia de diversificação que visa reduzir o risco específico associado a uma única empresa. Ao diversificar, se uma empresa tiver um desempenho abaixo do esperado, as perdas podem ser compensadas por ganhos em outras, minimizando assim o impacto negativo no portfólio total. Este conceito está bem estabelecido na teoria financeira, onde a diversificação é reconhecida como uma forma eficaz de gestão de risco.",
+          "Investir em várias empresas ajuda a mitigar o risco específico associado a cada uma delas, pois as flutuações nos preços de ações de diferentes empresas podem não estar correlacionadas. Assim, se uma empresa tiver um desempenho ruim, outras no portfólio podem compensar essa perda, reduzindo o risco de perdas significativas no total do investimento.",
+          "Investir em várias empresas permite espalhar o risco, de forma que se uma empresa tiver um desempenho ruim, as perdas podem ser compensadas pelos ganhos de outras. Essa é uma base fundamental da diversificação, que visa mitigar o impacto das flutuações de preços individuais sobre o portfólio total.",
+          "Investir em várias empresas ajuda a mitigar o risco específico associado a cada uma delas, pois a má performance de uma empresa pode ser compensada por outra com desempenho positivo. Este conceito é fundamental na gestão de portfólios e é frequentemente utilizado para equilibrar o risco e o retorno.",
+          "Investir em várias empresas é uma estratégia de diversificação que visa reduzir o risco global do portfólio. Ao espalhar o investimento entre diferentes ativos, diminui-se a probabilidade de perdas significativas, pois o desempenho negativo de uma empresa pode ser compensado pelo desempenho positivo de outra.",
+          "Investir em várias empresas é uma estratégia de diversificação que visa mitigar o risco associado a qualquer investimento individual. Isto é reconhecido na teoria financeira, pois a diversificação permite que as perdas em algumas posições sejam compensadas por ganhos em outras, reduzindo assim o impacto de flutuações de preços e ajudando a proteger o capital investido.",
+          "Investir em várias empresas permite diversificar a carteira, o que minimiza o impacto negativo de uma única empresa, reduzindo assim o risco de perdas significativas. Esta estratégia é fundamental para a gestão de risco, uma vez que as flutuações de preços de uma empresa podem não afetar as demais da mesma forma.",
+          "Investir em várias empresas é uma estratégia de diversificação que visa reduzir o risco de perdas significativas, pois a performance de diferentes ativos pode variar. Assim, se uma empresa tiver um desempenho fraco, as outras podem compensar essa perda, protegendo o investidor contra flutuações indesejadas no mercado.",
+          "Investir em várias empresas permite espalhar o risco, de modo que a má performance de uma empresa não afete drasticamente o portfólio total. Assim, a diversificação é uma estratégia eficaz para mitigar perdas significativas, protegendo o investidor contra a volatilidade do mercado."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o papel do ouro como investimento em períodos de crise económica?",
+      "options": {
+        "A": "Ativo de refúgio",
+        "B": "Ativo de alta liquidez",
+        "C": "Instrumento de especulação",
+        "D": "Proteção contra taxas de juro baixas"
+      },
+      "hint": "Considera a proteção contra a inflação.",
+      "rationale": "O ouro é considerado um ativo de refúgio que pode proteger contra a inflação e crises económicas, embora também apresente volatilidade.",
+      "tag": "Forex e metais preciosos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de investimento em metais preciosos, mas a tag 'Forex' não é diretamente relevante para o papel do ouro como ativo de refúgio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que descreve o ouro como um ativo de refúgio em tempos de crise."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é inequívoca."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados ao conceito de investimento, mas a opção 'D' pode ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a resposta correta, mas poderia ser mais específica em relação ao papel do ouro."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como o ouro atua como proteção em crises."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que o ouro é algo que as pessoas guardam quando as coisas ficam complicadas na economia. Não entendo muito dos outros termos, mas parece que o ouro é seguro e as pessoas confiam nele em tempos difíceis.",
+          "Eu não percebo muito sobre finanças, mas acho que quando há crises, as pessoas procuram coisas seguras para guardar o seu dinheiro. O ouro é uma dessas coisas que parece ser mais seguro, então escolheria isso.",
+          "Acho que o ouro serve como um lugar seguro para guardar dinheiro quando as coisas vão mal. Não entendo bem os outros termos, mas parece que o ouro é algo que as pessoas confiam mais quando há problemas económicos.",
+          "Acredito que o ouro seja uma segurança quando as coisas vão mal na economia. Não entendo bem os termos técnicos, mas sinto que as pessoas compram ouro quando estão com medo de perder dinheiro em outros lugares.",
+          "Eu acho que o ouro serve para proteger o nosso dinheiro quando as coisas vão mal na economia. Não percebo bem os termos, mas sempre ouvi que as pessoas compram ouro quando têm medo de perder dinheiro.",
+          "Acho que o ouro é uma coisa segura em tempos difíceis, como quando as pessoas ficam com medo de perder dinheiro. Não conheço bem esses termos, mas parece que as pessoas compram ouro quando as coisas ficam mal.",
+          "Eu não percebo muito sobre finanças, mas parece que o ouro é algo que as pessoas compram quando as coisas estão a correr mal, como uma forma de se protegerem. Portanto, escolhi a opção B porque acho que as pessoas confiam no ouro em tempos difíceis.",
+          "Eu não percebo muito desses termos, mas acho que o ouro é uma coisa que as pessoas compram quando as coisas estão más, como uma forma de se protegerem. Por isso, acho que deve ser um 'ativo de refúgio', porque é algo que as pessoas confiam em momentos difíceis.",
+          "Não conheço bem os termos, mas penso que o ouro é algo seguro em tempos difíceis, como uma espécie de proteção. Na minha cabeça, é como ter um lugar seguro para guardar valor.",
+          "Eu acho que o ouro é algo seguro para ter quando as coisas vão mal, como quando há crises. Não sei muito sobre jargão financeiro, mas parece que as pessoas confiam no ouro quando têm medo de perder dinheiro."
+        ],
+        "Médio": [
+          "Eu penso que o ouro pode ser visto como um tipo de segurança quando as coisas ficam difíceis na economia. Não sei muito sobre os outros termos, mas 'refúgio' parece que é algo que as pessoas procuram quando estão com medo de perder dinheiro.",
+          "Acho que o ouro é visto como um lugar seguro em tempos difíceis, por isso escolhi 'ativo de refúgio'. Não conheço bem os outros termos, mas parece que o ouro ajuda as pessoas a protegerem-se quando a economia vai mal.",
+          "Eu escolhi 'ativo de refúgio' porque, quando há crises económicas, as pessoas costumam querer proteger o seu dinheiro e o ouro parece seguro. Não conheço bem os outros termos, mas acho que o ouro é algo que as pessoas confiam mais quando as coisas estão difíceis.",
+          "Acho que o ouro é visto como um lugar seguro para guardar dinheiro quando a economia vai mal. Ouvi dizer que as pessoas compram ouro para proteger os seus bens, então parece que é isso que significa 'ativo de refúgio', mesmo que não entenda bem os outros termos.",
+          "Eu escolhi 'Ativo de refúgio' porque, quando há crise, as pessoas costumam querer algo seguro para guardar o seu dinheiro. Não conheço bem os termos técnicos, mas parece que o ouro é uma coisa que as pessoas compram quando estão preocupadas com a economia.",
+          "Acho que o ouro é visto como um lugar seguro para colocar o dinheiro quando as coisas ficam difíceis. Não entendo muito bem os outros termos, mas sempre ouvi que o ouro é bom para proteger o nosso dinheiro em tempos de crise.",
+          "Eu escolhi 'Ativo de refúgio' porque, em tempos de crise, as pessoas costumam correr para o ouro como uma forma de proteger o seu dinheiro. Não sei bem o que significam todos os termos, mas parece que o ouro é algo seguro quando as coisas ficam complicadas.",
+          "Acho que o ouro é visto como algo seguro quando as coisas ficam difíceis na economia. Não entendo bem os outros termos, mas parece que as pessoas compram ouro para se protegerem em tempos de crise.",
+          "Eu acho que o ouro é visto como um lugar seguro para guardar dinheiro quando as coisas vão mal na economia. Não conheço muito os termos técnicos, mas sei que as pessoas costumam comprar ouro quando têm medo de perder o que têm.",
+          "Eu acho que o ouro é visto como um lugar seguro para guardar o nosso dinheiro quando as coisas ficam difíceis, tipo numa crise económica. Não reconheço bem os outros termos, mas sei que as pessoas costumam comprar ouro quando estão preocupadas."
+        ],
+        "Alto": [
+          "Ouro é tradicionalmente considerado um ativo de refúgio, especialmente em períodos de crise económica, pois tende a manter ou aumentar o seu valor quando outros ativos, como ações, podem depreciar. Este comportamento é atribuído à sua escassez e ao seu valor intrínseco, que se mantém relativamente estável em condições de incerteza económica.",
+          "O ouro é amplamente reconhecido como um ativo de refúgio, especialmente em períodos de crise económica, devido à sua capacidade de manter valor quando outros ativos, como ações ou imóveis, podem desvalorizar. Em situações de incerteza económica, os investidores tendem a recorrer ao ouro como uma forma de proteger o seu capital, uma vez que a sua escassez e a sua aceitação global conferem-lhe um valor intrínseco.",
+          "Ouro é tradicionalmente considerado um ativo de refúgio durante crises económicas, pois tende a manter o seu valor ou até a valorização quando os mercados financeiros estão voláteis. Isso se deve à sua escassez e à percepção de segurança que oferece aos investidores, especialmente em tempos de incerteza.",
+          "O ouro é historicamente considerado um ativo de refúgio em períodos de crise económica, uma vez que tende a manter o seu valor ou até a valorizarem-se em tempos de incerteza. Este desempenho é devido à sua escassez e ao seu valor intrínseco, que o torna uma alternativa segura em comparação com outros ativos que podem ser mais voláteis.",
+          "Ouro é frequentemente visto como um ativo de refúgio em períodos de crise económica, pois tende a manter o seu valor ou até mesmo a valorização quando outras classes de ativos, como ações ou imóveis, estão em declínio. Este comportamento se deve à sua escassez e à sua função histórica como reserva de valor, especialmente em tempos de incerteza económica.",
+          "Ouro é frequentemente considerado um ativo de refúgio em tempos de crise económica, pois tende a manter ou aumentar o seu valor quando outros ativos, como ações ou imóveis, podem desvalorizar. Este comportamento é devido à sua escassez e à sua aceitação universal como forma de proteção contra a incerteza económica.",
+          "O ouro é tradicionalmente considerado um ativo de refúgio em períodos de crise económica, pois tende a manter ou aumentar seu valor quando outros ativos, como ações e imóveis, podem perder valor. Isso se deve à sua escassez, à percepção de segurança que proporciona e à sua utilização como uma forma de proteção contra a inflação e a desvalorização das moedas.",
+          "O ouro é tradicionalmente considerado um ativo de refúgio em períodos de crise económica, pois tende a manter ou aumentar o seu valor quando outros ativos, como ações, podem desvalorizar-se. Esta característica o torna uma opção preferencial para investidores que buscam proteção contra a instabilidade económica.",
+          "O ouro é frequentemente considerado um 'ativo de refúgio' em períodos de crise económica, pois tende a manter ou até aumentar o seu valor quando outros ativos, como ações ou imóveis, desvalorizam. Este termo é bem reconhecido no contexto financeiro, dado que os investidores buscam segurança em ativos que preservam o capital em tempos de incerteza.",
+          "O ouro é amplamente reconhecido como um ativo de refúgio, especialmente em períodos de crise económica, devido à sua capacidade de manter valor e servir como proteção contra a volatilidade dos mercados. Este reconhecimento está enraizado na sua escassez e na confiança histórica que os investidores depositam nele em tempos de incerteza."
+        ]
+      }
+    },
+    {
+      "question": "Que característica das criptomoedas aumenta o risco para os investidores?",
+      "options": {
+        "A": "Volatilidade extrema e falta de regulamentação",
+        "B": "Baixa volatilidade e alta regulamentação",
+        "C": "Estabilidade de preços e forte regulamentação",
+        "D": "Previsibilidade de retornos e segurança regulatória"
+      },
+      "hint": "Pensa na estabilidade e proteção ao investidor.",
+      "rationale": "As criptomoedas são caracterizadas por uma volatilidade extrema e falta de regulamentação, o que aumenta o risco e a incerteza para os investidores.",
+      "tag": "Criptomoedas",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Criptomoedas' e avalia uma característica fundamental desse tipo de investimento, que é a volatilidade."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente a volatilidade e a falta de regulamentação como fatores de risco."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 5,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de criptomoedas, mas apresentam características opostas à realidade, tornando-os alternativas viáveis."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao mencionar 'estabilidade e proteção ao investidor', mas poderia ser mais específica em relação à volatilidade."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a volatilidade e a falta de regulamentação das criptomoedas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi a opção D porque, pelo que ouço, as criptomoedas mudam muito de preço e não têm regras fixas. Não percebo bem os termos técnicos, mas parece que isso dá medo a quem investe.",
+          "Acho que a opção C faz sentido porque as criptomoedas parecem ter preços que mudam muito de um dia para o outro, e não parece haver muitas regras a controlar isso. Não percebo bem os termos técnicos, mas parece arriscado.",
+          "Eu não entendo bem os termos técnicos, mas parece que a opção A fala de coisas boas, como previsibilidade e segurança. Se as criptomoedas fossem seguras, as pessoas não teriam tanto medo de investir. Portanto, eu escolheria a A porque parece que não há risco.",
+          "Eu não percebo bem esses termos, mas acho que se as coisas são estáveis e bem regulamentadas, não deve haver muitos riscos. É mais seguro assim, não é?",
+          "Acho que a opção C é a que faz mais sentido, porque as criptomoedas parecem ter muitos altos e baixos, e a falta de regras pode deixar as pessoas confusas e com medo de perder dinheiro. Não entendo bem os termos, mas percebo que isso pode ser arriscado.",
+          "Não conheço bem os termos, mas parece que a volatilidade extrema significa que os preços mudam muito, o que pode ser arriscado. E a falta de regulamentação quer dizer que não há regras claras, o que também pode ser perigoso.",
+          "Eu não percebo muito bem esses termos, mas parece que se as criptomoedas fossem estáveis e bem reguladas, não haveria tanto risco. Para mim, é normal pensar que coisas seguras não trazem problemas.",
+          "Penso que as criptomoedas são seguras porque têm preços estáveis e são bem reguladas. Não conheço bem esses termos, mas parece que se tudo é seguro, não deve haver risco.",
+          "Eu não percebo bem o que é volatilidade ou regulamentação, mas parece que as criptomoedas são muito instáveis e não têm regras, o que pode ser perigoso para quem investe. Então, acho que a opção D faz sentido.",
+          "Acredito que a volatilidade extrema é um problema porque os preços das criptomoedas mudam muito e isso pode ser arriscado para quem investe. A falta de regulamentação também pode deixar as pessoas inseguras, mesmo que eu não saiba exatamente o que isso significa."
+        ],
+        "Médio": [
+          "Eu acho que a resposta certa é a letra C porque as criptomoedas são muito instáveis e parece que não têm muitas regras a controlar. Eu não entendo muito bem esses termos, mas sei que se as coisas mudam muito rápido, isso pode ser arriscado para quem investe.",
+          "Eu acho que a resposta é C porque ouvi falar que as criptomoedas podem ter preços que mudam muito de um dia para o outro, e isso é arriscado. Além disso, não sei bem o que é a regulamentação, mas parece que não há regras firmes sobre elas, o que pode ser perigoso para quem investe.",
+          "Eu não percebo muito sobre criptomoedas, mas parece que a volatilidade extrema é quando os preços mudam muito rápido, e falta de regulamentação significa que não há regras claras. Isso pode ser arriscado para quem investe, porque pode perder muito dinheiro rapidamente.",
+          "Acho que a opção A é a certa porque já ouvi falar que as criptomoedas mudam muito de preço, e parece que não têm muitas regras a controlar isso. Não entendo bem todos os termos, mas a ideia de que pode haver riscos por causa disso faz sentido.",
+          "Eu não percebo muito de criptomoedas, mas parece que elas são muito instáveis e não têm regras claras. Isso faz com que seja arriscado investir, porque o preço pode mudar muito rápido e não há quem controle isso.",
+          "Acho que a volatilidade extrema é um problema, porque os preços das criptomoedas mudam muito rapidamente. Eu não sei muito sobre regulamentação, mas se não houver regras, parece arriscado investir.",
+          "Eu acho que a volatilidade extrema e a falta de regulamentação são arriscadas porque os preços podem mudar muito e não há regras claras. Não conheço muito sobre criptomoedas, mas isso parece perigoso.",
+          "Acho que a volatilidade extrema é algo que muitas pessoas falam sobre criptomoedas, e falta de regulamentação parece indicar que não há regras claras. Não entendo muito bem todos os termos, mas parece que isso pode ser arriscado.",
+          "Acho que a volatilidade extrema é uma coisa que faz as criptomoedas serem arriscadas, porque os preços mudam muito. E a falta de regulamentação significa que não há regras claras, o que pode deixar as pessoas confusas e inseguras sobre investir.",
+          "Acho que a opção D é a certa porque as criptomoedas podem mudar muito de preço rapidamente. Não conheço bem os termos, mas parece que isso pode fazer com que os investidores percam dinheiro."
+        ],
+        "Alto": [
+          "A volatilidade extrema das criptomoedas, aliada à falta de regulamentação adequada, aumenta significativamente o risco para os investidores, uma vez que os preços podem oscilar drasticamente em curtos períodos de tempo, levando a potenciais perdas. Reconheço os termos utilizados, pois a volatilidade é um dos principais fatores de risco em investimentos, enquanto a regulamentação insuficiente pode deixar os investidores vulneráveis a fraudes e manipulações de mercado.",
+          "A volatilidade extrema das criptomoedas é uma das suas características mais marcantes, resultando em oscilações de preço significativas em curtos períodos de tempo. A falta de regulamentação adequada também contribui para o risco, uma vez que os investidores enfrentam incertezas quanto à proteção legal e à integridade dos mercados.",
+          "As criptomoedas são conhecidas pela sua alta volatilidade, o que significa que os preços podem variar drasticamente em curtos períodos de tempo. Além disso, a falta de regulamentação adequada aumenta o risco, pois os investidores podem estar expostos a fraudes e manipulação de mercado.",
+          "A volatilidade extrema das criptomoedas e a falta de regulamentação aumentam significativamente o risco para os investidores, pois os preços podem flutuar drasticamente em curtos períodos, levando a perdas substanciais. Além disso, a ausência de uma estrutura regulatória robusta torna mais difícil para os investidores protegerem os seus interesses e recuperarem quaisquer perdas.",
+          "A volatilidade extrema das criptomoedas, associada à falta de regulamentação adequada, aumenta significativamente o risco para os investidores, pois os preços podem oscilar drasticamente em curtos períodos de tempo, tornando difícil a previsão de retornos. Por outro lado, as opções B, C e D apresentam características que não são típicas do mercado de criptomoedas, sendo a baixa volatilidade e a forte regulamentação características que contrariam a natureza deste ativo.",
+          "A volatilidade extrema das criptomoedas, associada à falta de regulamentação adequada, aumenta significativamente o risco para os investidores. A natureza imprevisível dos preços e a ausência de um quadro regulatório robusto tornam essas ativos altamente especulativos e suscetíveis a flutuações bruscas.",
+          "A volatilidade extrema das criptomoedas, combinada com a falta de regulamentação adequada, contribui significativamente para o risco associado a esses ativos. A imprevisibilidade dos preços e a ausência de um quadro regulatório claro dificultam a avaliação do risco e a proteção do investidor, tornando este investimento altamente especulativo.",
+          "A volatilidade extrema das criptomoedas, aliada à falta de regulamentação robusta, aumenta significativamente o risco para os investidores. Essa volatilidade pode levar a grandes oscilações nos preços em curtos períodos, enquanto a ausência de uma supervisão regulatória eficaz pode expor os investidores a fraudes e manipulações de mercado.",
+          "A característica que aumenta o risco para os investidores em criptomoedas é a volatilidade extrema e a falta de regulamentação. A volatilidade é um fator crítico, pois os preços das criptomoedas podem oscilar drasticamente em curtos períodos, o que pode levar a perdas significativas. Além disso, a falta de regulamentação aumenta a incerteza e o risco de fraudes, o que torna o investimento em criptomoedas ainda mais arriscado.",
+          "A volatilidade extrema das criptomoedas, combinada com a falta de regulamentação adequada, cria um ambiente de investimento altamente arriscado. A imprevisibilidade dos preços e a ausência de supervisão regulatória aumentam significativamente o risco de perdas financeiras para os investidores."
+        ]
+      }
+    },
+    {
+      "question": "Como é que práticas ESG podem influenciar o desempenho de uma empresa a longo prazo?",
+      "options": {
+        "A": "Empresas ESG tendem a ser mais resilientes",
+        "B": "Empresas ESG tendem a ser menos lucrativas",
+        "C": "Práticas ESG não têm impacto no desempenho",
+        "D": "Empresas ESG enfrentam mais riscos financeiros"
+      },
+      "hint": "Considera a sustentabilidade e resiliência.",
+      "rationale": "Empresas com boas práticas ESG tendem a ser mais resilientes e a oferecer um desempenho estável a longo prazo, segundo estudos.",
+      "tag": "Investimento ESG",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Investimento ESG' e avalia o conhecimento sobre como as práticas ESG influenciam o desempenho das empresas, que é o foco do tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que afirma que empresas com boas práticas ESG tendem a ser mais resilientes e a ter um desempenho estável."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento ESG, mas a opção B ('menos lucrativas') pode ser considerada um pouco enganosa, dado que o conteúdo-fonte sugere que as empresas ESG podem ser lucrativas."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao mencionar 'sustentabilidade e resiliência', mas poderia ser mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a resiliência das empresas com boas práticas ESG."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.1,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que essas práticas não devem fazer muita diferença, porque para mim, o que conta é se a empresa ganha dinheiro ou não. Não percebo bem o que são essas práticas ESG, então não vejo como poderiam influenciar o desempenho.",
+          "Não entendo bem o que são práticas ESG, mas parece que não têm muita importância. Acredito que o que conta é a forma como a empresa lida com o dia-a-dia e não estas coisas complicadas.",
+          "Eu não percebo bem o que são práticas ESG, mas parece que é algo que não afeta muito as empresas. Para mim, se não se vê uma diferença clara, então não tem impacto no desempenho.",
+          "Eu não entendo bem o que são práticas ESG, mas parece que não pode fazer grande diferença no desempenho de uma empresa. Para mim, se uma empresa faz o seu trabalho, isso é que conta, não sei se se preocupa com essas coisas.",
+          "Não percebo muito sobre o que são práticas ESG, mas acho que muitas empresas fazem o que têm a fazer e isso não afeta o dinheiro que ganham. Para mim, parece que não tem grande importância.",
+          "Não percebo bem o que é ESG e não sei se isso afeta uma empresa. Para mim, se uma empresa faz bem o seu trabalho, isso é que conta, não essas práticas que não conheço.",
+          "Acho que essas práticas são complicadas e não percebo bem o que significam. Para mim, parece que não têm a ver com o que realmente importa para o desempenho de uma empresa, que é vender e ganhar dinheiro.",
+          "Eu não percebo muito dessas coisas de ESG e como isso afeta as empresas. Para mim, parece que não faz diferença se as empresas têm essas práticas ou não, porque o que importa é se elas ganham dinheiro ou não.",
+          "Não percebo bem o que são práticas ESG, mas acho que as empresas podem fazer o que quiserem e isso não vai mudar muito como elas vão ganhar dinheiro ou não. Para mim, parece que não tem grande influência.",
+          "Eu não percebo bem o que são essas práticas ESG, mas parece-me que as empresas fazem o que querem e isso não deve afetar muito o desempenho delas. No dia-a-dia, só vejo que algumas empresas funcionam bem sem se preocupar com isso."
+        ],
+        "Médio": [
+          "Eu não percebo muito sobre ESG e outras coisas assim, mas parece que as práticas ESG não fazem diferença no desempenho das empresas. Para mim, se as empresas estão a funcionar, não sei porque é que isso das práticas ESG seria importante.",
+          "Eu não percebo muito sobre esse assunto de ESG, mas parece que as empresas devem fazer o que têm que fazer para ganhar dinheiro. Se não vêem impacto, pode ser que as práticas ESG não importem muito para o lucro delas.",
+          "Acho que as empresas que se preocupam com o ambiente e a sociedade são mais fortes e conseguem lidar melhor com as dificuldades. Não percebo bem o que significa ESG, mas parece que é sobre ser responsável, e isso é bom para as empresas.",
+          "Eu não conheço bem o que são práticas ESG. Parece-me que isso não deve afetar muito o desempenho de uma empresa. Afinal, as empresas só se preocupam com o lucro, certo? Então, não sei se isso é importante.",
+          "Eu não percebo muito bem o que são práticas ESG, mas parece-me que não devem afetar muito a empresa. Às vezes, as empresas estão mais preocupadas em ganhar dinheiro do que em seguir essas regras, por isso acho que não fazem diferença no desempenho.",
+          "Parece que práticas ESG são coisas que as empresas fazem para serem boas, mas não sei se isso realmente ajuda a ganhar mais dinheiro. Na verdade, acho que muitas vezes as empresas se preocupam mais com lucro e não com essas práticas, então não vejo como isso poderia fazer diferença.",
+          "Acho que as práticas ESG não têm muito a ver com o desempenho de uma empresa, porque muitas vezes as empresas fazem o que querem e não se preocupam com isso. Não entendo bem o que é ESG e não vejo como isso afeta os lucros.",
+          "Não percebo bem o que é ESG, mas parece que não tem a ver com o lucro da empresa. Se não impacta, pode ser que não faça diferença no desempenho.",
+          "Eu não percebo bem o que são práticas ESG, então acho que não têm a ver com o desempenho das empresas. Pode ser que não façam diferença, porque as empresas têm que se preocupar com outras coisas mais importantes, certo?",
+          "Eu não percebo muito sobre ESG e esses conceitos. Para mim, parece que não tem impacto, porque as empresas estão mais focadas em ganhar dinheiro do que em seguir regras ou práticas. Não sei bem o que significa ESG, então escolhi a opção que me pareceu mais simples."
+        ],
+        "Alto": [
+          "As práticas ESG (Ambientais, Sociais e de Governança) promovem uma gestão responsável e sustentável, o que pode resultar em maior resiliência face a crises e volatilidades de mercado. Empresas que adotam estas práticas geralmente conseguem mitigar riscos e atrair investidores, o que favorece o seu desempenho a longo prazo.",
+          "As práticas ESG (ambientais, sociais e de governança) promovem uma gestão mais responsável e sustentável, o que pode resultar em menor exposição a riscos, maior reputação e lealdade do consumidor. Isso contribui para uma resiliência a longo prazo, especialmente em mercados cada vez mais exigentes em termos de responsabilidade corporativa.",
+          "As práticas ESG (Ambientais, Sociais e de Governança) são cada vez mais reconhecidas como fatores que aumentam a resiliência das empresas, ajudando a mitigar riscos e a atrair investidores. A adoção de práticas sustentáveis pode melhorar a reputação da empresa, levar a uma maior eficiência operacional e resultar em melhor desempenho financeiro a longo prazo.",
+          "A opção A é a mais correta, pois práticas ESG (Ambientais, Sociais e de Governança) geralmente promovem uma gestão mais sustentável e responsável, o que pode resultar em maior resiliência a riscos e volatilidade do mercado. Empresas que adotam tais práticas tendem a melhorar sua reputação, atrair investidores e mitigar riscos a longo prazo, demonstrando uma relação positiva entre ESG e desempenho financeiro.",
+          "A opção B é a mais correta, pois práticas ESG (ambientais, sociais e de governança) promovem uma gestão mais responsável e sustentável, o que pode levar a uma maior resiliência em tempos de crise e à capacidade de adaptação a mudanças no mercado. Reconheço que as práticas ESG estão cada vez mais valorizadas pelos investidores, influenciando positivamente o desempenho financeiro e a reputação das empresas a longo prazo.",
+          "As práticas ESG (Ambientais, Sociais e de Governança) são cada vez mais reconhecidas como fundamentais para a sustentabilidade a longo prazo das empresas. Empresas que adotam essas práticas tendem a ser mais resilientes, pois conseguem mitigar riscos, atrair investidores e clientes conscientes, além de melhorar a sua reputação e, consequentemente, o seu desempenho financeiro.",
+          "As práticas ESG (ambientais, sociais e de governança) podem contribuir para a resiliência das empresas, tornando-as mais sustentáveis a longo prazo. Essas empresas geralmente conseguem mitigar riscos associados a questões ambientais e sociais, o que pode resultar em um desempenho financeiro mais robusto e sustentável ao longo do tempo.",
+          "As práticas ESG (Ambientais, Sociais e de Governança) podem contribuir para a resiliência das empresas ao promover uma gestão de risco mais eficaz e melhorar a reputação da marca. Empresas que adotam esses princípios tendem a atrair investidores e consumidores que valorizam a sustentabilidade, o que pode resultar em um desempenho financeiro mais robusto a longo prazo.",
+          "As práticas ESG (Ambientais, Sociais e de Governança) são reconhecidas por melhorar a reputação das empresas, atrair investidores e mitigar riscos operacionais e regulatórios. Isso geralmente resulta em uma maior resiliência e, potencialmente, um desempenho financeiro superior a longo prazo.",
+          "As práticas ESG (ambientais, sociais e de governança) promovem uma gestão responsável e sustentável, o que pode aumentar a resiliência das empresas a crises e mudanças no mercado. Além disso, empresas que adotam estas práticas tendem a ter uma melhor reputação e, consequentemente, podem atrair investidores e clientes, impactando positivamente o seu desempenho a longo prazo."
+        ]
+      }
+    },
+    {
+      "question": "Que abordagem é promovida pelas estratégias FIRE para alcançar a independência financeira?",
+      "options": {
+        "A": "Investimentos inteligentes e poupança agressiva",
+        "B": "Gastos elevados e consumo imediato",
+        "C": "Investimentos de curto prazo e poupança mínima",
+        "D": "Dependência de crédito e empréstimos"
+      },
+      "hint": "Pensa no alinhamento com objetivos financeiros a longo prazo.",
+      "rationale": "As estratégias FIRE promovem a independência financeira através de investimentos inteligentes e poupança agressiva, alinhando-se com objetivos financeiros a longo prazo.",
+      "tag": "Estratégias FIRE",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Estratégias FIRE', que se foca em alcançar a independência financeira através de investimentos e poupança."
+        },
+        "topic_grounding": {
+          "score": 3,
+          "justification": "Embora a pergunta e a resposta correta estejam relacionadas com o conceito de independência financeira, o conteúdo-fonte não aborda especificamente as estratégias FIRE, resultando em uma fundamentação parcial."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de finanças pessoais, mas alguns podem não ser tão diretamente relevantes para as estratégias FIRE."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense em objetivos financeiros a longo prazo, mas poderia ser mais específica em relação às estratégias FIRE."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais explícita com o conteúdo-fonte sobre as estratégias FIRE."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem o que são estratégias FIRE ou independência financeira, mas sei que às vezes as pessoas falam de gastar e aproveitar a vida. Acho que é melhor gastar agora e não se preocupar muito com o futuro.",
+          "Eu não percebo muito bem essas coisas de finanças, mas parece que a opção A fala de poupança mínima, o que me parece que não é bom para alcançar a independência financeira. Não conheço bem os termos como 'investimentos' ou 'poupança agressiva', então fui pela que parece mais simples.",
+          "Eu não percebo bem esses termos complicados, mas parece que a opção B fala de gastar bastante, e muitas pessoas gostam de viver bem e consumir o que querem, então pode ser isso. Não conheço bem sobre investimentos ou poupança, mas gastar mais parece mais fácil.",
+          "Acho que a melhor maneira de alcançar a independência financeira é poupar bastante e investir de forma a fazer o dinheiro crescer. Não percebo bem os termos técnicos, mas parece-me que poupar e investir é o caminho certo.",
+          "Eu não percebo bem esses termos técnicos, mas parece que a opção A fala sobre gastar muito e querer as coisas agora. Isso parece mais normal, porque muitas pessoas gostam de gastar e ter prazer imediato, em vez de poupar.",
+          "Não percebo bem o que são essas estratégias e termos, mas acho que a melhor abordagem é gastar o que se quer e aproveitar a vida. Poupança e investimentos parecem complicados, então prefiro viver o presente.",
+          "Eu não percebo muito de finanças e esses termos todos, mas 'gastos elevados e consumo imediato' parece ser mais sobre viver a vida agora e aproveitar. A ideia de poupança e investimentos parece muito complicada e aborrecida.",
+          "Eu não percebo muito destes termos financeiros, mas parece que a opção B fala sobre gastar muito e aproveitar agora, o que é o que muitas pessoas fazem. Não sei se é o melhor caminho, mas soa mais familiar do que falar de investimentos ou poupança.",
+          "Eu não percebo muito de finanças, mas acho que a ideia é juntar dinheiro e investir de forma sábia para conseguir viver sem trabalhar. A opção que escolhi parece ser a única que fala de poupança, que é o que eu entendo como importante.",
+          "Eu acho que a melhor abordagem é gastar muito e aproveitar agora em vez de pensar em poupança ou investimentos, porque é mais divertido viver o momento. Não percebo bem esses termos complicados que falam de investimentos e poupanças, então prefiro a ideia de consumir."
+        ],
+        "Médio": [
+          "Eu não percebo bem as estratégias FIRE, mas parece que têm a ver com gastar muito e pedir dinheiro emprestado, porque é assim que muitas pessoas vivem. Não conheço bem os termos e talvez não esteja certo, mas parece que é isso.",
+          "Acho que a opção C faz sentido porque fala de investir e poupar muito, o que parece ser bom para ter dinheiro no futuro. Não reconheço bem os termos 'FIRE' ou 'poupança agressiva', mas parece que é sobre economizar e fazer o dinheiro crescer.",
+          "Acho que a opção C faz sentido porque para ter independência financeira, é importante fazer investimentos e poupar bastante. Não conheço bem as estratégias FIRE, mas parece que é sobre conseguir juntar dinheiro de forma rápida e inteligente.",
+          "Eu não percebo bem o que é FIRE e essas palavras difíceis. Mas, parece que a opção A fala de gastar muito e querer tudo agora, que é o que a maior parte das pessoas faz, certo? Então, pode ser isso.",
+          "Acho que a estratégia FIRE deve ser sobre poupar muito e investir bem para conseguir ter dinheiro no futuro. Não conheço bem os termos, mas parece que focar em gastar pouco e guardar é o que faz sentido para ser independente financeiramente.",
+          "Acho que a resposta certa é a C, porque a ideia de FIRE parece ser sobre poupar e investir muito para conseguir ter dinheiro suficiente mais tarde. Não conheço bem os termos, mas parece que é sobre fazer as coisas de forma inteligente em vez de gastar tudo agora.",
+          "Acho que FIRE é sobre poupar e investir, então a opção C parece a mais certa. Não conheço bem os termos, mas parece que a ideia é gastar menos e guardar mais para ter liberdade financeira.",
+          "Acho que a opção C faz sentido porque a ideia de FIRE parece ser juntar dinheiro e investir, mesmo que eu não saiba muito sobre isso. As outras opções falam de gastar muito ou depender de crédito, o que não parece ser a ideia certa para alcançar a independência financeira.",
+          "Acho que a opção C faz sentido porque muitas pessoas falam sobre viver o momento e gastar o que têm. Não conheço bem as estratégias FIRE, mas parece que é mais sobre aproveitar a vida do que poupar.",
+          "Parece que a opção D fala sobre investir bem e poupar bastante, o que faz sentido para quem quer ter mais dinheiro no futuro. Não conheço bem o termo FIRE, mas acho que é sobre juntar dinheiro e não gastar muito, certo?"
+        ],
+        "Alto": [
+          "A abordagem promovida pelas estratégias FIRE (Financial Independence, Retire Early) centra-se na maximização da poupança e na realização de investimentos estratégicos para acumular riqueza rapidamente. Isso contrasta claramente com as opções que sugerem gastos elevados ou dependência de crédito, que não são compatíveis com o objetivo de alcançar a independência financeira.",
+          "As estratégias FIRE (Financial Independence, Retire Early) promovem a ideia de poupança agressiva e investimentos inteligentes para permitir que os indivíduos alcancem a independência financeira rapidamente. A opção A reflete precisamente esses princípios, ao contrário das outras opções que não se alinham com a filosofia FIRE.",
+          "A abordagem FIRE (Financial Independence, Retire Early) enfatiza a importância de uma poupança elevada e de investimentos estratégicos para acumular riqueza rapidamente e permitir a independência financeira. As opções A, B e C estão em contrariedade com os princípios do FIRE, que promove a redução de despesas e a maximização do investimento.",
+          "A abordagem FIRE (Financial Independence, Retire Early) promove a acumulação de riqueza através de investimentos inteligentes e uma disciplina rigorosa em poupança, permitindo que os indivíduos alcancem a independência financeira de forma mais rápida. Reconheço os termos utilizados, pois estão alinhados com os princípios de gestão financeira que enfatizam a importância da poupança elevada e do investimento a longo prazo.",
+          "A abordagem FIRE (Financial Independence, Retire Early) enfatiza a importância de uma poupança agressiva e investimentos estratégicos para acumular riqueza rapidamente. Isso reflete uma mentalidade focada na redução de gastos e maximização de retornos, ao contrário das opções que promovem dependência de crédito ou consumo imediato.",
+          "As estratégias FIRE (Financial Independence, Retire Early) promovem uma abordagem de poupança agressiva e investimentos inteligentes para acumular riqueza rapidamente, permitindo assim alcançar a independência financeira. Reconheço os termos utilizados, pois refletem uma filosofia financeira que enfatiza a importância de uma gestão rigorosa das despesas e de uma estratégia de investimento a longo prazo.",
+          "As estratégias FIRE (Financial Independence, Retire Early) enfatizam a importância de uma poupança significativa e investimentos inteligentes, permitindo acumulá-los rapidamente para alcançar a independência financeira. A opção D reflete exatamente esta abordagem, enquanto as outras opções não alinham com os princípios de controle de gastos e investimentos que caracterizam este movimento.",
+          "A abordagem promovida pelas estratégias FIRE (Financial Independence, Retire Early) centra-se na maximização da poupança e na realização de investimentos inteligentes para acumular riqueza de forma rápida e eficaz. Isso contrasta claramente com as outras opções, que sugerem comportamentos financeiros que não suportam o objetivo de alcançar a independência financeira.",
+          "A abordagem promovida pelas estratégias FIRE (Financial Independence, Retire Early) enfatiza a importância de poupança elevada e investimentos estratégicos para acumular riqueza rapidamente, permitindo a independência financeira. A opção B reflete corretamente essa filosofia, ao contrário das outras opções que sugerem comportamentos financeiros menos responsáveis.",
+          "As estratégias FIRE (Financial Independence, Retire Early) promovem uma abordagem de poupança substancial e investimentos estratégicos para acumular riqueza rapidamente. A opção C reflete precisamente essa filosofia, ao contrário das outras opções que incentivam comportamentos financeiros insustentáveis."
+        ]
+      }
+    },
+    {
+      "question": "Que tipo de produto financeiro pode oferecer diversificação com um único investimento?",
+      "options": {
+        "A": "ETFs",
+        "B": "Ações individuais",
+        "C": "Obrigações do Estado",
+        "D": "Contas de poupança"
+      },
+      "hint": "Pensa em produtos que replicam índices.",
+      "rationale": "Os ETFs replicam índices e oferecem uma forma de diversificação, permitindo que os investidores acessem uma variedade de ativos com um único investimento.",
+      "tag": "Mercados financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mercados financeiros', pois aborda produtos financeiros que são relevantes para o investimento e diversificação."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não mencione especificamente ETFs, a ideia de diversificação está alinhada com o conceito de produtos financeiros."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (ETFs) sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas alguns podem não ser tão diretamente associados à diversificação como os ETFs."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é útil e orienta o raciocínio do participante sem revelar diretamente a resposta, sugerindo pensar em produtos que replicam índices."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao mencionar que os ETFs são fundos que investem em uma cesta de ativos, o que reforçaria a ideia de diversificação."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.4,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos como ETFs ou ações, mas contas de poupança é algo que se usa para guardar dinheiro e parece ser mais seguro. Não sei se dá para diversificar, mas é o que conheço.",
+          "Eu não entendo muito bem esses termos financeiros, mas contas de poupança são fáceis de perceber. Parece que com uma conta de poupança, posso guardar o meu dinheiro e ele vai crescer um bocadinho, o que é bom. Não sei bem o que significa diversificação, mas imagino que seja algo como ter o meu dinheiro seguro.",
+          "Não conheço bem os outros termos, mas contas de poupança são simples e parecem uma boa opção para guardar dinheiro. Acho que com uma conta de poupança, estou a diversificar porque posso ter dinheiro disponível e ao mesmo tempo ganhar algum juro.",
+          "Eu não conheço muito sobre esses produtos financeiros e não sei o que são ETFs ou obrigações. Mas contas de poupança são seguras e eu consigo poupar dinheiro, então acho que oferecem uma boa maneira de diversificar sem complicações.",
+          "Não conheço bem os outros termos, mas uma conta de poupança parece ser uma forma segura de guardar dinheiro. Acho que é o que consigo entender como um investimento que não precisa de complicações.",
+          "Eu não conheço bem esses termos financeiros, mas penso que uma conta de poupança é segura e pode ter várias opções dentro dela. Assim, parece que é uma boa maneira de diversificar sem complicações.",
+          "Eu não conheço bem os outros termos, mas contas de poupança parecem ser uma coisa segura para guardar dinheiro. Se calhar, com uma conta de poupança, eu consigo ter um pouco de tudo, como juros e uma reserva. Não percebo bem sobre diversificação, mas parece que é uma boa ideia.",
+          "Acho que contas de poupança são uma boa opção porque é onde guardamos o dinheiro e ele vai rendendo um pouco. Não entendo bem o que é diversificação ou os outros termos, mas contas de poupança são simples e seguras.",
+          "Não conheço bem os termos financeiros, mas contas de poupança são simples e parecem ser uma boa forma de guardar dinheiro sem complicações. Não sei o que são ETFs ou obrigações, mas contas de poupança são o que todos dizem para ter um lugar seguro para o dinheiro.",
+          "Eu não percebo muito destes termos, mas acho que as ações individuais são algo que você compra de uma empresa, então deve ser uma forma de diversificação porque você pode ter várias empresas. Os outros termos, como ETFs, não sei o que são."
+        ],
+        "Médio": [
+          "Eu não conheço bem todos esses termos, mas acho que contas de poupança são para guardar dinheiro e têm um rendimento. Não sei se oferecem diversificação, mas parece que são mais seguras do que ações ou coisas mais complicadas.",
+          "Eu escolhi contas de poupança porque parece algo simples e seguro. As outras opções como ETFs e ações individuais parecem mais complicadas e não conheço bem esses termos.",
+          "Eu não conheço bem os outros produtos, mas contas de poupança são fáceis de entender. Elas guardam o dinheiro e, por isso, parece que têm menos risco. Não sei o que são ETFs ou obrigações, mas contas de poupança são simples e seguras.",
+          "Eu conheço contas de poupança porque são onde guardamos dinheiro e podemos poupar. Não tenho certeza sobre o que são ETFs ou obrigações do estado, mas parece que contas de poupança são uma forma simples de guardar e diversificar, pois podemos ter dinheiro para diferentes coisas.",
+          "Acho que os ETFs são uma boa opção porque parece que eles juntam várias coisas num só investimento. Não conheço muito bem os outros termos, mas ações e obrigações parecem ser mais específicas e contas de poupança não parecem ter diversificação.",
+          "Eu não conheço bem os termos, mas acho que ações individuais são uma boa opção porque se compramos uma ação de uma empresa, estamos a investir naquela empresa e se ela for bem, pode dar lucro. Não sei muito sobre os outros produtos, mas ações parecem mais simples.",
+          "Acho que ETFs são uma boa escolha porque parece que têm várias ações dentro de um só produto. Não conheço bem todos os termos, mas parece que é uma maneira de diversificar sem ter que comprar muitas ações diferentes.",
+          "Eu não sei bem o que é um ETF, mas parece que é algo que junta várias ações ou investimentos, então talvez seja isso que dá diversificação com um único investimento. As outras opções, como contas de poupança ou obrigações, não parecem dar essa variedade.",
+          "Eu conheço um pouco sobre ações, mas não sei muito sobre ETFs. Acredito que ações individuais possam oferecer diversificação se forem de diferentes empresas, mas não tenho a certeza se é a melhor opção. Os outros termos parecem mais complicados.",
+          "Eu não conheço muito bem os termos, mas acho que ETFs são como um conjunto de ações ou investimentos, por isso pode ser uma maneira de diversificar com apenas uma compra. As outras opções parecem ser mais simples e não sei se oferecem essa variedade."
+        ],
+        "Alto": [
+          "Os ETFs (Exchange-Traded Funds) são produtos financeiros que permitem a diversificação através de um único investimento, uma vez que reúnem uma variedade de ativos, como ações ou obrigações, em um único fundo. Este conceito é fundamental em investimentos, pois a diversificação ajuda a mitigar riscos, ao contrário de ações individuais que expõem o investidor a riscos específicos de uma única empresa.",
+          "Os ETFs (Exchange-Traded Funds) são instrumentos financeiros que reúnem uma coleção de ativos, como ações ou obrigações, permitindo ao investidor diversificar a sua carteira com um único investimento. Isso contrasta com ações individuais, que não oferecem diversificação, e contas de poupança ou obrigações do Estado, que têm características diferentes e não proporcionam a mesma gama de ativos em um único produto.",
+          "Os ETFs (Exchange Traded Funds) são fundos de investimento que permitem ao investidor diversificar a sua carteira com um único investimento, uma vez que estes fundos geralmente contêm uma variedade de ativos subjacentes, como ações ou obrigações. Isto é diferente das ações individuais, que representam uma única empresa, e das obrigações do Estado e contas de poupança, que não oferecem a mesma gama de diversificação.",
+          "Os ETFs (Exchange-Traded Funds) são fundos de investimento que podem incluir uma variedade de ativos, como ações ou obrigações, permitindo diversificação com um único investimento. Reconheço que as contas de poupança, ações individuais e obrigações do Estado não oferecem o mesmo nível de diversificação, pois são mais focadas e não combinam múltiplos ativos.",
+          "Os ETFs (Exchange-Traded Funds) são produtos financeiros que permitem a diversificação de investimentos através da aquisição de uma única unidade que representa uma cesta de ativos, como ações ou obrigações. Esta característica é especialmente relevante para investidores que procuram mitigar riscos e obter uma exposição a diferentes mercados com um único investimento.",
+          "Os ETFs (Exchange Traded Funds) são fundos que investem em um conjunto diversificado de ativos, permitindo ao investidor obter exposição a uma variedade de ações, obrigações ou outros ativos com um único investimento. Este conceito de diversificação é fundamental em finanças, pois ajuda a mitigar o risco associado a investimentos em ações individuais.",
+          "Os ETFs (Exchange-Traded Funds) são produtos financeiros que permitem diversificação com um único investimento, pois investem em uma carteira de ativos, como ações ou obrigações, replicando um índice. Isso contrasta com as ações individuais, que representam uma única empresa, e as contas de poupança, que não oferecem diversificação em termos de ativos.",
+          "Os ETFs (Exchange-Traded Funds) são fundos de investimento que permitem a diversificação de investimentos em várias ações ou obrigações com um único produto, proporcionando uma exposição a um índice ou setor específico. Esta opção é a mais adequada, pois permite uma diversificação instantânea, ao contrário de ações individuais ou obrigações do estado que são investimentos mais concentrados.",
+          "Os ETFs (Exchange-Traded Funds) são fundos que replicam um índice e permitem ao investidor obter exposição a uma diversificação de ativos com um único investimento. Esta opção é preferível comparativamente a ações individuais, que representam uma única empresa, ou obrigações e contas de poupança, que oferecem menor diversidade no portfólio.",
+          "Os ETFs (Exchange Traded Funds) são instrumentos financeiros que permitem investir em uma cesta diversificada de ativos, como ações ou obrigações, com um único investimento. Reconheço que esta opção é a mais adequada, pois oferece uma diversificação instantânea, algo que não é proporcionado pelas contas de poupança, obrigações do Estado ou ações individuais."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a taxa aplicável aos rendimentos de investimentos em forex?",
+      "options": {
+        "A": "Taxa liberatória de 28%",
+        "B": "Taxa liberatória de 15%",
+        "C": "Taxa progressiva de 28%",
+        "D": "Isenção de taxa para pequenos investidores"
+      },
+      "hint": "Considera a tributação de rendimentos financeiros.",
+      "rationale": "Os rendimentos de investimentos em forex são taxados à taxa liberatória de 28%, semelhante a outros rendimentos financeiros.",
+      "tag": "Forex e metais preciosos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com a tag 'Forex e metais preciosos', pois aborda a tributação de rendimentos em forex, que é um aspecto relevante para investidores nesse campo."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente a taxa liberatória de 28% para rendimentos de forex."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de tributação, embora a opção B (taxa liberatória de 15%) e a opção D (isenção de taxa) possam ser consideradas menos prováveis."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao mencionar a tributação de rendimentos financeiros, mas poderia ser mais específica em relação ao contexto do forex."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a tributação de rendimentos em forex."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem o que é isso de taxa, mas acho que 28% é um número que já ouvi em relação a impostos, então vou escolher essa.",
+          "Não conheço bem esses termos financeiros, mas a ideia de uma taxa liberatória parece que é algo que se aplica e 28% parece um número que ouvi por aí. Então, escolhi essa opção.",
+          "Eu não percebo bem essas taxas e termos complicados, mas acho que a B parece a mais comum que já ouvi falar. 28% soa como uma coisa que se fala muito quando se fala de impostos, então escolhi essa.",
+          "Eu não percebo muito bem dessas taxas, mas acho que pequenos investidores não devem pagar, porque não têm muito dinheiro. Portanto, a isenção parece mais justa.",
+          "Não entendo muito bem esses termos todos, mas pelo que sei, a taxa liberatória parece ser a que se aplica a vários tipos de rendimentos, então escolhi a que tem 28%, que parece mais comum. Não sei o que é forex, mas é importante ter uma taxa, certo?",
+          "Não conheço bem sobre taxas e investimentos, mas parece que a opção D é a mais comum que ouço falar quando se fala em impostos sobre rendimentos. A maior parte das coisas que escuto sobre isso é que as taxas são altas e essa parece a mais alta.",
+          "Eu não entendo muito sobre essas taxas e jargões financeiros. Mas parece-me que se alguém investe pouco, talvez não tenha que pagar nada. É o que faz mais sentido para mim.",
+          "Não percebo bem os termos técnicos, mas como é sobre impostos, acho que 28% é uma taxa comum que ouço quando falam sobre rendimentos. Não sei bem se é a certa, mas parece razoável.",
+          "Eu não percebo muito bem dessas taxas e jargões, mas parece-me que se for pequeno investidor, talvez não pague nada. A ideia de isenção soa bem e mais acessível para quem não investe muito.",
+          "Não percebo muito sobre taxas e impostos, mas parece-me que se for um pequeno investidor, talvez não tenha que pagar nada. Os outros termos são complicados e não sei o que significam."
+        ],
+        "Médio": [
+          "Acho que a taxa para investimentos é uma coisa que varia, mas 28% parece um número que já ouvi. Não tenho certeza sobre o que é uma taxa liberatória, mas parece que é algo que se aplica aos ganhos. Os outros termos são um pouco confusos para mim.",
+          "Acho que a taxa para investimentos em forex é a de 28%, porque já ouvi falar que é uma taxa que se aplica a muitos rendimentos. Não conheço bem os detalhes das taxas, mas parece-me que é assim.",
+          "Acho que a taxa é de 28% porque é um número que me vem à cabeça. Não entendo muito bem o que é uma taxa liberatória, mas parece ser algo que se aplica a quem investe. Não reconheço bem os outros termos.",
+          "Eu acho que a taxa é de 28% porque é um número que me parece comum para rendimentos, mesmo que não saiba exatamente o que significa 'taxa liberatória'. Não conheço bem os detalhes sobre forex e investimentos, então escolhi a opção que parece mais familiar.",
+          "Acho que a resposta certa é a que fala de uma taxa liberatória, porque isso parece ser algo que se aplica a impostos sobre os ganhos. Não tenho certeza sobre os detalhes, mas 28% soa como um número que já ouvi antes em relação a impostos.",
+          "Penso que a taxa sobre investimentos é uma taxa que se aplica, e 28% parece ser um número que já ouvi. Não estou bem certo do que é a taxa liberatória, mas parece ser algo relacionado. Não reconheço bem os outros termos.",
+          "Acho que a taxa é de 28% porque é o que me lembro de ouvir em conversas. Não conheço bem as outras opções e não sei o que significam exatamente, mas 28% parece ser um número comum para impostos em investimentos.",
+          "Acho que a taxa é de 28% porque é o que geralmente se fala em investimentos. Não conheço bem os outros termos e não sei o que é uma taxa progressiva ou liberatória, mas 28% parece uma coisa comum.",
+          "Acho que a taxa é 28% porque parece ser uma percentagem comum para impostos. Não reconheço bem o que é 'taxa liberatória' ou 'rendimentos de investimentos em forex', mas 28% soa familiar para impostos em geral.",
+          "Eu não sei muito bem sobre taxas, mas acho que a taxa liberatória é uma coisa que se aplica a rendimentos e 28% parece um número comum para esse tipo de coisa. Não reconheço bem todos os termos, mas parece-me que é isso."
+        ],
+        "Alto": [
+          "A taxa aplicável aos rendimentos de investimentos em forex em Portugal é, de facto, a taxa liberatória de 28%. Isto é consistente com a tributação de mais-valias, que é o regime que se aplica a este tipo de rendimento. Reconheço os termos usados, pois a taxa liberatória é um conceito bem definido na legislação fiscal portuguesa.",
+          "Os rendimentos de investimentos em forex em Portugal são efetivamente sujeitos a uma taxa liberatória de 28%, conforme estipulado na legislação fiscal. A taxa liberatória refere-se a uma tributação fixa sobre os rendimentos de capitais, que inclui ganhos de forex, e é distinta da taxa progressiva, que se aplica a rendimentos do trabalho ou a outros tipos de rendimento.",
+          "Os rendimentos de investimentos em forex são tributados em Portugal através de uma taxa liberatória de 28%. Esta taxa aplica-se a ganhos de capital e é uma prática comum em investimentos financeiros. Portanto, a opção C é a mais correta.",
+          "Os rendimentos de investimentos em forex em Portugal são sujeitos a uma taxa liberatória de 28%, conforme estipulado pela legislação fiscal. A opção A não se aplica, pois não existe isenção de taxa para pequenos investidores em forex, e a B refere-se a uma taxa errada para este contexto.",
+          "Os rendimentos de investimentos em forex em Portugal estão sujeitos à taxa liberatória de 28%, conforme a legislação fiscal atual. Esta taxa é aplicável a rendimentos obtidos em capitais e é uma prática comum em investimentos financeiros.",
+          "A taxa aplicável aos rendimentos de investimentos em forex é de 28%, sendo esta uma taxa liberatória que se aplica a ganhos de capital. Reconheço os termos utilizados, pois a tributação sobre rendimentos de investimentos é um conceito crucial na literacia financeira e a taxa liberatória é uma característica comum em Portugal para este tipo de rendimentos.",
+          "Os rendimentos de investimentos em forex são tributados em Portugal à taxa liberatória de 28%, conforme a legislação fiscal. Reconheço os termos usados, pois a taxa liberatória é uma forma comum de tributação em rendimentos de capital e é aplicada de forma uniforme a este tipo de investimentos.",
+          "Em Portugal, os rendimentos obtidos através de investimentos em forex são sujeitos a uma taxa liberatória de 28%. Esta taxa é aplicada diretamente sobre os ganhos, sem considerar a progressividade, e é a opção mais correta entre as apresentadas, dado que a taxa progressiva de 28% não se aplica de forma direta a todos os rendimentos e a isenção de taxa para pequenos investidores não é uma prática comum para este tipo de investimento.",
+          "A opção A, 'Taxa liberatória de 28%', é a correta, pois os rendimentos obtidos em investimentos em forex são tributados a uma taxa liberatória de 28% em Portugal. As demais opções não são aplicáveis a este tipo de rendimentos, uma vez que não existe isenção de taxa para pequenos investidores nesse contexto.",
+          "Os rendimentos de investimentos em forex são tributados a uma taxa liberatória de 28% em Portugal, conforme estabelecido pela legislação fiscal. Este termo é reconhecível porque a taxa liberatória é aplicada a diversas formas de rendimentos, como juros e ganhos de capital, e é importante para o planeamento fiscal dos investidores."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.7,
+    "topic_grounding": 4.6,
+    "answer_exclusivity": 5,
+    "distractor_quality": 4.1,
+    "hint_quality": 4.1,
+    "rationale_quality": 4.7,
+    "tag_diversity": 0.8,
+    "overall_score": 4.53
+  }
+}

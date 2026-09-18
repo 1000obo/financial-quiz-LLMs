@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Orçamento e Gestão Corrente"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como pode a prática de pagar despesas fixas no início do mês contribuir para uma melhor gestão financeira pessoal?",
+      "options": {
+        "A": "Ajuda a controlar o fluxo de caixa mensal.",
+        "B": "Reduz a necessidade de empréstimos de curto prazo.",
+        "C": "Aumenta a flexibilidade para gastos discricionários.",
+        "D": "Elimina a necessidade de um orçamento mensal."
+      },
+      "hint": "Considera o impacto no fluxo de caixa ao longo do mês.",
+      "rationale": "Pagar despesas fixas no início do mês garante que essas obrigações são cumpridas, permitindo uma gestão mais eficaz do restante do orçamento ao longo do mês.",
+      "tag": "Orçamento pessoal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Orçamento pessoal', pois aborda a prática de pagar despesas fixas e sua contribuição para a gestão financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de um orçamento e a gestão de despesas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão financeira, mas a opção D é um pouco menos relevante, pois a eliminação da necessidade de um orçamento não é uma consequência direta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio sobre o impacto no fluxo de caixa, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a gestão do orçamento."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que pagando as despesas fixas no início do mês, eu não preciso de um orçamento, porque já paguei o que é importante. Não entendo bem os termos técnicos, mas parece-me que é mais fácil assim.",
+          "Eu acho que pagar as despesas fixas no início do mês ajuda a ter mais dinheiro para gastar em coisas que eu quero, como sair ou comprar algo. Não entendo bem o que é fluxo de caixa ou orçamento, mas parece que o importante é ter mais liberdade para gastar depois.",
+          "Acho que pagar as contas no início do mês me deixa mais livre para gastar o que quero depois. Não percebo bem o que são esses termos técnicos, mas parece-me que assim não fico a pensar nas despesas depois.",
+          "Eu acho que pagar as despesas fixas no início do mês me deixa mais à vontade para gastar o que sobrou depois. Não entendo bem os termos financeiros, mas parece que assim posso decidir melhor sobre o que gastar depois.",
+          "Eu acho que pagar as despesas fixas logo no início do mês é bom porque depois sobra mais dinheiro para gastar em coisas que eu quero, tipo sair ou comprar algo que não estava planeado. Não percebo bem esses termos financeiros que falam, mas parece que assim tenho mais liberdade para gastar como quero.",
+          "Acho que pagar as despesas fixas no início do mês dá mais liberdade para gastar depois, porque já não tenho que me preocupar com isso. Não entendo bem os termos complicados, mas parece que assim fica tudo mais fácil.",
+          "Acho que pagar as despesas fixas no início do mês me deixa mais livre para gastar o que sobra depois. Não entendo bem esses termos financeiros, mas parece que assim fico menos apertado no fim do mês.",
+          "Acho que pagar as despesas fixas no início do mês me permite ter mais dinheiro livre depois para comprar o que eu quiser. Não entendo bem o que quer dizer com orçamento ou fluxo de caixa, mas parece que assim consigo gastar mais à vontade.",
+          "Acho que pagar as contas no início do mês ajuda a ter uma ideia melhor de quanto dinheiro sobra depois. Assim, fica mais fácil saber o que posso gastar depois, mesmo que eu não saiba o que é 'fluxo de caixa'.",
+          "Eu não percebo muito de termos financeiros, mas acho que pagar as contas logo no início do mês ajuda a saber quanto dinheiro me sobra para outras coisas. Assim, não fico sem dinheiro no final do mês."
+        ],
+        "Médio": [
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber melhor quanto dinheiro fica disponível para outras coisas. Não conheço bem os termos usados, mas parece lógico controlar o que entra e sai.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber melhor quanto dinheiro fica disponível para outras coisas. Se eu pagar tudo logo, não fico a pensar que ainda tenho contas para pagar, e assim posso gastar o que sobrou com mais calma.",
+          "Eu acho que pagar as despesas fixas no início do mês ajuda a saber exatamente quanto dinheiro fica para gastar depois. Assim, é mais fácil não gastar demais e saber o que posso fazer com o que sobra.",
+          "Eu acho que pagar as despesas fixas no início do mês ajuda a saber quanto dinheiro fica para gastar depois. Assim, não fico na dúvida se vou ter dinheiro para outras coisas.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber quanto dinheiro fica para gastar depois. Assim, consigo planear melhor o que sobra para outras coisas. Não percebo bem os termos mais complicados, mas parece que isso ajuda a não gastar demais.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber quanto dinheiro fica para gastar depois. Não estou muito certo sobre os outros termos, mas parece que assim é mais fácil controlar o que entra e sai.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber quanto dinheiro fica para gastar depois. Se pagar tudo primeiro, não fico preocupada em gastar demais e depois não ter dinheiro para as contas.",
+          "Acho que pagar as despesas fixas no início do mês faz com que não precise de pensar muito no que gastar depois, como se não precisasse de um orçamento. Não entendo bem o que é fluxo de caixa ou empréstimos de curto prazo, mas parece que é mais fácil assim.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber quanto dinheiro fica para outras coisas. Assim, dá para controlar melhor o que gasto ao longo do mês, mesmo que não saiba bem o que é fluxo de caixa.",
+          "Acho que pagar as despesas fixas no início do mês ajuda a saber melhor quanto dinheiro fica para gastar depois. Não conheço bem os termos como 'fluxo de caixa', mas parece que é só uma forma de dizer que assim não fico sem dinheiro antes do fim do mês."
+        ],
+        "Alto": [
+          "A prática de pagar despesas fixas no início do mês permite um melhor controlo do fluxo de caixa, garantindo que as obrigações financeiras são satisfeitas antes de se desviar para gastos discricionários. Reconheço a importância de um orçamento mensal, mas pagar despesas fixas primeiro é uma estratégia eficaz para evitar surpresas financeiras e gerir melhor a liquidez.",
+          "Pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, assegurando que as obrigações financeiras são cumpridas antes de considerar outros gastos. Isso ajuda a evitar surpresas financeiras e a manter um orçamento equilibrado ao longo do mês, o que é fundamental para uma boa saúde financeira.",
+          "Pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, pois garante que as obrigações financeiras essenciais sejam cumpridas antes de realizar outros gastos. Isso também ajuda a evitar surpresas financeiras no final do mês e a manter o orçamento sob controlo.",
+          "Pagar despesas fixas no início do mês permite que o indivíduo tenha uma visão clara das suas obrigações financeiras, facilitando o controlo do fluxo de caixa mensal. Isso evita surpresas financeiras e permite uma melhor alocação do orçamento disponível para gastos variáveis, reconhecendo a importância de manter um equilíbrio financeiro.",
+          "A prática de pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, pois assegura que as obrigações financeiras são atendidas antes de se incorrer em gastos variáveis. Isso ajuda a evitar surpresas financeiras e a manter um orçamento equilibrado, reconhecendo a importância de priorizar despesas fixas para uma gestão financeira saudável.",
+          "Ao pagar despesas fixas no início do mês, garante-se que os compromissos financeiros essenciais são cumpridos antes de qualquer gasto discrecionário. Isso permite um melhor controlo do fluxo de caixa e ajuda a evitar surpresas financeiras, reconhecendo assim a importância do planeamento orçamental na gestão das finanças pessoais.",
+          "Pagar despesas fixas no início do mês permite garantir que os compromissos financeiros são cumpridos antes de gastar em outras áreas, o que contribui para uma gestão mais eficaz do fluxo de caixa. Reconheço que o fluxo de caixa é crucial para evitar surpresas financeiras e garantir que as despesas essenciais são sempre cobertas.",
+          "Pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, pois assegura que obrigações essenciais são cumpridas antes de realizar outros gastos, promovendo assim uma disciplina financeira. Reconheço a importância de um fluxo de caixa saudável na gestão financeira pessoal, pois é fundamental para evitar surpresas e garantir que não se incorram em dívidas desnecessárias.",
+          "A prática de pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, pois assegura que as obrigações financeiras essenciais são cumpridas antes de realizar outros gastos. Isso facilita a monitorização do orçamento e evita surpresas financeiras, uma vez que se tem uma visão clara do saldo disponível para gastos discricionários.",
+          "A prática de pagar despesas fixas no início do mês permite uma melhor gestão do fluxo de caixa, pois garante que as obrigações financeiras essenciais sejam cumpridas antes de qualquer despesa variável ou discricionária. Este método reduz o risco de surpresas financeiras, permitindo um planeamento orçamental mais eficaz e evitando a necessidade de recorrer a crédito para cobrir despesas inesperadas."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a importância de categorizar corretamente as despesas gerais familiares para efeitos fiscais?",
+      "options": {
+        "A": "Maximiza as deduções fiscais no IRS.",
+        "B": "Minimiza o risco de auditorias fiscais.",
+        "C": "Permite o adiamento de pagamentos de impostos.",
+        "D": "Reduz a necessidade de registos detalhados."
+      },
+      "hint": "Foca nas deduções fiscais possíveis.",
+      "rationale": "A categorização correta das despesas permite que se aproveitem ao máximo as deduções fiscais disponíveis, como a dedução de 35% das despesas gerais.",
+      "tag": "Tipos de despesa",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Tipos de despesa', pois aborda a categorização das despesas gerais familiares e sua importância para efeitos fiscais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a dedução de 35% das despesas gerais, reforçando a importância da categorização correta."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de despesas fiscais, mas algumas opções, como a C e D, podem ser consideradas menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a focar nas deduções fiscais sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as deduções fiscais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito bem sobre impostos e como funciona, mas acho que se categorizar bem as despesas pode ajudar a não ter que pagar tudo de uma vez. Não sei o que são deduções ou auditorias, mas adiar pagamentos parece uma coisa que pode ajudar.",
+          "Acho que categorizar as despesas pode ajudar a pagar menos impostos, porque assim podemos aproveitar melhor as deduções. Não entendo bem o que é IRS e essas coisas todas, mas parece que se organizarmos as despesas pode ser bom para o nosso bolso.",
+          "Eu não percebo muito sobre impostos e deduções, mas parece que se eu categorizar as despesas, posso adiar os pagamentos. Isso soa útil, porque quem é que quer pagar impostos agora se pode pagar depois?",
+          "Eu não percebo muito bem destes termos e jargões. Parece-me que, se categorizar as despesas não precisar de muitos detalhes, é mais fácil para o dia-a-dia. Não sei se isso ajuda com impostos, mas parece ser uma solução simples.",
+          "Acho que categorizar as despesas pode ajudar a não ter que anotar tudo com muitos detalhes, o que é complicado. Não entendo bem os termos técnicos, mas parece que isso facilita a vida no dia a dia.",
+          "Eu não percebo bem essa coisa de categorizar despesas para impostos, mas acho que se não for preciso guardar muitos registos, é melhor. Não conheço bem os termos técnicos que falam sobre impostos, por isso optei por esta resposta porque parece mais simples.",
+          "Eu não percebo bem esses termos técnicos e não sei o que é categorizar despesas para efeitos fiscais. Mas se isso significar que posso evitar ter que fazer muitos registos complicados, acho que é bom.",
+          "Não conheço muito sobre impostos e essas coisas, mas parece que se categorizar as despesas pode ajudar a pagar os impostos mais tarde. O resto das opções têm termos que não entendo bem.",
+          "Eu não percebo muito sobre impostos e essas coisas, mas acho que se eu não tiver que anotar tanta coisa, talvez seja mais fácil para mim. Não sei o que são deduções fiscais ou auditorias, mas menos registos parece mais simples.",
+          "Acho que categorizar as despesas ajuda a não ter que anotar tudo com muitos detalhes. Não percebo bem os termos que falam sobre impostos, mas parece que, se for tudo mais simples, não precisaria de me preocupar com tantos papéis."
+        ],
+        "Médio": [
+          "Acho que categorizar as despesas pode ajudar a pagar menos impostos, tipo, se eu tiver as despesas certas, talvez consiga deduzir mais no IRS. Não conheço bem os termos, mas deduzir parece bom para pagar menos.",
+          "Acho que categorizar as despesas ajuda a pagar menos impostos, tipo, se puser tudo no lugar certo, posso tirar mais deduções. Mas não tenho a certeza do que é IRS nem como funciona bem.",
+          "Eu acho que categorizar despesas ajuda a pagar menos impostos, porque assim podemos tirar proveito de algumas deduções. Mas não conheço bem o IRS e esses termos, por isso não tenho certeza se é mesmo assim.",
+          "Acho que categorizar as despesas pode ajudar a tirar mais proveito do IRS, porque se calhar podemos reduzir os impostos que temos de pagar. Não conheço bem o IRS, mas acho que é importante para pagar menos.",
+          "Eu escolhi esta opção porque parece mais simples e direta. Não entendo muito bem sobre deduções fiscais ou auditorias, mas acho que ter menos registos é mais fácil de lidar.",
+          "Acho que categorizar as despesas pode ajudar a não ter que anotar tudo com muitos detalhes. Não conheço bem sobre deduções fiscais ou auditorias, então escolhi a opção que me parece mais simples e prática.",
+          "Escolhi a opção B porque acho que se categorizar as despesas, pode ser mais fácil de controlar e talvez não precisemos de anotar tudo em detalhe. Não conheço bem os termos como IRS ou auditorias, então pensei que a opção sobre registos é a mais simples.",
+          "Acho que categorizar as despesas pode ajudar a pagar menos impostos, mas não sei bem como funciona isso das deduções fiscais. Acredito que se fizer isso certo, posso ter algumas vantagens, mesmo que não saiba todos os detalhes.",
+          "Acho que categorizar as despesas pode ajudar a pagar menos impostos, tipo se podemos deduzir algumas coisas no IRS. Não conheço bem os detalhes, mas parece que se fazemos isso bem, pode ser bom para os nossos impostos.",
+          "Acho que categorizar as despesas ajuda a ter mais deduções no IRS, ou seja, menos impostos para pagar. Não conheço bem os termos, mas parece que é algo que ajuda a pagar menos, e isso é bom."
+        ],
+        "Alto": [
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, uma vez que permite que os contribuintes aproveitem ao máximo as despesas que são dedutíveis, conforme previsto na legislação fiscal portuguesa. Reconheço os termos usados, pois a dedução fiscal é um conceito importante que impacta diretamente o montante a pagar ou a restituir no IRS.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, pois permite que os contribuintes identifiquem e apliquem corretamente as despesas elegíveis, reduzindo assim a base tributável. Reconheço a importância de categorizar as despesas, uma vez que isso impacta diretamente na eficiência fiscal e na otimização da carga tributária.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, uma vez que permite identificar quais despesas são elegíveis para dedução, contribuindo assim para a redução da base tributável e potencialmente diminuindo o montante de imposto a pagar. Os termos utilizados, como 'deduções fiscais' e 'IRS', são bem conhecidos e relevantes no contexto da gestão financeira pessoal em Portugal.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, uma vez que permite identificar quais despesas são dedutíveis e, assim, reduzir a base de cálculo do imposto a pagar. Reconheço os termos usados, como 'deduções fiscais' e 'IRS', que são fundamentais na gestão fiscal e no planejamento financeiro pessoal em Portugal.",
+          "A categorização correta das despesas gerais familiares é fundamental para maximizar as deduções fiscais no IRS, pois permite identificar quais despesas são elegíveis para dedução, impactando assim diretamente o valor a pagar em impostos. Reconheço que maximizar deduções é um conceito chave na gestão fiscal, e a correta categorização é um passo essencial nesse processo.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, permitindo que o contribuinte aproveite ao máximo os benefícios fiscais disponíveis e reduza a sua carga tributária. Isso está relacionado com a importância de manter um registo detalhado e organizado das despesas, o que ajuda a justificar as deduções em caso de auditoria.",
+          "A categorização correta das despesas gerais familiares é fundamental para maximizar as deduções fiscais no IRS, pois permite identificar quais despesas são dedutíveis e, assim, reduzir a base de cálculo do imposto a pagar. Este processo é essencial para otimizar a eficiência fiscal e garantir que se beneficiam todas as deduções disponíveis, como as relacionadas com saúde, educação e habitação.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, uma vez que permite identificar quais despesas são elegíveis para dedução. Reconheço que as deduções fiscais podem reduzir a base tributável, resultando em menos imposto a pagar, e a correta categorização assegura que todas as despesas dedutíveis sejam consideradas.",
+          "A categorização correta das despesas gerais familiares é essencial para maximizar as deduções fiscais no IRS, pois permite que os contribuintes aproveitem ao máximo as deduções disponíveis para despesas como saúde, educação e habitação, aumentando assim o seu reembolso ou reduzindo o imposto a pagar. Reconheço a importância de entender a relação entre despesas e deduções fiscais para uma gestão financeira eficiente.",
+          "A categorização correta das despesas gerais familiares é crucial para maximizar as deduções fiscais no IRS, uma vez que permite identificar quais despesas são dedutíveis e, assim, reduzir a base tributável. Isso é especialmente relevante em Portugal, onde existem limites específicos de dedução e categorias que podem ser aproveitadas para otimizar a carga fiscal."
+        ]
+      }
+    },
+    {
+      "question": "Se 90% do orçamento para refeições fora foi gasto a meio do mês, que ação deve ser tomada para manter o controlo financeiro?",
+      "options": {
+        "A": "Ajustar os gastos para evitar ultrapassagens.",
+        "B": "Negociar descontos em refeições futuras.",
+        "C": "Aumentar o orçamento de outras categorias.",
+        "D": "Rever os limites do orçamento mensal."
+      },
+      "hint": "Considera o ajuste necessário para manter o orçamento.",
+      "rationale": "Monitorizar os gastos permite identificar áreas onde é necessário ajustar para não ultrapassar o orçamento definido.",
+      "tag": "Controlo financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Controlo financeiro', pois aborda a gestão de gastos dentro de um orçamento, que é um aspecto fundamental desse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de controlar despesas e receitas para uma gestão financeira eficaz."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de controlo financeiro, mas algumas opções, como 'Aumentar o orçamento de outras categorias', podem não ser tão adequadas quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre ajustes necessários, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como a monitorização dos gastos se relaciona com a manutenção do controlo financeiro."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que se já gastámos 90% do que tínhamos para comer fora, é melhor parar de gastar tanto e começar a fazer mais refeições em casa. Não percebo muito de orçamentos e números, mas parece-me que é uma boa ideia controlar o que gastamos para não ficarmos sem dinheiro.",
+          "Não percebo bem o que é um orçamento e essas coisas complicadas, mas se já gastei quase tudo, talvez deva tentar gastar menos nas refeições para não ultrapassar. Parece mais fácil do que mudar todo o orçamento ou negociar descontos.",
+          "Eu não entendo muito bem o que são esses orçamentos e limites, mas se já gastei quase tudo, talvez deva simplesmente tentar gastar menos nas próximas refeições para não passar do que tenho.",
+          "Eu não percebo muito de finanças e os termos são confusos, mas se já gastei quase tudo, acho que a melhor coisa é tentar gastar menos nas outras refeições. Assim, não fico sem dinheiro antes do fim do mês.",
+          "Eu não percebo muito de finanças, mas parece-me que se já gastei quase tudo, o melhor é tentar gastar menos nas próximas refeições. Se não ajustar os gastos, posso ficar sem dinheiro para comer.",
+          "Acho que a melhor opção é ajustar os gastos, porque se já gastámos quase tudo, é melhor não gastar mais. Não entendo muito bem os termos técnicos, mas parece lógico tentar controlar o que ainda podemos gastar.",
+          "Acho que se já gastei quase tudo, o melhor é tentar gastar menos nas próximas refeições, para não ficar sem dinheiro. Não percebo bem os termos técnicos, mas parece lógico tentar controlar o que ainda posso gastar.",
+          "Acho que a melhor opção é ajustar os gastos para não gastar mais do que tenho. Não percebo bem todos os termos complicados, mas se já gastei 90% do orçamento, é melhor parar de gastar e controlar o que ainda posso comer fora.",
+          "Parece-me que se já gastei quase tudo, a melhor coisa é tentar gastar menos nas próximas refeições, para não ficar sem dinheiro. Não entendo bem as outras opções, mas esta parece a mais prática.",
+          "Eu não percebo bem esses termos financeiros, mas acho que se já gastei quase tudo, o melhor é tentar gastar menos nas próximas refeições para não passar do orçamento. Ajustar os gastos parece ser a solução mais simples."
+        ],
+        "Médio": [
+          "Acho que a melhor coisa a fazer é ajustar os gastos, porque já gastei muito do orçamento e não quero gastar mais do que posso. Não entendo bem os outros termos, mas parece que aumentar o orçamento ou rever limites não é a solução, porque isso só me faria gastar mais.",
+          "Acho que a melhor coisa a fazer é ajustar os gastos, porque se já gastei quase tudo, não dá para gastar mais. Não percebo muito de orçamentos e números, mas parece-me que é mais seguro cortar em outras coisas.",
+          "Se já gastei 90% do orçamento para refeições, acho que a melhor coisa é tentar gastar menos nas próximas refeições. Não entendo bem os outros termos, mas parece que ajustar os gastos é mais fácil e prático.",
+          "Acho que a melhor coisa a fazer é ajustar os gastos, porque se já gastei quase tudo, não posso gastar mais. Não conheço muito bem os outros termos, mas sei que preciso de controlar o que gasto.",
+          "Acho que é melhor ajustar os gastos para não gastar mais do que já gastamos. Não percebo muito bem os outros termos, mas se já gastamos tanto, é melhor ter cuidado com o que vamos comer fora.",
+          "Acho que a melhor coisa a fazer é ajustar os gastos, porque se já gastei 90% do que planeei, não posso continuar a gastar da mesma forma. Não percebo bem os outros termos, mas sei que preciso de cuidar do meu dinheiro.",
+          "Acho que a melhor opção é ajustar os gastos porque já gastei quase tudo no orçamento para refeições. Não quero ultrapassar, então preciso ter cuidado com o que gasto agora. Os outros termos como negociar descontos ou rever limites parecem complicados.",
+          "Eu acho que a melhor coisa a fazer é ajustar os gastos, porque se já gastei quase tudo, não posso continuar a gastar mais. Não entendo bem os outros termos, mas sei que se não controlar o que gasto, fico sem dinheiro.",
+          "Acho que a melhor coisa a fazer é ajustar os gastos, porque se já gastei quase tudo, não posso continuar a gastar mais. Não percebo bem os outros termos, mas isso parece mais simples.",
+          "Acho que a melhor opção é ajustar os gastos porque se já gastei quase tudo, preciso ter cuidado com o que vou gastar a seguir. Não percebo bem algumas palavras, mas sei que preciso controlar o que ainda posso gastar."
+        ],
+        "Alto": [
+          "A opção D é a mais sensata, pois ajustar os gastos é uma medida prática para manter o controlo financeiro e evitar ultrapassagens no orçamento já definido. Reconheço os termos utilizados, como \"controlo financeiro\" e \"ultrapassagens\", que são fundamentais para uma boa gestão orçamental.",
+          "A opção B é a mais apropriada, pois envolve a implementação de medidas imediatas para controlar os gastos nas refeições fora, evitando assim a ultrapassagem do orçamento mensal. Rever os limites do orçamento pode ser útil, mas não resolve o problema imediato; aumentar o orçamento de outras categorias pode levar a um descontrolo financeiro, e negociar descontos, embora possa ser benéfico, não garante que os gastos sejam mantidos dentro do previsto.",
+          "A opção D é a mais adequada, pois, ao ter 90% do orçamento para refeições fora já gasto, é essencial ajustar os gastos em outras categorias para evitar ultrapassagens e manter o controlo financeiro. Esta abordagem permite respeitar o orçamento total e reforça a importância de uma gestão orçamental equilibrada.",
+          "A melhor opção é ajustar os gastos para evitar ultrapassagens, pois já foi gasto 90% do orçamento para refeições fora, o que indica que é necessário conter despesas nas semanas restantes. Revisar limites orçamentais é importante, mas neste caso, o foco deve ser em controlar os gastos atuais.",
+          "A opção C é a mais adequada, pois ajustar os gastos permite manter o controlo financeiro e evitar a ultrapassagem do orçamento, que já está comprometido. Aumentar o orçamento de outras categorias ou rever limites pode levar a um descontrolo financeiro a longo prazo, enquanto negociar descontos é uma solução menos prática.",
+          "A opção A é a mais adequada, pois implica a necessidade de controlar os gastos remanescentes para evitar uma ultrapassagem do orçamento. Reconheço a importância de ajustar os gastos, especialmente quando já se gastou uma porcentagem significativa do orçamento mensal, para garantir que as despesas não comprometam a saúde financeira global.",
+          "A opção B é a mais sensata, pois ajustando os gastos nas refeições restantes do mês, é possível evitar ultrapassagens orçamentais, garantindo uma gestão financeira responsável. Reconheço os termos utilizados, pois estão relacionados com o controlo de despesas e a necessidade de alinhar os gastos reais com o orçamento previamente definido.",
+          "A opção B é a mais prudente para manter o controlo financeiro, uma vez que, após gastar 90% do orçamento para refeições fora, é necessário ajustar os gastos em outras categorias para evitar ultrapassagens e garantir que o orçamento total seja respeitado. A terminologia utilizada reflete uma abordagem de gestão orçamental eficaz, que prioriza a sustentabilidade financeira.",
+          "Neste caso, a melhor opção é ajustar os gastos para evitar ultrapassagens no orçamento, uma vez que já foi gasto 90% do orçamento destinado a refeições fora. Aumentar o orçamento de outras categorias ou rever os limites do orçamento mensal não resolvem a questão imediata do controle de gastos, e negociar descontos em refeições futuras pode não ser viável. Portanto, a ação mais prudente é reavaliar e ajustar os gastos atuais.",
+          "A opção A é a mais apropriada porque, ao gastar 90% do orçamento para refeições fora a meio do mês, é essencial controlar os gastos restantes para evitar ultrapassagens. Ajustar os gastos em outras áreas ou categorias é uma estratégia prudente de gestão orçamental, permitindo que a pessoa mantenha o equilíbrio financeiro e evite dificuldades no final do mês."
+        ]
+      }
+    },
+    {
+      "question": "Que método de orçamentação combina dados históricos com metas financeiras futuras?",
+      "options": {
+        "A": "Método Misto.",
+        "B": "Método Base Histórica.",
+        "C": "Método de Despesas Fixas.",
+        "D": "Método de Fluxo de Caixa."
+      },
+      "hint": "Procura um método que integre passado e futuro.",
+      "rationale": "O método misto de orçamentação utiliza dados de períodos anteriores e metas futuras para criar um orçamento mais abrangente.",
+      "tag": "Métodos de orçamentação",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Métodos de orçamentação' e avalia o conhecimento sobre um método específico de orçamentação."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que descreve claramente o método misto como uma combinação de dados históricos e metas financeiras."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é o Método Misto."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de orçamentação, mas alguns podem não ser tão diretamente relevantes quanto o método misto."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio ao sugerir a integração de passado e futuro, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre o método misto de orçamentação."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos todos, mas o 'Método Misto' parece o mais lógico porque mistura coisas que já aconteceram com o que se quer fazer no futuro. As outras opções parecem mais específicas e eu não sei o que são exatamente.",
+          "Eu não conheço muito sobre esses métodos, mas parece que o \"Método Base Histórica\" tem a ver com olhar para o que já aconteceu no passado, e isso faz sentido para fazer planos futuros. Não percebo bem os termos técnicos, mas é a única opção que me parece lógica.",
+          "Eu não conheço bem os termos que estão nas opções, mas 'Método Misto' parece ser uma boa escolha porque mistura coisas, e é isso que se faz quando se olha para o passado e se pensa no futuro. Além disso, os outros nomes parecem complicados e eu não entendo bem.",
+          "Eu não conheço bem esses termos, mas parece que o 'Método Misto' é uma combinação de coisas, o que faz sentido para juntar dados do passado com o que se quer fazer no futuro. Os outros métodos não parecem ter a ver com isso.",
+          "Eu não percebo muito bem o que significam esses métodos todos, mas acho que 'Método Misto' parece bom porque mistura coisas. Ou seja, se combina dados do passado com objetivos futuros, deve ser útil para fazer um orçamento que funcione bem, não é? Os outros nomes não me dizem nada.",
+          "Não conheço bem os termos e métodos que mencionam, mas o \"Método Misto\" parece algo que junta o passado e o futuro, o que faz sentido no dia-a-dia para quem tenta planejar as finanças.",
+          "Não conheço bem os termos, mas o 'Método Misto' soa como algo que combina o que já fizemos antes com o que queremos fazer no futuro. Parece uma abordagem que faz sentido, por isso escolhi esta opção.",
+          "Não conheço bem estes termos técnicos, mas parece que o 'Método Misto' pode combinar coisas que já aconteceram com o que se quer fazer no futuro. É uma mistura, e isso faz sentido para quem está a planear o orçamento.",
+          "Não conheço bem os termos, mas parece que o 'Método Misto' é uma combinação de coisas, o que faz sentido se estamos a falar de usar dados do passado e também pensar no futuro. As outras opções não me dizem nada.",
+          "Eu não conheço bem os termos que estão a ser usados, mas parece que o 'misto' é uma combinação de coisas, então talvez seja o que mistura dados antigos e planos futuros. As outras opções não fazem muito sentido para mim."
+        ],
+        "Médio": [
+          "Eu não conheço bem os termos todos, mas 'misto' parece que junta coisas diferentes, como dados do passado e planos futuros, então acho que é isso que se procura.",
+          "Eu não conheço bem os termos, mas 'Método Misto' parece ser uma opção que combina coisas, e isso faz sentido para misturar o que foi gasto antes e o que se quer poupar no futuro. As outras opções não me parecem tão certas.",
+          "Acho que o método misto pode ser o que mistura as coisas do passado com o que queremos no futuro. Não conheço bem esses termos, mas faz sentido pensar em juntar o que já sabemos com o que queremos alcançar.",
+          "Eu acho que o método misto é uma combinação de coisas, talvez de como gastamos no passado e o que queremos para o futuro. Não conheço bem os outros métodos, mas parece que o 'misto' faz sentido porque junta o que já sabemos com o que queremos fazer.",
+          "Acho que o 'Método Base Histórica' faz sentido porque parece que usa o que já aconteceu no passado para planear o futuro. Não conheço muito bem os outros métodos e os termos usados, então pode ser que não estou a entender bem.",
+          "Acho que o 'Método Base Histórica' é o que faz sentido, porque fala de dados antigos e metas futuras. Não conheço bem todos os termos, mas parece que é sobre olhar para o que já aconteceu para fazer planos.",
+          "Eu acho que o Método Misto pode ser o que mistura o que já aconteceu com o que queremos para o futuro. Não conheço bem os outros métodos, mas parece que este faz mais sentido porque fala de combinar coisas.",
+          "Eu conheço a ideia de usar dados antigos para planejar o futuro, então parece que o Método Base Histórica é o que melhor se encaixa. Não tenho certeza sobre os outros métodos, mas isso faz sentido para mim.",
+          "Eu não conheço bem esses termos, mas parece que 'Método Misto' combina coisas passadas com o que quero fazer no futuro. Isso faz sentido para um orçamento, porque é bom saber o que gastei antes e o que quero poupar depois.",
+          "Eu não conheço bem esses métodos todos, mas acho que o 'Método Misto' pode ser uma combinação de coisas, como olhar para o que gastamos no passado e ao mesmo tempo pensar em quanto queremos poupar no futuro. Os outros nomes não me soam tão bem, e não sei bem o que significam."
+        ],
+        "Alto": [
+          "O Método Misto combina dados históricos com metas financeiras futuras, permitindo uma análise mais robusta e ajustada à realidade financeira do indivíduo ou da organização. Reconheço os termos usados, pois são comuns em orçamentação e planejamento financeiro, onde a integração de dados passados e objetivos futuros é crucial para a eficácia do orçamento.",
+          "O método misto de orçamentação é aquele que utiliza dados históricos para estabelecer uma base e, ao mesmo tempo, define metas financeiras futuras, permitindo uma abordagem ajustada às expectativas e realidades financeiras. Reconheço que este método é eficaz na combinação de análise de desempenho passado com objetivos futuros, o que é crucial para um planejamento financeiro robusto.",
+          "O método misto de orçamentação é reconhecido por integrar dados históricos com previsões ou metas financeiras futuras, permitindo uma abordagem mais abrangente e realista para o planeamento financeiro. As outras opções não capturam adequadamente essa combinação específica, uma vez que o método de fluxo de caixa se concentra apenas nas entradas e saídas de caixa, enquanto o método base histórica se limita a dados passados.",
+          "O Método Misto de orçamentação é aquele que combina dados históricos com metas financeiras futuras, permitindo uma análise mais completa e equilibrada. Reconheço os termos utilizados, pois refletem práticas comuns de gestão orçamental, onde é crucial alinhar o desempenho passado com objetivos futuros para uma melhor alocação de recursos.",
+          "O Método Misto combina dados históricos com metas financeiras futuras, permitindo que o orçamento seja ajustado com base em desempenhos passados e previsões. Este método é eficaz para alinhar as expectativas financeiras com a realidade histórica, algo que é essencial para um planeamento financeiro pessoal sólido.",
+          "O Método Misto combina dados históricos com projeções de metas financeiras futuras, permitindo um planeamento mais robusto e realista do orçamento. Este método é reconhecido por sua eficácia em integrar o passado e o futuro, o que é fundamental para uma gestão financeira eficiente.",
+          "O método misto combina dados históricos com metas financeiras futuras, permitindo uma abordagem equilibrada na elaboração do orçamento. Reconheço os termos utilizados, pois a orçamentação mista é uma técnica eficaz que considera tanto a performance passada como as expectativas futuras, essencial para um planeamento financeiro sólido.",
+          "O Método Misto combina a análise de dados históricos de despesas com a definição de metas financeiras futuras, permitindo um planeamento mais robusto do orçamento. Reconheço os termos usados, pois a integração de informações passadas com objetivos futuros é uma prática comum na elaboração de orçamentos eficazes.",
+          "O Método Misto combina dados históricos com metas financeiras futuras, permitindo um planeamento mais robusto, já que considera tanto o desempenho passado como as expectativas de futuro. Reconheço os termos usados, pois são fundamentais na elaboração de orçamentos eficazes, onde a análise de tendências passadas pode informar decisões estratégicas para o futuro.",
+          "O Método Misto é uma abordagem de orçamentação que combina dados históricos com metas financeiras futuras, permitindo uma previsão mais precisa e realista das despesas e receitas, ao mesmo tempo que se almejam objetivos financeiros. Reconheço os termos usados, pois são comuns na gestão financeira e refletem a necessidade de alinhar o passado com o futuro na elaboração de orçamentos."
+        ]
+      }
+    },
+    {
+      "question": "Como pode um excedente orçamental contribuir para a saúde financeira de um indivíduo?",
+      "options": {
+        "A": "Permite investimentos ou redução de dívidas.",
+        "B": "Garante um aumento automático de poupanças.",
+        "C": "Evita a necessidade de um fundo de emergência.",
+        "D": "Permite gastos discricionários sem preocupação."
+      },
+      "hint": "Pensa no uso do excedente financeiro.",
+      "rationale": "Um excedente orçamental significa que as receitas superam as despesas, permitindo que o indivíduo invista ou reduza dívidas, melhorando a saúde financeira.",
+      "tag": "Eficiência orçamental",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Eficiência orçamental', pois aborda como um excedente orçamental pode impactar a saúde financeira de um indivíduo, que é um conceito central nesse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que explica como um excedente orçamental pode ser utilizado para investimentos e redução de dívidas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de excedente orçamental, mas a opção B, por exemplo, pode ser considerada um exagero, pois não garante um aumento automático de poupanças."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense sobre o uso do excedente financeiro, mas poderia ser mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao descrever como um excedente orçamental pode melhorar a saúde financeira."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.2,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos financeiros, mas parece que se eu tiver um dinheiro a mais, posso gastar em coisas que gosto sem estar sempre a pensar no que vou fazer a seguir. Isso parece bom, não é?",
+          "Eu acho que ter um excedente orçamental significa que podemos gastar mais dinheiro em coisas que queremos, tipo sair ou comprar algo que gostamos. Não percebo bem os termos financeiros, mas parece que isso é bom para não nos preocuparmos tanto.",
+          "Eu acho que um excedente orçamental significa que sobra dinheiro, então pode-se gastar mais em coisas que gostamos sem ficar preocupado. Não entendo muito bem os termos financeiros, mas parece que é só ter mais dinheiro para gastar.",
+          "Acho que um excedente orçamental é tipo um dinheiro extra que podemos gastar à vontade, então parece que é bom para gastar sem ter preocupações. Não entendo bem os outros termos, mas gastar sem pensar é o que faz sentido para mim.",
+          "Acho que um excedente orçamental é quando sobra dinheiro no fim do mês, e isso deve permitir gastar mais em coisas que se quer, como sair ou comprar coisas, sem se preocupar tanto com as contas.",
+          "Eu acho que quando se tem dinheiro a mais, podemos gastar em coisas que queremos sem nos preocuparmos tanto. Não percebo muito dos outros termos, mas parece que é bom ter um dinheiro extra para fazer o que gostamos.",
+          "Acho que um excedente orçamental significa que temos algum dinheiro a mais, então podemos gastar em coisas que queremos sem nos preocuparmos. Não entendo bem os outros termos, mas gastar sem preocupação parece bom.",
+          "Acho que o excedente orçamental é bom porque permite gastar em coisas que queremos sem ficar preocupado. Não sei bem o que são investimentos ou dívidas, mas se sobra dinheiro, podemos usar para o que quisermos.",
+          "Eu acho que se tiver mais dinheiro sobrando, posso gastar em coisas que gosto sem me preocupar muito. Não entendo bem os termos financeiros, mas parece que ter um excedente é bom para comprar o que quero.",
+          "Eu acho que um excedente orçamental é bom porque dá para gastar mais à vontade, tipo comprar coisas que queremos sem pensar muito. Não percebo bem os termos mais complicados, mas parece que ter dinheiro a mais é sempre uma coisa boa."
+        ],
+        "Médio": [
+          "Eu acho que um excedente orçamental ajuda a gastar mais à vontade, tipo, posso comprar coisas que gosto sem me preocupar muito com as contas. Não entendo bem os outros termos, mas parece que é mais sobre poupança ou investimento, que é confuso para mim.",
+          "Eu acho que um excedente orçamental significa que temos dinheiro a mais, então podemos gastar em coisas que gostamos sem nos preocuparmos. Não sei muito sobre investimentos ou dívidas, mas gastar sem stress parece bom.",
+          "Acho que um excedente orçamental significa que sobra dinheiro no final do mês, então podemos gastar em coisas que gostamos sem nos preocuparmos tanto. Não entendo muito sobre investimentos ou dívidas, mas gastar faz mais sentido para mim.",
+          "Eu acho que um excedente orçamental é bom porque pode ajudar a pessoa a investir em coisas ou a pagar dívidas. Não conheço muito de termos financeiros, mas parece que ter mais dinheiro sobrando dá para fazer coisas melhores com ele.",
+          "Acho que um excedente orçamental é bom porque significa que posso gastar um pouco mais em coisas que quero, sem me preocupar tanto com o que vou fazer se precisar de dinheiro. Não tenho certeza se entendo bem as outras opções, mas gastar livremente parece mais fácil.",
+          "Acho que esta opção faz sentido porque, se eu tiver dinheiro sobrando, posso usar para pagar o que devo ou para comprar coisas que podem trazer mais dinheiro depois. Não sei bem o que são investimentos, mas parece que é algo bom para ganhar mais no futuro.",
+          "Eu penso que um excedente orçamental é bom porque assim posso gastar dinheiro em coisas que eu quero, como sair ou comprar algo. Não estou muito a par de termos como 'investimentos' ou 'fundo de emergência', então prefiro a ideia de poder gastar livremente.",
+          "Acho que se tiver um excedente orçamental, posso gastar mais à vontade, sem me preocupar muito. Não sei bem o que é um fundo de emergência ou investimento, mas gastar é mais fácil de entender.",
+          "Acho que um excedente orçamental é como ter dinheiro extra, então parece que podemos gastar à vontade sem nos preocupar. Não entendo bem termos como 'investimentos' ou 'fundo de emergência', então parece mais fácil pensar que podemos gastar mais.",
+          "Acho que, se tiver dinheiro a mais, posso gastar em coisas que quero e não me preocupar. Não percebo bem os outros termos como investimentos ou dívidas, mas gastar é mais fácil de entender."
+        ],
+        "Alto": [
+          "Um excedente orçamental é um sinal de que os rendimentos superam as despesas, o que possibilita ao indivíduo direcionar esses recursos para investimentos que podem gerar retorno futuro ou para a redução de dívidas, melhorando assim a sua saúde financeira a longo prazo. Reconheço que as opções B, C e D não são adequadas, pois ignoram a importância de ter um fundo de emergência, o aumento automático de poupanças e a prudência nos gastos.",
+          "Um excedente orçamental é um sinal de que as receitas superam as despesas, o que permite ao indivíduo alocar esses fundos de forma estratégica. Isso pode incluir a realização de investimentos que potencialmente aumentem a sua riqueza a longo prazo ou a redução de dívidas, que melhora a saúde financeira ao diminuir encargos com juros.",
+          "Um excedente orçamental é uma quantia que sobra após cobrir todas as despesas essenciais e, portanto, pode ser direcionado para investimentos, que aumentam o patrimônio líquido a longo prazo, ou para a redução de dívidas, que diminui os encargos financeiros e os juros a pagar. Reconheço os termos utilizados, pois refletem conceitos fundamentais de gestão financeira pessoal, como a importância de alocar recursos de forma estratégica para maximizar a saúde financeira.",
+          "Um excedente orçamental é uma quantia que sobra após cobrir todas as despesas. Este excedente pode ser utilizado para investir, aumentando o potencial de retorno financeiro, ou para reduzir dívidas, diminuindo encargos com juros. Assim, a opção B é a mais correta, pois reflete uma estratégia ativa de gestão financeira que contribui para a saúde financeira a longo prazo.",
+          "Um excedente orçamental é essencial para a saúde financeira, pois permite ao indivíduo alocar recursos para investimentos que podem gerar retornos a longo prazo ou para a redução de dívidas, o que diminui encargos financeiros futuros. Reconheço claramente que esta opção é a mais adequada, pois reflete a importância de direcionar o excedente de forma estratégica para otimizar a saúde financeira.",
+          "Um excedente orçamental é um sinal positivo na gestão financeira pessoal, pois possibilita a alocação de recursos para investimentos que podem gerar rendimento ou para a redução de dívidas, diminuindo assim encargos financeiros futuros. A opção A reflete a importância de usar esse excedente de forma estratégica, o que é crucial para a saúde financeira.",
+          "Um excedente orçamental é um sinal de que os rendimentos superam as despesas, o que possibilita a alocação de recursos para investimentos que podem gerar retornos a longo prazo ou para a redução de dívidas, diminuindo assim encargos financeiros e melhorando a saúde financeira global. Esta opção reflete uma compreensão clara da importância do excedente orçamental na gestão financeira pessoal.",
+          "Um excedente orçamental é uma quantia que sobra após cobrir todas as despesas essenciais, permitindo que o indivíduo invista em ativos ou reduza dívidas, o que melhora a sua saúde financeira a longo prazo. Esta opção é a mais correta, pois as outras opções não refletem a utilidade prática e positiva de um excedente orçamental.",
+          "Um excedente orçamental é essencial para a saúde financeira, pois permite não apenas a realização de investimentos que podem gerar retornos futuros, mas também a redução de dívidas, o que melhora a situação financeira geral do indivíduo. Reconheço que esta opção aborda diretamente a importância de uma gestão eficaz do excedente, em oposição a opções que não refletem uma estratégia financeira sustentável.",
+          "Um excedente orçamental é uma quantia que sobra após a cobertura de todas as despesas essenciais. Este excedente pode ser utilizado para investir em ativos que gerem retorno ou para amortizar dívidas, melhorando assim a saúde financeira a longo prazo. Reconheço que as opções A, B e D não abordam o impacto positivo que um excedente pode ter na criação de riqueza ou na redução do endividamento."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante registar as transações com frequência?",
+      "options": {
+        "A": "Ajuda a entender padrões de consumo.",
+        "B": "Facilita a reconciliação bancária mensal.",
+        "C": "Reduz o tempo necessário para a declaração de impostos.",
+        "D": "Evita a duplicação de despesas."
+      },
+      "hint": "Foca no impacto do registo frequente.",
+      "rationale": "Registar transações frequentemente permite identificar padrões de consumo e áreas onde se pode poupar, facilitando a gestão financeira.",
+      "tag": "Registo e categorização de despesas",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de 'Registo e categorização de despesas', pois aborda a importância do registo frequente das transações, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância do registo das transações para entender melhor os gastos, embora não mencione explicitamente a frequência."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção 'A' é a mais correta, enquanto as outras opções, embora plausíveis, não se destacam tanto."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de registo de despesas, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao focar no impacto do registo frequente, mas poderia ser um pouco mais específica para ajudar a direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar diretamente com o conteúdo-fonte, como a importância de categorizar as despesas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é importante saber como gastamos o nosso dinheiro, para não ficarmos sem nada no fim do mês. Não entendo muito bem os outros termos, mas saber o que compramos ajuda a não gastar demais.",
+          "Acho que é importante saber onde gasto o meu dinheiro, assim consigo ver se estou a comprar coisas que não preciso. Não percebo bem os termos que usam nas outras opções, mas isso de padrões de consumo parece-me mais prático e útil no dia-a-dia.",
+          "Acho que é importante perceber onde gastamos o nosso dinheiro, assim podemos ver se estamos a gastar muito em coisas que não precisamos. Não conheço bem os outros termos, mas parece que registar ajuda a ver isso.",
+          "Eu escolhi a opção D porque acho que se registar as compras, fica mais fácil ver para onde o dinheiro vai. Não percebo bem os termos como 'reconciliação' ou 'declaração de impostos', mas acho que é bom saber como gastamos.",
+          "Acho que é importante ver onde gastamos o dinheiro para saber o que estamos a fazer de bem ou mal. Não conheço muitos termos técnicos, mas parece que registar ajuda a perceber os nossos hábitos.",
+          "Eu escolhi a opção C porque, ao registar as transações, parece que conseguimos ver melhor onde estamos a gastar o nosso dinheiro. Não conheço bem os outros termos, mas perceber os padrões de consumo faz sentido para saber se estamos a gastar demais ou não.",
+          "Eu acho que é importante saber como gastamos o nosso dinheiro. Assim, podemos ver onde estamos a gastar mais e se estamos a fazer as coisas bem. Não conheço bem os termos técnicos, mas parece que isso ajuda a perceber melhor as nossas compras.",
+          "Acho que é importante saber como gastamos o nosso dinheiro para não ficarmos sem ele. Não sei muito sobre os outros termos, mas se conseguimos ver onde gastamos, é mais fácil perceber se estamos a gastar demais.",
+          "Acho que é importante registar as transações para não gastar o mesmo dinheiro duas vezes. Não percebo muito bem o que são essas outras coisas, mas não quero ter problemas com as minhas despesas, por isso escolheria esta opção.",
+          "Acho que é importante saber onde gastamos o nosso dinheiro, para perceber se estamos a comprar coisas que precisamos ou só a gastar à toa. Não conheço bem os outros termos, mas parece-me que registar ajuda a ter uma ideia melhor do que fazemos com o dinheiro."
+        ],
+        "Médio": [
+          "Acho que é importante saber onde estamos a gastar o nosso dinheiro, assim podemos ver se estamos a gastar demais em coisas que não precisamos. Mas não conheço bem os outros termos, como reconciliação bancária ou declaração de impostos.",
+          "Acho que é importante saber como gasto o meu dinheiro e onde, para não me perder nas despesas. Não reconheço bem os termos mais técnicos, mas percebo que saber os meus padrões de consumo pode ajudar a poupar.",
+          "Acho que registar as transações ajuda a perceber como gasto o meu dinheiro e se estou a gastar mais em certas coisas, como comida ou lazer. Não conheço bem os outros termos, mas parece que esta opção faz mais sentido para mim.",
+          "Acho que é importante saber como gastamos o nosso dinheiro para não ficarmos sem ele. Não reconheço bem os outros termos, mas entender como gastamos parece-me útil para não exagerar.",
+          "Acho que é importante saber como gastamos o nosso dinheiro. Assim, se eu registar as transações, consigo ver onde vou buscar mais dinheiro ou onde estou a gastar mais, mesmo que não perceba bem o que é 'padrões de consumo'.",
+          "Acho que é importante saber como gastamos o nosso dinheiro, assim entendemos melhor onde podemos poupar. Não conheço muito bem os outros termos, mas parece que entender os padrões é uma boa razão.",
+          "Acho que é importante ver como gastamos o nosso dinheiro, assim podemos perceber onde podemos poupar. Os outros termos que mencionam parecem mais complicados e não sei bem o que significam.",
+          "Acho que é importante saber como gastamos o nosso dinheiro, para perceber em que coisas gastamos mais. Não conheço bem os outros termos, mas parece que saber os padrões de consumo é uma boa razão.",
+          "Eu acho que é importante saber como gastamos o nosso dinheiro. Se registamos as transações, podemos ver para onde vai o nosso dinheiro e isso ajuda a perceber se estamos a gastar demais em certas coisas. Não conheço bem os outros termos, mas parece-me que esta é a razão mais fácil de entender.",
+          "Acho que é importante saber como gastamos o nosso dinheiro, para perceber onde podemos poupar. Não entendo bem os outros termos, como 'reconciliação bancária' ou 'declaração de impostos', mas sei que entender os nossos gastos é útil."
+        ],
+        "Alto": [
+          "Registar as transações com frequência é fundamental para ter uma visão clara dos padrões de consumo, permitindo identificar áreas onde se pode poupar e otimizar o orçamento pessoal. Este conhecimento é essencial para um planeamento financeiro eficaz, pois possibilita ajustes informados nos hábitos de despesa.",
+          "Registar as transações com frequência é crucial para identificar padrões de consumo, permitindo uma análise detalhada dos gastos e uma melhor gestão do orçamento. Este entendimento é fundamental para a tomada de decisões financeiras informadas e para a implementação de estratégias de poupança eficazes.",
+          "Registar as transações com frequência é fundamental para analisar os hábitos de consumo, permitindo identificar onde se pode poupar e ajustar o orçamento. Este entendimento é essencial para um planeamento financeiro eficaz, uma vez que reconhece a importância de monitorizar as despesas para otimizar a gestão do dinheiro.",
+          "Registar transações com frequência é crucial para identificar padrões de consumo, permitindo uma análise mais aprofundada das despesas e receitas. Isso ajuda a otimizar o orçamento e a tomar decisões financeiras mais informadas, reconhecendo a importância de monitorizar hábitos de consumo para uma gestão financeira eficaz.",
+          "Registar as transações com frequência é crucial para identificar e analisar os padrões de consumo, permitindo um melhor planeamento orçamental e a identificação de áreas onde se pode poupar. Este reconhecimento ajuda a tomar decisões financeiras mais informadas e a ajustar comportamentos de gasto, o que é fundamental para uma boa gestão financeira pessoal.",
+          "A opção D é a mais correta, pois registar transações com frequência permite uma análise detalhada dos hábitos de consumo, facilitando o planeamento orçamental e a identificação de áreas onde se pode poupar. Reconheço a importância de compreender os padrões de consumo para uma gestão financeira eficaz, o que está diretamente relacionado com a literacia financeira.",
+          "Registar as transações com frequência é crucial para identificar padrões de consumo, pois permite ao indivíduo analisar onde o dinheiro está a ser gasto e ajustar o orçamento de acordo. Este entendimento é fundamental para uma gestão financeira eficaz e para a construção de hábitos de poupança.",
+          "Registar as transações com frequência é crucial para identificar padrões de consumo, permitindo assim um melhor planeamento financeiro. Compreender os hábitos de gasto e as categorias de despesas é essencial para otimizar o orçamento e alcançar metas financeiras.",
+          "Registar transações com frequência é crucial para identificar padrões de consumo, permitindo uma análise mais detalhada das despesas. Esta prática ajuda a promover uma gestão financeira mais eficiente e consciente, alinhada com os princípios de orçamento e planeamento financeiro.",
+          "Registar as transações com frequência é crucial para identificar padrões de consumo, o que permite uma melhor gestão do orçamento e a tomada de decisões financeiras mais informadas. Reconheço a importância de compreender esses padrões, pois estão diretamente ligados à literacia financeira e à capacidade de otimizar a poupança e os investimentos."
+        ]
+      }
+    },
+    {
+      "question": "Qual é um exemplo de um objetivo financeiro específico e mensurável?",
+      "options": {
+        "A": "Poupar 600€ para uma viagem até julho.",
+        "B": "Investir 1000€ em ações até dezembro.",
+        "C": "Pagar todas as dívidas de cartão de crédito até ao final do ano.",
+        "D": "Comprar um carro novo nos próximos dois anos."
+      },
+      "hint": "Procura um objetivo com valor e prazo definidos.",
+      "rationale": "Objetivos financeiros claros, como poupar uma quantia específica até uma data definida, ajudam a manter o foco e a disciplina na gestão do orçamento.",
+      "tag": "Objetivos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Objetivos financeiros', pois questiona sobre exemplos de objetivos financeiros específicos e mensuráveis, que é um conceito central no planejamento financeiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de ter objetivos financeiros claros e mensuráveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de objetivos financeiros, mas a opção D, embora válida, é menos específica em termos de mensurabilidade."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a procurar um objetivo com valor e prazo definidos, sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de objetivos financeiros claros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.7,
+        "Alto": 0.8
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi esta opção porque parece um objetivo claro que envolve algo que se quer comprar, mas não entendo bem os outros termos. Comprar um carro é algo que muitas pessoas falam e parece fácil de perceber.",
+          "Não sei muito sobre finanças e os termos técnicos complicam-me. Mas parece que comprar um carro em dois anos é um objetivo claro e fácil de entender, porque só preciso de saber que quero um carro e tenho um tempo definido.",
+          "Eu acho que comprar um carro novo nos próximos dois anos é um objetivo bom, porque é uma coisa que muita gente faz e parece que dá tempo suficiente para juntar dinheiro. Não percebo bem todos os termos, mas parece claro o que se quer.",
+          "Escolhi a opção D porque é algo que muitas pessoas pensam em fazer e é fácil de entender. Não conheço bem os termos financeiros, mas sei que comprar um carro é um objetivo comum e eu posso pensar em juntar dinheiro para isso ao longo do tempo.",
+          "Eu escolhi esta opção porque parece um objetivo claro que muita gente tem. Não percebo muito de termos técnicos, mas ter um carro novo em dois anos parece uma boa meta.",
+          "Acho que poupar dinheiro para uma viagem é algo bem claro e fácil de entender. Falar em 600€ até julho parece uma meta que dá para perceber, ao contrário de coisas como investir ou pagar dívidas que não sei bem o que significam.",
+          "Eu escolho a opção A porque é algo que muita gente quer fazer. Comprar um carro novo parece um objetivo claro, mesmo que não perceba bem os termos financeiros. O tempo de dois anos parece um prazo razoável.",
+          "Eu acho que comprar um carro novo é um objetivo claro, porque é algo que muita gente faz e é mais fácil de entender. Não percebo bem os termos técnicos, mas sei que é importante ter um carro e que demora um tempo a juntar o dinheiro.",
+          "Eu escolhi esta opção porque parece que é algo que se pode fazer antes do final do ano. As dívidas são importantes de resolver, mas não sei muito sobre os outros termos como poupança ou investir.",
+          "Eu escolhi a opção A porque parece um objetivo claro, comprar um carro novo é algo que muitas pessoas fazem. Não sei muito sobre investimentos ou poupanças, mas comprar um carro é uma coisa que entendo bem."
+        ],
+        "Médio": [
+          "Acho que poupar 600€ é um objetivo bom porque é uma quantia específica e tem um prazo, até julho. Os outros objetivos parecem mais complicados, e não sei bem como funcionam as ações ou as dívidas.",
+          "Eu escolhi a opção A porque parece mais clara e concreta. Sei que poupar 600€ é um objetivo específico e tem um prazo até julho, o que ajuda a saber exatamente o que quero e quando.",
+          "Acho que esta opção é boa porque fala em poupar um valor específico e tem uma data certa, que é até julho. As outras opções parecem um pouco mais complicadas ou não têm um prazo tão claro.",
+          "Acho que poupar 600€ é um objetivo claro, porque fala de uma quantia específica e um prazo até julho. As outras opções têm a ver com dívidas ou investimentos que eu não percebo bem.",
+          "Acho que esta opção é a mais clara, porque fala de um valor específico (600€) e diz que é para uma viagem até uma data (julho). Os outros não têm prazos tão claros ou não falam de um valor definido, o que me confunde um pouco.",
+          "Eu escolhi a opção A porque parece um objetivo claro, comprar um carro novo é fácil de entender. Embora não tenha certeza de como se faz isso, sei que é algo que se pode planejar em dois anos.",
+          "Eu escolhi esta opção porque é claro que é um objetivo que envolve comprar algo específico, que é um carro novo, e tem um prazo de dois anos. Eu conheço a ideia de querer comprar um carro, mas não tenho certeza sobre os termos técnicos ou se é mensurável da maneira certa.",
+          "Acho que pagar as dívidas é importante, e parece um objetivo claro. A frase diz que é até ao final do ano, então é fácil de perceber quando tem de ser feito.",
+          "Eu escolhi a opção B porque parece clara e dá um valor específico que é 600€, além de ter um prazo até julho. As outras opções falam de coisas mais complicadas, como investimentos ou dívidas, que não entendo muito bem.",
+          "Eu escolhi esta opção porque parece um objetivo claro e eu entendo que é sobre poupar dinheiro para uma viagem. Os outros exemplos têm coisas que eu não consigo medir tão bem, como comprar um carro novo."
+        ],
+        "Alto": [
+          "A opção A é um exemplo de um objetivo financeiro específico e mensurável, pois define claramente um montante (1000€), um tipo de investimento (ações) e um prazo (até dezembro). Os outros objetivos, embora importantes, são menos específicos em termos de quantia ou tempo definido, como a poupança ou a compra do carro.",
+          "A opção B é um exemplo claro de um objetivo financeiro específico e mensurável, pois define um montante exato a ser poupado (600€) e um prazo concreto (até julho). Os termos usados são familiares e reconhecem a importância de prazos e quantias em objetivos financeiros.",
+          "A opção C é um objetivo financeiro específico e mensurável, pois estabelece uma quantia exata (600€) e um prazo definido (até julho). Reconheço que termos como 'específico' e 'mensurável' são fundamentais no planeamento financeiro, pois permitem acompanhar o progresso e avaliar a realização do objetivo.",
+          "Esta opção é específica e mensurável, pois define um montante exato (600€) e um prazo claro (até julho) para o objetivo de poupança. Os termos utilizados, como 'poupar' e 'específico', são comuns em literacia financeira, facilitando a análise do objetivo.",
+          "A opção A é um objetivo financeiro que é específico (600€ para uma viagem) e mensurável (é possível verificar se o montante foi poupado até julho). Os outros exemplos, embora relevantes, não têm a mesma clareza em termos de quantificação ou prazo definido, como a opção A.",
+          "A opção A é um exemplo claro de um objetivo financeiro específico e mensurável, pois define uma quantia exata (600€) e um prazo determinado (até julho). As outras opções, embora possam ser objetivos válidos, não possuem a mesma clareza em termos de especificidade e mensurabilidade, uma vez que não definem valores concretos ou prazos tão precisos.",
+          "A opção A é um exemplo claro de um objetivo financeiro específico e mensurável, pois define uma quantia exata (600€) e um prazo específico (até julho). Os outros objetivos, embora possam ser considerados financeiros, não têm o mesmo nível de especificidade e mensurabilidade, como o prazo ou a quantia concreta envolvida.",
+          "A opção C é um objetivo financeiro específico e mensurável, pois define claramente a quantia a ser poupada (600€) e um prazo específico (até julho). Os outros objetivos, apesar de serem também válidos, não possuem a mesma clareza em termos de mensuração e prazo, como a opção C.",
+          "A opção B é específica e mensurável, pois define um montante exato (1000€) e um prazo claro (até dezembro) para a realização do objetivo. Os outros objetivos, embora também sejam específicos, não possuem a mesma clareza em termos de montante ou prazos definidos, tornando-os menos mensuráveis.",
+          "A opção B é um objetivo financeiro específico e mensurável, pois define um montante exato (600€) e uma data limite (julho) para a poupança, o que permite monitorizar o progresso. Os outros objetivos, apesar de serem relevantes, não possuem um valor monetário concreto ou uma data tão específica como esta."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o benefício de dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança?",
+      "options": {
+        "A": "Facilita o controlo de gastos semanais.",
+        "B": "Aumenta a poupança mensal automaticamente.",
+        "C": "Reduz a necessidade de ajustar o orçamento mensal.",
+        "D": "Elimina a necessidade de um fundo de emergência."
+      },
+      "hint": "Considera a gestão semanal dos fundos restantes.",
+      "rationale": "Dividir o orçamento restante pelas semanas ajuda a controlar os gastos de forma mais eficaz, evitando despesas excessivas.",
+      "tag": "Orçamento pessoal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Orçamento pessoal' e avalia um aspecto importante da gestão orçamental, que é a divisão do orçamento em períodos menores."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de gerir o orçamento e sugere a divisão em períodos menores para facilitar o controle."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de orçamento, mas algumas opções, como a D, podem ser consideradas menos relevantes em relação ao tema."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica para direcionar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a gestão do orçamento."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que dividir o orçamento pela semana ajuda a saber quanto posso gastar por semana sem me passar. Não percebo bem os outros termos, mas controlar os gastos parece ser algo bom para não ficar sem dinheiro.",
+          "Eu não percebo bem esses termos financeiros, mas parece que dividir o orçamento por semanas vai ajudar a saber quanto posso gastar cada semana. Assim, não gasto tudo de uma vez e controlo melhor o que tenho.",
+          "Eu acho que dividir o orçamento pelas semanas ajuda a perceber melhor quanto posso gastar por semana. Não conheço bem os termos financeiros, mas parece mais fácil controlar o que gasto assim.",
+          "Eu escolhi isso porque se eu dividir o que sobra por semana, fica mais fácil saber quanto posso gastar a cada semana. Não conheço bem os termos financeiros, mas isso parece prático para não ficar sem dinheiro.",
+          "Eu escolhi a opção A porque, para mim, dividir o que sobra por semanas parece uma maneira prática de ver quanto posso gastar sem ficar sem dinheiro. Não entendo bem os outros termos, mas controlar os gastos é sempre importante.",
+          "Acho que dividir o orçamento pelas semanas ajuda a saber quanto posso gastar cada semana, assim não fico sem dinheiro antes do final do mês. Não entendo bem os termos financeiros, mas parece que é uma forma de me organizar melhor.",
+          "Eu acho que dividir o orçamento nas semanas ajuda a saber quanto posso gastar a cada semana, assim não fico sem dinheiro antes do fim do mês. Não entendo bem os termos técnicos, mas parece que é uma forma de gerir melhor o que tenho.",
+          "Eu não percebo bem esses termos técnicos, mas parece lógico que, se dividir o que sobra por semanas, é mais fácil saber quanto posso gastar a cada semana. Assim, não gasto tudo de uma vez.",
+          "Acho que dividir o que resta por semanas ajuda a ver melhor quanto posso gastar sem me passar. Não percebo bem os termos financeiros, mas parece-me que assim consigo controlar melhor o que gasto cada semana.",
+          "Acho que dividir o orçamento pelas semanas ajuda a ver melhor quanto posso gastar a cada semana. Não entendo muito bem os termos técnicos, mas parece que é mais fácil controlar o que gasto assim."
+        ],
+        "Médio": [
+          "Acho que dividir o orçamento pelas semanas ajuda a ver melhor quanto posso gastar a cada semana. Assim, não me passo e consigo controlar melhor o que gasto, mesmo que não perceba bem todos os termos.",
+          "Eu acho que dividir o orçamento pelas semanas ajuda a ver melhor quanto posso gastar a cada semana. Assim, não me passo e consigo controlar melhor o que gasto, mesmo que não perceba muito bem os termos.",
+          "Parece-me que dividir o orçamento assim ajuda a ver melhor quanto posso gastar por semana. Não conheço bem os termos, mas acho que assim é mais fácil não gastar demais.",
+          "Acho que dividir o orçamento restante pelas semanas ajuda a ver quanto posso gastar a cada semana, assim não gasto tudo de uma vez. Não conheço bem os outros termos, mas controlar os gastos parece importante.",
+          "Eu acho que dividir o orçamento restante pelas semanas ajuda a saber quanto posso gastar por semana. Assim, fica mais fácil não gastar demais e controlar melhor o que faço com o dinheiro. Não conheço bem os outros termos, mas isso parece mais simples.",
+          "Eu escolhi a opção B porque parece que dividir o orçamento por semanas ajuda a saber quanto se pode gastar a cada semana. Não conheço muito bem termos financeiros, mas parece mais fácil controlar o que gasto assim.",
+          "Eu acho que dividir o orçamento pelas semanas ajuda a saber quanto posso gastar a cada semana, assim não me passo e consigo controlar melhor o dinheiro. Não conheço bem os termos como fundo de emergência, mas o que sei é que é bom ter uma ideia de quanto gastar.",
+          "Eu acho que dividir o orçamento pelas semanas ajuda a saber quanto posso gastar a cada semana. Assim, não fico a gastar tudo de uma vez e consigo controlar melhor o que vou comprar, mesmo que não entenda bem os termos técnicos.",
+          "Acho que dividir o que sobra pelo número de semanas ajuda a saber quanto posso gastar por semana. Não entendo bem os outros termos, mas controlar os gastos parece importante para não me passar do orçamento.",
+          "Acho que dividir o orçamento pelas semanas ajuda a ver melhor quanto posso gastar por semana. Assim, é mais fácil controlar o que gasto e não fico tão confuso com o dinheiro."
+        ],
+        "Alto": [
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite uma gestão mais rigorosa dos gastos, ajudando a evitar excessos e a manter-se dentro dos limites orçamentais. Este conceito está alinhado com a prática de planeamento financeiro, onde um bom controlo de despesas é essencial para alcançar objetivos de poupança e evitar dívidas.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite uma gestão mais eficiente dos gastos, garantindo que não se ultrapassam os limites estabelecidos. Este método promove a disciplina financeira e ajuda a evitar excessos, algo que é fundamental para manter a saúde financeira.",
+          "Dividir o orçamento restante pelas semanas permite uma melhor gestão dos gastos diários, garantindo que não se ultrapassem os limites estabelecidos. Reconheço que este método é uma prática comum de planeamento financeiro que ajuda a evitar excessos e a manter a disciplina orçamental.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite uma melhor gestão do fluxo de caixa e o acompanhamento mais rigoroso das despesas semanais, evitando gastos excessivos. Reconheço que esta abordagem é fundamental para manter a disciplina financeira e garantir que o orçamento não é ultrapassado.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite uma melhor gestão dos gastos, ajudando a evitar excessos e a manter-se dentro do limite orçamentário. Reconheço que o controlo de gastos é essencial na literacia financeira, pois assegura que as despesas variáveis não ultrapassem o que foi planeado.",
+          "Dividir o orçamento restante pelas semanas permite um planeamento mais granular e facilita o controlo das despesas em períodos menores, evitando assim gastos excessivos. Esta abordagem reconhece a importância de monitorizar as despesas de forma regular, o que é fundamental para uma boa gestão financeira.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite um planeamento mais eficiente dos gastos, facilitando o controlo financeiro ao assegurar que não se ultrapassa o que foi destinado para cada semana. Este conceito é importante para evitar surpresas no fim do mês e ajuda a manter a disciplina financeira.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite uma alocação mais eficiente dos recursos disponíveis, facilitando assim o acompanhamento e a gestão dos gastos semanais. Isso ajuda a evitar excessos e a manter o cumprimento do orçamento estabelecido, o que é fundamental para uma boa saúde financeira.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança permite um planeamento mais detalhado e um acompanhamento mais rigoroso das despesas semanais, o que é essencial para evitar excessos e garantir que se mantêm dentro dos limites orçamentais. Reconheço a importância do controlo de gastos e a relação entre a gestão semanal do orçamento e a saúde financeira a longo prazo.",
+          "Dividir o orçamento restante pelas semanas após pagar despesas fixas e poupança é uma prática que permite um melhor controlo dos gastos diários, ajudando a evitar excessos e a garantir que as despesas variáveis se mantêm dentro dos limites estabelecidos. Reconheço a importância de gerir adequadamente o fluxo de caixa, e esta abordagem ajuda a distribuir o orçamento de forma mais equilibrada ao longo do mês."
+        ]
+      }
+    },
+    {
+      "question": "Que tipo de despesas inclui supermercado, combustíveis e educação?",
+      "options": {
+        "A": "Despesas Gerais Familiares.",
+        "B": "Despesas de Lazer e Entretenimento.",
+        "C": "Despesas de Saúde e Bem-Estar.",
+        "D": "Despesas de Manutenção e Reparação."
+      },
+      "hint": "Foca nas categorias de despesas familiares.",
+      "rationale": "Despesas Gerais Familiares englobam várias categorias essenciais, como supermercado, combustíveis e educação.",
+      "tag": "Tipos de despesa",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Tipos de despesa' e avalia o conhecimento sobre as categorias de despesas familiares, que é o foco do conteúdo-fonte."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente que supermercado, combustíveis e educação fazem parte das Despesas Gerais Familiares."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de despesas, mas não são categorias mencionadas no conteúdo-fonte, o que diminui um pouco a sua qualidade."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e direciona o raciocínio do participante para as categorias de despesas familiares, mas poderia ser um pouco mais específica para ajudar ainda mais."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao mencionar que as Despesas Gerais Familiares incluem as categorias citadas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que supermercado, combustíveis e educação são coisas que a gente precisa no dia-a-dia, por isso devem ser despesas gerais da família. Não conheço bem os termos, mas faz sentido que sejam despesas essenciais.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que gastamos em casa, por isso deve ser despesa geral. Não conheço bem os termos, mas parece que se encaixa aqui.",
+          "Eu acho que isso é tudo parte das despesas gerais que uma família tem no dia-a-dia. Não percebo bem os termos técnicos, mas supermercado e educação são coisas que todas as famílias precisam, então devem ser despesas gerais.",
+          "Acho que supermercado, combustíveis e educação são coisas que fazemos no dia-a-dia para a família, então deve ser isso das despesas gerais. Não sei bem o que significam os outros termos, mas isso parece mais normal para mim.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que gastamos no dia-a-dia, então parece que se encaixam nas despesas que temos em casa. Não percebo bem os termos técnicos, mas 'gerais familiares' parece que é isso, coisas que a família precisa.",
+          "Acho que supermercado, combustíveis e educação são coisas que as famílias precisam no dia a dia, por isso devem ser despesas gerais. Não entendo muito bem esses termos, mas parece que são coisas normais que todos têm que pagar.",
+          "Acho que supermercado, combustíveis e educação são coisas que a família precisa no dia a dia, então devem ser despesas gerais. Não conheço bem os termos, mas parece que faz sentido agrupar essas despesas assim.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que precisamos no dia-a-dia, então devem ser despesas gerais da família. Não conheço bem os outros termos, mas sei que essas coisas são parte das nossas despesas normais.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que a família precisa para viver, por isso devem ser despesas gerais. Não conheço bem o que significam os outros termos, mas sei que estas coisas são importantes no dia a dia da família.",
+          "Acho que supermercado, combustíveis e educação são coisas que precisamos no dia-a-dia, então devem ser despesas gerais da família. Não conheço bem os outros termos, mas estes parecem mais básicos."
+        ],
+        "Médio": [
+          "Acho que supermercado, combustíveis e educação são coisas que gasto no dia a dia, por isso devem ser despesas gerais da família. Não conheço bem as outras opções, mas estas parecem ser as mais importantes para a vida normal.",
+          "Acho que estas despesas estão relacionadas com o dia-a-dia da família, como comprar comida no supermercado ou pagar a escola. Não percebo muito bem os outros tipos de despesas, mas parece que estas são coisas normais que todas as famílias têm.",
+          "Acho que supermercado, combustíveis e educação são coisas que temos que pagar no dia-a-dia, então parece que se encaixam nas despesas gerais da família. Não estou muito certo dos outros termos, mas isso faz sentido para mim.",
+          "Penso que supermercado, combustíveis e educação são coisas que uma família precisa no dia-a-dia, então faz sentido que sejam despesas gerais. Não reconheço bem os outros termos, mas parece que estes são mais para o cotidiano.",
+          "Eu acho que supermercados, combustíveis e educação são coisas que gastamos no dia-a-dia, então acho que se encaixam nas despesas gerais da família. Não estou certo sobre os outros tipos de despesas, mas parece que estas são as mais comuns.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que precisamos para viver no dia-a-dia, então devem ser despesas gerais. Os outros tipos de despesas não parecem se encaixar bem com isso, porque não são tão básicas ou necessárias.",
+          "Eu acho que as despesas de supermercado, combustíveis e educação são coisas que uma família precisa para viver e cuidar dos filhos. Portanto, parece que se encaixam melhor nas despesas gerais familiares, porque são gastos do dia-a-dia.",
+          "Acho que supermercado, combustíveis e educação são coisas que precisamos no dia-a-dia, então devem ser despesas gerais da família. Não conheço bem os outros termos, mas parece que estes são gastos normais.",
+          "Acho que supermercado, combustíveis e educação são coisas que gastamos no dia-a-dia, por isso devem ser despesas gerais da família. Não sei bem o que são as outras opções, mas estas parecem mais relacionadas com a vida normal.",
+          "Eu acho que supermercado, combustíveis e educação são coisas que a gente precisa para a casa e para a família, então deve ser despesas gerais. Eu não conheço bem os outros termos, mas isso parece mais certo."
+        ],
+        "Alto": [
+          "As despesas com supermercado, combustíveis e educação são consideradas despesas gerais familiares, pois representam gastos do dia a dia que são essenciais para o funcionamento da família. Os outros tipos de despesas mencionados nas opções não se aplicam a esses itens específicos.",
+          "As despesas mencionadas (supermercado, combustíveis e educação) são consideradas despesas gerais familiares, pois estão relacionadas com o custo de vida do agregado familiar e são indispensáveis para o dia a dia. Reconheço claramente os termos e a sua categorização, dado que estas despesas são recorrentes e essenciais à manutenção do lar.",
+          "As despesas de supermercado, combustíveis e educação são tipicamente categorizadas como despesas gerais familiares, pois são essenciais para o funcionamento diário e manutenção da vida familiar. Reconheço que estas despesas não se encaixam nas outras categorias, uma vez que não são específicas a saúde, manutenção ou lazer.",
+          "As despesas de supermercado, combustíveis e educação são consideradas despesas gerais familiares, pois fazem parte das necessidades básicas e despesas do dia-a-dia de uma família. Reconheço os termos usados, pois são comuns na categorização de despesas pessoais e refletem gastos essenciais para a manutenção do lar e a educação dos filhos.",
+          "As despesas mencionadas (supermercado, combustíveis e educação) são todas despesas necessárias para o funcionamento diário de uma família, enquadrando-se na categoria de despesas gerais familiares. Reconheço os termos usados, pois são comuns na gestão do orçamento familiar e refletem gastos essenciais e regulares.",
+          "A opção D é a mais correta, pois inclui despesas necessárias para a manutenção do lar e da família, como supermercado, combustíveis e educação. As outras opções referem-se a categorias que não abrangem essas despesas, sendo que as despesas gerais familiares são mais amplas e relevantes neste contexto.",
+          "As despesas relacionadas com supermercado, combustíveis e educação são consideradas despesas gerais familiares, pois estão diretamente ligadas ao custo de vida de uma família e à manutenção do seu dia-a-dia. Reconheço que estas despesas não se enquadram nas outras categorias, pois não são relacionadas com lazer, saúde ou manutenção específica.",
+          "As despesas de supermercado, combustíveis e educação são consideradas despesas gerais familiares, pois estão diretamente relacionadas com o sustento e a manutenção da vida quotidiana de uma família. Os termos utilizados são reconhecíveis e refletem categorias comuns de despesas que afetam o orçamento familiar.",
+          "As despesas de supermercado, combustíveis e educação são consideradas despesas gerais familiares, uma vez que fazem parte dos gastos cotidianos essenciais para o funcionamento de um lar. Estes custos não se enquadram nas categorias de saúde, manutenção ou lazer, que têm definições mais específicas.",
+          "As despesas com supermercado, combustíveis e educação são consideradas despesas gerais familiares, uma vez que são essenciais para a manutenção da vida quotidiana e do bem-estar da família. Reconheço claramente os termos, pois estes tipos de despesas são comuns e frequentemente discutidos no contexto de gestão orçamental familiar."
+        ]
+      }
+    },
+    {
+      "question": "Qual método de orçamentação baseia-se nas intenções financeiras do indivíduo?",
+      "options": {
+        "A": "Estimativas e Objetivos.",
+        "B": "Base Histórica.",
+        "C": "Misto.",
+        "D": "Orçamento de Caixa."
+      },
+      "hint": "Considera o método focado em metas pessoais.",
+      "rationale": "O método de Estimativas e Objetivos foca-se nas intenções e metas financeiras do indivíduo, permitindo um planeamento baseado em objetivos futuros.",
+      "tag": "Métodos de orçamentação",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Métodos de orçamentação', pois questiona sobre um método específico de orçamentação que é mencionado no conteúdo-fonte."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que descreve claramente o método de 'Estimativas e Objetivos' como baseado nas intenções financeiras do indivíduo."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de orçamentação, mas a opção D ('Orçamento de Caixa') não é um método de orçamentação discutido no conteúdo-fonte, o que diminui um pouco a sua qualidade."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a pensar sobre o método que se concentra em metas pessoais, sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao descrever o método de 'Estimativas e Objetivos'."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que 'Estimativas e Objetivos' faz sentido porque parece que as pessoas têm que pensar no que querem gastar e economizar. Não conheço bem os outros termos, mas isso parece mais relacionado com as intenções que temos.",
+          "Eu não conheço bem esses termos de finanças, mas parece que falar de 'estimativas e objetivos' é mais sobre o que quero alcançar com o meu dinheiro, por isso escolhi essa.",
+          "Não entendo muito bem os termos usados, mas parece-me que 'Estimativas e Objetivos' é sobre o que a pessoa quer gastar ou poupar. Isso faz sentido porque cada um tem as suas próprias ideias sobre dinheiro, então deve ser isso.",
+          "Eu não conheço bem esses termos financeiros, mas parece que 'Estimativas e Objetivos' faz mais sentido, porque envolve o que eu quero gastar ou poupar. As outras opções parecem mais técnicas e eu não as entendo bem.",
+          "Eu não conheço bem esses termos, mas 'Estimativas e Objetivos' parece ser sobre o que eu quero alcançar com o meu dinheiro, então parece a resposta certa.",
+          "Eu não conheço bem esses métodos de orçamentação, mas 'Estimativas e Objetivos' parece ser sobre o que a pessoa quer fazer com o dinheiro, que é algo que eu consigo entender. As outras opções têm nomes que não me dizem nada.",
+          "Acho que 'Estimativas e Objetivos' faz sentido porque envolve pensar no que queremos fazer com o nosso dinheiro. Os outros termos parecem muito complicados e eu não os reconheço bem.",
+          "Parece que a opção A fala sobre intenções, que é algo que as pessoas costumam ter quando pensam em dinheiro. Não conheço bem os outros termos, mas 'estimativas' e 'objetivos' fazem sentido no dia a dia, como quando queremos poupar para algo.",
+          "Eu não percebo muito bem esses termos técnicos de finanças, mas parece que 'Estimativas e Objetivos' faz sentido porque é sobre o que queremos fazer com o nosso dinheiro, certo? O resto parece complicado demais para mim.",
+          "Eu não conheço muito sobre esses termos complicados, mas acho que 'Estimativas e Objetivos' faz sentido porque parece que fala sobre o que a pessoa quer alcançar financeiramente. Os outros parecem mais técnicos e confusos para mim."
+        ],
+        "Médio": [
+          "Eu escolhi 'Estimativas e Objetivos' porque parece que é sobre o que a pessoa quer fazer com o dinheiro e o que pretende alcançar. Não conheço bem os outros métodos e os termos técnicos, mas isso faz sentido para mim.",
+          "Acho que a opção C faz sentido porque parece que se refere a como as pessoas planeiam o que querem fazer com o dinheiro. Os outros termos, como 'Misto' ou 'Base Histórica', não me soam tão claros, e eu não sei bem o que significam.",
+          "Acho que a opção A faz sentido porque parece que se trata de planear o que queremos fazer com o nosso dinheiro. Não estou muito familiarizado com os outros termos, mas 'objetivos' parece algo que todos nós temos quando pensamos em poupar ou gastar.",
+          "Eu acho que a opção C é a certa porque parece que fala sobre o que as pessoas querem alcançar com o dinheiro. Não conheço bem os outros métodos, mas 'estimativas e objetivos' faz sentido se estamos a falar das intenções.",
+          "Eu acho que a opção D faz sentido porque parece que se trata de pensar no que queremos alcançar financeiramente. Os outros termos, como orçamento de caixa ou base histórica, não entendo bem, mas esta ideia de estimativas parece mais sobre os nossos objetivos.",
+          "Acho que a opção D é a que fala sobre o que queremos gastar ou poupar, porque se trata de definir metas. Não conheço bem os outros termos, mas parece que eles falam mais sobre números ou coisas que já aconteceram, e eu prefiro focar no que eu quero fazer com o meu dinheiro.",
+          "Eu acho que esta opção faz sentido porque parece que tem a ver com o que a pessoa quer alcançar financeiramente. Não conheço muito bem os outros métodos, mas 'estimativas' dá a ideia de que se está a planear algo que se deseja, então escolhi esta.",
+          "Acho que a opção C é sobre definir o que queremos gastar ou poupar, que faz sentido para quem planeia as finanças. Não conheço bem os outros métodos, mas parece que este se relaciona mais com as intenções.",
+          "Eu acho que a resposta é 'Estimativas e Objetivos' porque parece que é sobre o que a pessoa quer fazer com o dinheiro. Os outros termos, como 'Orçamento de Caixa' ou 'Base Histórica', parecem mais complicados e não são tanto sobre o que a pessoa planeia. Eu não conheço bem esses conceitos, mas isso parece mais simples.",
+          "Acho que a resposta é 'Estimativas e Objetivos' porque parece que é sobre planos financeiros e o que a pessoa quer alcançar. Não reconheço bem os outros termos, mas isso faz sentido para alguém que tem intenções financeiras."
+        ],
+        "Alto": [
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de Estimativas e Objetivos, pois este envolve a definição de metas financeiras claras e a avaliação das despesas e receitas necessárias para alcançá-las. Reconheço os termos utilizados, pois são fundamentais na literacia financeira e refletem uma abordagem proativa na gestão financeira pessoal.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o que envolve 'Estimativas e Objetivos', pois este se concentra em planejar gastos futuros com base nas metas financeiras que se pretende alcançar. Reconheço que este método é fundamental para a definição de um orçamento que alinhe gastos com objetivos pessoais, ao contrário de métodos que se baseiam apenas em dados históricos ou fluxos de caixa.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o das Estimativas e Objetivos, pois este enfoque permite que o orçamento seja ajustado de acordo com as metas financeiras que a pessoa pretende alcançar. Reconheço claramente os termos usados, uma vez que a orçamentação por objetivos é uma prática comum em planeamento financeiro pessoal.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é claramente o que utiliza estimativas e objetivos, pois este método permite que o orçamento seja alinhado com as metas financeiras pessoais. Reconheço os termos utilizados, pois refletem a prática de definir um orçamento de acordo com as aspirações e planos financeiros de cada pessoa.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de 'Estimativas e Objetivos', pois este enfoque permite que a pessoa defina metas financeiras específicas e planeie o orçamento em função dessas metas. Reconheço os termos utilizados, pois são comuns na literatura de finanças pessoais e refletem a importância de alinhar o orçamento com os objetivos financeiros individuais.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o que utiliza estimativas e objetivos, pois permite que a pessoa defina metas financeiras e planeje suas despesas e poupanças de acordo com essas metas. Reconheço claramente os termos usados, pois são comuns na prática de planeamento financeiro pessoal.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de 'Estimativas e Objetivos', pois este enfoque permite que as pessoas definam metas financeiras e planejem seus gastos e poupanças de acordo com essas metas. Reconheço os termos utilizados, pois são comuns na literatura de finanças pessoais e refletem uma abordagem proativa e orientada para resultados no planejamento financeiro.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de Estimativas e Objetivos, pois este enfoque prioriza as metas financeiras que a pessoa pretende alcançar, como poupança para a reforma ou aquisição de um imóvel. Este conceito é reconhecido na literatura de planeamento financeiro, pois permite alinhar o orçamento às aspirações pessoais, ao contrário de métodos que se baseiam apenas em dados históricos ou fluxos de caixa.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de Estimativas e Objetivos, dado que este implica a definição de metas financeiras que refletem as aspirações e prioridades do orçamentador. Reconheço os termos usados, pois estão diretamente relacionados com a forma como se estabelece um plano financeiro proativo e orientado para resultados.",
+          "O método de orçamentação que se baseia nas intenções financeiras do indivíduo é o de Estimativas e Objetivos, pois envolve a definição de metas financeiras e a previsão de receitas e despesas para alcançá-las. Este método é reconhecido por alinhar o orçamento às aspirações pessoais, o que o distingue de métodos mais tradicionais que se baseiam em dados históricos ou fluxos de caixa."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.9,
+    "answer_exclusivity": 4.9,
+    "distractor_quality": 4,
+    "hint_quality": 4.3,
+    "rationale_quality": 4.8,
+    "tag_diversity": 0.7,
+    "overall_score": 4.63
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Mindset, Comportamento e Hábitos"
+  ],
+  "fin_lit_level": "Baixo",
+  "question_results": [
+    {
+      "question": "Como pode uma mentalidade positiva em relação ao dinheiro afetar a ansiedade financeira?",
+      "options": {
+        "A": "Reduz a ansiedade financeira.",
+        "B": "Aumenta a ansiedade financeira.",
+        "C": "Não tem impacto na ansiedade financeira.",
+        "D": "Torna a ansiedade financeira mais frequente."
+      },
+      "hint": "Considera o impacto de uma visão otimista sobre o dinheiro.",
+      "rationale": "Uma mentalidade financeira positiva ajuda a reduzir a ansiedade financeira, promovendo comportamentos saudáveis em relação às finanças.",
+      "tag": "Mentalidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mentalidade financeira' e avalia claramente o conhecimento sobre como a mentalidade pode influenciar a ansiedade financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a relação entre mentalidade e ansiedade financeira."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de ansiedade financeira, mas algumas opções, como 'Torna a ansiedade financeira mais frequente', podem ser consideradas menos prováveis."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao sugerir que o participante considere o impacto de uma visão otimista, mas poderia ser mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como uma mentalidade positiva promove comportamentos saudáveis em relação às finanças."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que se a pessoa tiver uma mentalidade positiva em relação ao dinheiro, isso pode ajudar a sentir-se melhor e menos preocupada com as contas e as despesas. Não percebo bem os termos técnicos, mas parece que pensar positivo é sempre bom para não se sentir tão ansioso.",
+          "Acho que ter uma mentalidade positiva em relação ao dinheiro ajuda a ver as coisas de forma mais calma. Se pensarmos bem e de forma otimista, talvez não fiquemos tão preocupados com o que temos ou não temos.",
+          "Eu não percebo muito de dinheiro e finanças, mas acho que se alguém pensa sempre positivo sobre o dinheiro, pode acabar por se sentir ainda mais ansioso por não saber bem como lidar com as coisas, porque a situação financeira pode ser complicada.",
+          "Eu não percebo muito sobre essas coisas de finanças, mas acho que ter uma mentalidade positiva não muda como me sinto sobre o dinheiro. Às vezes, é só uma questão de sorte ou azar, não é? Portanto, não parece que faça diferença.",
+          "Acho que ter uma mentalidade positiva sobre o dinheiro ajuda a sentir-se melhor e menos preocupado com as contas. Se pensarmos que tudo vai correr bem, ficamos mais calmos e menos ansiosos, não é? Não percebo bem os termos técnicos, mas parece lógico.",
+          "Eu não percebo muito bem como é que a mentalidade pode mudar a ansiedade. Para mim, o dinheiro é sempre uma preocupação, independentemente de estar a pensar positivo ou não. Não conheço bem esses termos que falam de mentalidade.",
+          "Acho que se tivermos uma mentalidade positiva, ficamos mais tranquilos em relação ao dinheiro. Quando pensamos que vamos conseguir lidar com as coisas, não ficamos tão ansiosos. Não percebo bem os termos técnicos, mas parece que faz sentido.",
+          "Eu não percebo muito bem como a mentalidade positiva pode mudar as coisas em relação ao dinheiro. Para mim, parece que a ansiedade com dinheiro é mais sobre o que temos ou não, e não tanto sobre como pensamos sobre isso. Então, acho que não tem impacto.",
+          "Acredito que ter uma mentalidade positiva sobre o dinheiro pode ajudar a sentir-se melhor e menos preocupado com as contas e gastos. Não conheço bem os termos que usam, mas parece lógico que pensar de forma positiva traz mais calma e menos ansiedade.",
+          "Eu não consigo ver como a mentalidade em relação ao dinheiro pode mudar a ansiedade. Às vezes, as pessoas ficam ansiosas com dinheiro, mas não sei se pensar positivamente ajuda ou não. Para mim, parece que isso não faz diferença."
+        ],
+        "Médio": [
+          "Acho que ter uma mentalidade positiva em relação ao dinheiro pode ajudar a sentir-se melhor e menos preocupado com as contas e dívidas. Se pensarmos bem e de forma positiva, pode ser que não fiquemos tão ansiosos com o que temos de pagar.",
+          "Acho que ter uma mentalidade positiva sobre o dinheiro ajuda a sentir-se melhor e menos preocupado com as contas. Não sei muito sobre termos técnicos, mas parece que pensar de forma boa sobre o dinheiro faz com que as pessoas não fiquem tão ansiosas.",
+          "Acho que ter uma mentalidade positiva em relação ao dinheiro pode ajudar a sentir-me melhor e menos preocupado com as despesas e dívidas. Se pensarmos que podemos lidar com as coisas, parece que não ficamos tão ansiosos.",
+          "Eu acho que se temos uma mentalidade positiva sobre o dinheiro, isso pode ajudar a sentirmo-nos melhor e menos preocupados com as dívidas e as contas. Não conheço bem os termos técnicos, mas parece que pensar de forma positiva ajuda a aliviar a ansiedade.",
+          "Eu acho que ter uma mentalidade positiva em relação ao dinheiro ajuda a não pensar tanto nas preocupações, então pode reduzir a ansiedade. Se a gente vê o dinheiro como algo positivo e não só como problemas, é mais fácil lidar com isso.",
+          "Acho que ter uma mentalidade positiva pode ajudar a sentir-se melhor com o dinheiro, então talvez isso reduza a ansiedade. Não sei bem o que são todos esses termos complicados, mas parece que pensar bem sobre o dinheiro pode ajudar.",
+          "Acho que uma mentalidade positiva pode ajudar a pensar melhor sobre o dinheiro e assim não ficar tão ansioso. Não percebo muito dos termos complicados, mas se pensarmos de forma boa, talvez nos sintamos mais calmos.",
+          "Acho que uma mentalidade positiva em relação ao dinheiro pode ajudar a sentir-se melhor e menos preocupado. Quando a pessoa pensa bem sobre o dinheiro, pode ficar mais calma e menos ansiosa, mesmo que não saiba todos os detalhes financeiros.",
+          "Acho que se tivermos uma mentalidade positiva sobre o dinheiro, isso pode ajudar a ficar menos preocupados com as contas e como vamos pagar as coisas. Não sei muito bem o que significa ansiedade financeira, mas parece que se sentirmos que temos controlo sobre o dinheiro, não vamos ficar tão nervosos.",
+          "Acho que pensar positivamente sobre o dinheiro ajuda a sentir-se melhor. Se a gente acredita que pode poupar ou gerir bem o que temos, fica menos stress sobre as contas e o que gastar. Não conheço todos os termos, mas isso parece lógico."
+        ],
+        "Alto": [
+          "Uma mentalidade positiva em relação ao dinheiro pode ajudar a reduzir a ansiedade financeira, pois promove uma abordagem mais construtiva e resiliente face a desafios financeiros. Isso está alinhado com a ideia de que a forma como percebemos e gerimos as nossas finanças tem um impacto direto sobre o nosso bem-estar emocional e psicológico.",
+          "Uma mentalidade positiva em relação ao dinheiro pode ajudar a reduzir a ansiedade financeira porque promove uma abordagem mais proativa e confiante em relação à gestão das finanças pessoais. Isto pode incluir a adoção de boas práticas de poupança e investimento, que, por sua vez, contribuem para uma maior sensação de controlo e segurança financeira.",
+          "Uma mentalidade positiva em relação ao dinheiro pode promover uma melhor gestão financeira e uma visão mais otimista sobre a capacidade de lidar com despesas e investimentos. Isso, por sua vez, pode levar a uma diminuição da ansiedade financeira, uma vez que a pessoa se sente mais no controle e confiante nas suas decisões financeiras.",
+          "Uma mentalidade positiva em relação ao dinheiro pode levar a uma melhor gestão financeira e a uma maior confiança nas decisões financeiras, o que, por sua vez, diminui a ansiedade relacionada ao dinheiro. A crença de que se pode controlar e melhorar a situação financeira ajuda a mitigar preocupações e a promover uma abordagem mais saudável em relação às finanças pessoais.",
+          "Uma mentalidade positiva em relação ao dinheiro pode levar a uma abordagem mais proativa e confiante na gestão financeira, resultando em uma diminuição da ansiedade financeira. Ao focar em soluções e oportunidades em vez de desafios, a pessoa tende a sentir-se mais no controle da sua situação financeira.",
+          "Uma mentalidade positiva em relação ao dinheiro pode ajudar a criar uma relação mais saudável com as finanças, o que, por sua vez, pode reduzir a ansiedade financeira. Ao promover uma visão otimista, os indivíduos tendem a sentir-se mais no controle das suas finanças, permitindo uma melhor gestão do orçamento e mitigando preocupações relacionadas a imprevistos financeiros.",
+          "Uma mentalidade positiva em relação ao dinheiro pode levar a uma melhor gestão financeira e a uma maior confiança nas decisões financeiras, resultando na redução da ansiedade financeira. Reconheço que uma atitude construtiva pode ajudar a enfrentar desafios económicos, promovendo uma visão mais saudável sobre a poupança e o investimento.",
+          "Uma mentalidade positiva em relação ao dinheiro pode promover uma melhor gestão financeira, levando a decisões mais informadas e menos stress em relação a dívidas e poupança. Reconheço que uma abordagem otimista pode ajudar a visualizar a abundância e a segurança financeira, o que, por sua vez, diminui a ansiedade associada às preocupações financeiras.",
+          "Uma mentalidade positiva em relação ao dinheiro pode ajudar a construir uma abordagem mais saudável e proativa em relação às finanças pessoais, permitindo que a pessoa se sinta mais confiante e capaz de gerir as suas finanças, o que, por sua vez, reduz a ansiedade financeira. Reconheço que uma mentalidade positiva pode levar a uma melhor gestão do stress financeiro, pois promove hábitos de poupança e investimento mais eficazes.",
+          "Uma mentalidade positiva em relação ao dinheiro pode ajudar a criar uma relação mais saudável com as finanças, permitindo que a pessoa veja oportunidades em vez de obstáculos. Isso, por sua vez, pode diminuir a ansiedade financeira ao promover uma melhor gestão e planejamento das suas finanças."
+        ]
+      }
+    },
+    {
+      "question": "De que forma a crença de que 'o dinheiro é escasso' pode influenciar o comportamento financeiro de uma pessoa?",
+      "options": {
+        "A": "Leva à poupança excessiva.",
+        "B": "Incentiva a gastar sem controlo.",
+        "C": "Faz com que se evite poupar.",
+        "D": "Conduz a investimentos arriscados."
+      },
+      "hint": "Pensa em como uma visão de escassez afeta as decisões financeiras.",
+      "rationale": "A crença de que o dinheiro é escasso pode levar a comportamentos de poupança excessiva ou a evitar gastos necessários.",
+      "tag": "Crenças financeiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crenças financeiras' e avalia claramente o conhecimento sobre como crenças podem influenciar comportamentos financeiros."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a resposta correta poderia ser mais explicitamente apoiada por exemplos do texto."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção correta poderia ser interpretada de forma ambígua em relação a outras opções."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de crenças financeiras, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica para direcionar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais forte com o conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 0.8,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que se alguém acredita que o dinheiro é escasso, pode ficar com medo de não ter o suficiente e, por isso, vai querer guardar mais e mais dinheiro em vez de gastar. Não conheço bem os termos financeiros, mas parece lógico querer ter um 'colchão' para se sentir seguro.",
+          "Acho que as pessoas que pensam que o dinheiro é escasso acabam por gastar mais porque têm medo de não ter dinheiro depois. Não entendo bem os termos técnicos, mas parece-me que se alguém acha que vai faltar dinheiro, pode querer aproveitar o que tem agora e gastar à vontade.",
+          "Acho que se a pessoa acredita que o dinheiro é escasso, pode acabar por querer guardar muito dinheiro, mesmo que isso signifique não gastar em coisas que precisa. Não entendo bem os termos que estão a usar, mas parece-me que é mais seguro guardar do que gastar.",
+          "Acho que se alguém acredita que o dinheiro é escasso, vai querer guardar o que tem, porque tem medo de não ter mais. Não percebo muito de finanças, mas parece-me que é assim que as pessoas pensam.",
+          "Acredito que se a pessoa pensa que o dinheiro é escasso, ela vai querer guardar o máximo possível, por isso poupa muito. Não entendo bem os termos técnicos, mas parece lógico que alguém que tem medo de não ter dinheiro no futuro vai querer economizar.",
+          "Eu acho que se a pessoa acredita que o dinheiro é escasso, ela pode ficar muito preocupada em não gastar e assim acaba por querer guardar tudo o que pode. Não conheço bem os termos financeiros, mas parece lógico que quem teme não ter dinheiro, quer ter sempre um pouco guardado.",
+          "Acho que se a pessoa acredita que o dinheiro é escasso, ela pode ficar com medo de gastar e então começa a poupar muito, mesmo quando não precisa. Não entendo bem os termos financeiros, mas parece que poupar é sempre uma coisa boa.",
+          "Acredito que se as pessoas pensam que o dinheiro é escasso, elas podem ficar com medo de não ter o suficiente e, por isso, começam a poupar muito. Não conheço bem os termos que falam sobre isso, mas parece lógico que, se achamos que não há dinheiro, queremos guardar o que temos.",
+          "Acho que se a pessoa acredita que o dinheiro é escasso, pode querer guardar muito dinheiro, mesmo que não precise. Não percebo muito desses termos financeiros, mas parece lógico que quem tem medo de não ter dinheiro, tenta guardar mais.",
+          "Eu acho que se a pessoa pensa que o dinheiro é escasso, pode ficar com medo de gastar e querer guardar tudo. Não entendo bem os termos financeiros que falam, mas parece que é isso."
+        ],
+        "Médio": [
+          "Acho que se a pessoa acredita que o dinheiro é escasso, pode começar a guardar muito dinheiro e não gastar, porque tem medo de ficar sem. Não estou muito certo sobre os outros termos, mas para mim, poupança é sempre algo bom.",
+          "Acho que se a pessoa pensa que o dinheiro é escasso, pode querer guardar mais do que gastar, assim poupa sempre que pode. Não entendo muito bem os outros termos, mas parece que poupar é mais seguro.",
+          "Acho que se a pessoa pensa que o dinheiro é escasso, pode ficar com medo de gastar e começa a guardar tudo. Não percebo muito bem os termos, mas parece que é mais seguro poupar do que arriscar a gastar.",
+          "Eu acho que se a pessoa acredita que o dinheiro é escasso, ela pode ficar com medo de não ter o suficiente e, por isso, vai querer poupar muito. Mesmo que eu não saiba bem o que é 'poupança excessiva', parece que é guardar muito dinheiro.",
+          "Acho que se uma pessoa acredita que o dinheiro é escasso, ela pode ficar com medo de não ter dinheiro no futuro e então querer poupar muito. Não conheço bem todos os termos, mas parece que faz sentido querer guardar mais se achamos que o dinheiro é pouco.",
+          "Acredito que se pensarmos que o dinheiro é escasso, acabamos por querer guardar muito mais e não gastar. Não conheço bem os termos, mas parece que é uma forma de ter segurança, mesmo que não seja sempre assim. No fundo, é como se tivéssemos medo de ficar sem dinheiro.",
+          "Acho que quando as pessoas pensam que o dinheiro é escasso, elas acabam por ter medo de gastar e querem guardar tudo, mesmo que às vezes precisem de gastar um pouco. Não conheço bem os termos mais técnicos, mas parece-me que isso faz sentido.",
+          "Acho que se a pessoa acredita que o dinheiro é escasso, pode sentir que deve gastar o que tem agora, porque pode não haver mais. Não percebo bem os outros termos, mas parece que gastar sem pensar é o que muitos fazem quando acham que o dinheiro vai acabar.",
+          "Acho que se a pessoa acredita que o dinheiro é escasso, pode pensar que precisa de aproveitar ao máximo quando tem dinheiro, então gasta mais. Não conheço bem os termos técnicos, mas parece que isso faz sentido na vida de quem tem medo de ficar sem dinheiro.",
+          "Se eu achar que o dinheiro é escasso, posso ficar com medo de gastar e acabar a poupar demais. Não percebo muito bem de investimentos ou de gastar de forma equilibrada, por isso posso focar só em guardar dinheiro."
+        ],
+        "Alto": [
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a sentir a necessidade de acumular reservas financeiras, resultando em uma poupança excessiva. Este comportamento é muitas vezes motivado pelo medo da falta de recursos, levando a pessoa a priorizar a poupança em vez de investimentos ou gastos que poderiam ser benéficos para o seu bem-estar ou crescimento financeiro.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a adotar um comportamento excessivamente cauteloso em relação às suas finanças, resultando em uma poupança excessiva. Esta mentalidade pode fazer com que a pessoa priorize a acumulação de reservas financeiras, mesmo em detrimento de oportunidades de investimento que poderiam gerar retornos a longo prazo.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a adotar um comportamento financeiro excessivamente conservador, resultando em uma poupança excessiva. Essa mentalidade pode fazer com que se priorize a acumulação de reservas monetárias em detrimento de investimentos que possam gerar retornos mais elevados e, assim, comprometer o potencial de crescimento patrimonial.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a sentir a necessidade de acumular reservas financeiras para se proteger contra incertezas futuras, resultando numa poupança excessiva. Este comportamento é um reflexo de uma mentalidade de escassez, que pode impedir a pessoa de investir ou gastar de forma equilibrada, limitando assim oportunidades de crescimento financeiro.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a ser excessivamente cautelosa com os seus gastos, resultando em uma poupança excessiva. Essa mentalidade pode surgir da percepção de que a segurança financeira é prioritária, levando a um comportamento que prioriza a acumulação de reservas, mesmo ao custo de um consumo equilibrado e de investimentos que poderiam proporcionar um retorno adequado.",
+          "A crença de que 'o dinheiro é escasso' pode levar a uma mentalidade de escassez, onde a pessoa se sente compelida a acumular poupanças excessivas como uma forma de se proteger contra a incerteza financeira. Isso pode resultar em um comportamento de poupança que ignora oportunidades de investimento que poderiam potencialmente trazer retornos mais elevados.",
+          "A crença de que 'o dinheiro é escasso' pode levar a uma mentalidade de proteção financeira, onde a pessoa se sente compelida a poupar mais do que o necessário, temendo futuros imprevistos. Isso está ligado à aversão ao risco e à necessidade de criar uma rede de segurança financeira.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a adotar uma mentalidade de escassez, resultando em uma poupança excessiva. Essa mentalidade pode fazer com que se evitem gastos, mesmo necessários, por medo de não ter o suficiente no futuro. Isso é reconhecido em conceitos de comportamento financeiro, onde a aversão ao risco e a necessidade de segurança financeira predominam.",
+          "A crença de que 'o dinheiro é escasso' pode levar as pessoas a uma mentalidade de escassez, fazendo-as temer perder o que têm. Isso pode resultar em uma poupança excessiva, pois buscam criar uma rede de segurança financeira, evitando gastos desnecessários e priorizando a acumulação de reservas.",
+          "A crença de que 'o dinheiro é escasso' pode levar uma pessoa a adotar uma mentalidade de escassez, levando-a a poupar de forma excessiva como forma de se proteger contra a incerteza financeira. Isso pode resultar em um comportamento que prioriza a acumulação de reservas financeiras em detrimento de investimentos em oportunidades que poderiam gerar maior retorno, refletindo um entendimento dos riscos associados à falta de liquidez."
+        ]
+      }
+    },
+    {
+      "question": "Porque é importante alinhar os gastos com os valores pessoais?",
+      "options": {
+        "A": "Reduz a ansiedade financeira.",
+        "B": "Aumenta o stress financeiro.",
+        "C": "Cria mais dívidas desnecessárias.",
+        "D": "Impede a realização de objetivos de vida."
+      },
+      "hint": "Reflete sobre o impacto dos valores nos objetivos de vida.",
+      "rationale": "Alinhar os gastos com os valores pessoais pode ajudar a reduzir a ansiedade associada a decisões financeiras.",
+      "tag": "Valores pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Valores pessoais', pois questiona sobre a importância de alinhar gastos com os valores pessoais, que é um conceito central nesse tópico."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a ligação ao impacto dos valores pessoais nas finanças possa ser mais explícita."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, mas a opção C, por exemplo, poderia ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica em relação ao alinhamento entre valores e gastos."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como o alinhamento de gastos com valores pessoais especificamente reduz a ansiedade financeira."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.7,
+        "Médio": 0.7,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que alinhar os gastos com o que valorizamos pode fazer com que nos sintamos melhor com o nosso dinheiro e que não estejamos sempre preocupados. Não entendo muito bem os termos, mas parece que se gastarmos com o que realmente importa, ficamos mais calmos.",
+          "Acho que é importante alinhar os gastos com o que valorizamos para não acabarmos a gastar dinheiro em coisas que não são importantes para nós. Se não fizermos isso, podemos acabar a comprar coisas que só nos trazem dívidas, e isso não é bom.",
+          "Acho que é importante alinhar os gastos com o que valorizamos na vida, porque assim não ficamos tão preocupados com dinheiro. Quando gastamos em coisas que realmente importam para nós, menos ansiedade sentimos.",
+          "Acho que alinhar os gastos com o que valorizamos ajuda a sentir-nos melhor e menos preocupados com dinheiro. Não percebo bem os termos financeiros, mas sei que quando gastamos no que realmente importa, ficamos mais tranquilos.",
+          "Eu acho que se os gastos não estão alinhados com o que acreditamos ou valorizamos, isso pode fazer com que fiquemos mais stressados. Não percebo bem os termos técnicos, mas sei que quando gastamos em coisas que não são importantes para nós, isso pode nos deixar mal.",
+          "Acho que é importante alinhar os gastos com o que valorizamos, porque se gastarmos com o que realmente importa para nós, sentimos menos pressão e preocupação com o dinheiro. Não conheço bem os termos técnicos, mas parece lógico que gastar do jeito certo ajuda a ficar mais tranquilo.",
+          "Acho que é importante alinhar os gastos com o que realmente valorizamos, porque assim não fico tão preocupado com dinheiro e sinto que estou a gastar no que realmente importa para mim. Não conheço bem esses termos, mas parece lógico que se gastar bem, fico mais tranquilo.",
+          "Acho que é importante alinhar os gastos com o que realmente valorizamos na vida, porque isso pode ajudar a sentir-nos mais tranquilos e menos preocupados com o dinheiro. Não entendo bem os termos técnicos, mas se gastarmos com o que realmente importa, deve ser mais fácil gerir as nossas finanças.",
+          "Acho que se não alinharmos os nossos gastos com o que realmente valorizamos, podemos acabar por nos sentir mais stressados, porque estamos a gastar dinheiro em coisas que não nos fazem felizes. Não percebo bem esses termos técnicos, mas parece-me que faz sentido.",
+          "Acho que alinhar os gastos com o que realmente valorizamos pode ajudar a ficar mais tranquilo e não ter tanta preocupação com dinheiro. Não conheço bem esses termos financeiros, mas parece lógico que gastar com coisas que importam traz paz de espírito."
+        ],
+        "Médio": [
+          "Acho que é importante alinhar os gastos com o que realmente queremos na vida. Se gastamos em coisas que não importam, podemos não conseguir fazer o que sonhamos, como viajar ou comprar uma casa. Não sei se entendo bem os outros termos, mas essa ideia parece-me simples.",
+          "Acho que quando gastamos de acordo com o que valorizamos, ficamos mais tranquilos e não nos preocupamos tanto com dinheiro. Não conheço bem os termos, mas parece que gastar bem ajuda a sentir-se melhor.",
+          "Acho que é importante alinhar os gastos com os valores pessoais porque assim a gente fica menos preocupado com dinheiro. Se gastamos com coisas que importam para nós, não sentimos tanto stress e não nos sentimos mal por gastar.",
+          "Acho que é importante alinhar os gastos com os nossos valores porque isso pode ajudar a sentir-nos menos ansiosos sobre dinheiro. Quando gastamos em coisas que realmente importam para nós, parece que estamos a fazer melhor uso do nosso dinheiro e isso torna tudo mais fácil.",
+          "Acho que alinhar os gastos com o que valorizamos pode ajudar a sentir-nos mais tranquilos sobre o dinheiro. Não percebo muito de termos complicados, mas se gastamos com coisas que importam, talvez fiquemos menos ansiosos.",
+          "Acho que alinhar os gastos com os valores pessoais pode ser complicado e, se não fizermos isso, pode causar mais stress. Às vezes, não sei bem o que isso de valores pessoais quer dizer, mas se gastar em coisas que não são importantes para mim, isso pode deixar-me mais ansioso.",
+          "Acho que é importante alinhar os gastos com o que a gente realmente valoriza, porque isso pode ajudar a não ficar tão preocupado com dinheiro. Se gastarmos com o que realmente importa, talvez não fiquemos tão ansiosos com as contas.",
+          "Acredito que alinhar os gastos com o que é importante para nós ajuda a tirar um peso das nossas costas. Se gastamos em coisas que não importam, isso pode fazer com que fiquemos mais stressados com o dinheiro. Não conheço muito sobre os outros termos, mas faz sentido pensar assim.",
+          "Acho que alinhar os gastos com o que valorizamos ajuda a sentir-nos melhor com as nossas decisões. Se gastamos em coisas que realmente importam para nós, talvez isso nos faça sentir menos preocupados com dinheiro.",
+          "Acho que alinhar os gastos com o que realmente valorizamos pode ajudar a sentir-nos mais tranquilos com o dinheiro. Quando gastamos em coisas que são importantes para nós, provavelmente não sentimos tanta pressão ou stress sobre as finanças."
+        ],
+        "Alto": [
+          "Alinhar os gastos com os valores pessoais é crucial para manter a coerência entre as decisões financeiras e os objetivos de vida. Isso não apenas evita a acumulação de dívidas desnecessárias e o stress financeiro, mas também promove uma sensação de controle e satisfação, reduzindo a ansiedade relacionada à gestão do dinheiro.",
+          "Alinhar os gastos com os valores pessoais é crucial, pois permite que as pessoas façam escolhas financeiras que refletem o que realmente valorizam, o que, por sua vez, reduz a ansiedade financeira. Quando os gastos estão em sintonia com os valores, é mais fácil ter uma sensação de controle sobre as finanças, evitando a acumulação de dívidas desnecessárias e o stress associado.",
+          "Alinhar os gastos com os valores pessoais permite que as decisões financeiras estejam em sintonia com os objetivos e prioridades de vida, o que, por sua vez, promove uma maior sensação de controle e satisfação, reduzindo a ansiedade financeira. Reconheço que a gestão financeira pessoal deve ser orientada por valores, pois isso ajuda a evitar decisões impulsivas e dívidas desnecessárias.",
+          "Alinhar os gastos com os valores pessoais é crucial para garantir que os recursos financeiros estão a ser utilizados de forma a apoiar os objetivos de vida individuais. Quando os gastos não refletem esses valores, pode haver um desvio dos objetivos a longo prazo, levando a frustração e insatisfação.",
+          "Alinhar os gastos com os valores pessoais é fundamental para evitar conflitos internos e garantir que as despesas estão a servir propósitos significativos. Isso, por sua vez, reduz a ansiedade financeira, uma vez que promove uma gestão responsável do dinheiro e um maior controle sobre a situação financeira, evitando assim o acúmulo de dívidas desnecessárias.",
+          "Alinhar os gastos com os valores pessoais é crucial porque promove uma gestão financeira que reflete as prioridades e crenças individuais, resultando numa maior satisfação e menos stress financeiro. Reconheço que a ansiedade financeira é frequentemente uma consequência de dissonâncias entre o que gastamos e o que realmente valorizamos na vida.",
+          "Alinhar os gastos com os valores pessoais é crucial porque isso permite uma gestão financeira mais consciente e direcionada, o que, por sua vez, diminui a ansiedade financeira. Quando os gastos estão em harmonia com os nossos valores, sentimos uma maior satisfação e controle sobre as nossas finanças, evitando o stress e a acumulação de dívidas desnecessárias.",
+          "Alinhar os gastos com os valores pessoais permite uma maior congruência entre o que se gasta e o que realmente se valoriza, o que pode levar a uma maior satisfação e menos preocupações financeiras. Esta congruência reduz a ansiedade financeira, uma vez que as decisões de consumo estão mais alinhadas com os objetivos de vida e crenças pessoais, evitando assim gastos desnecessários.",
+          "Alinhar os gastos com os valores pessoais permite uma gestão financeira mais consciente e satisfatória, ajudando a evitar gastos impulsivos e a viver de acordo com o que realmente importa, o que, por sua vez, reduz a ansiedade financeira. Reconheço que a relação entre valores pessoais e decisões financeiras é crucial para o bem-estar financeiro a longo prazo.",
+          "Alinhar os gastos com os valores pessoais é fundamental para garantir que as despesas estão em consonância com o que realmente valorizamos, o que pode levar a uma maior satisfação e a uma sensação de controlo sobre as finanças. Isso, por sua vez, reduz a ansiedade financeira, pois evita a sensação de descompasso entre os nossos objetivos de vida e as nossas escolhas financeiras."
+        ]
+      }
+    },
+    {
+      "question": "Qual é um hábito financeiro que pode melhorar a gestão do dinheiro?",
+      "options": {
+        "A": "Poupar regularmente.",
+        "B": "Gastar sem planeamento.",
+        "C": "Evitar o uso de cartões de crédito.",
+        "D": "Investir em ações regularmente."
+      },
+      "hint": "Pensa em ações repetidas que beneficiam a saúde financeira.",
+      "rationale": "Estabelecer hábitos como poupar regularmente pode melhorar a gestão do dinheiro e a sensação de controlo.",
+      "tag": "Hábitos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Hábitos financeiros' e avalia claramente o conhecimento sobre hábitos que podem melhorar a gestão do dinheiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de hábitos financeiros para a gestão do dinheiro."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é 'A: Poupar regularmente'."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de hábitos financeiros, mas 'Gastar sem planeamento' é uma prática negativa e pode ser visto como menos relevante."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense em ações repetidas que beneficiam a saúde financeira, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar diretamente com exemplos do conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.7,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que usar cartões de crédito pode levar a gastar mais do que devíamos. Se não tenho dinheiro na hora, é melhor não gastar, por isso evito cartões.",
+          "Acho que poupar é sempre uma boa ideia, porque significa que guardamos um bocadinho do que ganhamos. Não entendo bem sobre investir ou cartões de crédito, mas sei que é importante ter algum dinheiro guardado para imprevistos.",
+          "Acho que poupar é sempre uma boa ideia porque assim podemos ter dinheiro guardado para imprevistos ou para comprar algo que gostamos. Não percebo bem o que são ações ou cartões de crédito, mas sei que poupar é importante.",
+          "Eu acho que usar cartões de crédito pode levar a gastar mais do que temos, então evitá-los parece uma boa ideia. Não entendo muito bem o que são ações ou poupanças, mas sei que é melhor não gastar à toa.",
+          "Acho que poupar é importante, porque assim podemos ter dinheiro guardado para coisas que precisamos no futuro. Não entendo muito bem sobre investir ou cartões de crédito, mas sei que poupar é algo que todos dizem que é bom.",
+          "Acho que poupar é sempre uma boa ideia, porque assim temos dinheiro para coisas que precisamos mais tarde. Não conheço bem sobre investir ou as outras opções, mas poupar é algo que todos devíamos fazer.",
+          "Eu acho que poupar é sempre uma boa ideia. Se guardamos um bocadinho do que ganhamos, podemos ter dinheiro para imprevistos ou para algo que realmente queremos. Não percebo muito de investimentos ou cartões de crédito, mas sei que é melhor ter um pouco guardado do que gastar tudo.",
+          "Acho que poupar é uma coisa boa, porque assim a gente tem algum dinheiro guardado para emergências ou coisas que queremos comprar. O resto das opções parece complicado ou não faz sentido para mim.",
+          "Acho que usar cartões de crédito pode ser complicado e levar a gastar mais do que se tem. Portanto, evitar cartões de crédito parece uma boa ideia para não ter problemas com dinheiro.",
+          "Acho que poupar é sempre uma boa ideia, porque é importante ter algum dinheiro guardado para emergências ou para comprar coisas que precisamos. Não entendo muito bem sobre as outras opções, mas poupar parece mais seguro."
+        ],
+        "Médio": [
+          "Eu acho que poupar regularmente é uma boa ideia porque assim temos sempre algum dinheiro guardado para emergências ou para coisas que queremos comprar. Não percebo muito de investir em ações, e evitar cartões de crédito parece complicado, por isso poupar é mais simples e direto.",
+          "Acho que poupar é bom porque ajuda a ter dinheiro para coisas que precisamos mais tarde. Não conheço bem os outros termos, como investir em ações, e evitar cartões de crédito pode ser complicado se já os usamos.",
+          "Eu acho que poupar regularmente é uma boa ideia porque assim temos sempre um dinheirinho guardado para imprevistos. Não entendo muito sobre investir ou usar cartões de crédito, mas poupar parece mais seguro.",
+          "Eu acho que poupar é importante porque assim podemos ter algum dinheiro guardado para imprevistos ou para comprar algo que queremos. Não percebo muito de investir em ações ou cartões de crédito, mas sei que poupar é uma forma de ter mais controlo sobre o que gasto.",
+          "Acho que poupar é importante porque assim temos dinheiro guardado para imprevistos ou para algo que queremos comprar mais tarde. Não conheço muito sobre investir em ações e evitar cartões de crédito parece complicado.",
+          "Acho que poupar regularmente é importante porque ajuda a ter dinheiro para imprevistos. As outras opções parecem mais complicadas ou arriscadas para mim.",
+          "Acho que poupar regularmente é uma boa ideia porque ajuda a ter dinheiro para imprevistos ou para coisas que quero comprar. Os outros termos, como investir em ações, parecem complicados e eu não sei muito sobre isso.",
+          "Acho que poupar regularmente é importante porque significa que estamos a guardar algum dinheiro para o futuro. Não sou muito bom com investimentos ou cartões de crédito, mas poupar parece uma coisa simples que todos podem fazer.",
+          "Acho que poupar é importante porque ajuda a ter dinheiro para imprevistos. As outras opções parecem mais complicadas ou arriscadas para mim.",
+          "Acho que poupar é importante porque ajuda a ter dinheiro para imprevistos. As outras opções parecem mais arriscadas ou complicadas para mim."
+        ],
+        "Alto": [
+          "Poupar regularmente é um hábito financeiro fundamental que permite construir um fundo de emergência, atingir objetivos financeiros e garantir uma melhor gestão do dinheiro a longo prazo. Este conceito é amplamente reconhecido na literacia financeira, pois a consistência na poupança ajuda a mitigar riscos financeiros futuros.",
+          "A poupança regular é fundamental para a gestão do dinheiro, pois permite acumular um fundo de emergência, planear investimentos futuros e alcançar objetivos financeiros. Este hábito também ajuda a criar disciplina financeira e a evitar dívidas desnecessárias.",
+          "Poupar regularmente é um hábito financeiro fundamental que promove a segurança financeira e a capacidade de lidar com despesas inesperadas. Reconheço a importância deste hábito, pois a disciplina na poupança permite acumular um fundo de emergência e preparar-se para objetivos de curto e longo prazo, melhorando assim a gestão do dinheiro.",
+          "Poupar regularmente é um hábito financeiro essencial que permite acumular reservas para emergências, planeamento de grandes compras e investimento a longo prazo. A disciplina da poupança ajuda a controlar gastos e a garantir que se está preparado para imprevistos, enquanto outras opções, como gastar sem planeamento, podem levar a dívidas e problemas financeiros.",
+          "A poupança regular é um hábito financeiro fundamental que permite acumular um fundo de emergência e preparar-se para despesas futuras, contribuindo para uma melhor gestão do dinheiro. Reconheço este termo como essencial em literacia financeira, pois vai ao encontro do princípio de viver dentro das possibilidades e planear financeiramente.",
+          "A poupança regular é um hábito financeiro fundamental que permite acumular capital e criar uma reserva de emergência. Este hábito ajuda a garantir que se tem sempre uma margem de manobra financeira e a evitar dívidas desnecessárias, o que é essencial para uma boa gestão do dinheiro.",
+          "A poupança regular é um hábito financeiro fundamental que permite acumular reservas para emergências e alcançar objetivos financeiros a longo prazo. Reconheço a importância da disciplina no ato de poupar, visto que contribui para uma gestão financeira sólida e para a construção de um futuro financeiro mais estável.",
+          "Poupar regularmente é um hábito financeiro essencial que permite acumular capital ao longo do tempo, criar um fundo de emergência e preparar-se para despesas futuras. Este conceito está alinhado com a prática de gestão orçamental eficaz e é fundamental para garantir a saúde financeira a longo prazo.",
+          "A opção D, \"Poupar regularmente\", é a mais correta, pois a prática de poupança sistemática permite acumular um fundo de emergência e preparar-se para despesas futuras, além de ser um princípio fundamental de boa gestão financeira. Reconheço a importância deste hábito para uma gestão financeira sólida, ao contrário das outras opções, que podem levar a uma má gestão do dinheiro.",
+          "A opção D, poupar regularmente, é um hábito financeiro fundamental que promove a gestão eficaz do dinheiro. Este hábito permite acumular uma reserva financeira, preparar-se para imprevistos e alcançar objetivos a longo prazo, refletindo uma prática de literacia financeira sólida."
+        ]
+      }
+    },
+    {
+      "question": "Que comportamento pode indicar ansiedade financeira?",
+      "options": {
+        "A": "Evitar ver o saldo da conta.",
+        "B": "Verificar o saldo da conta frequentemente.",
+        "C": "Investir em produtos financeiros complexos.",
+        "D": "Gastar sem registar as despesas."
+      },
+      "hint": "Considera ações que refletem desconforto com a situação financeira.",
+      "rationale": "Comportamentos como evitar ver o saldo da conta podem ser sinais de ansiedade financeira.",
+      "tag": "Comportamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Comportamento financeiro' e avalia um aspecto relevante desse domínio, que é a identificação de comportamentos que indicam ansiedade financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona comportamentos que podem manifestar ansiedade financeira, como evitar ver o saldo da conta."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de comportamento financeiro, mas a opção B, por exemplo, pode não ser diretamente associada à ansiedade financeira."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante considere ações que refletem desconforto, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar explicitamente com o conteúdo-fonte que discute a ansiedade financeira."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 0.6,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que evitar ver o saldo da conta é uma forma de lidar com a ansiedade, porque pode ser desconfortável ver que não temos muito dinheiro. Não conheço bem os termos financeiros, mas parece que isso é algo que as pessoas fazem quando estão preocupadas com o que têm ou não têm.",
+          "Eu não percebo muito bem de finanças, mas acho que se alguém tem medo de ver quanto dinheiro tem, pode estar um bocadinho ansioso com isso. Não conheço esses termos complicados, mas parece que evitar olhar para a conta é um sinal de que a pessoa está preocupada.",
+          "Acho que evitar ver o saldo da conta pode ser um sinal de ansiedade, porque se a pessoa está preocupada com dinheiro, pode não querer saber o que realmente tem. Não entendo bem esses termos financeiros, mas parece que é algo que acontece quando estamos nervosos sobre as nossas finanças.",
+          "Eu acho que evitar ver o saldo da conta pode ser um sinal de que a pessoa está ansiosa sobre o dinheiro. Não percebo bem os termos financeiros, mas se alguém não quer olhar para quanto tem, pode ser porque está preocupada.",
+          "Acho que evitar ver o saldo da conta é uma coisa que faz sentido, porque pode dar uma sensação de ansiedade. Não conheço bem os termos técnicos, mas imagino que quem tem medo de olhar para a conta pode estar preocupado com o dinheiro.",
+          "Acho que evitar ver o saldo da conta é algo que alguém faria se estivesse preocupado com dinheiro, porque pode ter medo de ter menos do que pensava. Não conheço bem os termos técnicos, mas só de pensar em dinheiro já dá um certo nervosismo.",
+          "Acho que evitar ver o saldo da conta é um sinal de ansiedade financeira, porque se a pessoa tem medo de olhar, é porque deve estar preocupada com o dinheiro. Não conheço bem os termos financeiros, mas parece que quem tem ansiedade não quer enfrentar a situação.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa está preocupada com o que vai encontrar, como se não quisesse enfrentar a verdade sobre o dinheiro. Não conheço bem os termos técnicos, mas parece que quem faz isso está ansioso com as suas finanças.",
+          "Eu não percebo muito sobre finanças, mas acho que quem tem ansiedade financeira pode não querer ver o saldo da conta porque tem medo de ver que não tem dinheiro ou que gastou demais. Para mim, isso parece uma reação normal.",
+          "Acho que evitar ver o saldo da conta é um sinal de ansiedade financeira, porque se a pessoa não quer olhar, pode estar preocupada com o que vai encontrar. Não entendo bem os termos técnicos, mas parece lógico que alguém que tem medo de ver o que gastou ou se está a ficar sem dinheiro está ansioso."
+        ],
+        "Médio": [
+          "Acho que evitar ver o saldo da conta pode ser um sinal de ansiedade financeira, porque se a pessoa tem medo do que vai ver, pode estar preocupada com dinheiro. Não conheço bem esses termos, mas parece lógico. As outras opções não me soam tão preocupantes.",
+          "Acho que evitar ver o saldo pode ser um sinal de ansiedade, porque se não quero olhar, talvez esteja preocupado com o que vou encontrar. Não conheço bem os termos, mas parece que isso faz sentido.",
+          "Acho que evitar ver o saldo da conta pode ser um sinal de que alguém está preocupado com dinheiro e não quer encarar a situação. Não conheço bem os termos mais complicados, mas faz sentido querer ignorar algo que causa ansiedade.",
+          "Eu acho que verificar o saldo da conta muitas vezes pode ser um sinal de que a pessoa está preocupada com o dinheiro. Para mim, isso pode mostrar que tem medo de não ter o suficiente ou de gastar demais. Os outros termos não são tão claros para mim.",
+          "Acho que uma pessoa ansiosa em relação ao dinheiro pode querer saber sempre quanto tem na conta, então verifica muito. Não conheço bem os termos técnicos, mas parece-me que quem tem medo de ficar sem dinheiro vai querer ter certeza do que tem.",
+          "Acho que a melhor opção é a B, porque se alguém está sempre a olhar para o saldo, pode estar preocupado com o dinheiro. Não entendo muito de finanças, mas sei que ver o saldo muitas vezes pode ser sinal de ansiedade.",
+          "Acho que se alguém está sempre a ver o saldo da conta, pode ser porque está preocupado com o dinheiro e como está a gastar. Eu não conheço bem os termos, mas parece que é uma forma de ansiedade.",
+          "Acho que evitar ver o saldo da conta pode ser um sinal de ansiedade, porque se a pessoa estiver preocupada com o dinheiro, pode ter medo de ver que não tem muito. Não conheço bem os outros termos, mas parece que esta resposta faz mais sentido.",
+          "Acho que evitar ver o saldo da conta pode ser um sinal de ansiedade, porque se a pessoa tem medo de ver quanto tem ou se deve dinheiro, é provável que esteja preocupada com as finanças. Não estou muito certo sobre os outros termos, mas isso faz sentido para mim.",
+          "Acho que evitar ver o saldo da conta é um sinal de que a pessoa está preocupada com o dinheiro. Não conheço bem todos os termos, mas se alguém não quer olhar para o que tem, pode ser porque está ansioso com isso."
+        ],
+        "Alto": [
+          "A opção A, que indica evitar ver o saldo da conta, é um comportamento que pode refletir ansiedade financeira, pois a pessoa pode estar a evitar confrontar a realidade das suas finanças. Reconheço os termos usados e a relação entre a ansiedade financeira e a aversão a verificar informações financeiras, uma vez que lidar com a realidade da situação pode ser demasiado stressante.",
+          "A opção D, 'Evitar ver o saldo da conta', é um comportamento que pode indicar ansiedade financeira, pois muitas pessoas com essa ansiedade tendem a ignorar a situação financeira para não enfrentar a realidade das suas finanças. Esta escolha reflete bem o comportamento de evasão comum em pessoas que têm dificuldades em lidar com o stress financeiro.",
+          "A opção C, \"Evitar ver o saldo da conta\", é um comportamento que pode indicar ansiedade financeira, pois muitas pessoas que enfrentam preocupações sobre suas finanças tendem a evitar confrontar a realidade de sua situação financeira. Este comportamento reflete uma tentativa de escapar da ansiedade em vez de abordá-la de forma proativa, o que é comum em situações de incerteza financeira.",
+          "Evitar ver o saldo da conta é um comportamento que pode indicar ansiedade financeira, pois reflete uma tentativa de evitar o confronto com uma situação financeira potencialmente estressante. Reconheço que essa evasão pode ser um sinal de falta de controle ou medo sobre a própria situação financeira, o que se alinha com comportamentos típicos de pessoas que enfrentam ansiedade financeira.",
+          "Evitar ver o saldo da conta é um comportamento que pode indicar ansiedade financeira, pois reflete uma dificuldade em confrontar a realidade financeira e um medo de descobrir a situação económica. Este comportamento é frequentemente associado a pessoas que sentem pressão ou preocupação em relação à sua gestão financeira.",
+          "A opção A, \"Evitar ver o saldo da conta\", sugere um comportamento típico de ansiedade financeira, pois a pessoa pode temer a realidade das suas finanças. Ao não verificar o saldo, evita o confronto com a situação financeira, o que é indicativo de ansiedade. Reconheço os termos usados, pois são relevantes para entender o comportamento financeiro e as suas implicações emocionais.",
+          "A ansiedade financeira frequentemente leva as pessoas a evitarem a confrontação com a sua situação financeira, o que se reflete no comportamento de evitar ver o saldo da conta. Isso contrasta com a verificação frequente, que pode indicar uma necessidade de controle, mas também pode ser um sinal de ansiedade, dependendo do contexto.",
+          "A opção C indica uma forma de negação e evasão comum em pessoas que sentem ansiedade financeira. Evitar verificar o saldo da conta pode refletir um medo da realidade financeira, o que é um comportamento típico associado a essa ansiedade. Por outro lado, as outras opções, como verificar frequentemente ou investir em produtos complexos, podem indicar uma tentativa de controle ou busca de informação, em vez de ansiedade.",
+          "A opção B, 'Evitar ver o saldo da conta', é um comportamento que pode indicar ansiedade financeira, pois reflete uma evasão da realidade financeira que a pessoa pode estar enfrentando. A ansiedade financeira muitas vezes leva as pessoas a evitar confrontar a sua situação económica, o que pode resultar em maior stress e incerteza.",
+          "A opção B indica um comportamento típico de ansiedade financeira, pois a evitação de verificar o saldo pode refletir um medo ou preocupação em relação à situação financeira. Reconheço que este comportamento pode ser prejudicial, pois a literacia financeira sugere que a monitorização regular das finanças é crucial para um bom planeamento e gestão do orçamento."
+        ]
+      }
+    },
+    {
+      "question": "Como pode uma identidade financeira positiva influenciar a gestão das finanças pessoais?",
+      "options": {
+        "A": "Aumenta a confiança na gestão.",
+        "B": "Diminui a confiança na gestão.",
+        "C": "Torna a gestão financeira mais complicada.",
+        "D": "Leva a decisões financeiras impulsivas."
+      },
+      "hint": "Pensa no impacto da autoimagem sobre decisões financeiras.",
+      "rationale": "Uma identidade financeira positiva pode levar a decisões financeiras mais saudáveis e a uma maior confiança na gestão das finanças pessoais.",
+      "tag": "Identidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Identidade financeira' e avalia claramente o conhecimento sobre como a identidade financeira pode influenciar a gestão das finanças pessoais."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não aborde diretamente a identidade financeira, a relação é implícita e relevante."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de identidade financeira, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre a autoimagem, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais explícita ao conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acredito que ter uma boa situação financeira faz com que as pessoas se sintam mais seguras nas suas decisões, mesmo que eu não perceba bem os termos técnicos. Quando alguém está a gerir bem o seu dinheiro, parece que tudo fica mais fácil e as escolhas são mais claras.",
+          "Acho que ter uma boa situação financeira faz com que as pessoas se sintam mais seguras para lidar com o dinheiro. Se eu tivesse mais dinheiro ou menos dívidas, provavelmente me sentiria melhor a tomar decisões sobre o que fazer com o que tenho. Não entendo bem os termos financeiros, mas parece lógico que estar bem financeiramente ajuda.",
+          "Acredito que ter uma boa identidade financeira faz com que as pessoas se sintam mais seguras em lidar com o dinheiro. Assim, é mais fácil gerir as finanças sem tanto medo de errar.",
+          "Acho que ter uma boa situação financeira faz as pessoas se sentirem mais seguras e confiantes quando lidam com o dinheiro. Não entendo bem os termos, mas parece lógico que quem está bem financeiramente vai tomar melhores decisões.",
+          "Acho que ter uma boa identidade financeira faz com que as pessoas se sintam mais seguras e confiantes na hora de lidar com o dinheiro. Não conheço muito sobre termos técnicos, mas parece lógico que quem se sente bem com as suas finanças vai gerir melhor.",
+          "Penso que ter uma boa identidade financeira deve fazer com que a pessoa se sinta mais à vontade para tomar decisões sobre o seu dinheiro. Não conheço bem os termos, mas acredito que se sentir confiante ajuda a gerir melhor as finanças pessoais.",
+          "Eu acho que uma identidade financeira positiva faz a pessoa sentir-se mais segura e confiante sobre o que está a fazer com o dinheiro. Não conheço bem os termos técnicos, mas parece que quando alguém se sente bem com as suas finanças, é mais fácil gerir tudo.",
+          "Eu acho que uma identidade financeira positiva faz com que as pessoas se sintam melhor sobre o que estão a fazer com o dinheiro. Se alguém se sente confiante, provavelmente vai tomar melhores decisões em vez de fazer compras por impulso.",
+          "Acho que ter uma boa identidade financeira significa que a pessoa se sente mais segura e tranquila sobre o seu dinheiro. Isso faz com que tome melhores decisões, em vez de andar a fazer compras sem pensar.",
+          "Acho que ter uma boa situação financeira faz com que as pessoas se sintam mais seguras e confiantes nas suas decisões. Mesmo que não entenda bem os termos complicados, sei que se sentir bem em relação ao dinheiro é importante para gerir melhor as finanças."
+        ],
+        "Médio": [
+          "Acho que ter uma boa identidade financeira faz com que a pessoa se sinta melhor a gerir o dinheiro. Se souber que tem dinheiro ou que consegue poupar, isso dá mais confiança para tomar decisões sobre as finanças, mesmo que eu não perceba bem os termos.",
+          "Acho que ter uma boa identidade financeira faz com que as pessoas se sintam mais seguras sobre o que estão a fazer com o seu dinheiro. Se as coisas estão a correr bem, é mais fácil gerir as finanças. Não entendo muito bem os termos, mas parece-me que quando estamos bem, ficamos mais confiantes.",
+          "Acredito que se tivermos uma boa situação financeira, isso nos faz sentir mais seguros em tomar decisões sobre dinheiro. Se soubermos que estamos a poupar bem e a pagar as dívidas, podemos gerir melhor as nossas finanças. Não reconheço todos os termos, mas parece-me que uma boa identidade financeira é positiva.",
+          "Eu acho que uma identidade financeira positiva ajuda as pessoas a sentirem-se melhor sobre as suas finanças. Se alguém sente que está a fazer as coisas bem, provavelmente vai ter mais confiança para tomar boas decisões, mesmo que eu não saiba muito sobre termos financeiros complicados.",
+          "Acho que ter uma identidade financeira positiva faz com que as pessoas se sintam mais seguras sobre as suas finanças. Quando alguém se sente bem com o que tem, é mais fácil tomar boas decisões, em vez de agir sem pensar.",
+          "Acho que ter uma boa identidade financeira pode fazer com que as pessoas se sintam mais seguras em controlar o seu dinheiro. Não percebo muito bem os termos complicados, mas parece que quando estamos bem com as nossas finanças, tomamos melhores decisões.",
+          "Penso que ter uma identidade financeira positiva faz a pessoa sentir-se melhor sobre o que está a fazer com o dinheiro. Assim, é mais fácil tomar decisões e gerir as finanças. Não conheço bem os termos usados, mas parece que esta opção faz sentido.",
+          "Acho que ter uma boa identidade financeira faz a pessoa sentir-se melhor e mais confiante em lidar com o dinheiro. Não conheço bem os termos financeiros, mas parece lógico que se a pessoa se sente bem com as suas finanças, vai gerir melhor.",
+          "Acho que ter uma identidade financeira positiva significa que as coisas estão a correr bem e isso ajuda a sentir-me mais seguro com o que faço com o dinheiro. Não percebo bem todos os termos, mas parece que se tiver uma boa imagem financeira, fico mais confiante.",
+          "Acho que uma identidade financeira positiva é boa porque dá mais confiança para lidar com o dinheiro. Se a pessoa se sente bem com as suas finanças, é mais fácil tomar decisões e não ficar tão nervosa com isso."
+        ],
+        "Alto": [
+          "Uma identidade financeira positiva, que se refere a uma boa situação financeira e a uma perceção favorável sobre as próprias finanças, geralmente aumenta a confiança na gestão das finanças pessoais. Isso permite uma melhor tomada de decisões, como orçamentos mais eficazes e investimentos mais informados, ao contrário das opções que indicam impulsividade ou complicações na gestão.",
+          "Uma identidade financeira positiva geralmente resulta em maior autoconfiança na gestão das finanças pessoais, pois as pessoas sentem-se mais capazes de tomar decisões financeiras informadas e sustentáveis. Reconheço que a confiança é um fator crítico na literacia financeira, pois impacta a forma como os indivíduos abordam o planeamento e a execução de orçamentos e poupanças.",
+          "Uma identidade financeira positiva geralmente resulta em maior segurança e confiança na gestão das finanças pessoais. Isso permite que o indivíduo tome decisões mais informadas e eficazes, em vez de se deixar levar por impulsos ou inseguranças, refletindo uma compreensão sólida dos conceitos de orçamento e planeamento financeiro.",
+          "Uma identidade financeira positiva geralmente resulta em maior confiança na gestão das finanças pessoais, pois reflete uma boa compreensão e controle sobre os recursos financeiros. Este aumento de confiança pode levar a decisões mais informadas e a um planejamento financeiro mais eficaz.",
+          "Uma identidade financeira positiva, que implica um bom controlo sobre as finanças e um histórico de decisões financeiras saudáveis, aumenta a confiança na gestão das finanças pessoais. Isto permite que o indivíduo tome decisões mais informadas e estratégicas, ao invés de se sentir inseguro ou propenso a decisões impulsivas.",
+          "Uma identidade financeira positiva está associada a uma boa gestão financeira e a um histórico de decisões financeiras bem-sucedidas, o que naturalmente aumenta a confiança na capacidade de gerir as finanças. Reconheço que a confiança é um fator essencial para a tomada de decisões financeiras racionais e informadas.",
+          "Uma identidade financeira positiva geralmente está associada a uma maior autoconfiança nas decisões financeiras e na capacidade de gerir o orçamento, o que permite uma melhor gestão das finanças pessoais. Reconheço que este conceito está relacionado com a percepção do indivíduo sobre a sua situação financeira e como isso impacta a sua abordagem em relação a poupança e investimento.",
+          "Uma identidade financeira positiva, que implica um bom controlo sobre as finanças e uma compreensão sólida dos próprios objetivos financeiros, aumenta a confiança na gestão das finanças pessoais. Isso resulta numa abordagem mais racional e objetiva nas decisões financeiras, ao invés de impulsivas, o que é crucial para uma boa literacia financeira.",
+          "Uma identidade financeira positiva, que é construída através de uma boa gestão de finanças pessoais, aumenta a confiança na capacidade de tomar decisões financeiras informadas e eficientes. Isso resulta em um comportamento financeiro mais responsável e uma melhor abordagem ao planeamento e à poupança.",
+          "Uma identidade financeira positiva reflete um bom entendimento e controlo das finanças pessoais, o que naturalmente aumenta a confiança na gestão. Terminologias como 'identidade financeira' e 'gestão' são reconhecíveis e relevantes no contexto de literacia financeira, pois a confiança é um fator crucial para a tomada de decisões informadas e responsáveis."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma estratégia simples para manter a disciplina financeira?",
+      "options": {
+        "A": "Definir metas mensuráveis.",
+        "B": "Evitar definir qualquer meta.",
+        "C": "Fazer compras sem lista.",
+        "D": "Ignorar o orçamento mensal."
+      },
+      "hint": "Considera formas de manter o foco nas finanças.",
+      "rationale": "Definir metas simples e mensuráveis, como \"guardar 20€/semana\", pode ajudar a manter o foco e a consistência nas finanças.",
+      "tag": "Autocontrolo e disciplina",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de autocontrolo e disciplina, pois aborda estratégias para manter a disciplina financeira, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de definir metas para manter o controle financeiro."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a definição de metas mensuráveis."
+        },
+        "distractor_quality": {
+          "score": 5,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de disciplina financeira, representando erros comuns que as pessoas podem cometer."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica sobre a importância de definir metas."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de definir metas para manter o foco nas finanças."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.3,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que definir metas é uma boa ideia, mesmo que não perceba bem o que significa 'mensuráveis'. Se tiver um objetivo, como poupar um pouco de dinheiro, ajuda a saber para onde estou a ir e a manter-me focado.",
+          "Acho que se não definir metas, não tenho pressão para seguir um plano. Metas parecem complicadas e podem fazer-me sentir mal se não as cumprir. Para mim, é melhor não pensar muito nisso.",
+          "Eu não percebo muito de finanças e parece que se não definir metas, assim não tenho pressão. Se não tenho um plano, posso gastar como quiser, e isso parece mais fácil.",
+          "Eu acho que se não tiver nenhuma meta, é mais fácil não me preocupar com dinheiro. Definir metas e orçamentos parece complicado e confuso, e eu não entendo essas coisas bem.",
+          "Acho que, se não definir metas, é mais fácil ir vivendo o dia-a-dia e não me preocupar com números complicados. Não entendo muito bem essas estratégias todas, e às vezes é mais simples não ter que pensar em objetivos.",
+          "Eu não percebo bem essas coisas de finanças e metas. Para mim, é mais fácil não pensar em nada disso e só viver o dia a dia. Definir metas parece complicado e eu não sei bem o que isso significa.",
+          "Eu não percebo muito bem de finanças, mas acho que se não tiver metas, fico mais relaxado e não me preocupo tanto com o dinheiro. Definir metas parece complicado e estressante.",
+          "Acho que se não definir metas, é mais fácil não me preocupar com o dinheiro. Definir metas parece complicado e eu não conheço bem esses termos, então melhor não ter que pensar nisso.",
+          "Acho que é melhor não ter metas porque, assim, não me sinto pressionado. Definir metas parece complicado e pode ser uma chatice, então é melhor viver sem isso.",
+          "Acho que fazer compras sem lista é mais fácil, porque assim posso comprar o que me apetece na hora. Não percebo bem de metas ou orçamentos, então não vejo isso como importante."
+        ],
+        "Médio": [
+          "Acho que definir metas é importante porque assim posso saber o que quero alcançar e, se forem mensuráveis, fica mais fácil de ver se estou a conseguir. Não percebo bem o que são metas mensuráveis, mas parece que ajuda a manter as coisas organizadas.",
+          "Eu acho que fazer compras sem lista é melhor porque assim posso comprar o que quero na hora. Não percebo bem o que são metas mensuráveis, parece complicado e não sei se consigo seguir um orçamento. Portanto, prefiro não pensar muito nisso.",
+          "Acho que fazer compras sem lista é mais fácil, porque assim posso comprar o que me apetece na hora. Não gosto muito de pensar em metas ou orçamentos, porque isso parece complicado e chato.",
+          "Para mim, definir metas parece complicado e pode causar pressão. Se não tiver metas, posso simplesmente gastar o que tenho e não me preocupar com isso.",
+          "Para mim, pode ser mais fácil não pensar muito em orçamentos e deixar as coisas seguirem. Definir metas parece complicado e eu não entendo bem como fazer isso, por isso acho que ignorar o orçamento é uma forma de não me preocupar com isso.",
+          "Acho que definir metas é importante porque assim sei para onde estou a ir com o meu dinheiro. Embora não perceba bem o que significa 'mensuráveis', parece que é algo que ajuda a manter o foco e a disciplina.",
+          "Acho que a melhor forma de manter a disciplina é não se preocupar muito com o orçamento, porque isso pode ser complicado. Para mim, é mais fácil gastar o que quero e não pensar muito sobre isso.",
+          "Acho que ignorar o orçamento é uma maneira de não me preocupar com números complicados. Não sou muito bom com essas coisas de finanças, então parece mais fácil não pensar nisso.",
+          "Eu acho que evitar definir qualquer meta é mais fácil, porque assim não tenho que me preocupar com números e objetivos. Metas e termos como 'mensuráveis' confundem-me um bocado, e prefiro não complicar.",
+          "Acho que definir metas é importante para saber o que queremos alcançar com o nosso dinheiro. Embora não saiba bem o que significa 'mensuráveis', parece-me que é uma maneira de ter um foco e não gastar à toa."
+        ],
+        "Alto": [
+          "A definição de metas mensuráveis é uma estratégia fundamental para manter a disciplina financeira, pois permite que o indivíduo tenha um objetivo claro e mensurável a alcançar, facilitando o acompanhamento dos progressos e a adaptação do comportamento de consumo. Ignorar o orçamento ou não definir metas pode levar a desorganização financeira e desvio dos objetivos de poupança e investimento.",
+          "A definição de metas mensuráveis é uma estratégia fundamental para manter a disciplina financeira, pois permite acompanhar o progresso em relação a objetivos específicos, tornando-os mais tangíveis e alcançáveis. Ignorar o orçamento ou evitar estabelecer metas compromete a capacidade de controlar gastos e alcançar uma saúde financeira sólida.",
+          "Definir metas mensuráveis é uma estratégia fundamental para manter a disciplina financeira, pois permite que o indivíduo visualize o seu progresso e ajuste o seu comportamento em conformidade. Ignorar o orçamento ou evitar definir metas apenas contribui para a desorganização financeira e a falta de controle sobre as despesas.",
+          "Definir metas mensuráveis é uma estratégia eficaz para manter a disciplina financeira, pois permite acompanhar o progresso, ajustar comportamentos e fomentar a responsabilização. Reconheço que a definição de metas claras e alcançáveis é fundamental para o sucesso no planeamento financeiro, uma vez que proporciona um foco e uma motivação constantes.",
+          "A definição de metas mensuráveis é uma estratégia fundamental para manter a disciplina financeira, pois permite que uma pessoa acompanhe o progresso em relação aos seus objetivos financeiros e ajuste o comportamento de acordo. Ao contrário das outras opções, que promovem a falta de organização e planejamento, esta abordagem é alinhada com princípios de gestão financeira eficaz.",
+          "Definir metas mensuráveis é fundamental para manter a disciplina financeira, pois proporciona um objetivo claro e permite monitorizar o progresso. Ignorar o orçamento ou não definir metas pode levar a gastos descontrolados e falta de direcção financeira.",
+          "A definição de metas mensuráveis é uma estratégia fundamental para manter a disciplina financeira, pois permite acompanhar o progresso e ajustar comportamentos para atingir os objetivos financeiros. Ignorar orçamentos ou evitar metas leva à falta de controle e à dificuldade em gerir as finanças pessoais de forma eficaz.",
+          "Definir metas mensuráveis é uma estratégia eficaz para manter a disciplina financeira, pois permite que o indivíduo tenha um objetivo claro a atingir, tornando mais fácil monitorizar o progresso e ajustar comportamentos. Compreendo a importância de estabelecer metas específicas, pois isso ajuda a criar um orçamento realista e a manter a motivação ao longo do tempo.",
+          "A definição de metas mensuráveis é uma estratégia fundamental para a disciplina financeira, pois permite que uma pessoa possa acompanhar o seu progresso e ajustar o seu comportamento de consumo de acordo com objetivos claros e quantificáveis. Ignorar o orçamento ou fazer compras sem lista contraria princípios básicos de gestão financeira eficaz.",
+          "Definir metas mensuráveis é uma técnica fundamental para manter a disciplina financeira, pois permite que uma pessoa tenha objetivos claros e quantificáveis, facilitando o acompanhamento do progresso e a motivação para cumprir o orçamento. Ignorar o orçamento ou não definir metas resulta em falta de controle financeiro, o que pode levar a dificuldades na gestão de despesas e poupança."
+        ]
+      }
+    },
+    {
+      "question": "Porque é importante ter um propósito financeiro claro?",
+      "options": {
+        "A": "Ajuda a evitar gastos impulsivos.",
+        "B": "Facilita a acumulação de dívidas.",
+        "C": "Aumenta a probabilidade de gastar sem pensar.",
+        "D": "Torna os objetivos financeiros menos claros."
+      },
+      "hint": "Reflete sobre a motivação para poupar ou investir.",
+      "rationale": "Ter um propósito financeiro claro pode motivar a pessoa a tomar decisões financeiras mais conscientes e a evitar gastos impulsivos.",
+      "tag": "Propósito financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Propósito financeiro', pois questiona sobre a importância de ter um propósito claro nas finanças pessoais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância do 'poder da intenção' e como um objetivo claro pode ajudar a evitar gastos impulsivos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de propósito financeiro, mas as opções B, C e D são claramente incorretas, o que pode ser um pouco confuso."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil para refletir sobre a motivação, mas poderia ser mais específica em relação ao propósito financeiro."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a motivação e a tomada de decisões financeiras."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que ter um propósito financeiro claro deve ajudar a não comprar coisas de que não precisamos. Não conheço bem os termos financeiros, mas parece que se tivermos um objetivo, não vamos gastar à toa.",
+          "Acho que ter um propósito financeiro claro é importante porque ajuda a controlar melhor os gastos e a não comprar coisas que não precisamos. Não entendo muito sobre termos financeiros, mas faz sentido querer gastar com o que realmente importa.",
+          "Para mim, ter um propósito financeiro claro significa saber o que quero fazer com o meu dinheiro, então isso ajuda a não comprar coisas que não preciso. Não conheço bem os termos técnicos, mas acho que se eu tiver um plano, fico menos tentado a gastar à toa.",
+          "Acho que ter um propósito claro ajuda a gente a saber o que realmente queremos e assim evita que compremos coisas só porque sim. Não entendo bem os termos financeiros, mas parece que focar no que queremos vai nos ajudar a não gastar à toa.",
+          "Eu acho que ter um propósito financeiro claro é importante porque ajuda a não comprar coisas só por impulso. Sem saber o que queremos, podemos acabar a gastar dinheiro à toa.",
+          "Eu penso que ter um propósito financeiro claro é importante porque ajuda a não gastar dinheiro à toa. Se soubermos o que queremos, ficamos mais focados e não compramos coisas desnecessárias.",
+          "Acho que ter um objetivo financeiro ajuda a pessoa a não gastar dinheiro à toa. Mesmo que não perceba bem os termos, faz sentido pensar que se souber o que quer, não vai comprar coisas desnecessárias.",
+          "Acho que ter um propósito financeiro é importante porque assim não gastamos dinheiro à toa. Quando sabemos o que queremos, fica mais fácil controlar os nossos gastos e não fazer compras desnecessárias.",
+          "Acho que ter um propósito financeiro claro deve tornar as coisas mais complicadas, porque se calhar é mais fácil gastar sem pensar. Não entendo bem esses termos técnicos, mas parece que quanto mais objetivos tiver, mais confuso fica tudo.",
+          "Acho que ter um propósito financeiro é importante porque ajuda a pensar melhor antes de gastar. Não conheço bem os termos financeiros, mas parece que se tivermos um objetivo claro, não vamos comprar coisas só porque sim."
+        ],
+        "Médio": [
+          "Eu acho que ter um propósito financeiro claro é bom porque ajuda a não gastar dinheiro à toa. Se temos um objetivo, como poupar para algo, é mais fácil resistir a compras que não precisamos.",
+          "Eu acho que ter um propósito financeiro ajuda a evitar que a gente compre coisas que não precisamos. Se tivermos um objetivo, como poupar para uma viagem, vamos pensar duas vezes antes de gastar dinheiro em coisas desnecessárias.",
+          "Acho que ter um propósito financeiro é importante porque ajuda a não gastar dinheiro à toa. Se soubermos o que queremos fazer com o nosso dinheiro, provavelmente vamos pensar duas vezes antes de comprar coisas que não precisamos.",
+          "Eu acho que é importante ter um propósito financeiro claro porque ajuda a evitar gastar dinheiro à toa. Se soubermos o que queremos comprar ou poupar, não vamos comprar coisas que não precisamos.",
+          "Eu acho que ter um propósito financeiro claro é importante porque ajuda a pensar melhor antes de gastar. Assim, não se gasta só por gastar, e isso é bom para não acumular dívidas.",
+          "Eu acho que ter um propósito financeiro claro é importante porque ajuda a não gastar dinheiro à toa. Se tenho um objetivo, como poupar para uma viagem, isso faz-me pensar duas vezes antes de comprar coisas que não preciso.",
+          "Acho que é importante ter um propósito financeiro, porque assim a gente evita gastar dinheiro à toa. Se tivermos um objetivo claro, sabemos melhor onde gastar e o que poupar.",
+          "Acho que ter um propósito financeiro ajuda a saber o que queremos e evita que compremos coisas que não precisamos. Assim, não gastamos dinheiro à toa.",
+          "Acho que ter um propósito financeiro ajuda a não gastar dinheiro à toa, tipo quando vejo algo que quero comprar mas sei que não é importante. Não conheço todos os termos técnicos, mas faz sentido ter um objetivo para não me desviar.",
+          "Acho que ter um propósito financeiro claro é importante porque ajuda a não gastar dinheiro à toa, tipo quando vejo algo que quero comprar só porque está à venda. Não percebo bem o que são dívidas ou objetivos financeiros de forma técnica, mas sei que é melhor ter um plano para o meu dinheiro."
+        ],
+        "Alto": [
+          "Ter um propósito financeiro claro é fundamental porque proporciona um foco que ajuda a evitar gastos impulsivos. Com objetivos bem definidos, como a poupança para a compra de uma casa ou a constituição de um fundo de emergência, é mais fácil resistir a tentações que desvirtuam o planejamento financeiro.",
+          "Ter um propósito financeiro claro é fundamental na gestão das finanças pessoais, pois proporciona uma direção e objetivos definidos, o que, por sua vez, ajuda a evitar decisões de consumo impulsivas. Reconheço que a definição de objetivos financeiros claros é um conceito comum em literacia financeira, pois permite alinhar os gastos com as metas a longo prazo, aumentando a disciplina financeira.",
+          "Um propósito financeiro claro atua como um guia que orienta as decisões de consumo, ajudando a evitar gastos desnecessários e impulsivos. Reconheço que um planejamento financeiro eficaz requer a definição de metas específicas, o que contribui para uma gestão mais responsável dos recursos.",
+          "Ter um propósito financeiro claro permite estabelecer prioridades e objetivos específicos, o que, por sua vez, ajuda a evitar gastos impulsivos que não estão alinhados com esses objetivos. Ao ter uma visão definida do que se pretende alcançar financeiramente, é mais fácil resistir a tentações de consumo que podem desviar do plano de poupança e investimento.",
+          "Ter um propósito financeiro claro orienta as decisões de gasto, ajudando a manter o foco nos objetivos a longo prazo e a evitar a tentação de gastos não planejados. Isso está diretamente relacionado à disciplina financeira e ao controle orçamental, conceitos fundamentais na literacia financeira.",
+          "Um propósito financeiro claro é crucial, pois orienta as decisões de gasto e poupança, ajudando a evitar compras por impulso e a manter o foco nos objetivos a longo prazo. Reconheço que um objetivo bem definido contribui para uma gestão mais eficaz do orçamento e para a construção de uma saúde financeira sólida.",
+          "Ter um propósito financeiro claro é fundamental porque permite definir metas específicas e realistas, orientando assim as decisões de consumo e ajudando a evitar gastos impulsivos. Reconheço que a definição de um propósito financeiro é um conceito essencial na gestão do orçamento e na construção de uma poupança sólida.",
+          "Ter um propósito financeiro claro permite que uma pessoa estabeleça prioridades e metas específicas, o que, por sua vez, ajuda a evitar decisões financeiras precipitadas e impulsivas. Este conceito é fundamental na gestão financeira, pois a clareza nos objetivos promove uma melhor disciplina e controle sobre os gastos.",
+          "Um propósito financeiro claro estabelece uma direção e prioriza objetivos, o que é fundamental para a gestão do orçamento e a disciplina financeira. Com um propósito, é mais fácil resistir a tentações e evitar decisões financeiras precipitadas, promovendo a poupança e o investimento a longo prazo.",
+          "Ter um propósito financeiro claro permite que uma pessoa defina metas específicas e realistas, o que a ajuda a manter o foco e a disciplina nos seus gastos. Isso diminui a probabilidade de decisões financeiras baseadas em impulsos, promovendo uma gestão mais eficaz do orçamento e da poupança."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma forma de mitigar comportamentos financeiros ansiosos?",
+      "options": {
+        "A": "Melhorar a literacia financeira.",
+        "B": "Ignorar a situação financeira atual.",
+        "C": "Evitar falar sobre dinheiro.",
+        "D": "Focar-se apenas em ganhos a curto prazo."
+      },
+      "hint": "Pensa em como ganhar conhecimento pode ajudar.",
+      "rationale": "Melhorar a literacia financeira e ter clareza sobre a situação financeira pode ajudar a mitigar comportamentos financeiros ansiosos.",
+      "tag": "Comportamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Comportamento financeiro' e avalia o conhecimento sobre como mitigar a ansiedade financeira, que é um aspecto importante desse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a melhoria da literacia financeira como uma forma de reduzir a ansiedade financeira."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de comportamento financeiro, embora a opção D possa ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre como o conhecimento pode ajudar, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da literacia financeira para mitigar a ansiedade."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.5,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Penso que evitar falar sobre dinheiro é uma maneira de não pensar muito nos problemas. Se não falamos sobre isso, parece que não existe, e assim não fico ansioso. Não entendo bem os outros termos, parecem complicados.",
+          "Eu acho que se não falarmos sobre dinheiro, não vamos nos preocupar tanto com isso. Não entendo muito bem os termos técnicos, então prefiro não pensar muito no assunto.",
+          "Eu não entendo muito bem esses termos financeiros, mas acho que se focar em ganhar dinheiro rápido pode fazer as pessoas se sentirem melhor, mesmo que não seja uma boa ideia a longo prazo. Melhor do que pensar nos problemas, certo?",
+          "Para mim, falar sobre dinheiro pode ser desconfortável, então evitar esses assuntos parece mais fácil. Não entendo bem os termos complicados, por isso prefiro não pensar muito nisso.",
+          "Acho que se não falarmos sobre dinheiro, não vamos ficar nervosos com isso. Não entendo bem o que significa melhorar a literacia financeira, e focar em ganhos a curto prazo parece arriscado. Ignorar a situação não parece uma boa ideia, então evito falar sobre o assunto.",
+          "Eu acho que evitar falar sobre dinheiro é uma boa forma de não ficar ansioso. Não percebo muito bem esses termos complicados, e se não falarmos sobre isso, talvez não tenhamos que nos preocupar.",
+          "Acho que evitar falar sobre dinheiro é uma boa ideia, porque assim não fico nervoso ou ansioso. Não entendo muito sobre finanças e os termos técnicos só me confundem mais, então falar menos sobre isso parece melhor.",
+          "Eu acho que ignorar a situação financeira é o melhor, porque assim não fico a pensar nos problemas e isso alivia a ansiedade. Para mim, falar sobre dinheiro é complicado e não entendo bem o que é melhorar a literacia financeira.",
+          "Eu acho que a melhor maneira de não ficar ansioso sobre dinheiro é não falar sobre isso. Se não falarmos, não vamos pensar tanto nos problemas e isso pode ajudar a sentir-nos melhor.",
+          "Acho que evitar falar sobre dinheiro é uma boa ideia porque pode deixar as pessoas menos ansiosas. Não conheço bem os outros termos e não sei o que significa melhorar a literacia financeira, por isso prefiro não pensar nisso."
+        ],
+        "Médio": [
+          "Acho que melhorar a literacia financeira é importante porque se soubermos mais sobre como lidar com o dinheiro, ficamos menos ansiosos. Não sei bem o que significam alguns termos, mas parece que aprender sobre dinheiro é sempre bom.",
+          "Acho que evitar falar sobre dinheiro pode ajudar a não me preocupar tanto com isso. Não conheço bem os outros termos, mas falar sobre dinheiro parece complicado e pode aumentar a ansiedade.",
+          "Acho que evitar falar sobre dinheiro pode ajudar a não pensar muito nos problemas financeiros. Não conheço bem sobre literacia financeira e também não sei se é bom focar em ganhos a curto prazo ou ignorar a situação. Portanto, para mim, evitar o assunto parece mais fácil.",
+          "Acho que ignorar a situação pode ser uma maneira de não pensar muito em problemas com dinheiro. Não percebo bem o que é melhorar a literacia financeira, pode ser complicado. E as outras opções também parecem difíceis de fazer.",
+          "Eu não percebo muito bem o que significa mitigar comportamentos financeiros ansiosos, mas acho que ignorar a situação pode ajudar a pessoa a não se preocupar tanto. Às vezes, é melhor não pensar em dinheiro se isso deixa a pessoa ansiosa.",
+          "Acho que melhorar a literacia financeira é uma boa ideia porque se souber mais sobre dinheiro, talvez não fique tão ansioso. Não entendo bem os outros termos, mas parece que evitar falar ou ignorar o que está a acontecer não ajuda em nada.",
+          "Eu não percebo muito sobre literacia financeira, mas acho que se pensar só nos ganhos rápidos posso evitar sentir ansiedade sobre o dinheiro. Ignorar a situação e não falar sobre isso também parece um pouco arriscado.",
+          "Acho que melhorar a literacia financeira é uma boa ideia porque assim podemos entender melhor como gerir o nosso dinheiro. As outras opções parecem que só vão piorar as coisas, como evitar falar sobre dinheiro ou ignorar a situação.",
+          "Acho que a melhor forma é melhorar a literacia financeira porque assim aprendemos mais sobre dinheiro e como lidar com ele. As outras opções parecem só fazer a situação pior.",
+          "Acho que melhorar a literacia financeira é bom porque assim podemos aprender mais sobre dinheiro e como lidar melhor com ele. As outras opções parecem não ajudar muito, porque evitar ou ignorar não resolve nada."
+        ],
+        "Alto": [
+          "A opção A é a mais correta porque a literacia financeira permite uma melhor compreensão das finanças pessoais, ajudando a reduzir a ansiedade relacionada com o dinheiro. Ignorar a situação financeira (opção B), focar apenas em ganhos a curto prazo (opção C) ou evitar falar sobre dinheiro (opção D) não resolvem os problemas subjacentes e podem agravar a ansiedade financeira.",
+          "A melhoria da literacia financeira permite que os indivíduos compreendam melhor a sua situação financeira, reduzindo a ansiedade associada a decisões financeiras. Ignorar a situação (A), focar-se apenas em ganhos a curto prazo (C) ou evitar falar sobre dinheiro (D) não resolvem as causas subjacentes da ansiedade financeira.",
+          "A opção B é a mais eficaz, pois a melhoria da literacia financeira capacita os indivíduos a compreender melhor a sua situação financeira, a tomar decisões informadas e a reduzir a ansiedade relacionada com a gestão de dinheiro. Ignorar a situação ou evitar o diálogo sobre dinheiro apenas perpetua a incerteza, enquanto focar-se em ganhos a curto prazo pode levar a decisões impulsivas e arriscadas.",
+          "A literacia financeira é fundamental para reduzir a ansiedade relacionada com dinheiro, pois permite uma melhor compreensão dos conceitos financeiros, como orçamento, poupança e investimento. Assim, ao aumentar o conhecimento sobre finanças pessoais, as pessoas tornam-se mais confiantes nas suas decisões financeiras e conseguem gerir melhor as suas preocupações.",
+          "A opção B é a mais correta, pois melhorar a literacia financeira capacita os indivíduos a entenderem melhor os seus comportamentos e decisões financeiras, reduzindo a ansiedade associada a elas. Focar-se apenas em ganhos a curto prazo (A), evitar falar sobre dinheiro (C) e ignorar a situação financeira atual (D) são estratégias que podem aumentar a incerteza e a ansiedade em vez de mitigá-las.",
+          "A opção C é a mais correta pois a melhoria da literacia financeira capacita os indivíduos a tomar decisões informadas, reduzindo a ansiedade relacionada com a gestão do dinheiro. Ignorar a situação financeira ou evitar falar sobre dinheiro apenas agrava os problemas, enquanto focar-se em ganhos de curto prazo pode levar a decisões impulsivas.",
+          "A literacia financeira é fundamental para reduzir a ansiedade relacionada a dinheiro, pois permite uma melhor compreensão dos conceitos financeiros e das suas implicações. Ignorar a situação financeira ou evitar falar sobre dinheiro apenas exacerba a incerteza, enquanto focar em ganhos a curto prazo pode levar a decisões impulsivas e arriscadas.",
+          "A opção A é a única que promove um entendimento profundo sobre a gestão financeira, permitindo que os indivíduos tomem decisões informadas e reduzam a ansiedade relacionada com o dinheiro. As outras opções não oferecem soluções práticas e podem até agravar a situação financeira.",
+          "A opção D é a mais apropriada, pois melhorar a literacia financeira permite que uma pessoa compreenda melhor suas finanças, reduzindo a ansiedade relacionada ao dinheiro. Ignorar a situação (A), focar apenas em ganhos a curto prazo (B) e evitar falar sobre dinheiro (C) não abordam a raiz do problema e podem levar a decisões financeiras prejudiciais.",
+          "A melhoria da literacia financeira fornece as ferramentas e conhecimentos necessários para tomar decisões informadas e racionais sobre dinheiro, ajudando a reduzir a ansiedade relacionada com a gestão financeira. As outras opções, como evitar falar sobre dinheiro ou ignorar a situação financeira, não abordam as causas subjacentes da ansiedade e podem agravar a situação."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma prática que pode ajudar a evitar compras por impulso?",
+      "options": {
+        "A": "Orçamentar regularmente.",
+        "B": "Comprar sem verificar preços.",
+        "C": "Evitar fazer listas de compras.",
+        "D": "Gastar todo o dinheiro disponível sem planeamento."
+      },
+      "hint": "Considera medidas para controlar os gastos.",
+      "rationale": "Estabelecer hábitos como orçamentar regularmente pode ajudar a evitar compras por impulso e melhorar a gestão do dinheiro.",
+      "tag": "Hábitos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Hábitos financeiros', pois aborda práticas que ajudam a controlar gastos e evitar compras por impulso."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de hábitos financeiros como orçamentar para evitar gastos desnecessários."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A) que se destaca claramente das demais."
+        },
+        "distractor_quality": {
+          "score": 5,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão financeira, representando erros comuns que as pessoas podem cometer."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir considerar medidas de controle de gastos, mas poderia ser mais específica em relação à prática de orçamentar."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como o orçamento ajuda a evitar compras por impulso."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem essas coisas de orçamentos e listas de compras. Para mim, parece que se eu gastar todo o dinheiro que tenho, não vou ter a tentação de comprar mais nada, porque já não tenho dinheiro. É mais simples assim.",
+          "Acho que a melhor forma de evitar compras por impulso é não me preocupar muito com preços, porque se eu ver algo que gosto, acabo por comprar de qualquer maneira. Não entendo bem o que é orçamentar, e listas de compras parecem muito complicadas.",
+          "Para mim, parece que se gastar tudo é uma maneira de evitar compras impulsivas, porque assim não fica nada para comprar depois. Os outros termos são confusos, e não sei bem o que é orçamentar ou fazer listas, mas gastar tudo parece simples.",
+          "Eu acho que orçamentar é algo que pode ajudar, porque se a gente sabe quanto pode gastar, é mais fácil evitar comprar coisas que não precisamos. Não entendo bem esses termos, mas parece que planejar as despesas ajuda a controlar os impulsos.",
+          "Acho que a melhor opção é gastar todo o dinheiro porque assim não fico a pensar no que tenho ou não. Não percebo muito dessas coisas de orçamentar ou listas, parece complicado e chato.",
+          "Eu acho que se gastar todo o dinheiro é uma maneira de evitar compras por impulso, porque não sobra nada para comprar mais. Não entendo bem o que significa orçamentar ou outras coisas complicadas, mas parece que se não tiver dinheiro, não posso comprar.",
+          "Eu não percebo bem essas coisas de orçamentar e planeamento. Parece mais fácil gastar o que tenho sem pensar muito, porque assim não tenho que me preocupar com listas ou números complicados.",
+          "Eu acho que se não fizermos listas, vamos comprar o que queremos na hora e isso pode ser bom. Não sei o que é orçamentar direito, mas fazer listas parece limitar as compras. Então, evitar listas pode ajudar a comprar mais livremente.",
+          "Eu penso que a melhor opção é comprar sem verificar preços, porque assim não perco tempo a pensar. Essa coisa de orçamentar e planejar parece complicada, então prefiro só comprar o que quero na hora.",
+          "Acho que fazer um orçamento é uma boa ideia, porque assim sabemos quanto podemos gastar e evitamos comprar coisas que não precisamos. Não percebo bem o que é 'orçamentar', mas parece que ajuda a controlar o dinheiro."
+        ],
+        "Médio": [
+          "Acho que gastar todo o dinheiro é normal, porque assim não fico a pensar em listas ou orçamentos. Não entendo bem o que é orçamentar, mas parece complicado.",
+          "Acho que orçamentar é importante porque ajuda a saber quanto dinheiro temos e a que podemos gastar. As outras opções parecem confusas e não ajudam a evitar comprar coisas que não precisamos.",
+          "Acho que não fazer listas de compras pode ajudar, porque assim não tenho que pensar no que realmente preciso e posso comprar o que me apetece no momento. Não conheço bem sobre orçamentos, mas fazer listas parece uma coisa chata e que não ajuda muito.",
+          "Acho que fazer um orçamento é importante porque ajuda a saber quanto dinheiro temos e o que podemos gastar. As outras opções parecem más ideias, como gastar todo o dinheiro sem pensar.",
+          "Acho que fazer um orçamento pode ajudar a controlar melhor o que gastamos. Não percebo muito de finanças, mas parece que planejar o que vamos gastar pode evitar comprar coisas desnecessárias.",
+          "Acho que orçamentar é uma boa ideia porque ajuda a saber quanto se pode gastar e assim evitar comprar coisas que não precisamos. As outras opções parecem que incentivam a gastar sem pensar, o que não é bom.",
+          "Eu acho que orçamentar regularmente pode ajudar a evitar compras por impulso porque assim podemos ver quanto dinheiro temos e quanto podemos gastar. Não tenho certeza sobre os termos técnicos, mas parece que fazer um plano ajuda a não gastar tudo de uma vez.",
+          "Acho que orçamentar é importante porque ajuda a saber quanto dinheiro temos e a planear melhor as compras. Não conheço muito sobre finanças, mas parece que isso pode ajudar a evitar gastar dinheiro à toa.",
+          "Acho que orçamentar é importante porque ajuda a saber quanto dinheiro temos e a planear melhor as compras. Assim, podemos evitar comprar coisas que não precisamos e controlar melhor o que gastamos.",
+          "Acho que, se não verificarmos os preços, podemos acabar a comprar coisas que não precisamos. Não percebo bem o que é orçamentar, mas parece complicado. É melhor não pensar muito e só comprar o que aparece."
+        ],
+        "Alto": [
+          "A prática de orçamentar regularmente permite um melhor controlo das despesas e ajuda a definir limites para as compras, o que é crucial para evitar decisões impulsivas. Além disso, o orçamento exige uma análise das necessidades reais, contrastando com a abordagem de comprar sem planeamento ou de evitar listas de compras, que podem levar a gastos desnecessários.",
+          "Orçamentar regularmente é uma prática fundamental para controlar despesas e evitar compras por impulso, pois permite que a pessoa tenha uma visão clara das suas finanças e defina limites para gastos. Reconheço que o orçamento é uma ferramenta essencial na literacia financeira, pois promove a disciplina financeira e ajuda a evitar decisões de compra impulsivas.",
+          "Orçamentar regularmente é uma prática fundamental para controlar despesas e evitar compras por impulso, pois permite uma visão clara das finanças pessoais e ajuda a estabelecer limites para gastos. Reconheço a importância deste conceito, pois um orçamento eficaz ajuda a priorizar necessidades e a poupança, minimizando a tentação de compras não planeadas.",
+          "A prática de orçamentar regularmente é fundamental para evitar compras por impulso, pois permite ao indivíduo ter uma visão clara das suas finanças, definir limites de gastos e priorizar as suas necessidades. Reconheço que o orçamento é uma ferramenta eficaz na gestão financeira pessoal, ajudando a evitar decisões de compra precipitadas.",
+          "Orçamentar regularmente é uma prática fundamental na gestão financeira pessoal, pois permite ter uma visão clara das despesas e receitas, ajudando a evitar compras por impulso. Esta prática cria disciplina financeira, ao estabelecer limites para os gastos e priorizar necessidades em vez de desejos.",
+          "Orçamentar regularmente é uma prática fundamental para evitar compras por impulso, pois permite ter uma visão clara das despesas e receitas, ajudando a controlar os gastos e a prioritizar as necessidades. Reconheço que a elaboração de um orçamento ajuda a criar disciplina financeira e a evitar decisões impulsivas.",
+          "A prática de orçamentar regularmente é fundamental para evitar compras por impulso, pois permite ter uma visão clara das despesas e receitas, ajudando a estabelecer limites para o consumo. Com um orçamento bem definido, é possível priorizar necessidades e evitar gastos desnecessários, o que está alinhado com a boa gestão financeira.",
+          "A prática de orçamentar regularmente permite que uma pessoa tenha um controlo mais rigoroso sobre as suas finanças, ajudando a evitar decisões impulsivas de compra. Este método é fundamental na literacia financeira, pois promove a consciência das despesas e a definição de limites, o que é essencial para um planeamento financeiro eficaz.",
+          "A prática de orçamentar regularmente é fundamental para evitar compras por impulso, pois permite ao consumidor ter uma visão clara dos seus rendimentos e despesas, ajudando a definir limites para as compras e a priorizar as necessidades em vez dos desejos imediatos. Reconheço a importância do planeamento financeiro, que é um conceito central na literacia financeira.",
+          "Orçamentar regularmente é uma prática essencial para manter o controlo das finanças pessoais e evitar compras por impulso, pois permite identificar prioridades e limites de gastos. Ao definir um orçamento, a pessoa consegue planear melhor as suas despesas e resistir a aquisições desnecessárias."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 5,
+    "topic_grounding": 4.7,
+    "answer_exclusivity": 4.9,
+    "distractor_quality": 4.2,
+    "hint_quality": 4,
+    "rationale_quality": 4.3,
+    "tag_diversity": 0.8,
+    "overall_score": 4.52
+  }
+}

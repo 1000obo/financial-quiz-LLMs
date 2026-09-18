@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Investimento (básico) e Produtos com Garantia de Capital"
+  ],
+  "fin_lit_level": "Baixo",
+  "question_results": [
+    {
+      "question": "O que significa investir o teu dinheiro?",
+      "options": {
+        "A": "Fazer o dinheiro trabalhar para ti.",
+        "B": "Guardar o dinheiro no banco.",
+        "C": "Gastar o dinheiro em bens de consumo.",
+        "D": "Depositar o dinheiro numa conta poupança."
+      },
+      "hint": "Pensa no papel do dinheiro ao investir.",
+      "rationale": "Investir é uma maneira de fazer com que o dinheiro trabalhe para ti, em vez de apenas trabalhares para ganhar dinheiro.",
+      "tag": "Conceitos de investimento",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Conceitos de investimento', pois aborda o significado de investir, que é um conceito fundamental nesse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que explica claramente que investir significa fazer o dinheiro trabalhar para ti."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas a opção B (guardar o dinheiro no banco) e a opção D (depositar numa conta poupança) podem ser vistas como formas de gestão de dinheiro, não de investimento."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que se pense no papel do dinheiro ao investir, mas poderia ser um pouco mais específica para guiar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao definir o investimento como uma forma de fazer o dinheiro trabalhar para ti."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.5,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Para mim, investir é basicamente guardar o dinheiro em algum lugar seguro, como numa conta poupança. Não percebo bem os outros termos e prefiro pensar que é só guardar dinheiro para o futuro.",
+          "Acho que investir é como guardar o dinheiro numa conta, porque assim ele fica seguro e posso usar depois. Não entendo bem os outros termos, como fazer o dinheiro trabalhar, parece complicado.",
+          "Para mim, investir é basicamente comprar coisas que eu preciso ou quero. Não percebo bem o que significa fazer o dinheiro trabalhar para mim, e guardar no banco ou na conta poupança não parece ser investir, parece mais como guardar.",
+          "Acho que investir é algo como fazer o dinheiro trabalhar para mim, mas não sei bem como isso funciona. Não reconheço bem os termos, mas parece que é uma forma de fazer o dinheiro crescer ou render de alguma maneira.",
+          "Acho que a opção D faz sentido porque, se investirmos, estamos a tentar fazer com que o dinheiro renda ou faça mais dinheiro. As outras opções parecem mais sobre guardar ou gastar, e eu não percebo bem o que é investir em termos de jargão.",
+          "Eu não percebo muito bem de finanças, mas acho que investir é quando o dinheiro que temos começa a fazer mais dinheiro, como se estivéssemos a dar-lhe uma tarefa. As outras opções parecem mais sobre guardar ou gastar, e isso não é bem o que se pensa quando se fala em investir.",
+          "Acho que investir é mais como guardar o dinheiro de forma segura, tipo numa conta no banco, para não o gastar de imediato. Não percebo bem o que é fazer o dinheiro trabalhar para mim.",
+          "Acho que investir é simplesmente pôr o dinheiro no banco e deixá-lo lá. Não entendo bem essas coisas de fazer o dinheiro trabalhar ou contas de poupança, então fico com o que parece mais simples, que é só guardar.",
+          "Para mim, investir é como guardar o dinheiro de forma segura, então acho que depositar numa conta poupança é uma boa ideia. Não entendo muito sobre fazer o dinheiro trabalhar ou outras coisas complicadas, por isso escolhi isso.",
+          "Eu acho que guardar o dinheiro no banco é uma forma de investir, porque assim o dinheiro fica seguro e não se perde. Não percebo bem o que significa fazer o dinheiro trabalhar para mim, e as outras opções parecem confusas."
+        ],
+        "Médio": [
+          "Eu acho que 'fazer o dinheiro trabalhar para ti' é o que significa investir, porque parece que é como usar o dinheiro para ganhar mais dinheiro. As outras opções parecem mais sobre gastar ou guardar o dinheiro, mas investir parece ser algo que ajuda a aumentar o que já temos.",
+          "Acho que investir é como fazer o dinheiro trabalhar para mim, porque não é só guardar ou gastar. Mas não tenho a certeza do que isso realmente significa, já que não entendo muito bem os detalhes de investimentos.",
+          "Acho que investir é basicamente quando guardamos o dinheiro em algum lugar, como no banco. Não percebo muito de fazer o dinheiro trabalhar para mim ou dessas coisas mais complicadas.",
+          "Eu acho que investir é quando o dinheiro faz algo por nós, como ganhar mais dinheiro, em vez de só ficar parado ou ser gasto. Não entendo bem os termos, mas parece que é isso.",
+          "Acho que investir é basicamente guardar o dinheiro em algum lugar seguro, como um banco. Não conheço muito sobre o que significa fazer o dinheiro trabalhar ou outras coisas mais complicadas.",
+          "Acho que investir é como guardar o dinheiro numa conta poupança, porque é seguro e vamos recebendo um pouco de juros. Não entendo bem o que é fazer o dinheiro trabalhar para mim, então escolhi a opção que parece mais simples.",
+          "Investir parece ser algo como fazer o dinheiro trabalhar para mim, mas não sei bem como isso funciona. Eu penso que é tipo quando coloco o dinheiro em algum lugar e depois ele cresce, mas não conheço bem os detalhes.",
+          "Eu acho que investir é fazer o dinheiro trabalhar para mim, porque é sobre usar o que eu tenho para ganhar mais. Não percebo bem os outros termos, mas 'fazer o dinheiro trabalhar' parece que é o que se faz para aumentar o que temos.",
+          "Eu acho que investir é tipo guardar o dinheiro numa conta onde ele fica seguro e pode render um bocadinho. Não percebo bem o que é fazer o dinheiro trabalhar para mim, mas guardar na conta parece mais seguro.",
+          "Eu acho que investir é basicamente guardar o dinheiro no banco, porque assim ele fica seguro e não gasto. Não entendo muito bem de fazer o dinheiro trabalhar ou outras coisas mais complicadas."
+        ],
+        "Alto": [
+          "A opção D é a mais correta, pois investir significa aplicar dinheiro em ativos que geram retorno, ao invés de apenas guardá-lo ou gastá-lo. Investir implica que o dinheiro é utilizado de forma a que possa crescer ao longo do tempo, enquanto as outras opções não refletem essa intenção de maximização do capital.",
+          "A opção A é a mais correta, pois investir significa alocar recursos financeiros com o objetivo de gerar retorno, ou seja, fazer o dinheiro trabalhar para ti. As outras opções não refletem o conceito de investimento, mas sim formas de manter ou consumir dinheiro.",
+          "Investir o dinheiro significa alocar recursos financeiros de forma a gerar um retorno, ou seja, fazer com que o capital aprecie ao longo do tempo. A opção A é a mais correta, pois reflete a ideia de que o investimento visa aumentar o valor do dinheiro, ao contrário de simplesmente guardar ou gastar.",
+          "A opção C é a mais correta porque investir significa alocar dinheiro em ativos com o objetivo de gerar um retorno, fazendo com que o capital cresça ao longo do tempo. As outras opções, como gastar ou guardar dinheiro, não representam uma estratégia de investimento que busca aumentar o patrimônio.",
+          "Investir o dinheiro significa alocá-lo de forma a gerar retorno, fazendo assim o seu capital crescer ao longo do tempo. A opção A é a mais correta, pois reflete a essência do investimento, que é maximizar o valor do capital através de diversas opções, como ações, imóveis, ou outros ativos, ao invés de simplesmente gastar ou guardar o dinheiro sem rendimento.",
+          "Investir o dinheiro significa alocar recursos financeiros com o objetivo de obter um retorno sobre o investimento, ou seja, fazer o dinheiro trabalhar para ti. Esta opção, A, é a mais correta porque reflete a essência do investimento, que é gerar riqueza através da alocação eficiente de capital, ao contrário das outras opções que não implicam necessariamente um crescimento do capital.",
+          "A opção B é a mais correta, pois investir significa alocar recursos financeiros de forma a obter um retorno sobre o capital. Isso implica fazer o dinheiro 'trabalhar' em vez de simplesmente guardá-lo ou gastá-lo. As outras opções não refletem o conceito de investimento, mas sim formas de gestão ou consumo do dinheiro.",
+          "Investir o dinheiro significa alocar recursos financeiros de forma a gerar um retorno, ou seja, fazer o dinheiro trabalhar para ti. Isso implica a utilização de estratégias que maximizam o potencial de crescimento do capital, ao contrário de simplesmente guardar ou gastar o dinheiro.",
+          "A opção D é a mais correta, pois investir implica colocar o dinheiro em ativos que geram rendimento ou valorização ao longo do tempo. Isso contrasta com as outras opções, que se referem mais a guardar ou gastar o dinheiro, em vez de o fazer crescer.",
+          "A opção A é a mais correta, pois investir o dinheiro implica colocá-lo em ativos que geram retorno, fazendo com que o capital cresça ao longo do tempo. As outras opções referem-se a formas de guardar ou gastar dinheiro, que não são sinónimos de investimento."
+        ]
+      }
+    },
+    {
+      "question": "Como é que a inflação afeta o valor do teu investimento?",
+      "options": {
+        "A": "Pode diminuir o poder de compra.",
+        "B": "Aumenta o valor nominal do investimento.",
+        "C": "Garante um retorno fixo sobre o investimento.",
+        "D": "Protege o valor do investimento contra flutuações."
+      },
+      "hint": "Considera o impacto da inflação no teu dinheiro ao longo do tempo.",
+      "rationale": "Se a inflação for superior ao rendimento do investimento, o poder de compra do capital investido diminui.",
+      "tag": "Inflação",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com a tag 'Inflação', pois aborda como a inflação pode impactar investimentos, um conceito relevante para a literacia financeira."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a inflação e suas consequências, embora não trate diretamente de investimentos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são relacionados com o tema, mas alguns, como a opção B, podem ser confusos, pois o aumento do valor nominal não necessariamente reflete um aumento real do investimento."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre o impacto da inflação no dinheiro, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao incluir exemplos ou mais detalhes sobre como a inflação afeta o poder de compra."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem o que é inflação e como é que isso afeta os investimentos, mas parece-me que se a inflação aumenta, o que compramos com o dinheiro pode custar mais. Então, talvez o nosso dinheiro valha menos, o que me faz pensar que pode diminuir o poder de compra.",
+          "A inflação faz com que as coisas fiquem mais caras, então se eu tiver um investimento, o dinheiro que ganho pode não comprar tanto como antes. Não percebo bem os termos técnicos, mas parece que a inflação é má para o que posso comprar.",
+          "Acho que a inflação faz com que as coisas fiquem mais caras, por isso o que eu consigo comprar com o meu dinheiro diminui. Não percebo bem os termos, mas parece que isso significa que o meu investimento vale menos na prática.",
+          "Acho que a inflação tem a ver com o aumento dos preços, e isso pode fazer com que o dinheiro que tenho não compre tanto como antes. Não percebo bem os termos técnicos, mas é como se o meu investimento valesse menos na prática.",
+          "Eu não sei bem o que é inflação, mas parece que se as coisas ficam mais caras, o dinheiro que tenho vale menos. Então, pode ser que o que eu tenho investido não compre tanto como antes.",
+          "Eu não percebo muito dessas coisas de investimento, mas acho que a inflação faz com que o dinheiro que temos não consiga comprar tantas coisas como antes. Então, se eu investir, pode ser que no futuro o que eu conseguir comprar com esse investimento seja menos do que poderia agora.",
+          "Eu não conheço bem esses termos financeiros, mas parece que a inflação faz as coisas ficarem mais caras. Assim, se eu tiver um investimento, ele pode não valer tanto em termos de comprar coisas como antes.",
+          "Eu não entendo muito sobre inflação e investimentos, mas parece que se os preços sobem, o que eu posso comprar com o meu dinheiro diminui. Por isso, acho que a opção D faz sentido.",
+          "Acho que a inflação tem a ver com o aumento dos preços das coisas, então se eu tiver um investimento, pode ser que eu não consiga comprar tantas coisas com o dinheiro que tenho. Não entendo bem os termos técnicos, mas parece que isso faz sentido.",
+          "Acho que a inflação é como se as coisas ficassem mais caras, então o dinheiro que eu tenho vale menos e não consigo comprar tanto. Não entendo bem os termos complicados, mas parece que a inflação é má para o que posso comprar."
+        ],
+        "Médio": [
+          "Eu acho que a inflação faz com que as coisas que posso comprar fiquem mais caras, então o meu dinheiro vale menos. Não percebo bem os outros termos, mas parece que a inflação afeta o que podemos gastar.",
+          "Eu não percebo muito bem esses termos, mas parece-me que a inflação faz com que o dinheiro perca valor. Então, se eu tenho um investimento, pode ser que não consiga comprar as mesmas coisas que antes, mesmo que tenha mais dinheiro. Por isso, escolhi a opção D.",
+          "Acredito que a inflação faz com que o dinheiro que eu tenho valha menos, então, se eu investisse, poderia comprar menos coisas depois. Não entendo bem os outros termos, mas isso parece fazer sentido.",
+          "Acho que a inflação faz com que o dinheiro que tenho agora não compre tanto no futuro. Não entendo bem todos os termos, mas parece que isso significa que os meus investimentos não valem tanto como antes.",
+          "Eu acho que a inflação pode fazer com que o dinheiro que tenho valha menos, ou seja, se os preços sobem, eu não consigo comprar as mesmas coisas com o mesmo dinheiro. Não conheço muito bem os termos, mas parece que isso é o que acontece.",
+          "Penso que a inflação faz com que as coisas fiquem mais caras, e se eu tenho dinheiro investido, posso comprar menos coisas com esse dinheiro. Não conheço bem os outros termos, mas parece que a inflação afeta o que consigo comprar.",
+          "Acho que a inflação faz com que as coisas fiquem mais caras, e se o meu investimento não cresce o suficiente, eu posso comprar menos com o mesmo dinheiro. Não entendo bem todos os termos, mas isso parece fazer sentido.",
+          "A inflação faz com que as coisas fiquem mais caras, então, mesmo que o meu investimento cresça, pode não valer tanto se eu não conseguir comprar as mesmas coisas com o dinheiro. Não entendo bem os outros termos, mas sei que a inflação afecta o que posso comprar.",
+          "Acho que a inflação faz com que as coisas fiquem mais caras, e isso quer dizer que o dinheiro que eu tenho não vale tanto como antes. Não percebo bem os outros termos, mas parece que esta opção faz mais sentido para mim.",
+          "Eu acho que a inflação faz com que as coisas fiquem mais caras, então o que eu tenho hoje pode não comprar tanto no futuro. Não entendo bem os outros termos, mas parece que a inflação é má para o que eu tenho."
+        ],
+        "Alto": [
+          "A inflação erode o valor real do dinheiro ao aumentar os preços dos bens e serviços, o que significa que o retorno do investimento pode não acompanhar a taxa de inflação, resultando numa diminuição do poder de compra. Reconheço claramente o impacto da inflação sobre os investimentos, especialmente na análise do retorno real versus retorno nominal.",
+          "A inflação corrói o poder de compra do dinheiro ao aumentar os preços dos bens e serviços, o que significa que, mesmo que o valor nominal do investimento se mantenha, o que realmente podemos comprar com esse valor diminui. Este conceito é bem reconhecido no contexto de investimentos, pois é crucial para avaliar o retorno real dos mesmos.",
+          "A inflação reduz o poder de compra do dinheiro ao aumentar os preços dos bens e serviços ao longo do tempo. Portanto, mesmo que o valor nominal do investimento permaneça o mesmo ou aumente, o poder de compra real do retorno do investimento pode ser afetado negativamente pela inflação.",
+          "A inflação diminui o poder de compra ao aumentar os preços dos bens e serviços, o que significa que, mesmo que o valor nominal do investimento permaneça o mesmo, o seu valor real (ajustado pela inflação) diminui. Reconheço claramente os termos 'poder de compra' e 'valor real', pois são fundamentais na análise dos efeitos da inflação sobre investimentos.",
+          "A inflação representa o aumento generalizado dos preços, o que significa que, mesmo que o valor nominal do investimento permaneça o mesmo ou aumente, o seu poder de compra efetivo diminui. Este conceito é fundamental na literacia financeira, pois a inflação corrói o retorno real sobre o investimento se este não acompanhar a taxa de inflação.",
+          "A inflação reduz o poder de compra da moeda, o que significa que, se o retorno do investimento não superar a taxa de inflação, o valor real do investimento diminuirá ao longo do tempo. Este conceito é fundamental na análise de investimentos, pois um retorno nominal positivo pode ser insuficiente se não for ajustado pela inflação.",
+          "A inflação reduz o poder de compra ao aumentar os preços dos bens e serviços, o que significa que o retorno nominal de um investimento pode não ser suficiente para compensar essa perda. Assim, mesmo que o valor nominal do investimento aumente, o valor real do retorno pode ser inferior ao esperado devido à erosão causada pela inflação.",
+          "A inflação, ao aumentar os preços dos bens e serviços, reduz o poder de compra do dinheiro, o que significa que o valor real do investimento pode ser afetado negativamente. Reconheço que o poder de compra é um conceito fundamental em finanças, pois reflete a capacidade de adquirir bens e serviços com o rendimento ou capital disponível.",
+          "A inflação reduz o poder de compra da moeda, ou seja, o mesmo montante de dinheiro compra menos bens e serviços ao longo do tempo. Este impacto negativo é fundamental para entender como a inflação pode corroer o valor real dos investimentos, especialmente se a taxa de retorno do investimento não acompanhar a taxa de inflação.",
+          "A inflação é uma medida do aumento dos preços, que resulta na diminuição do poder de compra da moeda. Assim, mesmo que o valor nominal de um investimento aumente, se a taxa de inflação superar o retorno do investimento, o investidor efetivamente perde capacidade de aquisição."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o efeito dos juros compostos no teu capital ao longo do tempo?",
+      "options": {
+        "A": "Crescimento significativo do capital.",
+        "B": "Estagnação do capital ao longo do tempo.",
+        "C": "Redução gradual do capital.",
+        "D": "Crescimento lento e previsível do capital."
+      },
+      "hint": "Reflete sobre o efeito de acumular juros sobre juros.",
+      "rationale": "Os juros compostos permitem que os juros sejam calculados sobre o montante inicial e os juros acumulados, resultando em crescimento significativo ao longo do tempo.",
+      "tag": "Juro composto",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Juro composto' e avalia claramente o conhecimento sobre o efeito dos juros compostos no capital ao longo do tempo."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que explica como os juros compostos resultam em crescimento significativo do capital."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de juros compostos, mas a opção B (estagnação) e C (redução) são menos prováveis em um contexto de juros compostos."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre o efeito de acumular juros, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como os juros compostos funcionam em comparação com os juros simples."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.3,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem de finanças e não conheço os termos técnicos. Mas acho que, com o tempo, o dinheiro pode crescer um bocado, mesmo que não seja muito rápido, por isso escolhi a opção que fala de crescimento lento.",
+          "Acho que os juros são como um dinheiro a mais que se ganha, mas não percebo muito bem como funcionam. Então, suponho que o capital vai aumentando aos poucos, mas não de forma rápida.",
+          "Eu não entendo bem o que são juros compostos, mas acho que o capital deve crescer devagarinho ao longo do tempo, como quando se poupa um bocadinho de dinheiro todos os meses. Não reconheço os termos técnicos, então vou pelo que parece mais simples.",
+          "Acho que os juros compostos fazem com que o dinheiro cresça bastante com o tempo. Embora não saiba exatamente o que significa, parece que é algo que ajuda a aumentar o capital de uma forma boa. Não entendo bem os termos, mas parece que é algo positivo.",
+          "Acho que os juros devem ajudar a aumentar o dinheiro, mas de uma forma que não seja muito rápida. Não percebo bem o que são juros compostos, mas parece que é algo que faz o capital crescer aos poucos.",
+          "Eu não percebo bem o que são juros compostos, mas parece que se fala de um crescimento que acontece devagar, como quando deixamos o dinheiro guardado numa conta. Acho que isso é o que acontece com o capital, mas não sei bem se é previsível.",
+          "Eu não percebo bem o que são juros compostos, mas acho que o dinheiro cresce aos poucos. Portanto, parece que a opção C é a melhor, porque diz que o crescimento é lento e previsível.",
+          "Acho que os juros compostos fazem o dinheiro crescer muito ao longo do tempo, mesmo que eu não saiba bem o que isso significa. Sempre ouvi que é bom poupar e deixar o dinheiro crescer.",
+          "Acho que os juros compostos são algo que faz o dinheiro crescer com o tempo, como se fosse uma planta que dá frutos. Não conheço bem os termos, mas parece que é algo positivo e que faz o capital aumentar.",
+          "Acho que os juros são tipo um aumento que acontece devagar, mas não percebo bem como funcionam. Para mim, parece que o dinheiro vai crescendo, mas não sei se é muito ou pouco."
+        ],
+        "Médio": [
+          "Eu acho que os juros compostos fazem o dinheiro crescer, mas não de forma muito rápida. Parece-me que é um crescimento mais calmo e que se pode prever, mas não tenho a certeza sobre isso.",
+          "Eu não percebo bem o que são juros compostos, mas parece que o capital cresce devagarinho e de forma que podemos prever. Por isso, escolhi a opção A, porque não me parece que cresça muito rápido.",
+          "Eu penso que os juros compostos são complicados e talvez façam o dinheiro não crescer muito, por isso escolhi a opção A. Não conheço bem os detalhes, mas parece que se não houver muito a acontecer, o capital pode não aumentar.",
+          "Acho que os juros compostos fazem o capital crescer bastante ao longo do tempo. Mas não sei bem o que significa isso de 'juros compostos' exatamente, só sei que é algo que pode aumentar o dinheiro. Portanto, escolhi que o capital cresce muito.",
+          "Acho que os juros compostos ajudam a fazer o dinheiro crescer mais ao longo do tempo, mesmo que não perceba bem como funciona. É tipo quando pões dinheiro na poupança e ele vai aumentando, parece que cresce bastante.",
+          "Acho que os juros compostos ajudam a fazer o dinheiro crescer ao longo do tempo, porque eles adicionam mais ao que já tens. Não percebo bem os detalhes, mas sempre ouvi que é bom poupar e que o dinheiro pode aumentar.",
+          "Eu não conheço bem os juros compostos, mas acho que eles fazem o capital crescer, só que devagar, tipo um aumento que se vai vendo ao longo do tempo. Não sei bem se é previsível, mas parece que é assim que funciona, não é?",
+          "Para mim, juros compostos é um termo complicado, mas acho que significa que o dinheiro cresce de forma estável. Não tenho certeza, mas parece que vai aumentando aos poucos, então escolhi a opção D.",
+          "Eu não percebo bem o que são juros compostos, mas parece que eles não ajudam a ganhar dinheiro, então acho que o capital fica parado e não cresce.",
+          "Eu não conheço muito sobre juros compostos, mas acho que o capital cresce devagar e de forma que a gente consegue prever. Não sei bem como funciona, mas parece que não é tão rápido como outras coisas."
+        ],
+        "Alto": [
+          "Os juros compostos permitem que o capital cresça de forma exponencial ao longo do tempo, uma vez que os juros são calculados não apenas sobre o capital inicial, mas também sobre os juros acumulados anteriormente. Este efeito resulta em um aumento significativo do capital, especialmente em horizontes temporais mais longos.",
+          "Os juros compostos permitem que os rendimentos gerados sobre o capital inicial também sejam reinvestidos, resultando em um efeito de crescimento exponencial ao longo do tempo. Este conceito é amplamente reconhecido na literacia financeira, pois o impacto dos juros compostos é fundamental para a acumulação de riqueza.",
+          "Os juros compostos permitem que os juros sejam calculados não apenas sobre o capital inicial, mas também sobre os juros acumulados ao longo do tempo. Isso resulta em um crescimento exponencial do capital, especialmente em prazos mais longos, o que torna a opção D a mais correta.",
+          "Os juros compostos permitem que o capital cresça de forma exponencial ao longo do tempo, pois os juros gerados em períodos anteriores são reinvestidos, aumentando a base sobre a qual os juros são calculados. Este efeito é frequentemente descrito como \"o poder dos juros compostos\", reconhecendo a sua capacidade de aumentar substancialmente o capital a longo prazo.",
+          "Os juros compostos permitem que os juros gerados sobre um capital sejam reinvestidos, resultando num crescimento exponencial do capital ao longo do tempo. Este conceito é fundamental na literacia financeira, pois demonstra como o efeito do tempo e da taxa de juros pode multiplicar os investimentos, especialmente quando se considera um horizonte de longo prazo.",
+          "Os juros compostos permitem que os juros sejam calculados não apenas sobre o capital inicial, mas também sobre os juros acumulados ao longo do tempo. Isso resulta em um crescimento exponencial do capital, especialmente em prazos mais longos, o que caracteriza um crescimento significativo do capital em comparação com o crescimento linear que se observaria com juros simples.",
+          "Os juros compostos permitem que os rendimentos sejam reinvestidos, gerando novos juros sobre os juros já acumulados. Desta forma, o capital cresce de forma exponencial ao longo do tempo, o que é um conceito bem estabelecido na literatura financeira.",
+          "Os juros compostos permitem que os juros gerados sobre um capital sejam reinvestidos, aumentando assim o montante total ao longo do tempo. Este efeito, conhecido como 'capitalização', resulta em um crescimento exponencial do capital, especialmente em horizontes de investimento mais longos.",
+          "Os juros compostos permitem que os juros sejam calculados sobre o capital inicial e também sobre os juros acumulados ao longo do tempo, resultando em um crescimento exponencial do capital. Esta dinâmica é fundamental para a formação de riqueza a longo prazo, especialmente em investimentos que geram retornos consistentes.",
+          "Os juros compostos permitem que os juros sejam calculados sobre o capital inicial e também sobre os juros já acumulados ao longo do tempo, resultando assim num crescimento exponencial do capital. Este conceito é amplamente reconhecido em finanças pessoais, pois o efeito dos juros compostos é fundamental para maximizar a poupança e os investimentos a longo prazo."
+        ]
+      }
+    },
+    {
+      "question": "Que tipo de segurança oferecem os produtos de investimento com garantia de capital?",
+      "options": {
+        "A": "Segurança do capital investido.",
+        "B": "Rentabilidade garantida ao longo do tempo.",
+        "C": "Proteção contra a inflação.",
+        "D": "Rendimento fixo mensal."
+      },
+      "hint": "Pensa no que acontece ao teu dinheiro em produtos com garantia.",
+      "rationale": "Os produtos com garantia, como depósitos a prazo, oferecem segurança do capital investido, embora com taxas de rentabilidade baixas.",
+      "tag": "Produtos com garantia",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Produtos com garantia', pois questiona sobre a segurança oferecida por produtos de investimento com garantia de capital."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona claramente que produtos com capital garantido oferecem segurança do capital investido."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de produtos de investimento, mas algumas opções, como 'Rendimento fixo mensal', podem não se aplicar a todos os produtos com garantia."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre a segurança do capital, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao mencionar que, apesar da segurança do capital, as taxas de rentabilidade são baixas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a segurança do capital investido é o mais importante, porque assim sei que o meu dinheiro não vai desaparecer. Não percebo muito dos outros termos, mas garantir que o que ponho lá está seguro parece a melhor escolha.",
+          "Eu não percebo muito de finanças e esses termos são complicados para mim. Mas parece que a segurança do capital investido é o que mais faz sentido, porque eu quero ter a certeza de que o dinheiro que ponho não desaparece.",
+          "Eu não percebo muito de finanças, mas quando falam de produtos de investimento com garantia de capital, parece-me que a ideia é que o dinheiro que colocamos lá não se perde. Por isso, escolhi a opção D, porque parece que é sobre proteger o que já temos.",
+          "Acho que a opção B é a mais certa, porque quando se fala em produtos de investimento com garantia de capital, parece que querem dizer que o dinheiro que pus no investimento não vai desaparecer. Não percebo muito de termos técnicos, mas sei que é importante que o que investi esteja seguro.",
+          "Eu não percebo muito de finanças, mas parece-me que quando falam de produtos com garantia de capital, é porque o dinheiro que colocamos está seguro, certo? Não sei o que é rentabilidade ou proteção contra inflação, mas segurança do capital faz sentido.",
+          "Eu acho que a segurança do capital investido é o que importa mais, porque se eu coloco dinheiro em algum lado, quero ter certeza de que não o vou perder. Não conheço bem os outros termos, mas isso parece ser o mais simples de entender.",
+          "Eu acho que a segurança do capital investido é o mais importante. Não entendo muito sobre finanças e termos complicados, mas quero ter a certeza de que o meu dinheiro não vai desaparecer.",
+          "Acho que a segurança do capital investido é o mais importante, porque se eu colocar dinheiro num investimento, quero saber que não vou perder tudo. Não percebo bem os outros termos, mas sei que é bom garantir que o meu dinheiro está seguro.",
+          "Eu não percebo muito de finanças e não conheço bem esses termos. Mas se é um investimento com garantia de capital, parece lógico que a segurança do capital investido seja a resposta certa, porque é isso que importa, não é? A gente quer saber se o nosso dinheiro está seguro.",
+          "Parece-me que a segurança do capital investido é o mais importante, porque as pessoas querem saber que o dinheiro que colocam não vai desaparecer. Não percebo bem os outros termos, mas parece que a segurança é essencial."
+        ],
+        "Médio": [
+          "Eu acho que a opção A é a mais certa porque, quando falamos de produtos de investimento com garantia de capital, parece que estamos a falar de algo que protege o dinheiro que colocamos. Não conheço bem os outros termos, como proteção contra a inflação ou rentabilidade garantida, por isso fico com o que parece mais simples.",
+          "Eu acho que a segurança do capital investido é o mais importante. Não percebo muito sobre os outros termos, mas parece que proteger o que investi é essencial para não perder dinheiro.",
+          "Penso que a segurança do capital investido é importante porque, se eu colocar o meu dinheiro, quero ter certeza de que não o perco. Não tenho certeza sobre os outros termos, mas este parece mais claro para mim.",
+          "Acho que a opção C é a mais certa, porque quando se fala em produtos de investimento com garantia de capital, a ideia é que o dinheiro que colocamos lá está seguro. Não conheço muito bem os outros termos, mas segurança parece ser o mais importante.",
+          "Acho que a opção D é a mais lógica, porque se fala em 'garantia de capital', parece que é sobre proteger o que investimos. Não conheço bem os termos, mas parece que é importante manter o nosso dinheiro seguro.",
+          "Eu acho que a opção B é a melhor, porque quando falo de produtos de investimento com garantia, parece-me que eles protegem o meu dinheiro de alguma forma. Não conheço bem os outros termos, como rendimento fixo mensal ou proteção contra a inflação, então prefiro esta opção que fala sobre segurança.",
+          "Eu escolhi a opção D porque acho que segurança significa que o dinheiro que colocamos não vai desaparecer. Não conheço muito sobre os outros termos, como rentabilidade ou inflação, mas sei que queremos que o nosso investimento esteja seguro.",
+          "Eu acho que a resposta é a D, porque quando falamos em produtos de investimento com garantia de capital, parece que é isso que eles oferecem, ou seja, protegem o dinheiro que colocamos lá. Não reconheço bem os outros termos, mas 'segurança do capital' parece o mais claro para mim.",
+          "Acho que a segurança do capital investido é a melhor opção, porque quando se fala em produtos de investimento com garantia de capital, parece que se refere a proteger o que já colocamos lá. Não percebo bem os outros termos, como rentabilidade ou rendimento fixo, mas segurança é algo que faz sentido.",
+          "Eu acho que a resposta é D, porque produtos com garantia de capital devem proteger o dinheiro que investimos. Não reconheço bem os outros termos, mas parece que a segurança do capital é o mais importante."
+        ],
+        "Alto": [
+          "Os produtos de investimento com garantia de capital oferecem a segurança do capital investido, o que significa que, ao final do prazo do investimento, o investidor receberá pelo menos o montante inicialmente aplicado, independentemente da performance do mercado. Essa opção é a mais correta, pois não garante rendimento fixo ou rentabilidade garantida, e a proteção contra a inflação não é uma característica inerente a esses produtos.",
+          "Os produtos de investimento com garantia de capital visam proteger o montante investido, assegurando que o capital não seja perdido, mesmo que o desempenho do ativo subjacente não seja positivo. Reconheço que a segurança do capital é uma característica fundamental e distinta deste tipo de produto, enquanto as outras opções mencionam rendimentos ou proteção que não são garantidos.",
+          "Os produtos de investimento com garantia de capital oferecem uma proteção do capital investido, ou seja, garantem que o montante inicial aplicado será devolvido ao investidor no final do prazo do investimento, independentemente das oscilações do mercado. Embora possam proporcionar algum rendimento, a opção A é a mais precisa em relação à segurança que oferecem.",
+          "Os produtos de investimento com garantia de capital oferecem essencialmente a segurança do capital investido, o que significa que, ao final do período de investimento, o investidor recebe pelo menos o montante inicialmente aplicado. Embora possam ter limitações quanto à rentabilidade e não garantirem proteção contra a inflação, a segurança do capital é o principal atrativo desses produtos, reconhecendo-se assim a terminologia usada.",
+          "Os produtos de investimento com garantia de capital oferecem a segurança do capital investido, o que significa que, no final do prazo do investimento, o investidor receberá pelo menos o montante inicialmente investido. Embora possam existir rendimentos variáveis, a principal característica destes produtos é a proteção do capital, o que os distingue de investimentos mais arriscados.",
+          "Os produtos de investimento com garantia de capital oferecem uma proteção do montante investido, assegurando que, ao final do prazo, o investidor não perde o capital aplicado. Esta é uma característica fundamental, pois proporciona segurança ao investidor, mesmo que a rentabilidade possa variar.",
+          "Os produtos de investimento com garantia de capital asseguram que o valor do capital inicialmente investido não será perdido, independentemente da performance do mercado. Embora possam oferecer uma rentabilidade, esta não é garantida, e a proteção contra a inflação e rendimento fixo mensal não são características típicas desses produtos.",
+          "Os produtos de investimento com garantia de capital têm como principal característica a proteção do capital investido, o que significa que, ao final do período de investimento, o investidor recebe pelo menos o valor que aplicou, independentemente da performance do investimento. As outras opções não se aplicam diretamente à definição de segurança oferecida por estes produtos.",
+          "Os produtos de investimento com garantia de capital oferecem proteção ao valor investido, assegurando que, no mínimo, o capital inicial será devolvido ao investidor, independentemente da performance do mercado. No entanto, não garantem rentabilidade ou proteção contra a inflação, que são aspectos diferentes.",
+          "Os produtos de investimento com garantia de capital, como os depósitos a prazo ou alguns fundos de investimento, asseguram que o capital inicial investido não será perdido, proporcionando assim uma segurança do capital investido. Embora possam não oferecer rentabilidade garantida ou proteção contra a inflação, a proteção do capital é a característica fundamental desses produtos."
+        ]
+      }
+    },
+    {
+      "question": "O que implica obter um rendimento mais elevado num investimento?",
+      "options": {
+        "A": "Assumir maior risco.",
+        "B": "Garantia de retorno elevado sem risco.",
+        "C": "Proteção total do capital investido.",
+        "D": "Rendimentos estáveis e previsíveis."
+      },
+      "hint": "Considera a relação entre risco e rendimento.",
+      "rationale": "Para obter rendimentos mais elevados, é necessário assumir um nível de risco maior, conforme a regra básica da relação entre rentabilidade e risco.",
+      "tag": "Rentabilidade e risco",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Rentabilidade e risco', pois aborda a relação entre o rendimento e o risco nos investimentos."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que afirma claramente que maior rendimento implica maior risco."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A) sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, mas algumas opções, como a B e C, podem ser consideradas menos realistas no contexto de investimentos."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a pensar sobre a relação entre risco e rendimento sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte sobre a relação entre rentabilidade e risco."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.7,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que quando se fala em rendimento elevado, as pessoas devem estar a pensar que isso vem sem riscos, porque é mais fácil entender assim. Não estou muito familiarizado com os termos que usam para explicar investimentos, então parece-me que ter um rendimento alto deve ser sempre seguro.",
+          "Eu não percebo muito de finanças, mas parece que se eu conseguir um rendimento elevado, então certamente não deve haver risco, porque quem não quer ganhar dinheiro fácil? É isso que eu penso.",
+          "Eu não percebo muito sobre investimentos, mas acho que se queremos ganhar mais, provavelmente temos que correr mais riscos. Não conheço bem os termos técnicos, mas parece que é assim que funciona.",
+          "Não percebo bem o que significam os termos técnicos, mas acho que se um investimento promete rendimentos altos, deve ser seguro. Normalmente, as coisas boas vêm sem riscos, ou pelo menos é o que eu penso.",
+          "Acho que quando se investe, a ideia é proteger o que já temos, por isso a proteção total é o mais importante. Não percebo bem os termos técnicos, mas parece que é assim que funciona, não é?",
+          "Eu acho que quando se fala em rendimento mais elevado, deve ser algo que traz segurança e estabilidade, porque é isso que as pessoas querem. Não percebo bem sobre riscos e termos complicados, mas acredito que rendimentos altos devem ser seguros.",
+          "Eu acho que se um investimento dá um retorno elevado, é porque é garantido e não tem risco. Não percebo bem os termos técnicos, mas parece que se pode ganhar dinheiro fácil.",
+          "Eu acho que para ganhar mais dinheiro com um investimento, às vezes é preciso arriscar mais. Não entendo bem os termos financeiros, mas parece que quanto maior o retorno que queremos, mais arriscado deve ser.",
+          "Eu acho que se um investimento dá um rendimento mais elevado, significa que é uma garantia de que não há risco. Não conheço bem esses termos de finanças, mas parece que quanto mais se ganha, menos risco deve haver.",
+          "Eu não percebo muito de investimentos e finanças, mas sempre ouvi dizer que quando se quer ganhar mais, acaba-se por ter que arriscar mais. Não conheço bem os termos, mas parece que é assim que funciona."
+        ],
+        "Médio": [
+          "Acho que quando se fala em ganhar mais com um investimento, isso geralmente significa que tens que correr mais riscos. Não sou bom com termos complicados, mas parece que mais rendimento está ligado a mais perigo.",
+          "Acho que para ganhar mais dinheiro num investimento, tem que se arriscar mais. Não percebo bem todos os termos, mas parece que quando se quer mais lucro, isso vem com mais risco, certo?",
+          "Eu acho que obter um rendimento mais elevado deve significar que não há risco, porque se é garantido, não se deve perder dinheiro. Não conheço bem os termos de investimento, mas parece lógico que um bom retorno vem sempre sem riscos.",
+          "Acho que obter um rendimento mais elevado deve significar que não há risco, porque se fosse arriscado, não seria garantido. Não entendo muito bem os outros termos, e parece que esta opção é a mais segura.",
+          "Eu penso que se ganharmos mais dinheiro com um investimento, isso deve significar que temos de correr mais riscos. Não reconheço bem todos os termos, mas é o que me parece, porque normalmente quando algo é mais arriscado pode dar mais lucro.",
+          "Eu acho que, para ter mais rendimento, é preciso arriscar mais. Não percebo bem todos os termos, mas parece que se quer ganhar mais, tem que haver algum risco envolvido. As outras opções falam de garantias que, para mim, não fazem sentido se se quer ganhar mais.",
+          "Acho que, quando se fala em rendimento elevado, deve ser garantido e sem riscos, porque é isso que todos queremos. Não conheço bem os termos técnicos, mas parece que não se deve arriscar muito.",
+          "Eu acho que, para ganhar mais dinheiro com um investimento, é preciso correr mais riscos. Não conheço bem todos os termos, mas parece que quanto mais arriscado for, mais possibilidade de ganhar, mesmo que também possa perder.",
+          "Acho que, quando se fala em rendimentos mais elevados, parece que isso vem com mais risco. Não entendo bem de investimentos, mas é comum ouvir que, para ganhar mais, às vezes tem que se arriscar mais. As outras opções não fazem muito sentido para mim, porque não parece que se possa garantir um retorno alto sem arriscar.",
+          "Acho que obter um rendimento mais elevado significa que há mais risco envolvido. Para ganhar mais, é normal ter que arriscar um pouco, mesmo que eu não saiba exatamente o que isso implica ou quais são os riscos."
+        ],
+        "Alto": [
+          "Obter um rendimento mais elevado num investimento geralmente implica assumir um maior risco, uma vez que retornos mais altos estão frequentemente associados a ativos mais voláteis. A relação risco-retorno é um princípio fundamental em finanças, e as opções A, B e D não refletem essa realidade.",
+          "Obter um rendimento mais elevado num investimento geralmente implica estar disposto a assumir um nível de risco mais elevado. A relação entre risco e retorno é um princípio fundamental na teoria financeira, onde investimentos com maiores potenciais de retorno tendem a estar associados a maior volatilidade e incerteza.",
+          "A relação entre risco e rendimento é um princípio fundamental em finanças, onde rendimentos mais elevados geralmente estão associados a investimentos que envolvem maior incerteza e volatilidade. Portanto, ao optar por um investimento que promete retornos mais altos, é necessário aceitar um nível de risco superior.",
+          "Obter um rendimento mais elevado num investimento geralmente implica assumir um maior risco, uma vez que rendimentos elevados tendem a estar associados a ativos mais voláteis ou incertos. A relação entre risco e retorno é um princípio fundamental em finanças, reconhecido na teoria moderna de portfólios e na avaliação de investimentos.",
+          "A relação entre risco e retorno é um conceito fundamental em finanças. Um rendimento mais elevado normalmente implica a assunção de um maior risco, uma vez que investimentos de menor risco tendem a oferecer retornos mais modestos. Assim, a opção D é a mais correta, pois reflete a realidade do mercado financeiro.",
+          "Para obter um rendimento mais elevado num investimento, normalmente é necessário assumir um maior risco. Os investimentos que oferecem maiores retornos potenciais frequentemente estão associados a uma maior volatilidade e incerteza, o que implica que o capital investido pode não estar totalmente protegido. Reconheço os termos usados, pois refletem a relação entre risco e retorno, um princípio fundamental da teoria financeira.",
+          "Obter um rendimento mais elevado num investimento geralmente implica aceitar um maior nível de risco, pois investimentos de maior retorno tendem a ser mais voláteis e incertos. Esta relação risco-retorno é um princípio fundamental da teoria financeira e é amplamente reconhecida no contexto de investimentos.",
+          "A relação entre rendimento e risco é um princípio fundamental em finanças. Investimentos que oferecem rendimentos mais elevados geralmente envolvem um maior risco, pois a possibilidade de perdas também aumenta. Portanto, a opção C é a mais correta, pois reconhece essa dinâmica essencial.",
+          "Obter um rendimento mais elevado num investimento geralmente implica assumir um maior risco. Isso está relacionado com a relação entre risco e retorno, onde investimentos de maior retorno potencial frequentemente têm uma volatilidade maior e, portanto, um risco associado mais elevado. Reconheço os termos utilizados, pois são fundamentais na compreensão da dinâmica dos investimentos.",
+          "A relação entre risco e retorno é um conceito fundamental em finanças. Investimentos que oferecem rendimentos mais elevados geralmente envolvem maior volatilidade e risco, o que é amplamente reconhecido na teoria moderna de portfólio. Portanto, a opção D é a mais correta."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante ter parte das poupanças em ativos líquidos?",
+      "options": {
+        "A": "Para acesso imediato ao dinheiro.",
+        "B": "Para garantir um retorno elevado.",
+        "C": "Para evitar pagar impostos sobre o capital.",
+        "D": "Para proteger o capital contra a inflação."
+      },
+      "hint": "Pensa na facilidade de converter ativos em dinheiro.",
+      "rationale": "Ter poupanças em ativos líquidos, como contas à ordem, garante acesso imediato ao dinheiro quando necessário.",
+      "tag": "Liquidez",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Liquidez', pois aborda a importância de ter poupanças em ativos líquidos, que é um conceito central nesse domínio."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a necessidade de ter dinheiro disponível e a importância da liquidez."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A) que se destaca claramente."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de poupança e investimento, mas alguns podem não ser tão diretamente relevantes para a liquidez."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica orienta eficazmente o raciocínio sobre a resposta correta, sem revelar diretamente a solução."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de ter acesso imediato ao dinheiro."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é importante ter dinheiro que podemos usar rapidamente quando precisamos, como para emergências ou para comprar algo. Não entendo muito bem os outros termos, mas acesso ao dinheiro parece mais prático.",
+          "Eu escolhi esta opção porque, para mim, é importante ter dinheiro à mão quando preciso. Não percebo bem as outras coisas, como inflação ou impostos, mas ter dinheiro disponível parece-me útil no dia-a-dia.",
+          "Acho que é importante ter dinheiro que posso usar logo, porque às vezes precisamos de comprar coisas ou pagar contas rapidamente. Não entendo bem essas palavras difíceis sobre inflação ou impostos, mas ter acesso ao meu dinheiro parece mais útil.",
+          "Eu não entendo bem esses termos financeiros e não sei o que significa proteger contra a inflação ou pagar impostos sobre o capital. Mas sei que é importante ter dinheiro disponível quando precisamos, por isso escolhi a opção A.",
+          "Eu acho que é importante ter o dinheiro por perto, porque assim podemos usar quando precisamos, como para emergências ou se aparece algo que queremos comprar. Não conheço bem os outros termos, mas ter acesso ao dinheiro parece mais prático.",
+          "Acho que ter dinheiro que posso usar rapidamente é importante, porque nunca se sabe quando vamos precisar de pagar algo urgentemente. Não entendo bem os outros termos, mas acesso ao dinheiro parece mais claro.",
+          "Acho que é importante ter dinheiro que posso usar quando precisar, como por exemplo, se surgir uma emergência. Não entendo muito de termos complicados, mas ter acesso rápido ao dinheiro parece-me ser a melhor razão.",
+          "Eu acho que é importante ter o dinheiro à mão, porque nunca se sabe quando precisamos. Não conheço bem sobre impostos ou inflação, mas ter dinheiro disponível parece ser o mais prático.",
+          "Eu penso que é importante ter algum dinheiro que possamos usar logo que precisarmos, como quando queremos comprar algo ou se acontece alguma emergência. Não percebo bem as outras opções, mas ter acesso rápido ao dinheiro parece-me o mais prático.",
+          "Acho que é importante ter dinheiro que podemos usar quando precisamos, como para emergências ou coisas que aparecem de repente. Não entendo muito sobre o resto, como proteger contra a inflação ou impostos, mas ter dinheiro à mão parece mais prático."
+        ],
+        "Médio": [
+          "Acho que é importante ter dinheiro que podemos usar logo, se precisarmos. Não entendo muito sobre ativos ou inflação, mas ter dinheiro disponível é sempre bom para emergências.",
+          "Acho que é importante ter dinheiro que possamos usar rapidamente, se precisar de comprar alguma coisa ou se acontecer algo inesperado. Não entendo muito sobre ativos ou inflação, mas ter o dinheiro à mão parece mais prático.",
+          "Acho que é importante ter o dinheiro disponível quando precisamos, porque não sabemos quando vamos precisar de usar. Não conheço bem os outros termos como inflação ou impostos, mas parece-me que ter dinheiro à mão é mais prático.",
+          "Acho que é importante ter dinheiro que podemos usar logo que precisarmos, tipo para emergências. Não entendo muito sobre ativos ou impostos, mas ter acesso ao dinheiro é o que faz sentido.",
+          "Acho que é importante ter o dinheiro acessível, porque nunca sabemos quando precisamos de comprar alguma coisa ou de fazer um pagamento urgente. Não conheço bem os outros termos, como inflação ou impostos, e por isso escolho a opção que faz mais sentido para mim.",
+          "Acho que é importante ter dinheiro que podemos usar rapidamente, caso precisemos dele. Não entendo muito sobre ativos líquidos ou inflação, mas ter acesso ao dinheiro parece ser a coisa mais prática.",
+          "Acho que é importante ter dinheiro que podemos usar logo, caso precisemos de pagar algo de repente. Não percebo bem os outros motivos, como impostos ou inflação, mas ter o dinheiro à mão parece ser a melhor opção.",
+          "Acho que é importante ter alguma poupança que seja fácil de usar, como ter o dinheiro à mão quando precisamos. Não percebo bem sobre impostos ou inflação, mas ter dinheiro disponível é sempre bom.",
+          "Acho que é importante ter dinheiro que se possa usar logo que precisamos, tipo para emergências. Não percebo muito sobre coisas como inflação ou impostos, mas ter acesso rápido ao dinheiro parece mais simples e útil.",
+          "Eu escolhi a opção B porque acho que é importante ter dinheiro disponível quando precisamos. Não percebo muito sobre ativos líquidos ou outras coisas complicadas, mas ter acesso rápido ao dinheiro parece ser o mais prático."
+        ],
+        "Alto": [
+          "É crucial ter parte das poupanças em ativos líquidos para garantir acesso imediato ao dinheiro em situações de emergência ou oportunidades de investimento. A liquidez permite uma gestão financeira flexível, essencial para evitar o endividamento e manter a segurança financeira.",
+          "A opção A é a mais correta, pois ter ativos líquidos permite que o indivíduo tenha acesso imediato ao seu dinheiro em caso de emergência ou necessidade. Embora as outras opções abordem questões importantes, como impostos e proteção contra a inflação, a liquidez é fundamental para a gestão de caixa a curto prazo.",
+          "A liquidez é crucial para assegurar que se pode aceder rapidamente a fundos em caso de emergência ou oportunidade de investimento. Embora a proteção contra a inflação e o retorno elevado sejam importantes, a capacidade de acesso imediato ao dinheiro é uma prioridade na gestão de tesouraria pessoal e planeamento financeiro.",
+          "A liquidez dos ativos é crucial para garantir que se tem acesso imediato a fundos em situações de emergência ou para aproveitar oportunidades de investimento. Apesar de outras opções serem relevantes em contextos específicos, a necessidade de acesso rápido ao dinheiro é uma das principais razões para manter parte das poupanças em ativos líquidos.",
+          "É fundamental ter parte das poupanças em ativos líquidos para garantir acesso imediato ao dinheiro em caso de emergência ou necessidade inesperada. Embora a rentabilidade e a proteção contra a inflação sejam importantes, a liquidez assegura que os fundos estejam disponíveis quando mais precisamos deles.",
+          "A opção A é a mais correta porque ter parte das poupanças em ativos líquidos permite o acesso imediato ao capital em caso de emergência ou necessidade financeira. Os ativos líquidos, como contas de poupança ou fundos de emergência, oferecem flexibilidade e segurança, essenciais para a gestão eficaz do orçamento pessoal.",
+          "A importância de ter parte das poupanças em ativos líquidos reside na necessidade de acesso imediato a fundos em situações de emergência ou para despesas inesperadas. Embora o retorno elevado e a proteção contra a inflação sejam fatores relevantes, a liquidez é fundamental para garantir que se possa dispor do capital rapidamente sem penalizações.",
+          "A opção C é a mais correta, pois ter parte das poupanças em ativos líquidos permite um acesso rápido ao capital em caso de emergência ou necessidade imediata, o que é fundamental para a gestão financeira pessoal. Embora a proteção contra a inflação e o retorno elevado sejam importantes, a liquidez é essencial para garantir a flexibilidade financeira.",
+          "A liquidez é crucial em finanças pessoais, pois permite que o indivíduo tenha acesso rápido aos fundos em caso de emergência ou oportunidade de investimento. Embora outros fatores como retorno elevado e proteção contra a inflação sejam importantes, a principal razão para manter ativos líquidos é garantir a disponibilidade imediata de capital.",
+          "A opção A é a mais correta, pois ter parte das poupanças em ativos líquidos permite um acesso rápido a fundos em situações de emergência ou quando surgem oportunidades de investimento. Os ativos líquidos, como contas de poupança ou fundos de mercado monetário, garantem que o capital esteja disponível sem penalizações ou atrasos, o que é fundamental para uma boa gestão financeira."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a mentalidade necessária para começar a investir?",
+      "options": {
+        "A": "Mentalidade de investidor.",
+        "B": "Mentalidade de aforrador.",
+        "C": "Mentalidade de consumidor.",
+        "D": "Mentalidade de poupador."
+      },
+      "hint": "Reflete sobre a forma de pensar ao lidar com dinheiro parado.",
+      "rationale": "Desenvolver uma mentalidade de investidor é essencial para começar a investir e multiplicar o capital, em vez de deixar o dinheiro parado.",
+      "tag": "Poupança e investimento",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de Poupança e Investimento, pois aborda a mentalidade necessária para investir, que é um aspecto relevante desse domínio."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de uma mentalidade de investidor, embora não seja explicitamente abordada a mentalidade de aforrador."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, com apenas pequenas imperfeições, pois a opção correta se destaca, mas as outras opções também têm alguma relação com o tema."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimento, embora alguns possam ser considerados menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante reflita sobre a mentalidade ao lidar com dinheiro, mas poderia ser um pouco mais direcionada."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta, clara e praticamente completa, mas poderia incluir uma ligação mais explícita ao conteúdo-fonte sobre a mentalidade de investidor."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a mentalidade de consumidor é a melhor porque, no fundo, as pessoas querem gastar e aproveitar o que têm. Não entendo bem essa coisa de investir, mas sei que as pessoas costumam comprar coisas que gostam.",
+          "Acho que a melhor mentalidade é ser poupador, porque é importante guardar dinheiro antes de pensar em investir. Não percebo bem os outros termos, mas poupar parece-me mais fácil e prático no dia-a-dia.",
+          "Eu acho que a melhor mentalidade é a de aforrador, porque isso significa que a pessoa está a guardar dinheiro e a tentar não gastar muito. Não conheço bem esses termos técnicos, mas guardar dinheiro parece ser o primeiro passo antes de investir.",
+          "Eu acho que a mentalidade de poupador é a melhor. Porque quando se poupa, estamos a guardar dinheiro para comprar coisas mais tarde, e isso parece uma boa ideia. Não percebo muito dos outros termos, mas poupar parece mais simples e prático.",
+          "Eu acho que a mentalidade de consumidor é a que faz mais sentido, porque as pessoas normalmente pensam em gastar o dinheiro em coisas que querem, em vez de o guardar ou investir. Não conheço bem os outros termos, mas gastar é algo que todos nós fazemos.",
+          "Acho que para investir é preciso ser alguém que guarda dinheiro primeiro, assim pode usar esse dinheiro depois. Não conheço bem esses termos de investidor ou aforrador.",
+          "Eu acho que a melhor mentalidade é a de poupador, porque se deve guardar dinheiro antes de investir. Não entendo muito desses termos técnicos, mas poupar parece mais prático e seguro.",
+          "Eu acho que para começar a investir, a pessoa deve pensar como um consumidor, porque estamos sempre a comprar coisas e a gastar dinheiro. Não entendo bem os outros termos, mas consumidores são quem lida com dinheiro no dia-a-dia.",
+          "Acho que para começar a investir, é melhor ter uma mentalidade de poupador, porque se estivermos a poupar, já estamos a guardar um pouco de dinheiro. Não percebo bem os outros termos, mas poupar parece mais simples e prático.",
+          "Acho que a melhor mentalidade para começar a investir é ser poupador, porque isso significa que a pessoa já está a guardar algum dinheiro. Não conheço muito sobre termos técnicos, mas parece que poupar é o primeiro passo antes de investir."
+        ],
+        "Médio": [
+          "Acho que para começar a investir é preciso ter uma mentalidade de aforrador, porque é importante guardar dinheiro antes de começar a pensar em investimentos. Não conheço muito bem os outros termos, mas guardar dinheiro parece ser o primeiro passo.",
+          "Acho que para começar a investir, é importante ter uma mentalidade de poupador, porque primeiro precisamos juntar dinheiro antes de pensar em investir. Não percebo bem o que é a mentalidade de investidor, mas poupar parece mais fácil de entender.",
+          "Eu acho que para investir, é preciso pensar mais como um consumidor, porque investimos em coisas que queremos ou precisamos. Não estou muito familiarizado com os outros termos como investidor ou aforrador, então fico com o que parece mais simples.",
+          "Acho que para investir é importante ter a mentalidade de poupar primeiro, porque precisamos de juntar algum dinheiro antes de pensar em investir. Não conheço bem os outros termos, mas poupar parece ser o primeiro passo.",
+          "Eu acho que a mentalidade de aforrador é a melhor porque, quando se começa a investir, é importante ter algum dinheiro guardado primeiro. Não sei muito bem o que significa ser investidor, mas poupar parece um bom começo.",
+          "Acho que para começar a investir, é preciso ter uma mentalidade de aforrador, porque é importante poupar primeiro antes de pensar em investir. Não conheço muito bem os outros termos, mas parece que poupança é algo que faz sentido.",
+          "Acho que a mentalidade de poupador é a melhor para começar a investir, porque se eu poupo dinheiro, depois posso usar esse dinheiro para investir. Não entendo bem o que é a mentalidade de investidor, mas sei que poupar é importante.",
+          "Acho que a mentalidade de poupador faz sentido porque, se queremos investir, primeiro precisamos poupar algum dinheiro. Os outros termos, como aforrador ou investidor, parecem um pouco mais complicados para mim.",
+          "Acho que para começar a investir, é importante ter uma mentalidade de poupador, porque assim a pessoa já está habituada a guardar dinheiro antes de pensar em investir. Não reconheço bem os outros termos, mas poupar parece ser o primeiro passo.",
+          "Acho que para começar a investir, é preciso ter uma mentalidade de poupador, porque é importante guardar dinheiro primeiro antes de pensar em investir. Não conheço muito os outros termos, mas parece que a poupança é o que vem primeiro."
+        ],
+        "Alto": [
+          "Para começar a investir, é fundamental ter uma mentalidade de investidor, que implica uma disposição para analisar oportunidades, assumir riscos calculados e focar no crescimento do capital a longo prazo. Este termo é reconhecido no contexto financeiro, pois envolve a compreensão das dinâmicas de mercado e da importância da diversificação na construção de um portfólio eficaz.",
+          "A mentalidade de investidor é fundamental para iniciar o processo de investimento, pois implica uma disposição para assumir riscos calculados e um foco no crescimento do capital a longo prazo. Reconheço os termos usados, pois a mentalidade de poupador (B) e aforrador (D) se concentram mais na conservação e acumulação de capital, enquanto a mentalidade de consumidor (C) tende a priorizar o consumo imediato em vez do investimento.",
+          "A mentalidade de investidor é crucial para quem deseja entrar no mundo dos investimentos, pois envolve a disposição para assumir riscos calculados, realizar análises de mercado e buscar um crescimento do capital ao longo do tempo. Reconheço que essa mentalidade é distinta da de consumidor, aforrador ou poupador, que se focam mais na acumulação de dinheiro ou na satisfação imediata, sem a visão a longo prazo necessária para investir eficazmente.",
+          "A mentalidade de investidor é fundamental para quem deseja começar a investir, pois envolve a disposição para assumir riscos calculados, focar no crescimento do capital e ter uma visão de longo prazo. Reconheço que esta mentalidade é distinta de outras, como a de consumidor ou poupador, que podem estar mais centradas no consumo imediato ou na preservação de capital, mas não necessariamente na valorização através de investimentos.",
+          "A mentalidade necessária para começar a investir é a mentalidade de investidor, pois implica uma abordagem proativa em relação ao crescimento do capital e à aceitação de riscos calculados. Reconheço a importância de diferenciar entre poupança e investimento, onde a mentalidade de investidor é fundamental para maximizar retornos a longo prazo.",
+          "A mentalidade de investidor é essencial para iniciar o processo de investimento, pois envolve a disposição para assumir riscos calculados em busca de retornos a longo prazo. Esta mentalidade valoriza o conhecimento dos mercados e a análise de oportunidades, ao contrário da mentalidade de consumidor ou aforrador, que pode ser mais focada em gastar ou acumular dinheiro sem uma estratégia de crescimento.",
+          "A mentalidade necessária para começar a investir é a de investidor, pois esta implica um foco na construção de riqueza através da alocação eficiente de capitais em ativos que gerem retornos ao longo do tempo. Reconheço os termos utilizados, pois a mentalidade de investidor envolve entender e aceitar riscos, bem como a importância da diversificação e do planeamento a longo prazo.",
+          "A mentalidade de investidor é fundamental para quem deseja alocar capital com o objetivo de gerar retornos ao longo do tempo, reconhecendo a importância da análise de risco e da diversificação. Diferente de uma mentalidade de aforrador ou poupador, que se foca na acumulação de capital, a mentalidade de investidor implica uma disposição para assumir riscos calculados em busca de crescimento do património.",
+          "A mentalidade necessária para começar a investir é, sem dúvida, a mentalidade de investidor, pois implica estar disposto a assumir riscos calculados em busca de retornos a longo prazo. Reconheço a importância de entender o mercado, diversificar e avaliar as oportunidades de investimento, o que distingue um investidor de um simples poupador ou aforrador.",
+          "A mentalidade necessária para começar a investir é a de um investidor, pois envolve a disposição para assumir riscos calculados em busca de retornos a longo prazo, além de uma compreensão dos mercados financeiros. Reconheço os termos utilizados, uma vez que a mentalidade de investidor é fundamental para o desenvolvimento de uma estratégia de investimento eficaz e sustentável."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma vantagem fiscal dos PPR em Portugal?",
+      "options": {
+        "A": "Dedução no IRS.",
+        "B": "Isenção total de impostos sobre os rendimentos.",
+        "C": "Reembolso integral do valor investido.",
+        "D": "Acesso a taxas de juro mais elevadas."
+      },
+      "hint": "Pensa em como os PPR afetam os impostos.",
+      "rationale": "Os PPR permitem deduzir uma parte do valor investido no IRS, oferecendo uma vantagem fiscal aos investidores.",
+      "tag": "Fiscalidade dos investimentos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Fiscalidade dos investimentos', pois questiona sobre uma vantagem fiscal específica dos PPR, que é um tema central no conteúdo-fonte."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente a dedução no IRS como uma vantagem fiscal dos PPR."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de investimentos e fiscalidade, mas a opção B (isenção total de impostos) é um pouco enganosa, pois não é uma vantagem dos PPR."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense sobre a relação entre PPR e impostos, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a dedução no IRS."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.7,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito de impostos e esses termos complicados, mas acho que a dedução no IRS é algo que pode ajudar a pagar menos no final do ano. É uma maneira de obter algum benefício ao investir, certo?",
+          "Eu não percebo muito bem o que são essas coisas de impostos e PPR, mas acho que a opção B fala de algo que pode ajudar a diminuir o que temos que pagar no IRS, que é o imposto que todos nós pagamos. Parece-me uma boa vantagem!",
+          "Eu acho que a opção A é a mais certa porque, se não me engano, é comum ouvir que podemos tirar um pouco de dinheiro do IRS com certas coisas, e os PPR devem ser uma dessas coisas. Não percebo muito bem do que se fala em termos técnicos, mas deduzir soa a algo positivo.",
+          "Acho que a dedução no IRS é uma coisa que as pessoas falam quando falam de PPR. Não sei bem o que isso significa, mas parece que é algo que pode ajudar a pagar menos impostos, o que é bom.",
+          "Não percebo muito bem os termos, mas acho que se pode recuperar todo o dinheiro que se colocou, o que parece uma vantagem. As outras opções parecem complicadas e não as entendo bem.",
+          "Eu não percebo bem de finanças, mas acho que a dedução no IRS é algo que as pessoas falam quando falam de PPR. Pode ser bom porque ajuda a pagar menos impostos, certo?",
+          "Não percebo bem o que são PPR e as vantagens fiscais, mas a ideia de isenção de impostos parece boa. Acho que isso é uma vantagem porque ninguém gosta de pagar impostos, não é?",
+          "Eu não entendo bem o que são PPR e IRS, mas parece que a dedução no IRS é algo que ajuda a pagar menos impostos, o que é sempre bom. As outras opções não me fazem sentido, como taxas de juro ou reembolsos, então fico com a que parece mais simples.",
+          "Eu não entendo bem o que é um PPR e as opções parecem complicadas. Mas como fala sobre reembolso, parece que é uma vantagem, porque quem não gosta de receber o que investe de volta?",
+          "Eu não entendo muito bem do que se fala com 'PPR' e 'IRS', mas acho que é algo que tem a ver com impostos. Deduzir parece ser uma forma de pagar menos, então parece-me que é uma vantagem."
+        ],
+        "Médio": [
+          "Acho que a resposta certa é a B porque sei que os PPR ajudam a pagar menos impostos no IRS. Não conheço bem os outros termos, mas parece que a dedução é uma forma de ganhar mais dinheiro ou poupar.",
+          "Acho que a melhor opção é a A, porque já ouvi falar que os PPR podem ajudar a pagar menos impostos no IRS. Não conheço muito bem os detalhes, mas parece que é uma vantagem que as pessoas costumam mencionar.",
+          "Acho que a resposta certa é a B, porque sei que os PPR podem ajudar a pagar menos impostos quando fazemos a declaração do IRS. Os outros termos não me parecem que tenham a ver com vantagens fiscais diretamente.",
+          "Acho que a resposta certa é a B porque sei que os PPR têm alguma coisa a ver com o IRS e que podemos descontar um pouco no imposto. A opção A parece exagerada, e as outras opções não falam de impostos.",
+          "Acho que a dedução no IRS é uma vantagem porque, se eu puder tirar um pouco do que pago em impostos, isso ajuda a poupar dinheiro. Não conheço bem os outros termos, mas parece que a dedução é uma coisa boa.",
+          "Acho que a dedução no IRS é uma vantagem porque significa que podemos pagar menos impostos, certo? Os outros termos, como isenção total ou reembolso integral, parecem complicados e não sei se se aplicam. Deduzir parece mais simples.",
+          "Acho que a melhor opção é a A, porque PPR tem a ver com impostos e IRS, e já ouvi que podemos deduzir algumas coisas para pagar menos. Não tenho a certeza do que significa reembolso integral ou isenção total de impostos, mas parece-me que a dedução é o que faz mais sentido.",
+          "Acho que a vantagem dos PPR é que podemos deduzir no IRS, ou seja, é como se pagássemos menos impostos. Não conheço bem os outros termos, mas sei que deduzir pode ajudar a poupar um bocadinho.",
+          "Acho que a dedução no IRS é uma vantagem porque significa que podemos pagar menos impostos, certo? Mas não sei bem o que são os outros termos, como isenção ou reembolso integral, então fico com a dedução.",
+          "Acho que a opção B é a certa, porque já ouvi falar que os PPR ajudam a pagar menos impostos no IRS. Não sei bem como funciona, mas parece ser uma vantagem."
+        ],
+        "Alto": [
+          "A opção C é a mais correta, pois os PPR (Planos Poupança Reforma) permitem aos contribuintes deduzir até um certo limite no IRS, o que é uma vantagem fiscal significativa. As outras opções não refletem corretamente as vantagens fiscais associadas aos PPR em Portugal.",
+          "A opção C é a mais correta, pois os PPR (Planos Poupança Reforma) em Portugal permitem ao contribuinte deduzir um montante específico no IRS, reduzindo assim a sua base tributável. As outras opções são enganosas ou incorretas, uma vez que não refletem benefícios fiscais reais associados aos PPR.",
+          "A opção A, \"Dedução no IRS\", é a única que reflete uma vantagem fiscal real dos Planos Poupança Reforma (PPR) em Portugal, pois os contribuintes podem deduzir as contribuições feitas aos PPR na sua declaração de IRS até um determinado limite, reduzindo assim a sua base tributável. As outras opções não são corretas ou não representam vantagens fiscais reais associadas aos PPR.",
+          "A opção B é correta, pois os PPR (Planos Poupança Reforma) permitem que os contribuintes deduzam uma parte das suas contribuições no IRS, até ao limite estabelecido por lei. As outras opções não refletem vantagens fiscais reais dos PPR em Portugal.",
+          "A opção A é correta, pois os PPR (Planos Poupança Reforma) em Portugal permitem deduzir as contribuições realizadas no IRS, até aos limites estabelecidos, o que representa uma vantagem fiscal significativa. As outras opções não refletem a realidade fiscal dos PPR, pois não há isenção total de impostos sobre rendimentos, acesso a taxas de juro mais elevadas não é uma garantia, e o reembolso integral do valor investido não é uma característica dos PPR.",
+          "A opção A é a mais correta, pois os PPR (Planos Poupança Reforma) permitem a dedução de determinados montantes no IRS, favorecendo a poupança para a reforma. As demais opções apresentam afirmações que não são verdadeiras ou não se aplicam diretamente aos benefícios fiscais dos PPR.",
+          "A opção D é a correta, pois os PPR (Planos Poupança Reforma) permitem deduções fiscais no IRS até um certo limite, o que representa uma vantagem significativa para os contribuintes que investem nestes produtos. Reconheço os termos usados, como 'dedução' e 'IRS', pois são fundamentais na compreensão das vantagens fiscais associadas aos PPR em Portugal.",
+          "A opção C é a única correta, pois os PPR (Planos Poupança Reforma) em Portugal permitem a dedução de parte das contribuições no IRS, até aos limites estabelecidos anualmente. As outras opções não refletem com precisão os benefícios fiscais associados aos PPR.",
+          "A opção A é correta porque os PPR (Planos Poupança Reforma) permitem deduções fiscais no IRS, até limites específicos, o que representa uma vantagem significativa para os contribuintes. As outras opções não refletem benefícios fiscais reais associados aos PPR.",
+          "A opção B é a mais correta, pois os PPR (Planos Poupança Reforma) permitem que os contribuintes deduzam as suas contribuições no IRS até um determinado limite, o que resulta numa vantagem fiscal significativa. As outras opções não refletem corretamente as características fiscais dos PPR em Portugal."
+        ]
+      }
+    },
+    {
+      "question": "O que deves considerar para calcular os rendimentos de um investimento?",
+      "options": {
+        "A": "Taxa de juro e tempo de investimento.",
+        "B": "O montante investido e a inflação.",
+        "C": "Os custos de manutenção e a inflação.",
+        "D": "A liquidez do investimento e o montante inicial."
+      },
+      "hint": "Reflete sobre os fatores que influenciam o rendimento.",
+      "rationale": "Para calcular os rendimentos, é importante considerar tanto a taxa de juro como o tempo de investimento, especialmente devido ao efeito dos juros compostos.",
+      "tag": "Cálculo de rendimentos",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de 'Cálculo de rendimentos', pois aborda diretamente os fatores que influenciam o cálculo dos rendimentos de um investimento."
+        },
+        "topic_grounding": {
+          "score": 3,
+          "justification": "A pergunta e a resposta correta apresentam uma fundamentação parcial, pois embora a taxa de juro e o tempo de investimento sejam relevantes, o conteúdo-fonte não aborda diretamente esses conceitos."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, com apenas uma opção (A) que se destaca como a mais correta, embora as outras opções também apresentem elementos relevantes."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de cálculo de rendimentos, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o participante pense sobre os fatores que influenciam o rendimento, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao incluir outros fatores que também podem influenciar os rendimentos, além da taxa de juro e do tempo."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.5,
+        "Alto": 0.8
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que o que importa é o quanto eu coloquei a investir e se os preços estão a subir ou não, por isso escolhi a opção A. Não entendo bem esses termos técnicos, mas sei que a inflação é sobre os preços e isso afeta o que eu ganho.",
+          "Eu acho que o que conta é o dinheiro que coloquei e como o preço das coisas muda ao longo do tempo. Não percebo muito dos outros termos, mas parece que o que eu coloquei e o que os preços fazem são importantes.",
+          "Eu escolhi a opção A porque parece que a taxa de juro é importante para saber quanto vou ganhar e o tempo de investimento deve ser relevante também. Não conheço bem os outros termos, mas esses dois parecem fazer sentido para calcular rendimentos.",
+          "Acho que o montante investido é importante porque é o que eu pus no início, e a inflação porque faz com que o dinheiro perca valor ao longo do tempo. Não reconheço bem os outros termos, mas sei que o dinheiro pode mudar de valor.",
+          "Eu escolhi a opção B porque acho que o montante que começo a investir é importante e, de alguma forma, a liquidez deve ter a ver com a facilidade de usar o dinheiro. Não sei o que são essas taxas ou inflação, então fui pelo que faz mais sentido no dia-a-dia.",
+          "Acho que o montante que colocamos no investimento e a inflação são importantes porque se não tivermos em conta a inflação, o nosso dinheiro pode perder valor. Não entendo bem os outros termos, mas sei que o que colocamos e o que acontece com o dinheiro é fundamental.",
+          "Acho que a opção C faz sentido porque, se eu coloco dinheiro em algum lugar, quero saber quanto é que estou a pôr e se o dinheiro não vai perder valor com o tempo. Não conheço bem os termos técnicos, mas parece que a inflação é importante para saber se o meu investimento vai valer a pena.",
+          "Eu acho que para saber quanto vou ganhar com um investimento, preciso saber quanto coloquei e como os preços vão subir ou descer. Não conheço bem os termos, mas a inflação parece importante porque afeta o valor do dinheiro.",
+          "Eu não percebo bem o que é a inflação, mas acho que o que importa é saber quanto dinheiro eu pus a trabalhar. Então, escolhi a opção que fala do montante investido porque parece ser o que conta mais para saber se vou ganhar alguma coisa.",
+          "Eu não entendo muito bem de finanças, mas sei que, quando investimos, precisamos considerar quanto dinheiro colocamos e como os preços das coisas mudam com o tempo. Assim, acho que a inflação é importante para saber se ganhamos ou perdemos dinheiro."
+        ],
+        "Médio": [
+          "Acho que a taxa de juro é importante porque diz quanto vou ganhar, e o tempo de investimento é sobre quanto tempo vou deixar o dinheiro lá. Não conheço bem os outros termos, mas estes parecem-me os mais simples.",
+          "Acho que a taxa de juro é importante porque é o que ganhamos com o investimento, e o tempo é importante porque quanto mais tempo temos o dinheiro investido, mais ganhamos. Não entendo muito bem os outros termos, mas sei que juros e tempo são básicos.",
+          "Acho que para saber quanto vou ganhar com um investimento, é importante pensar no dinheiro que ponho a trabalhar e em como os preços podem subir, ou seja, a inflação. Não conheço bem todos os termos, mas parece-me que isso faz sentido.",
+          "Acho que para calcular os rendimentos de um investimento, é importante pensar no que se pôs a investir e como a inflação pode afetar isso. Não tenho certeza sobre os outros termos, mas parece que a inflação é algo que deve ser considerado.",
+          "Eu sei que a taxa de juro é importante porque é como o dinheiro cresce, e o tempo de investimento também é importante porque quanto mais tempo deixo o dinheiro lá, mais ganho. Mas outros termos como inflação ou liquidez não são tão claros para mim.",
+          "Eu penso que o montante que ponho a ganhar e como o preço das coisas muda ao longo do tempo, que é a inflação, são coisas importantes para ver se estou a ganhar dinheiro ou não. Não conheço bem os outros termos, mas parece-me que estes dois são os que mais fazem sentido.",
+          "Eu escolhi isso porque sei que a taxa de juro é importante para ver quanto vou ganhar com o meu investimento e o tempo que deixo o dinheiro investido também pode mudar isso. Não entendo bem os outros termos e como se ligam aos rendimentos.",
+          "Acho que a taxa de juro é importante porque é o que ganhamos com o investimento, e o tempo de investimento é o quanto temos que esperar para ver o nosso dinheiro a crescer. Não conheço bem os outros termos, como inflação ou custos de manutenção.",
+          "Acho que a liquidez e o montante inicial são importantes, porque preciso saber se posso tirar o meu dinheiro quando quiser e quanto é que estou a pôr a começar. Os outros termos, como taxa de juro e inflação, são um pouco confusos para mim.",
+          "Acho que para calcular o que ganho com um investimento, é importante saber quanto dinheiro coloquei e também como a inflação pode afetar isso. Não reconheço bem os outros termos, mas parece que o montante e a inflação são coisas mais simples de entender."
+        ],
+        "Alto": [
+          "Para calcular os rendimentos de um investimento, é essencial considerar a taxa de juro, que determina o retorno do capital aplicado, e o tempo de investimento, pois o efeito dos juros compostos aumenta com o tempo. Assim, a opção D é a mais completa e relevante, pois engloba dois fatores cruciais que afetam diretamente a rentabilidade de um investimento.",
+          "Para calcular os rendimentos de um investimento, é fundamental considerar a taxa de juro, que define o retorno gerado sobre o montante investido, e o tempo de investimento, que amplifica esses rendimentos ao longo do tempo. Esses dois fatores são cruciais na avaliação de qualquer investimento, pois a relação entre eles determina o valor futuro do capital investido.",
+          "Para calcular os rendimentos de um investimento, é crucial considerar tanto os custos de manutenção, que podem afetar o retorno líquido, como a inflação, que corrói o poder de compra dos rendimentos. Assim, a opção A é a mais completa e relevante, pois integra fatores que impactam diretamente no rendimento real do investimento.",
+          "Para calcular os rendimentos de um investimento, é crucial considerar tanto os custos de manutenção, que podem reduzir o rendimento líquido, como o impacto da inflação, que afeta o valor real dos rendimentos. A opção A abrange dois fatores fundamentais que influenciam diretamente o retorno efetivo do investimento.",
+          "Para calcular os rendimentos de um investimento, é crucial considerar a taxa de juro, que determina o retorno percentual sobre o capital investido, e o tempo de investimento, pois a capitalização dos juros depende da duração do investimento. A combinação destes dois fatores é fundamental para calcular o rendimento total, refletindo o impacto do tempo sobre o crescimento do investimento.",
+          "Para calcular os rendimentos de um investimento, é essencial considerar a taxa de juro, que determina a rentabilidade, e o tempo que o capital permanece investido, uma vez que o efeito do juro composto pode aumentar significativamente os rendimentos ao longo do tempo. Reconheço a importância destes termos, pois a taxa de juro é um indicador chave da performance do investimento e o tempo é crucial para maximizar o retorno.",
+          "Para calcular os rendimentos de um investimento, é crucial considerar a taxa de juro, que determina o retorno do capital investido, e o tempo de investimento, que afeta a acumulação de juros ao longo do tempo. Ambos os fatores interagem para definir o rendimento final, sendo fundamentais na análise de qualquer investimento.",
+          "Para calcular os rendimentos de um investimento, é fundamental considerar a taxa de juro, que indica o retorno sobre o capital investido, e o tempo de investimento, que afeta o montante total através do efeito dos juros compostos. Embora outros fatores, como a inflação e custos de manutenção, sejam relevantes, a taxa de juro e o tempo são os elementos mais diretos na determinação dos rendimentos.",
+          "Para calcular os rendimentos de um investimento, é crucial considerar a taxa de juro, que determina o retorno sobre o capital investido, e o tempo de investimento, que afeta a acumulação de juros ao longo do tempo. A relação entre estes dois fatores é fundamental para a avaliação do desempenho do investimento.",
+          "A opção C é a mais abrangente, pois a taxa de juro é fundamental para calcular os rendimentos de um investimento, e o tempo de investimento influencia diretamente o montante acumulado devido ao efeito dos juros compostos. Embora a inflação e outros fatores sejam relevantes, a combinação de taxa de juro e tempo é essencial para determinar o rendimento real de um investimento."
+        ]
+      }
+    },
+    {
+      "question": "O que acontece ao poder de compra se a inflação for superior ao rendimento do investimento?",
+      "options": {
+        "A": "Diminui o poder de compra.",
+        "B": "Aumenta o poder de compra.",
+        "C": "Mantém o poder de compra estável.",
+        "D": "Garante que o poder de compra não muda."
+      },
+      "hint": "Pensa na relação entre inflação e rendimento.",
+      "rationale": "Quando a inflação é superior ao rendimento do investimento, o poder de compra do capital investido diminui, afetando o valor real do investimento.",
+      "tag": "Inflação",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de inflação, pois aborda diretamente a relação entre inflação e poder de compra, que é um conceito relevante dentro da literacia financeira."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a inflação e seus impactos nas finanças pessoais, embora não trate diretamente de investimentos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de poder de compra e inflação, mas algumas opções podem ser consideradas menos prováveis do que a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense na relação entre inflação e rendimento, mas poderia ser mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte ao explicar como a inflação afeta o poder de compra."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.8,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito bem de finanças e termos como inflação e rendimento de investimento parecem complicados. Mas, se a inflação está alta, parece que as coisas ficam mais caras e o dinheiro que temos não dá para comprar tanto, então acho que isso significa que o poder de compra diminui.",
+          "Eu não percebo muito de finanças, mas acho que se a inflação é alta, as coisas ficam mais caras, então o nosso dinheiro vale menos. Por isso, não deve aumentar o poder de compra, deve ser o contrário. Mas, como não sei bem o que é rendimento de investimento, pensei que poderia ser bom.",
+          "Eu acho que se a inflação é mais alta do que o que ganho com o meu investimento, isso significa que as coisas ficam mais caras e eu não consigo comprar tanto. Então, parece que o meu poder de compra diminui. Não percebo bem os termos técnicos, mas é fácil ver que se o dinheiro vale menos, eu posso comprar menos.",
+          "Eu não percebo muito de finanças, mas parece-me que se as coisas ficam mais caras e o dinheiro que ganho não aumenta, então eu consigo comprar menos coisas. Por isso, acho que o poder de compra diminui.",
+          "Não percebo muito bem o que é essa inflação e rendimento do investimento, mas acho que se as coisas não mudam, o poder de compra deve ficar igual. Se não estou a perder dinheiro, deve estar tudo bem.",
+          "Eu não entendo muito bem esses termos complicados, mas se a inflação é alta e eu estou a ganhar dinheiro com o meu investimento, parece que estou a ganhar mais dinheiro e, portanto, o meu poder de compra deve aumentar. Na minha cabeça, se tenho mais dinheiro, posso comprar mais coisas.",
+          "Eu não percebo muito sobre isso e não conheço bem os termos, mas acho que se a inflação for alta, isso não deve mudar muito o que podemos comprar. Portanto, escolhi a opção A porque parece que o poder de compra fica igual.",
+          "Eu não percebo bem essas coisas de inflação e rendimento, mas se a inflação é maior do que o que ganho com o meu investimento, parece que o meu dinheiro não vai dar para comprar as mesmas coisas. Então, eu escolheria a opção D.",
+          "Eu não entendo muito bem de finanças, mas acho que se a inflação é maior do que o rendimento que um investimento dá, significa que o dinheiro não vale tanto como antes. Portanto, talvez o poder de compra diminua, porque o que eu posso comprar com o mesmo dinheiro diminui.",
+          "Eu acho que se a inflação é maior que o que ganhamos com os investimentos, isso significa que estamos a perder dinheiro, então o nosso poder de compra diminui. Não conheço bem os termos, mas parece-me que é assim que funciona."
+        ],
+        "Médio": [
+          "Eu acho que se a inflação é maior do que o que ganhamos com os investimentos, isso significa que as coisas ficam mais caras e o nosso dinheiro não vale tanto. Portanto, parece que o nosso poder de compra diminui.",
+          "Acho que se a inflação é maior do que o que ganho com o investimento, isso significa que o meu dinheiro não vale tanto. Portanto, parece que o poder de compra diminui. Não conheço bem os termos, mas faz sentido que se a inflação aumenta, o que posso comprar com o mesmo dinheiro diminui.",
+          "Eu não percebo bem o que é inflação e rendimento de investimento, mas se a inflação é alta, acho que isso não deve mudar o que podemos comprar, não é? Por isso, escolhi que o poder de compra não muda.",
+          "Eu acho que se a inflação é mais alta que o rendimento do investimento, isso significa que o dinheiro vale menos, então sim, o poder de compra diminui. Não conheço bem todos os termos, mas parece que quando as coisas ficam mais caras e o investimento não dá mais dinheiro, ficamos com menos capacidade de comprar.",
+          "Eu não percebo muito bem sobre inflação e rendimento de investimento, mas se a inflação é mais alta, parece que o dinheiro vale menos e por isso o poder de compra diminui. Não conheço todos os termos, mas é o que me parece.",
+          "Se a inflação é maior do que o rendimento do investimento, significa que as coisas estão a ficar mais caras e o dinheiro que a gente ganha não dá para comprar o mesmo. Eu não entendo muito bem os termos, mas parece que se a inflação sobe muito, a gente consegue comprar menos com o mesmo dinheiro.",
+          "Eu acho que se a inflação é maior do que o que ganho com o investimento, isso significa que o dinheiro que tenho não vale tanto como antes. Portanto, o meu poder de compra fica menor. Não conheço bem os termos, mas parece lógico.",
+          "Acho que se a inflação é alta, significa que os preços estão a subir muito, e se o dinheiro que ganho não aumenta tanto, então não consigo comprar tantas coisas como antes. Por isso, na minha opinião, o poder de compra diminui, mas escolhi 'aumenta' por confusão.",
+          "Acho que se a inflação é maior do que o que ganho com os meus investimentos, então o dinheiro que eu tenho não compra tanto como comprava antes. Não entendo bem os termos, mas parece que é isso.",
+          "Eu não percebo muito de investimentos, mas se a inflação é maior que o rendimento que eu ganho com o investimento, parece que o meu dinheiro vale menos. Então, acho que o poder de compra diminui."
+        ],
+        "Alto": [
+          "Se a inflação é superior ao rendimento do investimento, isso significa que o retorno real do investimento é negativo. O poder de compra diminui porque os preços dos bens e serviços estão a aumentar mais rapidamente do que o rendimento que se obtém com o investimento, resultando numa perda de valor do dinheiro ao longo do tempo.",
+          "Se a inflação é superior ao rendimento do investimento, o valor real do retorno do investimento diminui, resultando numa redução do poder de compra. Isso significa que, apesar de se receber um rendimento, este não é suficiente para cobrir o aumento dos preços, levando a uma erosão do poder de compra.",
+          "Se a inflação é superior ao rendimento do investimento, isso significa que o retorno real do investimento é negativo. Assim, o poder de compra diminui, pois o valor do dinheiro investido não é suficiente para manter o mesmo nível de aquisição de bens e serviços.",
+          "Se a inflação é superior ao rendimento do investimento, isso significa que os preços dos bens e serviços estão a aumentar mais rapidamente do que os rendimentos que se obtêm com o investimento. Como resultado, o valor real do dinheiro diminui, levando a uma diminuição do poder de compra.",
+          "Se a inflação é superior ao rendimento do investimento, isso implica que o retorno líquido do investimento não consegue acompanhar o aumento dos preços. Como resultado, o valor real do capital investido diminui, levando a uma redução no poder de compra. Reconheço os termos usados, pois refletem conceitos fundamentais de finanças pessoais, onde a relação entre inflação e rendimento é crucial para entender o impacto sobre a poupança e o investimento.",
+          "Se a inflação for superior ao rendimento do investimento, o valor real dos rendimentos diminui, o que implica que a mesma quantidade de dinheiro compra menos bens e serviços. Portanto, o poder de compra efetivamente diminui. Reconheço claramente os termos usados, como inflação e rendimento, e compreendo a relação entre eles e o impacto no poder de compra.",
+          "Se a inflação é superior ao rendimento do investimento, isso significa que o valor real dos rendimentos obtidos está a ser corroído pela inflação, resultando numa diminuição do poder de compra. Reconheço os termos 'inflação' e 'rendimento do investimento', que são fundamentais na análise do impacto da inflação sobre a capacidade de aquisição de bens e serviços.",
+          "Se a inflação for superior ao rendimento do investimento, isso implica que o valor real dos rendimentos obtidos não é suficiente para acompanhar o aumento dos preços, resultando numa diminuição do poder de compra. Este conceito é bem conhecido em finanças, onde a relação entre inflação e rendimento é fundamental para avaliar o retorno real de um investimento.",
+          "Se a inflação for superior ao rendimento do investimento, isso significa que o valor real do retorno do investimento não consegue acompanhar o aumento dos preços. Como consequência, o poder de compra diminui, uma vez que o dinheiro investido compra menos bens e serviços do que antes.",
+          "Se a inflação for superior ao rendimento do investimento, o retorno real do investimento será negativo, resultando numa diminuição do poder de compra. Isso acontece porque a inflação erode o valor do dinheiro, fazendo com que os rendimentos obtidos não sejam suficientes para manter o mesmo nível de aquisição de bens e serviços."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.6,
+    "topic_grounding": 4.5,
+    "answer_exclusivity": 4.8,
+    "distractor_quality": 3.9,
+    "hint_quality": 4.2,
+    "rationale_quality": 4.5,
+    "tag_diversity": 0.9,
+    "overall_score": 4.42
+  }
+}

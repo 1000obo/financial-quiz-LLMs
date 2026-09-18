@@ -1,0 +1,8 @@
+python-dotenv
+pydantic
+langchain_openai
+langchain_text_splitters
+langchain_community
+chromadb
+pandas
+openpyxl

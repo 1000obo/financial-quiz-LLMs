@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Compras e Poupança"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como o consumo consciente pode beneficiar tanto a saúde financeira pessoal como a sustentabilidade ambiental?",
+      "options": {
+        "A": "Reduz gastos desnecessários e preserva recursos.",
+        "B": "Aumenta o consumo de produtos locais e reduz as importações.",
+        "C": "Promove o uso de materiais recicláveis em todos os produtos adquiridos.",
+        "D": "Incentiva o consumo de produtos de luxo de forma responsável."
+      },
+      "hint": "Considera o impacto financeiro e ambiental das compras.",
+      "rationale": "O consumo consciente evita a satisfação de necessidades desnecessárias e a exploração excessiva dos recursos do planeta, beneficiando tanto a saúde financeira pessoal como a sustentabilidade ambiental.",
+      "tag": "Consumo consciente",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Consumo consciente' e avalia claramente o conhecimento que esse tópico pretende abordar."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes e bem fundamentadas pelo conteúdo-fonte, que discute a relação entre consumo consciente, saúde financeira e sustentabilidade."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de consumo consciente, mas a opção D, que fala sobre produtos de luxo, pode ser considerada menos relevante."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte sobre o impacto do consumo consciente."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que consumir de forma consciente é mais sobre não gastar dinheiro em coisas que não precisamos e assim, é melhor para o nosso bolso e também ajuda a não desperdiçar coisas. Não entendo muito de termos técnicos, mas parece que faz sentido.",
+          "Acho que a opção D faz sentido porque se a gente compra só o que precisa, não gasta dinheiro à toa e ainda ajuda a não desperdiçar coisas. Não conheço bem os termos técnicos, mas parece que é uma forma de cuidar do nosso dinheiro e do meio ambiente ao mesmo tempo.",
+          "Acho que a opção C faz sentido porque quando a gente compra menos coisas que não precisamos, conseguimos gastar menos dinheiro. Além disso, isso também ajuda a conservar as coisas que temos, como água e energia, que são importantes para o ambiente. Não entendo bem os termos técnicos, mas parece que faz sentido.",
+          "Acho que consumir de forma consciente significa gastar menos e também ajudar o planeta. Não entendo muito dos outros termos, mas sei que se gastar menos, fico com mais dinheiro e ajudo a natureza.",
+          "Acho que consumir de forma consciente significa gastar menos dinheiro e não comprar coisas que não precisamos. Assim, também estamos a ajudar o meio ambiente, porque usamos menos recursos.",
+          "Acho que a opção C faz sentido porque se gastamos menos em coisas que não precisamos, podemos ter mais dinheiro e também ajudamos a não desperdiçar coisas. Não entendo bem dos termos técnicos, mas parece que isso ajuda tanto a nossa carteira como o meio ambiente.",
+          "Acho que gastar menos é sempre bom, porque assim podemos ter mais dinheiro para outras coisas. E preservar recursos soa a algo positivo para o meio ambiente, mesmo que eu não saiba exatamente o que isso significa.",
+          "Parece que a opção C faz sentido porque, se a gente compra só o que realmente precisa, não gasta à toa e isso deve ajudar a cuidar do nosso dinheiro. Eu não entendo bem os termos técnicos, mas parece que isso também ajuda a não desperdiçar coisas.",
+          "Acho que a opção D faz mais sentido porque, se a gente gastar menos, temos mais dinheiro e também ajuda o planeta, né? Não entendo bem dos termos técnicos, mas parece que é importante não comprar coisas que não precisamos.",
+          "Eu penso que se a gente compra só o que realmente precisa, não gasta dinheiro à toa e ainda ajuda a usar menos coisas do planeta. Não entendo muito sobre os termos, mas parece que faz sentido cuidar do que temos."
+        ],
+        "Médio": [
+          "Eu escolhi esta opção porque parece que faz sentido. Se a gente compra só o que precisa, não gasta à toa e, assim, também ajuda o meio ambiente, não é? Mas não conheço bem os termos mais complicados.",
+          "Penso que consumir de forma consciente significa não gastar dinheiro à toa e usar melhor o que temos. Isso ajuda a minha carteira e também a natureza, porque assim não estamos a desperdiçar coisas.",
+          "Eu escolhi a opção C porque parece que está a falar sobre gastar menos e não desperdiçar, que é algo que faz sentido. Não entendo muito bem os outros termos, mas sei que poupar é bom para a carteira e também para o planeta.",
+          "Acho que esta opção faz sentido porque, se gastamos menos, temos mais dinheiro para outras coisas e também estamos a fazer menos desperdício. Não conheço muito bem os outros termos, mas sei que gastar menos é bom para a nossa carteira e para o ambiente.",
+          "Acho que escolher a opção A faz sentido, porque se gastamos menos em coisas que não precisamos, ficamos com mais dinheiro e também ajudamos o planeta ao não usar tantos recursos. Não percebo bem os outros termos, mas isto parece ser o mais simples e direto.",
+          "Acho que a opção D é a melhor porque consumir de forma consciente ajuda a não gastar dinheiro à toa e também a usar menos coisas que não precisamos. Não conheço bem todos os termos, mas faz sentido pensar que gastar menos é bom para o nosso bolso e para o ambiente.",
+          "Acho que a opção D faz sentido porque se eu reduzir o que compro, também poupo dinheiro e ajudo a não gastar coisas que não preciso. Não conheço bem os termos mais técnicos, mas parece que faz bem tanto ao bolso como ao planeta.",
+          "Eu acho que a opção C faz sentido porque se a gente compra só o que realmente precisa, pode gastar menos dinheiro. E ao mesmo tempo, se não estamos a comprar coisas a mais, também estamos a ajudar o planeta, porque não estamos a usar tantos recursos.",
+          "Eu escolhi a opção B porque acho que consumir de forma consciente ajuda a não gastar dinheiro à toa e também a usar menos coisas, o que é bom para o meio ambiente. Não reconheço bem os termos técnicos, mas parece-me que gastar menos é sempre uma boa ideia.",
+          "Acho que o consumo consciente é sobre gastar menos e também ajudar a natureza. Não conheço bem os outros termos, mas parece que esta opção fala sobre gastar menos e usar melhor o que temos, o que faz sentido."
+        ],
+        "Alto": [
+          "A opção C é a mais correta, pois o consumo consciente implica em evitar gastos excessivos e escolher produtos que não comprometam a saúde financeira, ao mesmo tempo que se preserva o uso de recursos naturais, beneficiando a sustentabilidade ambiental. Reconheço a relação direta entre a redução de despesas e a preservação de recursos, que são fundamentais em uma abordagem de literacia financeira e sustentabilidade.",
+          "A opção A é a mais correta porque o consumo consciente implica fazer escolhas financeiras que minimizam desperdícios, resultando em uma melhor gestão do orçamento pessoal e, ao mesmo tempo, promovendo a sustentabilidade ao preservar recursos naturais. Isso está alinhado com a literacia financeira, pois reflete a importância da eficiência nos gastos e da consciência ambiental.",
+          "A opção C é a mais correta porque o consumo consciente implica em avaliar as necessidades reais antes de efetuar uma compra, o que contribui para a redução de gastos desnecessários e, simultaneamente, para a preservação dos recursos naturais. Essa abordagem não só melhora a saúde financeira pessoal ao evitar despesas excessivas, como também promove a sustentabilidade ambiental ao diminuir a pressão sobre os recursos do planeta.",
+          "A opção D é a mais correta, pois o consumo consciente implica em avaliar as necessidades reais, evitando gastos supérfluos e, ao mesmo tempo, promovendo a preservação de recursos naturais. Reconheço os termos usados, pois estão relacionados à gestão financeira pessoal e à sustentabilidade, que são cruciais para um planeamento financeiro responsável.",
+          "A opção B é a mais correta, pois o consumo consciente implica a eliminação de despesas supérfluas, o que melhora a saúde financeira ao aumentar a poupança. Além disso, essa prática promove a utilização eficiente de recursos, contribuindo para a sustentabilidade ambiental. Reconheço os termos usados, pois a relação entre consumo consciente e a redução de gastos é fundamental na gestão financeira pessoal.",
+          "A opção A reflete a essência do consumo consciente, que implica em tomar decisões informadas e responsáveis sobre as compras, resultando em menores gastos e na preservação de recursos naturais. O raciocínio financeiro aqui é claro: ao evitar gastos supérfluos, melhora-se a saúde financeira, enquanto se contribui para a sustentabilidade ambiental ao reduzir a exploração de recursos.",
+          "A opção A aborda diretamente como o consumo consciente pode levar a uma gestão financeira mais eficiente, reduzindo despesas desnecessárias e, simultaneamente, promovendo a preservação dos recursos ambientais. Esta abordagem é fundamental para a literacia financeira, pois implica uma relação direta entre o comportamento do consumidor e o impacto financeiro e ambiental.",
+          "A opção D é a mais correta porque o consumo consciente implica uma gestão financeira mais eficiente, evitando compras supérfluas e, ao mesmo tempo, promovendo a conservação de recursos naturais. Esta abordagem não só melhora a saúde financeira pessoal através da redução de despesas, como também contribui para a sustentabilidade ambiental ao minimizar o desperdício e a exploração excessiva de recursos.",
+          "A opção C é a mais correta, pois o consumo consciente realmente implica em reduzir gastos desnecessários, o que melhora a saúde financeira pessoal ao evitar despesas supérfluas. Além disso, ao preservar recursos, promove a sustentabilidade ambiental, já que a diminuição do consumo excessivo contribui para a conservação de recursos naturais.",
+          "A opção D é a mais correta porque o consumo consciente está intrinsicamente ligado à redução de gastos desnecessários, promovendo uma gestão financeira mais eficiente e responsável. Além disso, ao evitar desperdícios, também contribui para a preservação dos recursos naturais, alinhando-se aos princípios de sustentabilidade ambiental."
+        ]
+      }
+    },
+    {
+      "question": "Que estratégias de marketing dos supermercados podem induzir a compras impulsivas e como evitá-las?",
+      "options": {
+        "A": "Promoções atraentes; planeamento e comparação de preços.",
+        "B": "Posicionamento estratégico dos produtos; evitar corredores principais.",
+        "C": "Uso de música ambiente relaxante; fazer compras em horários de menor movimento.",
+        "D": "Ofertas de cartões de fidelidade; evitar adesão a programas de pontos."
+      },
+      "hint": "Pensa em como os supermercados atraem consumidores e como resistir.",
+      "rationale": "Supermercados usam promoções para induzir compras impulsivas. Planeamento e comparação de preços ajudam a evitar comprar produtos desnecessários.",
+      "tag": "Compras impulsivas",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Compras impulsivas' e avalia o conhecimento sobre estratégias de marketing que induzem a compras não planejadas, que é o foco da tag."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute como as promoções e o planeamento podem influenciar as compras impulsivas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que se destaca claramente."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de compras impulsivas, mas algumas opções, como a C, podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica em relação às estratégias mencionadas na pergunta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como as promoções e o planeamento se inter-relacionam para evitar compras impulsivas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que as promoções são uma maneira de nos fazer comprar mais do que precisamos. Não conheço bem esses termos, mas parece que se fizermos um plano e compararmos preços, podemos evitar comprar coisas por impulso.",
+          "Acho que as promoções atraentes fazem as pessoas comprarem mais, mesmo que não precisem. Não entendo bem o que é planeamento e comparação de preços, mas parece que é uma boa ideia para não gastar à toa.",
+          "Acho que as promoções são o que mais nos faz comprar coisas que não precisamos, então deve ser isso. O planeamento e a comparação de preços parece-me uma boa ideia, mas não sei bem como fazer isso. Não reconheço bem os outros termos.",
+          "Eu reconheço que quando há promoções, as pessoas ficam mais tentadas a comprar coisas que não precisam. Por isso, planejar o que vamos comprar e comparar preços pode ajudar a evitar comprar por impulso, mesmo que eu não saiba bem o que significa isso tecnicamente.",
+          "Eu não percebo muito desses termos, mas sei que quando vejo promoções, fico tentado a comprar mais. Se eu planear antes de ir ao supermercado e comparar preços, talvez consiga evitar comprar coisas que não preciso.",
+          "Eu não percebo muito de marketing, mas acho que as promoções atraentes são algo que me fazem gastar mais. Se eu planeasse as compras e comparasse preços, talvez não comprasse tanto por impulso.",
+          "Eu conheço promoções porque muitas vezes vejo anúncios e isso chama a atenção para comprar mais. O planeamento e comparação de preços parece bom para não gastar muito, mas não sei bem como fazer isso.",
+          "Acho que as promoções atraentes são uma maneira de nos fazer comprar mais do que precisamos, e planear as compras e comparar preços parece uma boa ideia para evitar gastar demais. Não sei bem o que é cada termo, mas parece-me que faz sentido.",
+          "Eu entendo que as promoções podem fazer as pessoas comprarem mais do que precisam e o planeamento ajuda a evitar isso. Não conheço bem os outros termos, mas parece que a promoção é algo que atrai muito.",
+          "Eu reconheço que as promoções atraentes fazem as pessoas comprarem mais, mas não sei bem o que é planeamento ou comparação de preços. Parece-me que, se eu tiver cuidado e não me deixar levar pelas promoções, posso evitar comprar coisas que não preciso."
+        ],
+        "Médio": [
+          "Acho que as promoções atraentes fazem as pessoas comprarem coisas que não precisam, mas planejar e comparar preços pode ajudar a evitar isso. Não conheço bem os termos, mas parece que é uma boa ideia não se deixar levar só pelas promoções.",
+          "Eu reconheço que as promoções podem fazer as pessoas comprarem mais, porque parece que estão a poupar. Para evitar, talvez seja bom planear o que precisamos e comparar preços antes de ir às compras.",
+          "Eu reconheço que as promoções podem fazer a gente gastar mais porque parece que estamos a fazer um bom negócio. Planejar e comparar preços faz sentido, mas não sei muito bem como fazer isso na prática.",
+          "Eu conheço promoções que atraem as pessoas a comprar mais, mas não sei muito sobre planeamento. Acho que se houver boas ofertas, é fácil deixar-se levar e comprar coisas que não precisamos.",
+          "Acho que as promoções fazem as pessoas quererem comprar mais, mesmo quando não precisam. E planear as compras e comparar preços parece uma boa ideia para não gastar mais do que o necessário.",
+          "Acho que as promoções fazem as pessoas comprarem mais, e se planeamos e comparamos preços, podemos evitar gastar demais. Não conheço bem os termos, mas parece que o planeamento ajuda a não ser enganado.",
+          "Acho que promoções atraentes podem fazer a gente comprar coisas que não precisa. Se tivermos um plano e compararmos os preços, talvez evitemos comprar só porque está em promoção. Não entendo muito sobre os outros termos, mas isso parece prático.",
+          "Acho que as promoções atraentes fazem com que a gente compre mais coisas do que devia. O planeamento e comparar preços parece importante, mas não sei bem como fazer isso. Reconheço as palavras, mas não tenho certeza se sei usá-las na prática.",
+          "Acho que as promoções são uma grande maneira de nos fazer gastar mais, porque parece que estamos a fazer um bom negócio. E acredito que planejar e comparar preços pode ajudar a evitar compras que não precisamos, mas não conheço bem todos os termos.",
+          "Acho que as promoções são uma forma de os supermercados tentarem que compremos mais do que precisamos. Não tenho certeza sobre o planeamento e a comparação de preços, mas parece uma boa ideia para evitar gastar muito."
+        ],
+        "Alto": [
+          "As promoções atraentes são uma estratégia comum que os supermercados utilizam para induzir compras impulsivas, uma vez que criam uma sensação de urgência e oportunidade. Para evitá-las, o planeamento e a comparação de preços são fundamentais, pois permitem que o consumidor faça escolhas informadas e evite gastos desnecessários. Reconheço bem os termos usados, pois estão diretamente relacionados com a gestão do orçamento e a tomada de decisões financeiras conscientes.",
+          "As promoções atraentes são uma estratégia comum dos supermercados para induzir compras impulsivas, uma vez que criam uma sensação de urgência e oportunidade. Para evitá-las, o planeamento e a comparação de preços permitem ao consumidor tomar decisões informadas, evitando compras desnecessárias. Reconheço os termos utilizados, pois refletem conceitos de economia comportamental e gestão financeira pessoal.",
+          "As promoções atraentes são uma estratégia comum dos supermercados para induzir compras impulsivas, uma vez que criam um senso de urgência e a percepção de economia. O planeamento e a comparação de preços são abordagens eficazes para evitar essas compras impulsivas, permitindo que o consumidor mantenha o foco nas suas necessidades e orçamentos.",
+          "As promoções atraentes são uma estratégia comum que induz a compras impulsivas, enquanto o planeamento e a comparação de preços são métodos eficazes para evitá-las. Reconheço os termos utilizados, pois refletem práticas de marketing e gestão financeira que impactam diretamente o comportamento do consumidor.",
+          "Reconheço claramente que promoções atraentes são uma técnica comum utilizada pelos supermercados para induzir compras impulsivas. O planeamento e a comparação de preços são estratégias eficazes para evitá-las, pois permitem ao consumidor ter uma visão clara do que realmente precisa e do que está a gastar, evitando decisões de compra precipitadas.",
+          "Reconheço claramente a relação entre promoções atrativas e compras impulsivas, uma vez que essas táticas estão frequentemente associadas a um aumento nas vendas por parte dos consumidores. O planeamento e a comparação de preços são estratégias eficazes para evitar essas compras não planejadas, ajudando a manter um orçamento equilibrado e a evitar gastos desnecessários.",
+          "As promoções atraentes são uma estratégia comum para induzir compras impulsivas, pois criam um senso de urgência e oportunidade. Para evitá-las, o planeamento e a comparação de preços são fundamentais, permitindo ao consumidor tomar decisões informadas e evitar gastos desnecessários.",
+          "As promoções atraentes são uma estratégia comum de marketing que induz compras impulsivas, enquanto o planeamento e a comparação de preços são métodos eficazes para evitar essas armadilhas. Reconheço os conceitos de promoções e a importância de um orçamento bem estruturado, o que permite ao consumidor tomar decisões de compra mais informadas e racionais.",
+          "As promoções atraentes são uma estratégia comum utilizada pelos supermercados para incentivar compras impulsivas, mas o planeamento e a comparação de preços permitem ao consumidor evitar gastos desnecessários. Reconheço claramente os termos utilizados, pois refletem técnicas de marketing e práticas de gestão financeira pessoal que são fundamentais para manter o controle orçamental.",
+          "As promoções atraentes são uma tática comum de marketing que podem levar a compras impulsivas. Para evitar essas compras, é essencial realizar um planeamento prévio e comparar preços, garantindo que as decisões de compra sejam racionais e baseadas nas necessidades reais, em vez de serem influenciadas por estratégias de marketing."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a importância de definir objetivos e ações concretas no planeamento de compras?",
+      "options": {
+        "A": "Evita dívidas e compromete a saúde financeira.",
+        "B": "Aumenta a satisfação pessoal e melhora o bem-estar emocional.",
+        "C": "Facilita a comparação de preços e a escolha de produtos de qualidade.",
+        "D": "Promove o consumo de produtos de marcas conhecidas e confiáveis."
+      },
+      "hint": "Foca-te no impacto de um bom planeamento financeiro.",
+      "rationale": "Definir objetivos e ações concretas no planeamento de compras ajuda a evitar dívidas desnecessárias e a garantir que as compras não comprometem a saúde financeira.",
+      "tag": "Planeamento de compras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Planeamento de compras' e avalia o conhecimento sobre a importância de definir objetivos e ações nesse contexto."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância do planeamento e como ele pode ajudar a evitar dívidas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é a letra A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de planeamento de compras, mas a opção D pode ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao focar no impacto do planeamento financeiro, mas poderia ser mais específica em relação à pergunta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do planeamento para evitar dívidas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 0.8,
+        "Alto": 0.8
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que definir objetivos e ações ajuda a não gastar demais, porque podemos acabar a dever dinheiro. Não conheço bem os termos, mas parece que assim conseguimos ter mais controlo sobre as compras.",
+          "Acho que é importante sentir-se bem com as compras que fazemos e que isso pode deixar-nos mais felizes. Não percebo muito dos termos financeiros, mas sei que quando compramos algo que gostamos, ficamos satisfeitos.",
+          "Acho que é importante saber o que queremos comprar para comparar preços e encontrar coisas boas. Não conheço bem esses termos financeiros, mas parece que fazer listas ajuda a não gastar demais e a escolher melhor.",
+          "Eu escolhi a opção C porque acho que se a gente planeia as compras, não vai gastar mais do que tem e evita ficar com dívidas. Os termos que usaram são confusos, mas parece que é importante não se meter em problemas com dinheiro.",
+          "Eu penso que, se temos objetivos e ações para as compras, ficamos mais felizes com o que compramos e isso pode fazer-nos sentir melhor. As outras opções têm palavras que não entendo bem e parecem mais complicadas.",
+          "Acho que é importante evitar dívidas, porque isso pode deixar a gente em apuros. Não entendo bem os termos financeiros, mas sei que se não planejarmos as compras, podemos acabar a gastar mais do que temos.",
+          "Acho que é importante saber o que comprar para não gastar demais e ficar sem dinheiro. Não percebo bem os termos técnicos, mas sei que ter um plano ajuda a evitar problemas com dívidas.",
+          "Eu escolhi a opção B porque acho que quando planeamos as compras, ficamos mais felizes e satisfeitos com o que compramos. Não percebo bem os termos técnicos, mas parece que se tivermos um plano, tudo fica mais fácil e é melhor.",
+          "Acho que é importante evitar dívidas, porque não quero ter problemas com dinheiro. Não conheço bem os termos técnicos, mas sei que ter objetivos nas compras pode ajudar a não gastar mais do que tenho.",
+          "Eu acho que definir objetivos e ações nas compras é importante porque nos faz sentir melhor quando compramos o que realmente queremos. Não entendo bem os termos técnicos, mas parece que isso ajuda a ficar mais feliz com as compras."
+        ],
+        "Médio": [
+          "Acho que é importante não ficar com dívidas, porque isso pode trazer problemas. Se planeamos as compras, podemos comprar o que precisamos sem gastar demais e isso ajuda a manter as finanças em ordem. Não sei bem como funciona tudo, mas parece que faz sentido.",
+          "Eu escolhi a opção D porque acho que é importante não gastar mais do que temos e evitar dívidas. Se não planeamos bem as compras, podemos acabar por gastar demais e depois ter problemas com dinheiro.",
+          "Acho que é importante evitar dívidas, porque isso pode deixar-nos em problemas. Quando planeamos as compras, podemos gastar o que temos e não ficar sem dinheiro.",
+          "Acho que é importante definir objetivos no planeamento de compras porque quando conseguimos o que queremos, ficamos mais felizes. Não sei muito sobre os termos técnicos, mas sei que estar satisfeito com as compras faz bem ao nosso estado de espírito.",
+          "Acho que definir objetivos ajuda a não gastar demais e a não ficar com dívidas, porque assim sabemos o que realmente precisamos e o que podemos comprar. Os outros termos, como marcas e comparação de preços, não são tão claros para mim.",
+          "Acho que é importante não ficar com dívidas, porque isso pode ser complicado e fazer com que tenhamos problemas com dinheiro. Não conheço bem todos os termos, mas sei que ter um plano ajuda a não gastar mais do que temos.",
+          "Acho que é importante não gastar mais do que temos, senão ficamos em dívidas. Não entendo bem todos os termos, mas sei que se não planeamos as compras podemos ter problemas com o dinheiro.",
+          "Escolhi a opção B porque acho que ter objetivos nas compras pode fazer as pessoas se sentirem melhor e mais felizes com o que compram. Não conheço bem os termos financeiros, mas parece que saber o que queremos ajuda a não comprar coisas só por impulso.",
+          "Eu escolhi a opção B porque acho que quando se planeia as compras, é importante não gastar mais do que temos. Assim, evitamos dívidas e conseguimos ter mais controlo sobre o nosso dinheiro. Não conheço bem todos os termos, mas parece-me que é importante para não ficarmos apertados no fim do mês.",
+          "Acho que definir objetivos ajuda a não gastar mais do que devíamos e a controlar o dinheiro, assim não ficamos com dívidas. Não entendo bem os outros termos, mas sei que é importante cuidar da nossa saúde financeira."
+        ],
+        "Alto": [
+          "A definição de objetivos e ações concretas no planeamento de compras é crucial para evitar dívidas, pois permite um controle mais rigoroso sobre os gastos. Isso contribui para a saúde financeira, evitando que o consumidor se deixe levar por impulsos e consumos desnecessários.",
+          "Definir objetivos e ações concretas no planeamento de compras é fundamental para evitar endividamentos desnecessários e garantir que as despesas se alinham com a capacidade financeira. A expressão \"evita dívidas\" é um conceito central na literacia financeira, pois um planeamento cuidadoso permite que os consumidores façam escolhas informadas e sustentáveis, preservando assim a sua saúde financeira a longo prazo.",
+          "A definição de objetivos e ações concretas no planeamento de compras é crucial para orientar o consumidor na busca de produtos que atendam às suas necessidades e orçamento. Isso permite uma análise mais eficaz das opções disponíveis, resultando em decisões de compra mais informadas e que promovem uma melhor gestão financeira.",
+          "A definição de objetivos e ações concretas no planeamento de compras é fundamental para evitar o endividamento desnecessário. Reconheço a importância de um planeamento eficaz, pois este permite controlar gastos e manter uma boa saúde financeira, evitando compromissos que possam ser difíceis de gerir.",
+          "Definir objetivos e ações concretas no planeamento de compras é crucial para evitar dívidas e garantir uma boa saúde financeira, pois permite que o consumidor tenha um controlo eficaz sobre os seus gastos e priorize as suas necessidades. É essencial entender que uma boa gestão orçamental e a definição de metas de consumo podem prevenir desequilíbrios financeiros e proporcionar uma maior segurança económica.",
+          "Definir objetivos e ações concretas no planeamento de compras é fundamental para evitar dívidas e proteger a saúde financeira. Ao ter clareza sobre o que se pretende adquirir e as consequências financeiras disso, torna-se mais fácil evitar gastos impulsivos que podem levar a um endividamento desnecessário.",
+          "Definir objetivos e ações concretas no planeamento de compras é essencial para evitar dívidas, pois permite uma gestão eficaz do orçamento e assegura que as despesas estão alinhadas com a capacidade financeira. Reconheço a importância de um planeamento rigoroso para manter a saúde financeira, evitando gastos impulsivos que podem levar a compromissos financeiros indesejados.",
+          "A definição de objetivos e ações concretas no planeamento de compras é crucial para evitar dívidas e preservar a saúde financeira. Ao estabelecer um orçamento e definir prioridades, o consumidor consegue controlar melhor os seus gastos, minimizando a probabilidade de incorrer em despesas excessivas e, consequentemente, em dívidas.",
+          "A definição de objetivos e ações concretas no planeamento de compras é crucial porque permite uma análise mais rigorosa das opções disponíveis, levando a escolhas mais informadas e à maximização do valor do dinheiro gasto. Reconheço que esta abordagem não só previne gastos desnecessários, mas também assegura que os produtos escolhidos correspondem efetivamente às necessidades e expectativas do consumidor.",
+          "Definir objetivos e ações concretas no planeamento de compras é fundamental para evitar dívidas, pois permite um controlo mais rigoroso sobre os gastos e a criação de um orçamento adequado. Este enfoque ajuda a garantir que as compras são realizadas de forma consciente e alinhadas com as capacidades financeiras, protegendo assim a saúde financeira a longo prazo."
+        ]
+      }
+    },
+    {
+      "question": "Como a automatização da poupança pode ser implementada de forma eficaz?",
+      "options": {
+        "A": "Transferências automáticas de rendimento para poupança.",
+        "B": "Depósitos manuais regulares em contas de poupança.",
+        "C": "Investimento em ações de baixo risco com rendimentos automáticos.",
+        "D": "Utilização de aplicações financeiras para monitorizar despesas."
+      },
+      "hint": "Pensa em formas de poupar sem esforço contínuo.",
+      "rationale": "A automatização da poupança, como transferir automaticamente parte do rendimento para uma conta-poupança, aumenta a probabilidade de sucesso na constituição de reservas financeiras.",
+      "tag": "Poupança automática",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Poupança automática', pois aborda a implementação eficaz da automatização da poupança, que é o foco da tag."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de retirar um montante do rendimento automaticamente para a conta-poupança."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de poupança, mas algumas opções, como 'C', podem não ser diretamente relevantes para a automatização da poupança."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica orienta eficazmente o raciocínio, sugerindo que o participante pense em formas de poupar sem esforço contínuo, sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a automatização da poupança."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.5,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não conheço bem os termos e opções, mas fazer depósitos manuais parece mais simples e direto. É como eu faço com a minha conta, coloco um pouco de dinheiro de lado sempre que posso.",
+          "Eu não percebo bem esses termos complicados, mas parece mais fácil fazer depósitos à mão. Se eu conseguir poupar um pouco de cada vez, talvez consiga. Automatizar parece confuso, então prefiro fazer isso eu próprio.",
+          "Acho que fazer depósitos manuais é mais fácil de entender, porque é como quando coloco dinheiro na minha poupança sempre que posso. Não percebo bem os outros termos, como transferências automáticas ou aplicações financeiras.",
+          "Acho que fazer depósitos manuais é mais fácil de entender, porque é só pôr dinheiro na conta quando podemos. Os outros termos soam muito complicados e eu não os reconheço bem.",
+          "Parece que a melhor forma de poupança é a que eu faço manualmente, porque assim sei exatamente quanto estou a poupar. Não percebo bem os outros termos, como investimentos ou aplicações, e prefiro algo simples que eu possa fazer por mim mesmo.",
+          "Eu não entendo bem esses termos complicados, mas acho que fazer depósitos manuais é mais simples e fácil de controlar. Assim, sei que estou a poupar porque estou a colocar dinheiro de propósito na conta.",
+          "Acho que fazer depósitos manuais é uma forma simples de poupar, porque é só ir ao banco e pôr dinheiro na conta. Não percebo bem as outras opções, especialmente as que falam de aplicações ou investimentos, que parecem complicadas.",
+          "Penso que fazer depósitos manuais é uma forma simples de poupar, porque assim posso decidir quanto quero pôr de lado. Não percebo bem essas aplicações ou investimentos que falam, então prefiro algo que eu consiga controlar diretamente.",
+          "Eu não percebo muito de finanças e esses termos todos parecem complicados. Mas acho que a melhor maneira de poupar é ir colocando dinheiro na conta sempre que posso, assim não me esqueço e consigo poupar.",
+          "Eu não percebo bem os termos técnicos e opções que falam de investimentos ou aplicações. Para mim, fazer depósitos manuais é o que faz mais sentido, porque é algo que todos podem fazer sem complicações."
+        ],
+        "Médio": [
+          "Eu acho que transferências automáticas para a poupança é uma boa ideia, porque assim não preciso de me preocupar em fazer isso manualmente. Não conheço muito sobre aplicações financeiras ou investimento em ações, então parece-me mais simples e fácil.",
+          "Acho que a melhor maneira de poupar é fazer transferências automáticas para a conta de poupança. Assim, não preciso de pensar nisso e é como se eu poupasse sem querer. Os outros termos, como aplicações ou ações, parecem complicados e não sei bem como funcionam.",
+          "Acho que isso faz sentido porque se eu puder transferir dinheiro automaticamente, assim não me esqueço de poupar. Não conheço muito sobre aplicações ou investimentos, então prefiro algo simples que eu não tenha que pensar muito.",
+          "Acho que a melhor forma de automatizar a poupança é fazer transferências automáticas, porque assim não preciso de pensar nisso. O que é 'rendimento' e 'aplicações financeiras' eu não entendo bem, então prefiro algo simples.",
+          "Acho que a melhor forma de poupar é a fazer depósitos manuais, porque assim sei que estou a pôr dinheiro de lado. As outras opções parecem mais complicadas e eu não percebo muito de investimentos ou aplicações.",
+          "Eu escolhi esta opção porque parece mais simples e eu entendo que fazer depósitos manualmente é uma forma de poupança. Não conheço bem os outros termos, como automatização ou aplicações financeiras, e não sei muito sobre investimentos em ações.",
+          "Acho que a melhor forma de poupar é fazendo depósitos regulares, porque posso controlar quanto estou a pôr de lado. Não entendo bem as aplicações ou transferências automáticas, e o investimento em ações parece complicado demais para mim.",
+          "Eu escolhi a opção A porque parece mais simples e fácil de entender. Fazer depósitos manuais é algo que eu sei como fazer, enquanto que as transferências automáticas e aplicações financeiras parecem mais complicadas e eu não conheço bem esses termos.",
+          "Acho que fazer depósitos manuais regulares é uma boa forma de poupar, porque é como se fosse uma rotina. Não entendo muito sobre aplicações ou investimentos, então prefiro algo mais simples, como colocar dinheiro na minha conta de poupança sempre que posso.",
+          "Acho que a melhor forma de poupar é se o dinheiro for transferido automaticamente para a poupança, assim não me esqueço de o fazer. Não conheço bem as outras opções, mas esta parece simples e prática."
+        ],
+        "Alto": [
+          "A automatização da poupança é mais eficaz através de transferências automáticas, pois garante que uma parte do rendimento é poupada regularmente sem necessidade de intervenção manual, aumentando assim a disciplina financeira. Esta abordagem minimiza a tentação de gastar o rendimento disponível e maximiza a poupança ao longo do tempo.",
+          "A automatização da poupança é mais eficaz através de transferências automáticas, pois garante que uma parte do rendimento é destinada à poupança sem necessidade de intervenção manual. Este método reduz a tentação de gastar o que poderia ser poupado e é um princípio fundamental de gestão financeira pessoal.",
+          "A automatização da poupança é mais eficaz quando se implementam transferências automáticas, pois garantem que uma parte do rendimento é direcionada para a poupança sem a necessidade de intervenção manual. Esta abordagem reduz a tentação de gastar esses fundos e promove um hábito de poupança consistente e disciplinado.",
+          "A automatização da poupança é mais eficaz quando se estabelecem transferências automáticas de uma conta corrente para uma conta de poupança. Este método elimina a necessidade de ações manuais, garantindo que uma parte do rendimento é poupada regularmente, o que é essencial para o planeamento financeiro a longo prazo.",
+          "A automatização da poupança é mais eficaz através de transferências automáticas, uma vez que permite que uma parte do rendimento seja direcionada automaticamente para uma conta de poupança, garantindo assim uma poupança consistente. Reconheço a importância da automatização neste processo, pois elimina a necessidade de ação manual e ajuda a evitar a tentação de gastar o que poderia ser poupado.",
+          "A automatização da poupança é mais eficaz através de transferências automáticas, pois garante que uma parte do rendimento é poupada sem necessidade de intervenção manual. Esse método permite uma gestão financeira mais disciplinada e reduz a tentação de gastar o que deveria ser poupado.",
+          "A automatização da poupança é mais eficaz quando se realizam transferências automáticas de um rendimento para uma conta de poupança, pois isso garante que uma parte dos rendimentos seja poupada regularmente sem necessidade de intervenção manual. Reconheço que esta prática ajuda a criar um hábito de poupança e a atingir objetivos financeiros de forma sistemática.",
+          "A opção A é a mais eficaz para automatizar a poupança, pois permite que uma parte do rendimento seja transferida automaticamente para uma conta de poupança, garantindo um comportamento financeiro disciplinado e a acumulação de poupança sem necessidade de intervenção manual. Reconheço o termo 'transferências automáticas' como uma prática comum em gestão financeira pessoal que favorece a poupança sistemática.",
+          "A automatização da poupança é melhor implementada através de transferências automáticas de rendimento para contas de poupança, pois garante que uma parte da renda é poupada regularmente sem a necessidade de intervenção manual. Este método é eficaz porque facilita a disciplina financeira e ajuda a evitar a tentação de gastar o dinheiro que deveria ser poupado.",
+          "A automatização da poupança é mais eficaz quando se implementam transferências automáticas de rendimentos para contas de poupança, pois isso garante que uma parte do rendimento é poupada sem que o indivíduo precise tomar uma decisão ativa, reduzindo a tentação de gastar esse montante. Esta abordagem está alinhada com a prática recomendada de 'pagar-se primeiro' e é uma estratégia comum em planejamento financeiro pessoal."
+        ]
+      }
+    },
+    {
+      "question": "Qual a quantia inicial recomendada para um fundo de emergência e como atingi-la?",
+      "options": {
+        "A": "1.000€; economizando 40€ por semana durante 6 meses.",
+        "B": "500€; economizando 25€ por semana durante 5 meses.",
+        "C": "2.000€; economizando 100€ por mês durante 20 meses.",
+        "D": "1.500€; economizando 50€ por mês durante 30 meses."
+      },
+      "hint": "Considera o valor inicial e o método de poupança semanal.",
+      "rationale": "Um fundo de emergência deve começar com 1.000€, que pode ser atingido economizando 40€ por semana durante 6 meses.",
+      "tag": "Fundo de emergência",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Fundo de emergência' e avalia o conhecimento sobre a quantia inicial recomendada e a estratégia de poupança, que são aspectos centrais desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona claramente a quantia inicial recomendada de 1.000€ e a estratégia de economizar 40€ por semana durante 6 meses."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de fundo de emergência, mas algumas das quantias e métodos de poupança apresentados não são tão realistas ou comuns como a opção correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao sugerir que o participante considere o valor inicial e o método de poupança semanal, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte ao afirmar que um fundo de emergência deve começar com 1.000€ e como atingi-lo."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.2,
+        "Médio": 0.2,
+        "Alto": 0.7
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que 500€ parece uma quantia mais fácil de juntar e 25€ por semana não é muito. Não conheço bem os outros termos, mas isso parece simples e alcançável.",
+          "Acho que o melhor é começar com um valor mais baixo, como 500€, porque parece mais fácil de juntar. Não percebo muito de finanças, mas 25€ por semana parece uma quantia que consigo poupar sem muito esforço.",
+          "Acho que 500€ é uma quantia mais fácil de juntar. Não percebo bem os termos que falam de economias mais longas, mas parece que 5 meses não é muito tempo e 25€ por semana não parece difícil.",
+          "Acho que 500€ parece uma quantia mais fácil de juntar, e economizar 25€ por semana não parece tão difícil. Não entendo bem todos os termos técnicos, mas parece que é uma boa maneira de começar um fundo de emergência.",
+          "Acho que 1.000€ parece uma quantia razoável para ter guardada, e economizar 40€ por semana durante 6 meses parece algo que eu conseguiria fazer. Não entendo bem as regras e termos financeiros, mas acho que é importante ter algum dinheiro guardado para emergências.",
+          "Acho que 500€ é uma quantia mais pequena e mais fácil de juntar. Não entendo bem os termos técnicos, mas parece que, ao economizar 25€ por semana, em 5 meses consigo atingir isso, o que parece razoável.",
+          "A opção C parece mais fácil de alcançar, porque 500€ parece um valor mais razoável e economizar 25€ por semana é algo que eu consigo fazer. Não percebo bem os termos, mas 5 meses parece um bom tempo para juntar esse dinheiro.",
+          "Eu acho que 500€ é uma quantia que parece mais fácil de juntar. Não percebo muito de economias e cálculos complicados, mas 25€ por semana parece uma coisa que consigo fazer. As outras opções parecem muito mais difíceis.",
+          "Acho que 500€ parece uma quantia razoável para um fundo de emergência, porque não é muito alta e parece que é fácil de juntar. Não percebo bem os termos técnicos que falam sobre economizar, mas 25€ por semana parece uma quantia que consigo poupar sem grandes sacrifícios.",
+          "Acho que 1.000€ parece uma quantia razoável para ter como fundo de emergência. Não entendo muito bem os cálculos ou termos técnicos, mas parece que com 40€ por semana durante 6 meses é uma forma prática de conseguir isso."
+        ],
+        "Médio": [
+          "Acho que 500€ parece uma quantia mais fácil de alcançar e 25€ por semana parece uma quantia que posso juntar. Não estou muito certo sobre os outros números, mas 500€ parece uma boa quantia para um fundo de emergência.",
+          "Acho que 500€ parece uma quantia razoável para um fundo de emergência. Economizar 25€ por semana parece fácil de fazer, e 5 meses não é muito tempo. Não conheço muito sobre os outros valores, mas 500€ parece um bom começo.",
+          "Acho que 500€ é uma quantia mais fácil de alcançar e 25€ por semana parece mais simples de poupar. Não conheço muito bem os outros valores e métodos, mas isso parece razoável.",
+          "Acho que 500€ é uma quantia mais fácil de alcançar e economizar 25€ por semana parece mais simples. Não entendo bem os outros termos, mas parece que isto é mais prático para mim.",
+          "Acho que 500€ é uma quantia razoável para um fundo de emergência, e 25€ por semana parece fácil de poupar. Não estou muito seguro sobre os termos, mas parece que é uma boa forma de começar a poupança.",
+          "Acho que 1.000€ é uma quantia boa para um fundo de emergência. Economizar 40€ por semana parece mais fácil de fazer, e 6 meses parece um prazo razoável. Os outros valores parecem muito altos para mim.",
+          "Eu escolhi a opção D porque 1.000€ parece uma quantia razoável para um fundo de emergência e economizar 40€ por semana durante 6 meses parece possível. Não conheço bem os detalhes de quanto é preciso economizar para cada situação, mas essa opção parece a mais prática para mim.",
+          "Acho que 500€ é uma boa quantia para ter como fundo de emergência, porque é mais fácil de alcançar. Economizar 25€ por semana parece mais simples e rápido, e eu reconheço um pouco sobre poupança, então parece uma boa opção.",
+          "Acho que 500€ é um valor mais fácil de alcançar. 25€ por semana parece uma quantia razoável para poupar, e 5 meses não é muito tempo. Não conheço bem os termos, mas parece simples.",
+          "Acho que 500€ é uma quantia mais fácil de alcançar e parece que poupar 25€ por semana durante 5 meses é uma boa forma de chegar lá. Os outros valores parecem mais complicados e mais altos do que eu conseguiria juntar."
+        ],
+        "Alto": [
+          "A quantia inicial recomendada para um fundo de emergência deve ser entre 3 a 6 meses de despesas, sendo 1.000€ um valor razoável para começar. Economizar 40€ por semana durante 6 meses resulta na quantia desejada, e reconheço a importância de estabelecer um fundo de emergência para imprevistos.",
+          "A quantia inicial recomendada para um fundo de emergência varia entre 3 a 6 meses de despesas. Contudo, 1.000€ é uma quantia razoável para começar, e a forma de atingi-la, economizando 40€ por semana durante 6 meses, é viável e prática. Reconheço que os termos usados refletem uma estratégia de poupança clara e eficaz.",
+          "A quantia inicial recomendada para um fundo de emergência geralmente situa-se entre 1.000€ a 3.000€, dependendo das despesas mensais. A opção C, que sugere atingir 1.000€ em 6 meses economizando 40€ por semana, é viável e prática, permitindo acumular uma reserva que cobre, pelo menos, 1 a 3 meses de despesas básicas.",
+          "A quantia inicial recomendada para um fundo de emergência é geralmente entre 3 a 6 meses de despesas essenciais. Considerando isso, um fundo de emergência de 2.000€ é uma quantia razoável para iniciar, e o plano de economizar 100€ por mês durante 20 meses é viável e sustentável. Reconheço os termos utilizados, pois refletem estratégias comuns de poupança e planeamento financeiro.",
+          "A quantia recomendada para um fundo de emergência é geralmente entre 3 a 6 meses de despesas mensais. A opção D, com 2.000€, é mais adequada para garantir uma margem de segurança financeira em situações inesperadas. Reconheço que a construção do fundo é feita de forma sistemática, economizando 100€ por mês durante 20 meses, o que é uma abordagem sólida e prática.",
+          "A quantia inicial recomendada para um fundo de emergência é geralmente considerada em torno de 3 a 6 meses de despesas. A opção B, com 1.000€, parece ser uma quantia razoável para iniciar, especialmente se o objetivo é acumular rapidamente um fundo que possa cobrir despesas imprevistas. A abordagem de economizar 40€ por semana durante 6 meses é prática e viável.",
+          "A quantia inicial recomendada para um fundo de emergência costuma ser de 3 a 6 meses de despesas. No entanto, considerando a opção mais prática e viável apresentada, 1.000€ é um valor razoável para começar. A opção C permite atingir esse montante em um período de 6 meses, economizando 40€ por semana, o que é um objetivo alcançável e sustentável.",
+          "A quantia inicial recomendada para um fundo de emergência geralmente varia entre 1.000€ a 3.000€, dependendo da situação financeira pessoal. A opção C apresenta um valor de 1.000€, que é um valor razoável, e o plano de economizar 40€ por semana durante 6 meses é viável e eficaz para atingir este objetivo.",
+          "Um fundo de emergência deve ser suficiente para cobrir entre 3 a 6 meses de despesas essenciais, e 2000€ é um valor razoável para muitos indivíduos. A opção B, ao sugerir um valor inicial de 2000€, é a mais adequada, considerando a necessidade de segurança financeira em caso de imprevistos.",
+          "A quantia inicial recomendada para um fundo de emergência é geralmente de 3 a 6 meses de despesas, e 1.000€ é um montante razoável para começar. A opção B é viável, pois economizando 40€ por semana durante 6 meses totaliza 1.040€, o que é uma abordagem prática e acessível para atingir essa meta."
+        ]
+      }
+    },
+    {
+      "question": "Como a regra 50/30/20 ajuda a equilibrar as despesas pessoais?",
+      "options": {
+        "A": "Distribui 50% para necessidades, 30% desejos, 20% poupança.",
+        "B": "Distribui 40% para poupança, 30% para necessidades, 30% para desejos.",
+        "C": "Divide 60% para necessidades, 20% para poupança, 20% para desejos.",
+        "D": "Reparte 50% para desejos, 25% para necessidades, 25% para poupança."
+      },
+      "hint": "Envolve a distribuição de renda em categorias específicas.",
+      "rationale": "A regra 50/30/20 sugere uma distribuição da renda que ajuda a equilibrar as despesas e garantir poupança significativa.",
+      "tag": "Regra 50/30/20",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Regra 50/30/20' e avalia claramente o conhecimento sobre como essa regra ajuda a equilibrar as despesas pessoais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona a importância de criar um orçamento e a gestão financeira pessoal."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito da regra 50/30/20, mas algumas opções apresentam combinações que não são corretas, o que pode causar confusão."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a distribuição de renda, mas poderia ser mais específica em relação à regra 50/30/20."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais detalhada em como a regra contribui para o equilíbrio das despesas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos de finanças, mas acho que 60% para necessidades parece mais certo, porque temos que pagar as coisas básicas primeiro, e depois o resto para poupança e desejos. Não conheço bem a regra, mas é o que parece mais lógico.",
+          "Acho que esta opção faz sentido porque fala em dividir o dinheiro de uma forma que parece equilibrada. Não percebo muito bem os termos, mas 50% para coisas que precisamos é lógico, e guardar um pouco também é importante.",
+          "Eu não percebo muito dessas regras e termos financeiros, mas parece que esta opção fala de dividir o dinheiro em partes, o que parece útil. Necessidades são importantes, por isso escolheria a que dá mais para isso.",
+          "Escolhi esta opção porque parece que fala sobre dividir o dinheiro, o que é algo que eu consigo entender. Não conheço bem os termos técnicos, mas parece que é uma maneira de distribuir o que temos para gastar e poupar.",
+          "Eu não entendo muito bem esses termos todos, mas parece-me que a opção D faz sentido porque fala sobre necessidades e desejos, que são coisas que todos nós precisamos de gerir no dia-a-dia. Poupança é algo que também devemos ter em conta, mas eu não sei exatamente como isso se relaciona com esses números.",
+          "Acho que esta opção faz sentido porque fala sobre dividir o dinheiro em partes para coisas que precisamos, coisas que queremos e também para guardar. Não entendo muito bem os termos, mas parece que é uma forma de ter controlo sobre o que gastamos.",
+          "Não entendo bem essa regra, mas parece que a opção C fala mais sobre desejos do que sobre necessidades. Eu pensaria que é importante ter dinheiro para o que quero, por isso escolhi essa.",
+          "Não percebo muito bem esses termos, mas parece que a opção A fala das coisas que precisamos e algumas para guardar. Como não sou muito experiente em finanças, escolhi esta porque parece que dá prioridade às necessidades.",
+          "Escolhi a opção D porque parece-me que 50% para necessidades é importante, e depois 30% para desejos e 20% para poupança parece uma boa maneira de organizar as despesas. Não reconheço bem os termos técnicos, mas sinto que é uma forma prática de equilibrar o que preciso e o que quero.",
+          "Eu não percebo bem esses termos todos, mas parece que esta opção fala de dividir o que ganho em diferentes partes. Acredito que é bom ter uma parte para as coisas que preciso, outra para o que quero e uma para guardar, então escolhi esta."
+        ],
+        "Médio": [
+          "Parece que a opção B é a que faz mais sentido para equilibrar despesas. Eu entendo que precisamos de dinheiro para coisas essenciais, como comida e casa, e depois um pouco para coisas que gostamos, e ainda reservar algum para o futuro. Os outros números parecem confusos ou errados.",
+          "Eu acho que a opção A faz mais sentido porque fala em 50% para coisas que precisamos, 30% para coisas que queremos, e 20% para poupança, que é importante. Os outros números parecem confusos e não me lembro bem deles.",
+          "Acho que a regra 50/30/20 fala sobre como dividir o dinheiro, e a opção D parece fazer mais sentido porque fala de necessidades, desejos e poupança. Não conheço bem os termos, mas parece que é uma forma de organizar as despesas.",
+          "Acho que a regra 50/30/20 é sobre dividir o dinheiro que ganho. A opção C parece a mais correta porque fala de necessidades e poupança, que são coisas que eu entendo. Não conheço bem os outros números, mas esta parece fazer sentido para equilibrar as despesas.",
+          "Acho que a regra 50/30/20 é sobre como gastar o dinheiro. Então, parece que a opção B fala sobre a divisão certa para as coisas que precisamos, o que queremos e a poupança, que é importante. Mas não conheço bem os termos e não sei se é mesmo assim.",
+          "Acho que a opção A é a certa porque fala sobre como dividir o dinheiro, e parece-me que é assim que se deve fazer para ter uma boa gestão. Conheço a ideia de precisar de gastar em coisas essenciais e também um pouco em coisas que queremos, mas não conheço bem os termos e não sei se é 100% certo.",
+          "Acho que a regra 50/30/20 é sobre como gastar o dinheiro, e esta opção parece a mais lógica porque fala em necessidades e desejos, que são coisas que todos precisamos considerar. Não conheço bem os termos, mas parece simples de entender.",
+          "Acho que a regra 50/30/20 é para ajudar a organizar o que gastamos. Eu não sei bem o que são 'necessidades' e 'desejos' ao certo, mas parece que 50% vai para o que precisamos e 20% para poupar, que é importante.",
+          "Parece-me que esta opção faz mais sentido porque fala sobre necessidades e desejos, que são coisas que conheço. Não percebo bem os números exatos, mas 50% para o que precisamos e um pouco para poupança parece equilibrado.",
+          "Acho que a regra é sobre como dividir o dinheiro que temos. Penso que 50% para necessidades faz sentido, porque precisamos de comida e casa primeiro. Depois, 30% para desejos parece bom, porque também é importante divertir-nos, e 20% para poupança é sempre bom, mesmo que não saiba muito bem como funciona."
+        ],
+        "Alto": [
+          "A regra 50/30/20 é uma abordagem de gestão financeira que recomenda alocar 50% da renda a necessidades, 30% a desejos e 20% a poupança. Reconheço os termos utilizados, pois são fundamentais para uma boa organização financeira e ajudam a equilibrar as despesas pessoais de forma eficaz.",
+          "A regra 50/30/20 é uma abordagem amplamente reconhecida para o planeamento financeiro pessoal, onde 50% da renda é alocada para necessidades essenciais, 30% para desejos e 20% para poupança ou pagamento de dívidas. Reconheço os termos usados, pois representam uma estratégia equilibrada para gerir despesas e promover a poupança ao mesmo tempo.",
+          "A regra 50/30/20 é um princípio bem estabelecido de gestão financeira que sugere alocar 50% da renda para necessidades essenciais, 30% para desejos e 20% para poupança e investimentos. Reconheço claramente os termos utilizados, pois são fundamentais na organização de um orçamento pessoal equilibrado e promovem uma abordagem prática para garantir que todas as áreas da vida financeira estão adequadamente cobertas.",
+          "A regra 50/30/20 é uma estratégia de gestão financeira que sugere alocar 50% da renda para necessidades, 30% para desejos e 20% para poupança. Reconheço claramente os termos utilizados, pois refletem uma abordagem equilibrada para o planeamento financeiro pessoal, ajudando a garantir que as despesas essenciais sejam cobertas, ao mesmo tempo que se reserva uma parte para poupança e se permite alguma flexibilidade para gastos discricionários.",
+          "A regra 50/30/20 é uma estratégia de gestão financeira que sugere que 50% da renda deve ser alocado para necessidades (como habitação e alimentação), 30% para desejos (como entretenimento e viagens) e 20% para poupança e investimento. Reconheço os termos utilizados, pois são fundamentais no planeamento financeiro pessoal e ajudam a garantir um equilíbrio saudável entre despesas essenciais e lazer, ao mesmo tempo que promove a poupança.",
+          "A regra 50/30/20 é um princípio de gestão financeira que sugere alocar 50% da renda para necessidades, 30% para desejos e 20% para poupança. Reconheço os termos usados, pois refletem uma abordagem equilibrada ao orçamento pessoal, permitindo uma gestão consciente entre gastos essenciais e a construção de poupanças.",
+          "A regra 50/30/20 é um princípio amplamente reconhecido em finanças pessoais que sugere que 50% da renda deve ser alocada para necessidades, 30% para desejos e 20% para poupança e investimento. Reconheço os termos utilizados, pois refletem uma abordagem equilibrada para a gestão financeira, promovendo a segurança financeira a longo prazo.",
+          "A regra 50/30/20 é um método amplamente reconhecido para ajudar a equilibrar despesas pessoais, onde 50% da renda é alocada para necessidades, 30% para desejos e 20% para poupança. Reconheço os termos utilizados e a importância de categorizar as despesas para garantir um orçamento saudável e uma poupança adequada.",
+          "A regra 50/30/20 é uma estratégia amplamente reconhecida de gestão orçamental que aloca 50% da renda para necessidades essenciais, 30% para desejos e 20% para poupança ou pagamento de dívidas. Esta abordagem ajuda a equilibrar as despesas pessoais, garantindo que as necessidades sejam atendidas enquanto se promove também a poupança e o desfrute de certos luxos.",
+          "A regra 50/30/20 é um conceito bem conhecido em planeamento financeiro pessoal que sugere que 50% da renda deve ser alocado para necessidades (como habitação, alimentação e transporte), 30% para desejos (como lazer e entretenimento) e 20% para poupança e investimentos. Reconheço os termos usados, pois são fundamentais para gerir um orçamento equilibrado e promover a saúde financeira."
+        ]
+      }
+    },
+    {
+      "question": "De que forma as micro-poupanças podem ser integradas no orçamento sem grandes mudanças percebidas?",
+      "options": {
+        "A": "Arredondamentos automáticos nas contas bancárias.",
+        "B": "Depósitos mensais fixos em contas de investimento.",
+        "C": "Redução de despesas em categorias não essenciais do orçamento.",
+        "D": "Utilização de cupões de desconto para compras regulares."
+      },
+      "hint": "Considera pequenas ações automáticas que acumulam poupança.",
+      "rationale": "As micro-poupanças, como arredondamentos automáticos, facilitam a poupança sem causar grandes mudanças no orçamento.",
+      "tag": "Micro-poupanças",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Micro-poupanças' e avalia claramente o conhecimento sobre como integrar micro-poupanças no orçamento."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona especificamente a prática de arredondamentos automáticos como uma forma de poupança."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de poupança, mas a opção B (depósitos mensais fixos) não se alinha com a ideia de micro-poupanças."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a pensar em ações automáticas que acumulam poupança, sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conceito de micro-poupanças e ao conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não sei muito sobre finanças, mas usando cupões para comprar coisas que já preciso parece uma boa forma de poupar sem mudar muito a minha vida. Não percebo bem os outros termos e como funcionam.",
+          "Eu não percebo muito sobre poupanças e orçamentos, mas sei que usar cupões de desconto ajuda a gastar menos nas compras. Parece uma forma fácil de poupar sem mudar muito a forma como gasto.",
+          "Eu escolhi a opção C porque usar cupões de desconto parece uma maneira fácil de poupar sem mudar muito a minha forma de gastar. Não conheço bem os termos técnicos, mas sei que é bom aproveitar descontos nas compras que já faço.",
+          "Acho que a melhor forma é usar cupões de desconto, porque assim consigo poupar um bocadinho em cada compra sem ter que fazer grandes mudanças na minha vida. Não percebo bem os outros termos que falam, parece tudo muito complicado.",
+          "Acho que usar cupões de desconto é uma boa maneira de poupar sem ter que mudar muito a forma como gasto dinheiro. Não entendo bem o que são micro-poupanças, mas usar descontos parece fácil e prático.",
+          "Eu não percebo bem esses termos que vocês usam, mas usar cupões de desconto parece uma maneira fácil de poupar algum dinheiro sem grande esforço. É só aplicar os descontos quando vou às compras, não sinto que estou a mudar muito no meu orçamento.",
+          "Eu não conheço bem os termos técnicos, mas sei que usar cupões de desconto ajuda a poupar algum dinheiro nas compras do dia a dia. Assim, posso gastar menos sem sentir muito a diferença no que compro.",
+          "Acho que usar cupões de desconto é uma forma fácil de poupar dinheiro sem fazer grandes mudanças na forma como gasto. Não entendo bem os outros termos, mas cupons são uma coisa que vejo a toda a hora e parece simples.",
+          "Acho que usar cupões de desconto é uma boa maneira de poupar sem notar muito, porque estamos a fazer compras normais e só estamos a gastar um pouco menos. Não entendo muito de outras opções, mas esta parece mais fácil de aplicar no dia-a-dia.",
+          "Acho que a melhor forma de poupar sem perceber muito é usar cupões de desconto. Assim, consigo gastar menos nas compras do dia-a-dia sem ter que mudar muito a minha rotina. Não entendo bem os outros termos, mas cupões são algo que faz sentido e é fácil de usar."
+        ],
+        "Médio": [
+          "Eu acho que arredondar as contas é uma forma fácil de poupar sem sentir muito. Não reconheço bem os outros termos, como depósitos ou investimentos, mas arredondar parece simples e prático.",
+          "Acho que arredondar as contas é uma maneira fácil de poupar um pouco sem notar. Não conheço bem os outros termos, mas isso de arredondar parece simples e não dá muito trabalho.",
+          "Acho que a opção B é a melhor, porque os arredondamentos automáticos parecem fáceis de fazer e não dão muito trabalho. Não conheço bem os outros termos, mas parece que isso de arredondar é uma maneira simples de poupar sem sentir muito.",
+          "Eu acho que os arredondamentos automáticos são uma boa forma de poupar sem notar muito. Não sei muito sobre investimentos ou reduzir despesas, mas arredondar parece simples, tipo quando fica mais fácil juntar trocos.",
+          "Acho que arredondar as contas é uma maneira fácil de poupar um bocadinho sem perceber muito. Não sei bem o que são investimentos ou cupões, mas arredondar parece simples e não dá trabalho.",
+          "Acho que arredondar as contas é uma forma fácil de poupar um pouco sem sentir muito. Não percebo bem os outros termos, mas isso dos arredondamentos soa simples e prático.",
+          "Eu acho que arredondar as contas é uma maneira fácil de poupar sem ter que pensar muito nisso. Não conheço bem os outros termos, mas isso parece simples e não afeta muito o meu dia-a-dia.",
+          "Acho que arredondar as contas é uma maneira fácil de poupar sem sentir muito. Não entendo bem os outros termos, mas isso de arredondar parece simples e pode ajudar a juntar algum dinheiro sem ter que mudar muito no meu dia a dia.",
+          "Eu escolhi esta opção porque parece mais fácil de fazer, tipo, só arredondar as contas e não sentir muito a diferença. Não tenho certeza sobre o que são todas essas outras opções, mas arredondar parece simples e prático.",
+          "Acho que a opção D é boa porque não envolve mudar muito as coisas que já faço. Os arredondamentos automáticos parecem uma maneira fácil de poupar sem perceber muito. Não sei bem o que são contas de investimento ou cupões de desconto, mas arredondar parece simples."
+        ],
+        "Alto": [
+          "Os arredondamentos automáticos nas contas bancárias permitem que cada transação seja arredondada para o euro mais próximo, transferindo a diferença para uma conta de poupança. Esta abordagem é uma forma eficaz de integrar micro-poupanças no orçamento, já que não requer mudanças significativas nos hábitos de consumo, e é um método simples e automatizado que não afeta diretamente o fluxo de caixa mensal.",
+          "Os arredondamentos automáticos permitem que pequenas quantias sejam poupadas sem que o indivíduo perceba uma alteração significativa nas suas despesas diárias. Este método é uma forma eficaz de integrar micro-poupanças no orçamento, pois não requer mudanças drásticas no comportamento financeiro e pode acumular-se ao longo do tempo, aumentando a capacidade de poupança sem grandes sacrifícios.",
+          "Os arredondamentos automáticos nas contas bancárias permitem que pequenas quantias sejam poupadas sem que o consumidor perceba uma alteração significativa no seu estilo de vida. Esta técnica de micro-poupança é eficaz, pois transforma valores ínfimos em poupança, integrando-se perfeitamente no orçamento sem exigir uma reavaliação das despesas regulares.",
+          "As micro-poupanças são frequentemente integradas no orçamento através de arredondamentos automáticos, uma prática que permite que pequenas quantias sejam poupadas sem que o consumidor perceba uma alteração significativa nas suas despesas diárias. Este método é eficaz porque não exige mudanças drásticas nos hábitos de consumo, sendo uma abordagem prática e conveniente para aumentar a poupança sem esforço consciente.",
+          "As micro-poupanças são frequentemente integradas no orçamento através de arredondamentos automáticos, onde cada transação é arredondada para o euro mais próximo e a diferença é poupada. Este método exige alterações mínimas no comportamento de gasto do consumidor, permitindo uma poupança eficaz sem grandes mudanças percebidas no orçamento mensal.",
+          "Os arredondamentos automáticos nas contas bancárias são uma forma eficaz de integrar micro-poupanças no orçamento, pois permitem que pequenas quantias sejam poupadas sem que o consumidor perceba uma alteração significativa nas suas despesas diárias. Este método é reconhecido por facilitar a poupança de forma discreta e automática, alinhando-se bem com o conceito de micro-poupanças.",
+          "As micro-poupanças podem ser integradas no orçamento de forma discreta e eficaz através de arredondamentos automáticos, que permitem poupar sem impactar significativamente o fluxo de caixa mensal. Este método é reconhecido por facilitar a acumulação de poupanças sem a necessidade de uma alteração consciente no comportamento financeiro do consumidor.",
+          "A opção C refere-se a uma estratégia de micro-poupança que consiste em arredondar o saldo das contas bancárias para o valor inteiro mais próximo e transferir a diferença para uma conta poupança. Esta abordagem permite acumular poupanças sem impactar significativamente o orçamento mensal, pois as alterações são pequenas e automáticas, facilitando a integração no dia-a-dia financeiro.",
+          "As micro-poupanças, como os arredondamentos automáticos, permitem a acumulação de pequenas quantias sem que o consumidor perceba uma alteração significativa no seu comportamento de gasto. Este método é eficaz pois integra-se de forma discreta no orçamento, permitindo que as pessoas poupem sem necessidade de ajustes drásticos nas suas despesas.",
+          "As micro-poupanças através de arredondamentos automáticos são uma estratégia eficaz para integrar pequenas quantias de poupança no orçamento sem que o indivíduo perceba grandes mudanças. Este método permite que o dinheiro seja automaticamente transferido para uma conta de poupança sempre que uma transação é realizada, facilitando o processo de poupança sem a necessidade de ajustes significativos nas despesas diárias."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o papel da literacia financeira nas famílias e como pode ser reforçada?",
+      "options": {
+        "A": "Promove discussões financeiras; reforçada por leituras e podcasts.",
+        "B": "Ensina a importância do consumo de marcas de prestígio; reforçada por workshops presenciais.",
+        "C": "Promove a aquisição de bens duradouros; reforçada por cursos de gestão de tempo.",
+        "D": "Incentiva a criação de orçamentos mensais; reforçada por consultorias financeiras."
+      },
+      "hint": "Pensa na importância do conhecimento financeiro partilhado em casa.",
+      "rationale": "A literacia financeira familiar promove discussões sobre finanças e pode ser reforçada através de leituras, podcasts e aconselhamento especializado.",
+      "tag": "Literacia financeira familiar",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Literacia financeira familiar', abordando a importância da literacia financeira nas famílias e como pode ser reforçada."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância da gestão do dinheiro e a discussão de finanças pessoais em família."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de literacia financeira, mas algumas opções, como a B e C, não se alinham diretamente com a ideia de literacia financeira familiar."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que se pense na importância do conhecimento financeiro partilhado, mas poderia ser mais específica em relação à pergunta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a promoção de discussões financeiras e reforço através de leituras e podcasts."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.4,
+        "Médio": 0.1,
+        "Alto": 0.2
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi a opção C porque acho que é importante saber quais marcas são melhores para comprar. Não percebo muito dos termos financeiros, mas workshops presenciais parecem uma boa ideia para aprender mais sobre isso.",
+          "Acho que a literacia financeira é sobre comprar coisas boas que duram, como móveis ou eletrodomésticos. Cursos de gestão de tempo fazem sentido porque, se a gente souber organizar o nosso tempo, podemos ganhar mais dinheiro e comprar mais coisas. Não conheço bem os outros termos e opções, então escolhi esta que parece mais prática.",
+          "Eu acho que é importante saber comprar coisas que duram, tipo móveis ou eletrodomésticos. Não percebo muito de cursos e gestão de tempo, mas parece que isso ajuda a gerir melhor as compras.",
+          "Acho que discutir sobre dinheiro é importante, mas não sei bem o que são leituras e podcasts. Para mim, falar sobre finanças entre amigos e familiares é mais fácil e útil, mesmo que eu não entenda muito bem os termos.",
+          "Eu escolhi a opção C porque, para mim, é importante saber sobre marcas boas e como isso pode influenciar a vida das pessoas. Não percebo bem os outros termos e não sei o que são consultorias ou podcasts, mas sei que é bom aprender em workshops.",
+          "Acho que a literacia financeira é importante para as famílias falarem sobre dinheiro e aprenderem mais sobre isso. Não sei muito sobre os termos que foram usados, mas ler e ouvir coisas sobre dinheiro parece uma boa ideia para entender melhor.",
+          "Acho que a literacia financeira é sobre falar de dinheiro e como gastar. Ler e ouvir sobre isso pode ajudar as pessoas a entenderem melhor, mesmo que eu não conheça bem os termos que usam.",
+          "Eu não percebo muito sobre finanças, mas acho que falar sobre dinheiro e ouvir o que outras pessoas dizem pode ajudar. Não conheço muito sobre leituras e podcasts, mas parece que pode ser uma boa forma de aprender.",
+          "Eu não conheço bem os termos financeiros, mas acho que é importante saber comprar coisas que duram, como móveis ou eletrodomésticos. Cursos de gestão de tempo podem ajudar, porque se soubermos gerir o nosso tempo, podemos pensar melhor sobre o que precisamos comprar.",
+          "Eu acho que é importante saber sobre marcas de prestígio porque isso faz parecer que temos mais valor. Não conheço bem as outras opções, mas a ideia de fazer workshops parece interessante, mesmo que não saiba muito sobre isso."
+        ],
+        "Médio": [
+          "Acho que a literacia financeira é importante para ajudar as famílias a fazerem orçamentos, porque assim conseguem controlar melhor o que gastam e poupam. Consultorias financeiras parece-me algo que pode ajudar, mesmo que eu não conheça bem o que isso envolve.",
+          "Acho que a literacia financeira é importante para as famílias, especialmente para saber como gastar o dinheiro. Criar orçamentos parece uma boa ideia, mas não sei muito sobre consultorias financeiras ou como funcionam. Parece que ajuda a organizar melhor as despesas.",
+          "Acho que o papel da literacia financeira nas famílias é ajudar a organizar o dinheiro, tipo fazer um orçamento mensal. Consultorias financeiras podem ajudar, mas não tenho certeza do que é isso exatamente. Os outros pontos falam de coisas que não entendo bem.",
+          "Acho que a literacia financeira é importante para fazer um orçamento e controlar os gastos. Consultorias financeiras podem ajudar as pessoas a entenderem melhor o que devem fazer. Não conheço bem todos os termos, mas sei que é bom saber quanto se pode gastar por mês.",
+          "Acho que a literacia financeira é importante para as famílias saberem como gastar o dinheiro, e fazer orçamentos mensais parece uma boa ideia. Não conheço muito bem o que são consultorias financeiras, mas parece que pode ajudar as pessoas a aprender a gerir melhor o seu dinheiro.",
+          "Acho que a literacia financeira é importante para as famílias porque ajuda a organizar o dinheiro e a saber quanto se pode gastar. Não conheço muito sobre consultorias financeiras, mas parece que isso poderia ajudar as pessoas a fazer orçamentos, que é algo que eu entendo.",
+          "Acho que é importante falar sobre dinheiro com a família, e ler ou ouvir coisas sobre finanças pode ajudar. Não conheço muito bem os outros termos, mas discutir é algo que qualquer um pode fazer.",
+          "Acho que a literacia financeira ajuda as pessoas a fazerem orçamentos, assim sabem melhor quanto podem gastar. Não tenho a certeza do que são consultorias financeiras, mas parece que podem ajudar com isso.",
+          "Acho que a literacia financeira ajuda as pessoas a fazer orçamentos, porque é importante saber onde gastamos o nosso dinheiro. Não conheço bem o que são consultorias financeiras, mas parece que podem ajudar a entender melhor como gerir o dinheiro.",
+          "Acho que a literacia financeira é importante para ajudar as famílias a saberem como gastar o dinheiro. Eu reconheço a ideia de fazer orçamentos mensais, porque isso parece prático, mas não sei muito sobre consultorias financeiras, então isso pode ser um pouco confuso para mim."
+        ],
+        "Alto": [
+          "A literacia financeira é fundamental para as famílias, pois permite uma gestão eficaz dos recursos financeiros, e a criação de orçamentos mensais é uma prática essencial. Consultorias financeiras podem fornecer orientação personalizada, ajudando a implementar estratégias de poupança e a evitar o endividamento excessivo.",
+          "A literacia financeira é crucial para que as famílias possam gerir eficazmente os seus recursos, e a criação de orçamentos mensais é uma prática fundamental nesse processo. Consultorias financeiras podem fornecer orientações personalizadas que ajudam as famílias a entender melhor o fluxo de caixa, as despesas e a poupança, promovendo uma gestão financeira mais consciente e eficaz.",
+          "A literacia financeira é fundamental para as famílias, pois permite-lhes gerir melhor os seus recursos e evitar endividamentos. A opção B é a mais correta, pois a criação de orçamentos mensais é uma prática essencial para o planeamento financeiro e as consultorias financeiras podem fornecer orientação personalizada, ajudando a reforçar essa competência.",
+          "A literacia financeira é crucial para que as famílias possam tomar decisões informadas sobre as suas finanças. A opção C é a mais adequada, pois promove discussões financeiras, o que é essencial para entender conceitos como orçamentos e poupança. Além disso, leituras e podcasts podem fornecer informação acessível e atualizada, reforçando o conhecimento financeiro das famílias.",
+          "A literacia financeira é fundamental para que as famílias possam discutir e compreender melhor as suas finanças, permitindo um planeamento mais eficaz. A opção D destaca a importância do diálogo sobre questões financeiras e a utilização de recursos educativos, como leituras e podcasts, o que é uma abordagem prática e acessível para reforçar essa literacia.",
+          "A literacia financeira é crucial para ajudar as famílias a gerir os seus recursos de forma eficaz, e a criação de orçamentos mensais é uma prática fundamental nesse processo. Consultorias financeiras podem fornecer orientações personalizadas e ajudar a implementar estratégias que melhoram a saúde financeira das famílias.",
+          "A literacia financeira é fundamental para que as famílias possam gerir eficazmente os seus recursos, e a criação de orçamentos mensais é uma prática essencial para o controlo financeiro. Consultorias financeiras podem ajudar a reforçar este conhecimento, proporcionando ferramentas e estratégias práticas para uma gestão eficiente das finanças pessoais.",
+          "A literacia financeira é fundamental para que as famílias consigam gerir adequadamente os seus recursos, e a criação de orçamentos mensais é uma prática essencial para manter o controlo financeiro. Consultorias financeiras podem fornecer orientações personalizadas e estratégias eficazes, fortalecendo assim a literacia financeira das famílias.",
+          "A literacia financeira é crucial para que as famílias consigam gerir adequadamente as suas finanças pessoais, e a criação de orçamentos mensais é uma prática fundamental nesse processo. Reconheço a importância das consultorias financeiras como uma forma eficaz de reforçar esse conhecimento, visto que podem oferecer orientações personalizadas que ajudam a implementar e manter um bom planeamento financeiro.",
+          "A literacia financeira é fundamental para que as famílias consigam gerir eficazmente os seus recursos e planearem o seu futuro financeiro. A opção C destaca a importância da criação de orçamentos, que é uma prática essencial para o controle das finanças pessoais, e sugere que as consultorias financeiras podem oferecer o apoio necessário para reforçar este conhecimento."
+        ]
+      }
+    },
+    {
+      "question": "Que práticas são recomendadas para garantir que as promoções representam uma economia real?",
+      "options": {
+        "A": "Comparação de preços e verificação da qualidade.",
+        "B": "Confirmação da origem dos produtos e análise de opiniões de outros consumidores.",
+        "C": "Avaliação das condições de devolução e garantia dos produtos.",
+        "D": "Verificação de descontos adicionais aplicáveis em futuras compras."
+      },
+      "hint": "Foca-te em métodos para avaliar promoções de forma crítica.",
+      "rationale": "Para garantir que promoções representam uma economia real, é crucial comparar preços e verificar a qualidade dos produtos.",
+      "tag": "Compras impulsivas",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Compras impulsivas', pois aborda práticas que ajudam a evitar compras desnecessárias e a garantir que as promoções são realmente vantajosas."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância de comparar preços e verificar a qualidade para evitar compras impulsivas."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que se destaca como a mais adequada."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de compras e promoções, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica para direcionar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de comparar preços e verificar a qualidade."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que comparar preços é importante porque assim sabemos se estamos a pagar menos do que antes. E verificar a qualidade é bom porque não queremos comprar algo que não presta, mesmo que esteja em promoção. Não entendo bem os termos, mas isso parece prático.",
+          "Acho que comparar preços é o mais importante, porque se um produto está mais barato do que o que costumo pagar, então é uma boa promoção. Verificar a qualidade também é importante para não comprar algo que não vale a pena. Não entendo bem os termos técnicos, mas isso parece fazer sentido.",
+          "Acho que a melhor forma de saber se uma promoção é boa é olhar para os preços em outros lugares e ver se o que estou a comprar é de boa qualidade. Não sei muito sobre os outros termos, mas comparar preços parece algo que qualquer pessoa faz no dia-a-dia.",
+          "Eu acho que comparar preços é importante para ver se realmente estamos a poupar. Não conheço bem esses termos técnicos, mas parece que verificar a qualidade também ajuda a garantir que o que estamos a comprar é bom.",
+          "Eu escolhi a opção C porque, no dia-a-dia, faz sentido comparar preços e ver se os produtos são bons. Não entendo bem os outros termos que aparecem nas opções, mas ver o preço e a qualidade parece mais prático e fácil de perceber.",
+          "Acho que comparar preços é importante para saber se realmente estamos a economizar. Não entendo bem os outros termos, mas sei que se um produto é bom e barato, é uma boa compra.",
+          "Acho que comparar preços é importante para ver se realmente estamos a poupar. Não conheço bem os outros termos, mas a qualidade também é essencial para não comprar algo que não vale a pena.",
+          "Acredito que comparar preços é importante para saber se estou a poupar mesmo. Não percebo bem os outros termos, mas saber se o produto é bom também me parece essencial para não gastar dinheiro em coisas que não valem a pena.",
+          "Eu escolhi a opção C porque é importante olhar para o preço e ver se o que estamos a comprar é bom. Não compreendo bem os termos mais complicados, mas sempre ouvi dizer que se deve comparar preços e ver se o produto é de qualidade antes de comprar.",
+          "Acho que comparar preços é uma boa ideia, porque assim podemos ver se realmente estamos a pagar menos. E verificar a qualidade é importante para não comprar algo que não vale a pena. Não entendo bem esses termos mais complicados, mas isso parece simples."
+        ],
+        "Médio": [
+          "Acho que comparar preços é importante para ver se realmente estamos a poupar. Não tenho certeza sobre a qualidade, mas se o preço é bom, pode ser que valha a pena. Não conheço bem os termos técnicos, mas parece-me que é algo que qualquer um deve fazer.",
+          "Acho que é importante comparar preços para ver se realmente estamos a poupar e também verificar a qualidade, porque às vezes os produtos em promoção podem não ser bons. Não conheço bem os outros termos, mas isso parece mais prático.",
+          "Acho que comparar preços é importante porque assim sabemos se estamos a pagar menos. Verificar a qualidade também faz sentido, porque não adianta comprar algo barato se não presta. Não conheço bem os outros termos, mas esses parecem os mais relevantes.",
+          "Acho que é importante comparar preços, porque assim podemos ver se estamos a fazer um bom negócio. Verificar a qualidade também é essencial, porque às vezes o que parece barato pode não ser bom. Não conheço bem os termos como 'avaliação de condições de devolução', por isso prefiro a comparação de preços.",
+          "Eu escolheria a opção D porque acho que comparar preços é importante para ver se realmente estamos a poupar. Não conheço bem as outras opções, mas parece que a qualidade também é importante para saber se vale a pena comprar.",
+          "Acho que comparar preços é importante para ver se estou a poupar, e verificar a qualidade ajuda a garantir que o que estou a comprar vale a pena. Não entendo bem os outros termos, mas parece que são coisas que não me ajudam directamente a saber se a promoção é boa.",
+          "Acho que a comparação de preços é importante para saber se estou a pagar menos, e ver a qualidade ajuda a garantir que não estou a comprar algo que vai estragar rapidamente. Não conheço bem todos os termos técnicos, mas estas parecem ser coisas que qualquer pessoa deve fazer.",
+          "Acho que a comparação de preços é importante para ver se o desconto é mesmo bom. Verificar a qualidade também faz sentido, porque às vezes um produto barato pode não valer a pena. Não conheço bem os outros termos, mas isso parece mais simples.",
+          "Acho que comparar preços é importante para ver se realmente estamos a poupar. Ver a qualidade também é bom, porque às vezes as coisas estão mais baratas, mas não são boas. Não conheço muito sobre os outros termos, mas isso parece mais prático.",
+          "Eu acho que é importante comparar preços para ver se realmente estamos a economizar. A qualidade também conta, porque às vezes um produto mais barato pode não ser bom e, no fim, saímos a perder. Não conheço todos os termos, mas isso faz sentido para mim."
+        ],
+        "Alto": [
+          "A comparação de preços é fundamental para garantir que a promoção realmente representa uma economia, pois permite identificar se o preço promocional é inferior ao preço habitual. Além disso, a verificação da qualidade assegura que o consumidor não está a sacrificar a excelência do produto apenas para obter um preço mais baixo, o que é crucial para uma decisão de compra informada.",
+          "A comparação de preços e a verificação da qualidade são fundamentais para garantir que as promoções representam uma economia real, uma vez que apenas um desconto aparente pode não refletir um bom negócio se a qualidade do produto não for satisfatória. Além disso, compreender a relação entre preço e valor é crucial em finanças pessoais.",
+          "A comparação de preços é fundamental para garantir que uma promoção é realmente vantajosa, enquanto a verificação da qualidade assegura que o produto atende às expectativas. Ambos os critérios são essenciais para evitar compras impulsivas que não representam uma economia real.",
+          "A comparação de preços e a verificação da qualidade são fundamentais para garantir que uma promoção representa uma economia real, pois permitem avaliar se o desconto é efetivamente vantajoso em relação ao preço habitual e se o produto atende aos padrões desejados. Reconheço a importância desses critérios, uma vez que uma promoção pode parecer atraente, mas se o produto não for de qualidade ou se o preço não for realmente inferior ao normal, a economia é ilusória.",
+          "A comparação de preços e a verificação da qualidade são fundamentais para garantir que as promoções realmente representam uma economia. Este processo envolve a análise do preço praticado em outros locais e a avaliação da qualidade do produto, que são aspectos cruciais na tomada de decisões informadas e na maximização do valor do dinheiro gasto.",
+          "A comparação de preços é fundamental para determinar se uma promoção realmente representa uma economia, enquanto a verificação da qualidade assegura que o produto adquirido atende às expectativas, evitando gastos desnecessários a longo prazo. Reconheço a importância de analisar tanto o preço quanto a qualidade como fatores cruciais na avaliação de promoções.",
+          "A comparação de preços é fundamental para garantir que as promoções realmente representam uma economia, enquanto a verificação da qualidade assegura que o produto adquirido atende às expectativas. Reconheço a importância destes termos, pois são essenciais para uma decisão de compra informada e para evitar gastos desnecessários.",
+          "A comparação de preços é fundamental para garantir que as promoções realmente representam uma economia real. Verificar a qualidade dos produtos também é essencial, pois um preço baixo pode não justificar um produto inferior. Esta análise permite ao consumidor tomar decisões mais informadas e evitar compras impulsivas.",
+          "A opção C é a mais relevante, pois a comparação de preços permite avaliar se a promoção é realmente vantajosa em relação ao preço habitual. Além disso, a verificação da qualidade assegura que o produto adquirido corresponde ao valor investido, evitando gastos desnecessários em produtos inferiores. Reconheço a importância de analisar tanto o preço quanto a qualidade para garantir uma economia real.",
+          "A comparação de preços é fundamental para avaliar se uma promoção realmente representa uma economia, enquanto a verificação da qualidade assegura que o produto adquirido cumpre com as expectativas. Reconheço que estas práticas são cruciais na literacia financeira, pois ajudam a evitar compras impulsivas e garantem que o consumidor faz uma escolha informada."
+        ]
+      }
+    },
+    {
+      "question": "De que forma o consumo consciente contribui para a sustentabilidade ambiental?",
+      "options": {
+        "A": "Evita exploração excessiva dos recursos do planeta.",
+        "B": "Promove a compra de produtos em grandes quantidades para reduzir o desperdício.",
+        "C": "Incentiva o uso de transporte público para diminuir a pegada de carbono.",
+        "D": "Fomenta a reciclagem de todos os resíduos domésticos."
+      },
+      "hint": "Relaciona consumo e preservação ambiental.",
+      "rationale": "O consumo consciente contribui para a sustentabilidade ambiental ao evitar a exploração excessiva dos recursos do planeta.",
+      "tag": "Consumo consciente",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Consumo consciente' e avalia claramente o conhecimento que esse tópico pretende abordar."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes e bem fundamentadas pelo conteúdo-fonte, que discute a relação entre consumo consciente e sustentabilidade."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de consumo consciente, mas a opção B apresenta uma interpretação que pode ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica para ajudar a direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte sobre a exploração de recursos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.2,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem os termos técnicos, mas acho que comprar mais de uma vez só é bom porque assim não se deita nada fora. É como quando compramos a granel, parece que é mais prático e evita que tenhamos que ir às compras tantas vezes.",
+          "Eu acho que comprar mais de uma vez pode fazer com que não se desperdice tanto, porque se comprarmos só uma coisa, às vezes não dá para usar e vai tudo fora. Não percebo bem as opções todas, mas parece que assim não se estraga tanto.",
+          "Eu escolhi a opção C porque acho que comprar mais de uma vez ajuda a não desperdiçar. Não conheço bem os termos técnicos, mas parece que se comprarmos tudo de uma vez, não precisamos de ir ao supermercado tantas vezes, o que parece melhor para o ambiente.",
+          "Penso que comprar em grandes quantidades é uma boa ideia porque assim não se deita tanto fora. Não conheço bem os termos, mas parece-me que comprar mais de uma vez só é uma maneira de evitar desperdício.",
+          "Acho que consumir em grandes quantidades é uma boa ideia para não deitar nada fora. Não percebo bem o que é 'sustentabilidade' ou 'pegada de carbono', mas se comprar mais de uma vez só, parece que estou a fazer menos lixo.",
+          "Acho que comprar em grandes quantidades é uma boa ideia porque assim não se desperdiça tanto. Não percebo bem os termos técnicos, mas parece que isso ajuda a não gastar tanto e a ter menos lixo.",
+          "Eu escolhi esta opção porque acho que comprar coisas em grandes quantidades é uma boa ideia para não se deitar nada fora. Não conheço bem os termos que falam sobre ambiente, mas parece que assim ajudamos a não gastar tanto e a evitar o desperdício.",
+          "Eu não entendo bem os termos usados, mas parece que comprar mais de uma vez só ajuda a não deitar coisas fora. Assim, não estou a pensar em reciclar ou no transporte, apenas em evitar o desperdício.",
+          "Acho que comprar mais de uma vez ajuda a não precisar de ir às compras tantas vezes, assim não se perde tanto. Não conheço bem os termos, mas parece que se comprar tudo de uma vez, é mais fácil e menos desperdício.",
+          "Eu não percebo muito bem os termos usados, mas parece que comprar mais de uma vez só é uma boa ideia para não deitar coisas fora. Então, escolhi a opção A porque parece que vai ajudar a não ter tanto desperdício."
+        ],
+        "Médio": [
+          "Eu penso que a melhor resposta é a A, porque parece que comprar em grandes quantidades faz menos lixo. Mas não tenho certeza se isso é o que eles chamam de consumo consciente, só sei que se compra menos, talvez se deite menos fora.",
+          "Acho que comprar mais de uma vez só é bom porque assim não se perde tanto, mas não sei se ajuda a natureza. Não entendo bem o que é sustentabilidade, mas o desperdício parece ser um problema.",
+          "Acho que comprar em grandes quantidades é uma boa ideia porque assim não se desperdiça. Não conheço muito sobre os outros termos, mas parece que comprar mais é melhor para o ambiente.",
+          "Acho que consumir mais em quantidade é uma maneira de evitar desperdício, mesmo que não perceba bem como isso ajuda ao ambiente. Não conheço bem os outros termos como 'pegada de carbono' ou 'reciclagem', então fico com a opção que parece mais lógica para mim.",
+          "Acho que comprar mais de uma vez ajuda a não se perder comida ou coisas que usamos. Não sei bem o que é a pegada de carbono ou reciclagem, mas parece que comprar muito é bom para não deitar fora.",
+          "Acho que consumir de forma consciente significa usar o que temos sem exagerar. Não conheço bem os termos, mas parece que fazer isso ajuda a não gastar tudo o que o planeta nos dá.",
+          "Eu acho que comprar em grandes quantidades ajuda a não deitar fora coisas e assim estamos a ser mais conscientes. Não entendo muito bem os outros termos, mas isso parece fazer sentido para evitar desperdício.",
+          "Acho que o consumo consciente é sobre não gastar tudo e não usar os recursos todos de uma vez. Não sei bem o que significa 'pegada de carbono' ou 'reciclagem de resíduos', mas parece que a opção A fala de usar menos coisas do planeta, que é importante.",
+          "Eu acho que comprar mais produtos de uma vez é uma boa ideia porque assim não se perde nada e parece que ajuda a não desperdiçar. Não conheço bem as outras opções, mas isso de comprar em grandes quantidades parece fazer sentido para não deixar as coisas estragarem.",
+          "Acho que comprar mais de uma vez só faz sentido para não desperdiçar. Não tenho certeza sobre os outros termos, mas parece que isso ajudaria a não deitar coisas fora."
+        ],
+        "Alto": [
+          "A opção A reflete de forma precisa como o consumo consciente atua na sustentabilidade ambiental, evitando a exploração excessiva dos recursos naturais, o que é fundamental para a preservação do meio ambiente. Reconheço que o consumo responsável é um pilar da sustentabilidade, pois minimiza a pressão sobre os recursos finitos do planeta.",
+          "A opção C é a mais correta porque o consumo consciente implica uma utilização responsável e moderada dos recursos naturais, evitando a sua exploração excessiva. Reconheço que a exploração sustentável é um conceito chave na discussão sobre sustentabilidade ambiental, e esta opção reflete diretamente essa ideia.",
+          "A opção D é a mais correta porque o consumo consciente implica uma utilização responsável e moderada dos recursos naturais, evitando a sobrecarga do meio ambiente e assegurando a sua preservação para as gerações futuras. Os termos usados, como 'exploração excessiva', refletem a necessidade de equilibrar o consumo com a capacidade de regeneração dos recursos do planeta.",
+          "A opção C é a mais correta, pois o consumo consciente implica uma utilização responsável e moderada dos recursos disponíveis, prevenindo a exploração excessiva e promovendo a sustentabilidade a longo prazo. Reconheço os termos usados, como 'exploração excessiva', que se relacionam diretamente com a gestão responsável dos recursos naturais e a necessidade de equilibrar consumo e conservação.",
+          "A opção B é a mais correta, pois o consumo consciente implica uma gestão prudente e responsável dos recursos, evitando a exploração excessiva e promovendo a sustentabilidade. Reconheço os termos utilizados, como 'exploração excessiva', que se relaciona diretamente com a necessidade de preservar os recursos naturais para as futuras gerações.",
+          "O consumo consciente está intimamente ligado à minimização da exploração dos recursos naturais, promovendo uma utilização mais responsável e sustentável. Reconheço a importância de evitar a sobreexploitação, pois isso é essencial para manter o equilíbrio ecológico e garantir que os recursos estejam disponíveis para as gerações futuras.",
+          "A opção B é a mais correta, pois o consumo consciente implica uma utilização responsável e moderada dos recursos naturais, evitando a exploração excessiva e promovendo a sustentabilidade a longo prazo. Reconheço os termos utilizados, como 'exploração excessiva', que se relaciona diretamente com a gestão sustentável dos recursos do planeta.",
+          "A opção D é a mais correta, pois o consumo consciente visa a utilização responsável e moderada dos recursos naturais, evitando a sua exploração excessiva e promovendo a sustentabilidade ambiental. Reconheço a importância de termos como 'exploração dos recursos' e 'sustentabilidade', que são fundamentais para entender a relação entre comportamentos de consumo e o impacto ambiental.",
+          "O consumo consciente é fundamental para a sustentabilidade ambiental, pois implica uma utilização responsável e equilibrada dos recursos naturais, evitando a exploração excessiva que pode levar ao esgotamento e degradação ambiental. Reconheço os termos usados, como 'exploração excessiva' e 'sustentabilidade', que são cruciais para a compreensão das interações entre consumo e meio ambiente.",
+          "A opção D é a mais correta, pois o consumo consciente promove a utilização responsável dos recursos naturais, evitando a sobreexploração e garantindo a sua sustentabilidade a longo prazo. Reconheço que os termos usados refletem a necessidade de equilibrar o consumo e a preservação ambiental, um conceito central na discussão sobre sustentabilidade."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 5,
+    "topic_grounding": 5,
+    "answer_exclusivity": 5,
+    "distractor_quality": 4,
+    "hint_quality": 4.2,
+    "rationale_quality": 4.8,
+    "tag_diversity": 0.8,
+    "overall_score": 4.67
+  }
+}

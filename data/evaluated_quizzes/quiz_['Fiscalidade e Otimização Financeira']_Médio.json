@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Fiscalidade e Otimização Financeira"
+  ],
+  "fin_lit_level": "Médio",
+  "question_results": [
+    {
+      "question": "Qual é a importância de validar as faturas no portal e-fatura até 25 de fevereiro?",
+      "options": {
+        "A": "Apenas faturas com NIF são consideradas para deduções.",
+        "B": "Faturas sem NIF também são consideradas para deduções.",
+        "C": "Apenas faturas de valor superior a 100€ são consideradas para deduções.",
+        "D": "Faturas com NIF são consideradas apenas para deduções de IVA."
+      },
+      "hint": "Relaciona-se com deduções fiscais no IRS.",
+      "rationale": "Validar as faturas no portal e-fatura garante que as despesas são consideradas para deduções no IRS, desde que estejam associadas ao NIF do contribuinte.",
+      "tag": "Impostos pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Impostos pessoais' e avalia o conhecimento sobre a validação de faturas no contexto do IRS, que é o foco do conteúdo-fonte."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de validar faturas no portal e-fatura para deduções fiscais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de deduções fiscais, mas a opção C poderia ser considerada menos relevante, pois não é uma prática comum associar um valor mínimo para deduções."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil ao relacionar a pergunta com deduções fiscais, mas poderia ser mais específica sobre a validação de faturas."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de associar faturas ao NIF para deduções no IRS."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo bem o que é NIF, mas acho que é importante ter alguma informação nas faturas para conseguir deduzir. Portanto, parece-me que as faturas precisam ter isso para serem úteis.",
+          "Não percebo bem os termos, mas penso que se as faturas sem NIF também podem ser usadas para deduções, isso é bom. Sempre ouvi que é importante guardar as faturas, então acho que todas contam, não só as que têm NIF.",
+          "Não percebo bem os termos, mas parece que só as faturas com NIF são válidas para deduções. Acho que o NIF é tipo um número que identifica as faturas, por isso só essas é que contam.",
+          "Eu acho que faturas sem NIF também contam para alguma coisa, porque às vezes as pessoas não têm o NIF e ainda assim podem precisar de deduzir. Não reconheço bem esses termos técnicos, mas na minha cabeça, se alguém fez uma compra, deveria poder usar isso para deduzir, mesmo sem NIF.",
+          "Acho que é importante ter o NIF nas faturas para que possam contar para o que quer que seja que temos de fazer. Não entendo muito bem sobre deduções ou IVA, mas parece que sem NIF não vale a pena validar as faturas.",
+          "Acho que faturas com NIF são importantes porque é assim que a gente consegue fazer as deduções, mas não sei bem o que é esse NIF. Só sei que se não tiver, pode ser que não sirva para nada.",
+          "Eu não conheço bem esses termos técnicos, mas parece que as faturas precisam de ter o NIF para serem válidas. Então, escolhi a opção que diz que só faturas com NIF contam para deduções, porque isso faz sentido para mim.",
+          "Eu não percebo muito bem o que significa NIF e deduções, mas acho que se as faturas sem NIF também contam, é bom para quem não tem esse número. Não sei se é verdade, mas parece que é mais fácil assim.",
+          "Não percebo muito bem esses termos técnicos, mas acho que se as faturas não têm NIF, ainda assim podem contar para algumas deduções. É o que faz mais sentido para mim, já que às vezes as pessoas esquecem-se de colocar o NIF.",
+          "Não percebo bem o que são essas siglas e termos, mas parece que só as faturas que têm o meu número de identificação é que contam para algo. Portanto, escolhi a que diz que só as faturas com NIF importam."
+        ],
+        "Médio": [
+          "Eu acho que as faturas têm que ter um NIF para serem consideradas para deduções, porque normalmente é assim que as pessoas falam disso. Não entendo muito bem os outros termos, mas parece que se não tiver NIF, não conta.",
+          "Eu acho que é importante ter o NIF nas faturas para poder deduzir, mas não estou muito certo sobre os detalhes. Não sei bem o que significa IVA ou se as faturas têm que ter um valor específico, mas parece que o NIF é fundamental.",
+          "Eu acho que as faturas têm que ter um número de identificação fiscal (NIF) para que possamos usar para deduzir impostos ou algo assim. Não entendo muito bem todos os detalhes, mas parece que é importante ter o NIF nas faturas.",
+          "Eu acho que é importante ter o NIF nas faturas para que possam contar para as deduções, senão não servem. Não percebo muito bem o que são deduções e IVA, mas parece que sem NIF não dá para aproveitar as faturas.",
+          "Eu acho que as faturas precisam de ter o NIF para serem aceites, senão não servem para deduzir. Não conheço muito bem o e-fatura, mas parece que é importante validar as faturas para não perder dinheiro no IRS.",
+          "Eu acho que as faturas têm que ter o NIF para serem aceites, porque é o que normalmente se diz. Não estou muito a par de todos os detalhes, mas parece-me que sem o NIF não conta.",
+          "Acho que as faturas precisam ter o NIF para serem válidas e poderem ser usadas nas deduções. Não entendo muito bem as outras opções, mas parece que só as faturas com NIF contam mesmo.",
+          "Acho que só as faturas que têm NIF é que contam para deduzir, porque é isso que costumo ouvir. Não entendo muito bem os outros termos e regras, mas parece que o NIF é importante.",
+          "Acho que todas as faturas contam, mesmo que não tenham NIF. Não percebo bem o que é NIF, mas parece que é só um número e não deve ser tão importante. Para mim, o importante é ter as faturas para fazer deduções.",
+          "Penso que as faturas com NIF são importantes porque é assim que conseguimos fazer deduções. Não conheço bem os outros termos, mas parece-me que se não tiver NIF, não conta."
+        ],
+        "Alto": [
+          "A dedução de despesas no IRS em Portugal depende da inserção do Número de Identificação Fiscal (NIF) nas faturas. Apenas as faturas que contêm o NIF do contribuinte são aceitas para efeitos de dedução, seguindo as normas da Autoridade Tributária, portanto, a opção C é a mais correta.",
+          "A validação de faturas no portal e-fatura até 25 de fevereiro é crucial, pois apenas as faturas que contêm o Número de Identificação Fiscal (NIF) do contribuinte são elegíveis para deduções no IRS. Reconheço que a dedução fiscal está diretamente ligada à apresentação correta do NIF nas faturas, o que é fundamental para o cálculo correto do imposto a pagar.",
+          "A opção A é a mais correta, pois apenas faturas que contenham o Número de Identificação Fiscal (NIF) do contribuinte são aceites para deduções no IRS. Esta validação é crucial para garantir que as despesas elegíveis sejam contabilizadas corretamente nas declarações de impostos, o que é um conceito bem conhecido na literacia financeira.",
+          "A validação das faturas no portal e-fatura é crucial porque apenas as faturas que contêm o Número de Identificação Fiscal (NIF) do contribuinte são elegíveis para deduções fiscais, como as do IRS. Assim, a opção C é a única correta, pois sem o NIF, as faturas não são reconhecidas para efeitos de dedução.",
+          "A validação das faturas no portal e-fatura é crucial para garantir que apenas faturas que incluam o Número de Identificação Fiscal (NIF) do contribuinte sejam aceites para deduções no IRS. Faturas sem NIF não são válidas para este efeito, e isso é fundamental para o correto aproveitamento das deduções fiscais.",
+          "A opção A é a mais correta, pois para que as faturas sejam consideradas nas deduções fiscais em Portugal, é necessário que contenham o Número de Identificação Fiscal (NIF) do contribuinte. As faturas sem NIF não podem ser usadas para deduzir despesas no IRS, o que torna a validação no portal e-fatura fundamental para garantir que todas as deduções possíveis sejam aproveitadas.",
+          "A opção B é a mais correta porque, para efeitos de dedução no IRS, apenas as faturas que contêm o Número de Identificação Fiscal (NIF) do contribuinte são válidas. Reconheço a importância de validar as faturas até 25 de fevereiro, pois este é o prazo para assegurar que as despesas consideradas para dedução estão corretamente reportadas e associadas ao meu NIF.",
+          "A validação das faturas no portal e-fatura até 25 de fevereiro é crucial, pois apenas as faturas que contêm o Número de Identificação Fiscal (NIF) do contribuinte são elegíveis para deduções no IRS. Esta opção é a mais correta, uma vez que faturas sem NIF não são aceitas para esse fim, o que pode impactar significativamente o valor a ser deduzido no imposto.",
+          "A opção B é a mais correta porque, para efeitos de dedução no IRS, apenas as faturas com Número de Identificação Fiscal (NIF) do contribuinte são aceites. As outras opções contêm informações incorretas sobre o valor e a necessidade do NIF.",
+          "A validação das faturas no portal e-fatura até 25 de fevereiro é crucial porque apenas as faturas que contêm o Número de Identificação Fiscal (NIF) do contribuinte são elegíveis para deduções fiscais no IRS. Isso é vital para garantir que as despesas sejam corretamente consideradas na declaração de impostos, maximizando assim as deduções e reduzindo a carga tributária."
+        ]
+      }
+    },
+    {
+      "question": "Como podem as famílias monoparentais maximizar as suas deduções no IRS?",
+      "options": {
+        "A": "Têm direito a 45% de dedução até 335 euros.",
+        "B": "Podem deduzir até 50% das despesas de educação.",
+        "C": "Têm direito a uma dedução fixa de 500 euros.",
+        "D": "Podem deduzir 30% das despesas de saúde sem limite."
+      },
+      "hint": "Foca-se em deduções específicas para famílias monoparentais.",
+      "rationale": "As famílias monoparentais beneficiam de uma dedução específica de 45% até um máximo de 335 euros, o que pode ajudar a reduzir a carga fiscal.",
+      "tag": "IRS e deduções",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico 'IRS e deduções', pois aborda diretamente como as famílias monoparentais podem maximizar suas deduções fiscais."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona deduções específicas para famílias monoparentais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados ao tema, mas algumas opções podem não ser tão relevantes ou precisas em relação ao conteúdo-fonte."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e direciona o raciocínio para o tema das deduções específicas, mas poderia ser um pouco mais específica para ajudar na escolha da resposta correta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as deduções para famílias monoparentais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.1,
+        "Alto": 0.5
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem estas coisas de IRS e deduções. Mas parece que a opção C é mais simples e direta, então acho que é isso que as famílias monoparentais podem fazer, porque 500 euros parece um valor fixo que é fácil de lembrar.",
+          "Acho que as famílias monoparentais devem ter alguma ajuda no IRS, e 500 euros parece um valor razoável para deduzir. Não conheço bem os outros termos, mas essa dedução fixa soa simples e fácil de entender.",
+          "Eu não percebo bem esses números e termos complicados, mas parece-me que se têm uma dedução fixa de 500 euros, é mais fácil de entender e parece bom para as famílias. É uma quantia que pode ajudar.",
+          "Eu não percebo muito de finanças e esses números todos confundem-me. Acho que a opção A parece a mais simples e direta, então acho que está certa.",
+          "Não percebo bem o que são deduções ou IRS, mas parece que a opção D fala de um valor fixo que é mais fácil de entender. Os outros termos parecem complicados e não sei o que significam.",
+          "Não percebo bem os termos técnicos e finanças, mas parece-me que ter uma dedução fixa de 500 euros é uma coisa boa para as famílias monoparentais. Se é uma dedução, significa que é algo que elas podem tirar de impostos, e isso ajuda, não é? Então escolhi a opção A porque parece simples.",
+          "Eu não percebo muito sobre IRS e deduções, mas achei que uma dedução fixa de 500 euros parecia algo que poderia ajudar. Não reconheço os outros termos e não sei se os percentuais ou limites fazem sentido.",
+          "Acho que a opção B é a mais simples e parece que faz sentido para as famílias. Não conheço bem os termos técnicos, mas deduzir uma quantia fixa parece mais fácil de entender do que porcentagens ou limites.",
+          "Não entendo bem estes números e porcentagens, mas parece que uma dedução fixa é mais simples de entender e pode ajudar as famílias a poupar algum dinheiro. Os outros termos soam muito complicados para mim.",
+          "Eu não entendo bem o que são deduções e como funcionam, mas parece-me que ter uma dedução fixa é algo que ajuda. A opção B é a que me parece mais simples e direta, por isso escolhi essa."
+        ],
+        "Médio": [
+          "Acho que famílias com só um pai ou mãe podem ter uma dedução fixa, mas não tenho certeza se é 500 euros. Os outros números parecem complicados e não sei se existem esses limites ou percentagens que falam.",
+          "Acho que as famílias monoparentais têm uma dedução fixa, e 500 euros parece um número que faz sentido. Não conheço bem os outros termos e porcentagens, então optei por esta opção que me parece mais simples e direta.",
+          "Acho que as famílias monoparentais têm uma dedução fixa, mas não sei se é 500 euros ou não. Não reconheço bem os outros números e percentagens, então escolhi a que me pareceu mais simples.",
+          "Eu acho que a opção C faz mais sentido porque parece simples e direta. Não conheço bem os detalhes das deduções no IRS, mas 500 euros parece uma quantia que se pode deduzir facilmente. As outras opções têm números e percentagens que não entendo muito bem.",
+          "Acho que as famílias monoparentais têm uma dedução específica, talvez um valor fixo, como 500 euros. Não conheço bem todos os detalhes, mas parece que isso é algo que as pessoas falam quando se fala de IRS.",
+          "Acho que as famílias monoparentais têm algumas deduções, e esta opção parece ter números que são fáceis de lembrar. Não sei bem o que significa 45% ou 335 euros exatamente, mas soa-me que é algo que as famílias podem aproveitar.",
+          "Eu acho que as famílias monoparentais têm direito a uma dedução fixa, talvez 500 euros, porque é mais simples e pode ajudar bastante. Não entendo bem os outros números e percentagens, mas esta parece mais clara.",
+          "Acho que as famílias monoparentais podem ter uma dedução fixa, mas não tenho a certeza de quanto é. Os outros números e percentagens parecem confusos e complicados para mim.",
+          "Eu não percebo muito bem essas deduções e percentagens, mas parece que 500 euros é uma boa quantia que se pode deduzir. Não tenho a certeza sobre os outros valores, mas este parece simples e direto.",
+          "Acho que as famílias monoparentais têm uma dedução fixa, mas não sei exatamente os valores. Os outros termos como 'percentagens' e 'limites' confundem-me um pouco."
+        ],
+        "Alto": [
+          "As famílias monoparentais podem beneficiar de deduções específicas, e a opção B refere-se à dedução de despesas de educação, que é de 45% até um limite de 335 euros. Esta informação é relevante para maximizar as deduções no IRS, ao contrário das outras opções que não refletem corretamente a legislação atual.",
+          "A opção B é a resposta correta, pois as famílias monoparentais têm direito a uma dedução fixa de 500 euros no IRS, conforme estipulado na legislação fiscal. As outras opções apresentam informações que não estão de acordo com a legislação vigente ou são imprecisas, como os limites de deduções.",
+          "As famílias monoparentais têm direito a uma dedução fixa de 500 euros no IRS, conforme estipulado na legislação fiscal portuguesa. Esta dedução é específica e reconhecida, o que a torna a opção mais correta entre as apresentadas.",
+          "A opção D é a mais correta, pois as famílias monoparentais têm direito a uma dedução fixa de 500 euros no IRS, o que é um benefício fiscal específico para aliviar a carga tributária. As outras opções apresentam informações incorretas ou limitadas que não refletem a legislação atual sobre deduções no IRS.",
+          "A opção D é a mais correta, pois refere-se à dedução específica que as famílias monoparentais podem aplicar no IRS, correspondente à dedução de 45% sobre o valor de 335 euros, que é uma prática reconhecida na legislação fiscal em Portugal. As outras opções contêm informações incorretas ou incompletas em relação às deduções disponíveis.",
+          "A opção C refere-se a uma dedução específica que as famílias monoparentais podem usufruir no IRS, relacionada com despesas de educação e que é relevante para maximizar deduções. Reconheço os termos e a importância das deduções fiscais, já que impactam diretamente a carga tributária e o planeamento financeiro pessoal.",
+          "A opção B refere-se à dedução por encargos familiares, que é aplicável a famílias monoparentais. Reconheço os termos usados, pois a dedução de 45% até ao limite de 335 euros é uma norma estabelecida no IRS que beneficia estas famílias, enquanto as outras opções apresentam informações incorretas ou mal interpretadas.",
+          "A opção B refere-se à dedução específica que se aplica a famílias monoparentais no contexto do IRS, onde efetivamente podem beneficiar de uma dedução à coleta. A dedução de 45% até 335 euros é um valor reconhecido na legislação fiscal, enquanto as outras opções apresentam informações incorretas ou não aplicáveis.",
+          "As famílias monoparentais têm direito a uma dedução fixa de 500 euros no IRS, conforme estabelecido na legislação fiscal portuguesa. Reconheço os termos utilizados, pois estão relacionados com as deduções específicas que visam apoiar estas famílias na sua carga fiscal.",
+          "As famílias monoparentais têm direito a uma dedução fixa de 500 euros no IRS, o que é um benefício específico que visa apoiar estas famílias. As outras opções apresentam informações incorretas ou mal interpretadas sobre as deduções no IRS."
+        ]
+      }
+    },
+    {
+      "question": "Em que situação jovens até 35 anos podem beneficiar de isenções no IMT?",
+      "options": {
+        "A": "Dependendo do valor do imóvel adquirido.",
+        "B": "Se o imóvel for adquirido em zonas urbanas.",
+        "C": "Se o imóvel for para habitação própria e permanente.",
+        "D": "Se o imóvel for adquirido com recurso a crédito bancário."
+      },
+      "hint": "Relaciona-se com benefícios para jovens na compra de imóveis.",
+      "rationale": "Jovens até 35 anos podem beneficiar de isenções no IMT e no Imposto de Selo, dependendo do valor do imóvel que adquirem.",
+      "tag": "IMI, IMT e IUC",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IMI, IMT e IUC', pois aborda as isenções no IMT para jovens até 35 anos, que é um aspecto relevante da fiscalidade imobiliária."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente as isenções de IMT para jovens com base no valor do imóvel."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, mas algumas opções, como B e D, não se relacionam diretamente com as isenções mencionadas, o que pode causar confusão."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre o tema das isenções para jovens, mas poderia ser mais específica em relação ao IMT."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as isenções de IMT para jovens."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.0,
+        "Alto": 0.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a isenção deve estar ligada ao fato de ser a casa onde a pessoa vai viver, porque isso parece fazer sentido. Não entendo muito sobre os outros termos, como valor do imóvel ou zonas urbanas, então fico com o que parece mais simples.",
+          "Penso que se for para viver lá, deve haver algum benefício, mas não conheço bem os detalhes. Os termos que usaram são confusos para mim.",
+          "Eu não percebo muito de finanças e termos complicados, mas parece que se o imóvel for para viver mesmo, pode ser que tenha isenção. Acredito que isso faça sentido, porque se é para a pessoa morar, deveria ser mais fácil.",
+          "Acho que a opção C faz sentido porque, na minha cabeça, se um jovem compra uma casa para viver nela, talvez possa ter alguns benefícios. Não entendo bem os termos como IMT ou as outras opções, mas parece lógico que quem vai morar na casa possa ter um desconto ou isenção.",
+          "Eu não conheço bem os termos e siglas, mas parece que se o imóvel é para viver e não para alugar, isso faz sentido para ter isenções. Acredito que se é para a nossa casa, deve haver alguma ajuda.",
+          "Parece que a opção A faz sentido, porque muitos jovens querem comprar casa para viver lá. Não percebo bem o que é IMT, mas se é para habitação própria, deve ser bom para jovens.",
+          "Eu acho que a isenção no IMT tem a ver com a compra de uma casa onde vamos viver, porque isso parece algo que faz sentido. Não conheço bem os termos técnicos e não sei o que significam todas as opções, mas parece que se for para viver é mais importante.",
+          "Eu não percebo bem o que é o IMT, mas parece que se for para viver mesmo na casa, pode ser que se pague menos. Isso faz sentido, porque é bom ter um lugar para morar.",
+          "Penso que a opção C faz sentido, porque se uma pessoa jovem compra uma casa para viver, pode ser que tenha algumas vantagens, como não pagar impostos. Não percebo bem os termos técnicos, mas parece que isso é bom para quem está a começar a ter uma casa própria.",
+          "Eu não percebo muito sobre essas coisas de impostos, mas parece que se for para viver lá, faz sentido não pagar. Afinal, se é para ser a casa própria, deve ter algum benefício, não é? Os outros termos são muito complicados para mim."
+        ],
+        "Médio": [
+          "Eu acho que pode ser assim, porque normalmente as pessoas que compram uma casa para viver têm algumas vantagens. Não reconheço muito bem os outros termos, mas isso parece fazer sentido para quem quer comprar uma casa.",
+          "Parece-me que a opção B faz sentido, porque é comum ouvir que quem compra casa para viver pode ter algumas vantagens. Não conheço bem essas isenções, mas é isso que me parece.",
+          "Acho que os jovens podem ter isenções no IMT se o imóvel for para viver mesmo, ou seja, a própria casa. Se for só um investimento ou para vender, não dá. Não entendo muito bem os outros termos, mas parece que esta é a situação mais básica.",
+          "Acho que a opção D faz sentido, porque normalmente as pessoas que compram casa para viver lá, especialmente os jovens, podem ter algumas vantagens. Não conheço bem os outros termos, mas parece que isso é comum.",
+          "Eu acho que jovens até 35 anos podem ter isenção no IMT se for para a casa onde vão viver. Isso parece fazer sentido, porque é importante ter um lugar para morar. Não conheço bem os outros termos, mas parece que a opção A é a mais lógica.",
+          "Eu acho que a opção C faz sentido porque, se um jovem compra uma casa para viver lá, pode ter alguma ajuda com impostos. Não conheço bem os termos como IMT, mas parece que é algo relacionado a impostos na compra de casa.",
+          "Acho que se é para viver, dá para ter algumas isenções. Não percebo muito de impostos, mas parece que é assim que funciona. Os outros pontos parecem mais complicados e não sei bem o que significam.",
+          "Acho que os jovens podem ter isenção no IMT se for para a casa onde vão viver, porque é isso que faz sentido, não é? Não estou muito certo sobre os outros termos, como o crédito e zonas urbanas.",
+          "Acho que os jovens podem ter isenções se compram uma casa para viver, porque é isso que a maioria das pessoas quer. Não entendo bem os outros termos, mas 'habitação própria e permanente' parece ser algo que faz sentido para quem está a comprar uma casa.",
+          "Acho que é se for para viver lá, tipo a casa onde vou morar. Não sei bem o que é IMT, mas parece que se for para a minha casa pode ter algumas vantagens. As outras opções parecem confusas."
+        ],
+        "Alto": [
+          "A isenção do Imposto Municipal sobre Transações Imobiliárias (IMT) para jovens até 35 anos aplica-se especificamente quando o imóvel adquirido é destinado a habitação própria e permanente. Este conceito é bem reconhecido no contexto fiscal português, e é importante mencionar que existem também limites de valor que podem influenciar a isenção, mas a condição primordial é a destinação do imóvel.",
+          "A opção C é a mais correta, pois, de acordo com a legislação em vigor, os jovens até 35 anos podem beneficiar de isenções no IMT quando o imóvel adquirido se destina a habitação própria e permanente. Esta condição é fundamental para o acesso à isenção, ao contrário das outras opções que não estão diretamente relacionadas com esta particularidade.",
+          "Os jovens até 35 anos podem beneficiar de isenções no Imposto Municipal sobre Transmissões Onerosas de Imóveis (IMT) quando adquirirem um imóvel que se destine a habitação própria e permanente. Esta isenção está associada à política de incentivo à compra de casa por jovens, visando facilitar o acesso à habitação.",
+          "A isenção do IMT para jovens até 35 anos está ligada à aquisição de imóveis que serão utilizados como habitação própria e permanente. Esta opção é a mais correta porque se alinha com a legislação vigente que promove o acesso à habitação, ao contrário das outras opções que não são requisitos diretos para a isenção.",
+          "A opção C é a mais correta, pois a isenção do IMT (Imposto Municipal sobre Transmissões Onerosas de Imóveis) para jovens até 35 anos aplica-se especificamente quando o imóvel adquirido se destina a habitação própria e permanente. Reconheço os termos usados, uma vez que a legislação portuguesa prevê condições específicas para essa isenção, e o critério da habitação própria é um dos mais relevantes.",
+          "A opção D é a mais correta, pois a isenção de IMT para jovens até 35 anos está condicionada à aquisição de imóvel para habitação própria e permanente. Reconheço os termos utilizados, como 'isenções no IMT' e 'habitação própria e permanente', que são fundamentais na legislação fiscal portuguesa e influenciam diretamente a decisão de compra de imóveis.",
+          "Os jovens até 35 anos podem beneficiar de isenções no IMT quando o imóvel adquirido se destina a habitação própria e permanente, uma medida destinada a incentivar a estabilidade habitacional. Reconheço a relevância desta condição, pois está diretamente relacionada com a política habitacional em Portugal e os objetivos de facilitar o acesso à habitação para os jovens.",
+          "A opção D é a correta, pois a isenção de IMT para jovens até 35 anos aplica-se especificamente a imóveis que sejam adquiridos para habitação própria e permanente, conforme estipulado na legislação portuguesa. Reconheço os termos usados, como 'habitação própria e permanente', que são conceitos fundamentais na legislação fiscal e imobiliária em Portugal.",
+          "A opção A é a mais correta, pois a isenção do IMT para jovens até 35 anos é aplicável quando o imóvel adquirido é destinado à habitação própria e permanente. As outras opções não refletem as condições específicas para a isenção do IMT, como o valor do imóvel ou a forma de aquisição.",
+          "A opção D é a mais correta, pois jovens até 35 anos podem beneficiar de isenções no IMT (Imposto Municipal sobre Transmissões Onerosas de Imóveis) se o imóvel adquirido for destinado a habitação própria e permanente. Este benefício é uma medida de política habitacional para apoiar a juventude na aquisição de casa própria, o que está em conformidade com as normas fiscais em vigor em Portugal."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a percentagem de IVA que pode ser deduzida em passes sociais de transportes públicos?",
+      "options": {
+        "A": "100% do IVA pode ser deduzido.",
+        "B": "50% do IVA pode ser deduzido.",
+        "C": "O IVA não pode ser deduzido em passes sociais.",
+        "D": "75% do IVA pode ser deduzido."
+      },
+      "hint": "Este benefício está relacionado com o transporte público.",
+      "rationale": "O IVA em passes sociais de transportes públicos pode ser deduzido a 100%, desde que o NIF esteja registado nas faturas.",
+      "tag": "IVA",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'IVA' e avalia o conhecimento sobre a dedução do IVA em passes sociais de transportes públicos, que é um aspecto específico do tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente que o IVA em passes sociais de transportes públicos é dedutível a 100%."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis, mas a opção B (50%) e a opção D (75%) não são alternativas realistas, pois a dedução é claramente especificada como 100%."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio do participante, mas poderia ser mais específica sobre a dedução do IVA em passes sociais."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a dedução do IVA em passes sociais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.0,
+        "Alto": 0.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem sobre essas coisas de IVA e deduções. Para mim, parece que as pessoas não conseguem recuperar o que pagam nos passes sociais, então escolhi que o IVA não pode ser deduzido.",
+          "Eu não percebo muito sobre esses termos de IVA e dedução. Mas parece-me que passes sociais são para ajudar as pessoas a andar de transporte público, então não faz sentido que se possa deduzir um imposto. Portanto, acho que o IVA não pode ser deduzido.",
+          "Não percebo bem o que é o IVA e como é que isso se aplica a passes sociais. Mas acho que, na prática, ninguém consegue deduzir nada, então vou pela opção que diz que não pode ser deduzido.",
+          "Eu não percebo muito sobre IVA e deduções, mas acho que passes sociais são como bilhetes que pagamos e não dá para tirar nada de volta. Então, parece que a opção B faz mais sentido para mim.",
+          "Não percebo muito sobre IVA e deduções, mas acho que passes sociais são algo que pagamos e não conseguimos tirar dinheiro de volta, por isso acho que não dá para deduzir nada.",
+          "Não percebo muito bem sobre IVA e deduções, mas parece que em passes sociais não se pode deduzir nada. Então, escolhi a opção que diz que o IVA não pode ser deduzido.",
+          "Eu não entendo muito sobre IVA e deduções, mas parece-me que passes sociais são algo que pagamos e não vejo como poderíamos recuperar esse dinheiro. Então, escolhi a opção A.",
+          "Eu não percebo muito sobre esses impostos e deduções, mas acho que passes sociais são para as pessoas usarem e não sei se se pode descontar alguma coisa disso. A opção B parece mais simples.",
+          "Não percebo muito sobre IVA ou deduções, mas a ideia que tenho é que passes sociais são para ajudar as pessoas a usar transportes, por isso pode não fazer sentido deduzir IVA nisso.",
+          "Eu não percebo muito sobre IVA e deduções, mas acho que passes sociais são para ajudar as pessoas a viajar e, por isso, não deve haver IVA a ser deduzido. Não conheço bem esses termos que usaram."
+        ],
+        "Médio": [
+          "Eu não sei muito sobre IVA e deduções, mas parece-me que passes sociais são para ajudar as pessoas a usar transporte, por isso não devem ter dedução. Não reconheço bem esses termos de porcentagens.",
+          "Eu não percebo muito sobre IVA e deduções, mas sei que os passes sociais são coisas que as pessoas compram para usar transportes e, pelo que ouvi, não se pode deduzir IVA neles. Portanto, parece que a resposta certa é que o IVA não pode ser deduzido.",
+          "Eu não sei muito sobre IVA e deduções, mas acho que os passes sociais são feitos para as pessoas usarem e não para deduzir impostos. Portanto, escolhi que o IVA não pode ser deduzido.",
+          "Eu não sei muito sobre IVA e deduções, mas parece-me que passes sociais são para ajudar as pessoas a viajar e não devem ter IVA que se possa deduzir. Não reconheço bem os outros valores e percentagens.",
+          "Eu não sei muito sobre IVA e deduções, mas acho que passes sociais são para ajudar as pessoas a deslocarem-se, então talvez não se possa deduzir nada. Não reconheço bem os termos, por isso escolhi a opção que parece mais lógica.",
+          "Acho que o IVA não pode ser deduzido em passes sociais porque não estou muito a par dessas coisas e parece-me que são despesas que não se podem deduzir. Não reconheço bem os outros percentuais e não sei como funciona isso ao certo.",
+          "Acho que passes sociais são algo que não dá para deduzir IVA, porque normalmente é para as pessoas usarem e não para serem usados em negócios. Não estou muito a par de todos os detalhes, mas parece-me que é assim.",
+          "Eu não sei muito sobre IVA e deduções, mas pelo que ouvi, parece que em passes sociais não dá para deduzir nada. Não reconheço bem os termos, mas acho que é assim.",
+          "Eu não percebo muito sobre impostos e deduções, mas parece-me que quando falamos de passes sociais, o IVA não se pode deduzir. Não conheço bem as regras, mas é o que me parece.",
+          "Eu não percebo muito bem sobre impostos e deduções. Mas acho que, como são passes sociais, é melhor pensar que não se pode deduzir nada deles."
+        ],
+        "Alto": [
+          "Em Portugal, os passes sociais de transportes públicos estão isentos de IVA, portanto, não é possível deduzir nenhum montante de IVA sobre esses passes. A terminologia utilizada está correta, uma vez que a dedução de IVA é um conceito relevante na contabilidade e na gestão de despesas.",
+          "De acordo com a legislação fiscal em Portugal, o IVA relativo a passes sociais de transportes públicos não é dedutível. Este conceito é bem conhecido no âmbito da literacia financeira, pois relaciona-se diretamente com a categoria de despesas não dedutíveis para efeitos fiscais.",
+          "De acordo com a legislação fiscal em Portugal, os passes sociais de transportes públicos não permitem a dedução do IVA. Portanto, a opção A é a correta, pois reflete precisamente a realidade legal em relação ao tratamento fiscal destes passes.",
+          "De acordo com a legislação em vigor em Portugal, os passes sociais de transportes públicos não permitem a dedução do IVA. Essa informação é clara e reconhecida, pois o IVA dedutível está geralmente relacionado com despesas que geram rendimento, e os passes sociais não se enquadram nessa categoria.",
+          "De acordo com a legislação fiscal em vigor em Portugal, os passes sociais de transportes públicos não permitem a dedução do IVA. Esta informação é consistente com as regras gerais sobre a dedutibilidade do IVA em diversas despesas, especialmente em serviços públicos essenciais.",
+          "A dedução do IVA em passes sociais de transportes públicos não é permitida, uma vez que estes não são considerados despesas dedutíveis para o efeito da legislação fiscal em vigor em Portugal. O conceito de dedução de IVA aplica-se a despesas que estão diretamente relacionadas com a atividade económica do contribuinte, o que não é o caso dos passes sociais.",
+          "De acordo com a legislação fiscal em vigor em Portugal, o IVA dos passes sociais de transportes públicos não é dedutível. Esta informação é consistente com as normas que regulam a dedução do IVA em despesas relacionadas com transportes públicos, onde na maioria dos casos não é permitida a dedução do imposto.",
+          "Em Portugal, os passes sociais de transportes públicos estão isentos de IVA, o que significa que o IVA não pode ser deduzido. Reconheço os termos utilizados, uma vez que a dedução de IVA é um conceito relevante na gestão de despesas e impostos, e a isenção aplica-se a este tipo específico de serviço público.",
+          "De acordo com a legislação em vigor em Portugal, os passes sociais de transportes públicos não são dedutíveis em IVA, pois este tipo de despesas não se enquadra nas categorias que permitem a dedução do imposto. Portanto, a opção C é a mais correta.",
+          "De acordo com a legislação fiscal em Portugal, os passes sociais de transportes públicos não são elegíveis para dedução do IVA, uma vez que se tratam de serviços essenciais e o regime de dedução do IVA não se aplica a estes casos. Reconheço os termos usados e a sua relevância na área da fiscalidade."
+        ]
+      }
+    },
+    {
+      "question": "Que dedução máxima pode obter uma pessoa de 30 anos ao investir 2.000€ num PPR?",
+      "options": {
+        "A": "400€ de dedução máxima.",
+        "B": "500€ de dedução máxima.",
+        "C": "300€ de dedução máxima.",
+        "D": "350€ de dedução máxima."
+      },
+      "hint": "Envolve deduções fiscais associadas a PPRs para jovens.",
+      "rationale": "Investir em PPRs oferece deduções fiscais, e para pessoas até aos 35 anos, a dedução máxima é de 400€ para um investimento de 2.000€.",
+      "tag": "Otimização fiscal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de 'Otimização fiscal', pois aborda deduções fiscais associadas a investimentos em PPRs, que é um aspecto relevante da fiscalidade."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona deduções fiscais para investimentos em PPRs e a quantia máxima que pode ser deduzida."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de deduções fiscais, mas poderiam ser melhor fundamentados com dados específicos sobre deduções em PPRs."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o tema das deduções fiscais associadas a PPRs, mas poderia ser mais específica para ajudar a direcionar o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre deduções fiscais para PPRs."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.3,
+        "Alto": 0.6
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não conheço bem esses termos e não sei como funciona isso dos PPR, mas acho que 350€ parece razoável. No geral, é difícil para mim entender tudo isso, então escolhi uma opção que soa familiar.",
+          "Não conheço bem como funcionam essas deduções e investimento em PPR, mas 400€ parece uma quantia razoável. Como não entendo bem os termos complicados, escolhi a opção que mais me pareceu. Afinal, deduzir é algo positivo, certo?",
+          "Não conheço muito sobre esses investimentos e deduções, mas 400€ parece um valor razoável que alguém pode conseguir. A verdade é que não sei bem o que significa PPR e dedução, então só estou a adivinhar com base no que parece mais alto.",
+          "Não percebo bem o que é um PPR ou essa dedução, mas 400€ parece ser um bom valor e é mais do que as outras opções. Acho que é melhor escolher a opção maior, porque assim posso ganhar mais.",
+          "Não sei muito sobre isso, mas parece que 400€ é um número que soa bem e é fácil de lembrar. Não percebo muito de investimentos e essas siglas todas, mas acho que é bom ter uma dedução ao investir.",
+          "Eu não entendo muito sobre esses termos técnicos, mas 'dedução máxima' parece ser uma coisa boa. Eu escolhi 350€ porque parece um bom valor, mas não tenho certeza do que isso significa exatamente.",
+          "Eu não percebo muito bem dessas coisas de finanças e deduções. Mas parece que 300€ é um valor que faz sentido e é um número que eu consigo imaginar, então escolhi essa opção.",
+          "Não tenho certeza do que é um PPR e não conheço bem os detalhes sobre deduções. Mas, entre as opções, 300€ parece um valor razoável e mais fácil de lembrar.",
+          "Eu não sei muito sobre esses termos todos, mas acho que 400€ soa como uma boa quantia. Nunca ouvi falar de deduções máximas antes, então escolhi o que me pareceu mais alto, porque pode ser melhor.",
+          "Eu não percebo muito de finanças e esses termos são confusos para mim. Mas, como há muitas opções, escolhi a que parece ser a maior, pois talvez signifique que dá mais benefícios."
+        ],
+        "Médio": [
+          "Eu não sei muito bem sobre esses PPR e deduções, mas o valor mais baixo parece mais certo. 300€ parece ser uma quantia razoável para deduzir, não sei se é a certa, mas é o que eu penso.",
+          "Eu sei que ao investir num PPR, dá para ter uma dedução no IRS, mas não sei bem os valores. Acho que 400€ parece uma boa quantia, porque é um número redondo e fácil de lembrar. Não tenho certeza sobre os outros valores, então escolhi este.",
+          "Acho que a dedução máxima é 400€, porque parece um valor mais alto e pode ser o que se costuma ouvir. Não conheço bem os detalhes sobre PPR e deduções, mas 400€ parece uma boa quantia.",
+          "Acho que a dedução máxima é 500€, porque parece ser um valor que se fala muito. Não estou muito a par de todos os detalhes, mas parece que é assim que funciona com PPRs.",
+          "Acho que a dedução máxima é 400€, porque parece ser um valor que se ouve falar quando se fala de PPR. Não conheço bem os termos e não sei se 400€ é realmente o máximo, mas parece que é uma boa quantia para investir.",
+          "Acho que quando se fala de deduções em investimentos, um valor que me parece razoável é 300€. Não estou muito certo sobre as regras, mas parece-me que é um valor que se pode esperar. Não reconheço bem todos os termos, mas dedução é algo que se pode conseguir ao investir.",
+          "Eu não tenho a certeza, mas parece-me que 300€ é uma quantia que pode ser deduzida. Não conheço bem os detalhes sobre PPR, mas parece que é uma forma de poupança para o futuro, então talvez tenha a ver com isso. As outras opções parecem muito altas ou complicadas para mim.",
+          "Acho que a dedução máxima é 500€, porque parece ser um valor comum que se fala sobre PPRs. Não sei muito sobre os detalhes, mas 500€ parece um bom número.",
+          "Acho que 350€ parece uma quantia razoável para dedução, porque 2.000€ não é um valor muito alto. Não conheço bem os detalhes sobre PPR e deduções, mas é o que me parece mais certo.",
+          "Eu não conheço muito bem sobre estes investimentos, mas 350€ parece uma quantia razoável para dedução. Não tenho certeza sobre os detalhes, mas não consigo imaginar que seja mais do que isso."
+        ],
+        "Alto": [
+          "A dedução máxima que uma pessoa com 30 anos pode obter ao investir num PPR é de 350€, conforme estabelecido na legislação portuguesa sobre deduções de IRS. Reconheço os termos usados, pois estão diretamente relacionados com benefícios fiscais aplicáveis a Planos Poupança Reforma.",
+          "De acordo com as regras fiscais em Portugal, uma pessoa com 30 anos pode deduzir até 400€ no IRS ao investir em Planos de Poupança Reforma (PPR), uma vez que o limite de dedução aumenta com a idade e a dedução máxima para pessoas até 35 anos é de 400€. Reconheço os termos utilizados, pois estão relacionados com a legislação fiscal e incentivos à poupança para a reforma.",
+          "A dedução máxima que uma pessoa pode obter ao investir em um PPR (Plano Poupança Reforma) depende da sua idade e do montante investido. Para uma pessoa com 30 anos, a dedução máxima é de 400€, conforme estipulado pela legislação fiscal em vigor em Portugal. Reconheço os termos usados, pois a dedução em sede de IRS é um conceito importante na literacia financeira, e a quantia máxima é um dado concreto que deve ser considerado ao planear investimentos em PPR.",
+          "A dedução máxima que uma pessoa de 30 anos pode obter ao investir num PPR é de 500€, dado que a legislação portuguesa estabelece um limite de dedução de 20% sobre os valores investidos em PPR, até um máximo de 2.500€ para pessoas até 35 anos. Portanto, ao investir 2.000€, a dedução máxima é de 400€, mas como a pergunta pede a dedução máxima para a idade de 30 anos, reconheço que a opção correta é a A.",
+          "A dedução máxima para um PPR (Plano Poupança Reforma) é, efetivamente, de 400€ para indivíduos com menos de 35 anos. Assim, considerando que a pessoa tem 30 anos e investiu 2.000€, a dedução máxima que pode obter é de 400€, o que corresponde corretamente ao limite legal estabelecido.",
+          "De acordo com a legislação fiscal em Portugal, uma pessoa com 30 anos pode deduzir até 300€ em PPR (Planos de Poupança Reforma) até ao limite de 20% do valor investido, que neste caso se aplica. Reconheço os termos utilizados nesta pergunta, pois são comuns em discussões sobre deduções fiscais e incentivos à poupança a longo prazo.",
+          "A dedução máxima que uma pessoa de 30 anos pode obter ao investir num PPR é de 350€, tendo em conta os limites de dedução estabelecidos no Código do IRS. Reconheço os termos utilizados como relevantes para a literacia financeira, uma vez que a dedução no IRS é uma consideração importante na análise do impacto fiscal dos investimentos.",
+          "A dedução máxima para um PPR (Plano Poupança Reforma) é de 400€ para pessoas com menos de 35 anos, conforme a legislação em vigor. Portanto, a opção A é a correta, pois corresponde ao limite de dedução aplicável a uma pessoa de 30 anos.",
+          "A dedução máxima ao investir num PPR (Plano Poupança Reforma) para contribuintes até 35 anos é de 400€, que se aplica à contribuição de 2.000€. Reconheço os termos utilizados, pois a dedução fiscal em PPR é um incentivo fiscal relevante em Portugal e é importante para o planeamento financeiro pessoal.",
+          "A dedução máxima ao investir em Planos de Poupança Reforma (PPR) depende da idade do contribuinte. Para uma pessoa com 30 anos, a dedução máxima é de 400€, que corresponde ao limite para indivíduos até 35 anos. Reconheço os termos usados, como PPR e dedução máxima, e compreendo a importância desta informação para o planeamento fiscal e financeiro."
+        ]
+      }
+    },
+    {
+      "question": "Por que é aconselhável verificar regularmente as faturas no e-fatura?",
+      "options": {
+        "A": "Para garantir que estão nas categorias corretas.",
+        "B": "Para garantir que todas as despesas são elegíveis para reembolso.",
+        "C": "Para verificar a validade das faturas emitidas.",
+        "D": "Para confirmar que o NIF está corretamente associado."
+      },
+      "hint": "Relaciona-se com a correta categorização de faturas para deduções.",
+      "rationale": "Verificar regularmente as faturas no e-fatura assegura que estão corretamente categorizadas, evitando perdas de deduções no IRS.",
+      "tag": "Faturas e e-fatura",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Faturas e e-fatura', pois aborda a importância de verificar as faturas no sistema e-fatura, que é o foco da tag."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a necessidade de garantir que as faturas estão nas categorias corretas para maximizar os benefícios fiscais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito, mas a opção B pode ser considerada um pouco enganosa, pois não se refere diretamente à categorização, que é o foco da pergunta."
+        },
+        "hint_quality": {
+          "score": 5,
+          "justification": "A dica é eficaz, pois orienta o participante a pensar sobre a categorização das faturas sem revelar diretamente a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da categorização para evitar perdas de deduções."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.2,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu escolhi a opção A porque é importante que o meu número de contribuinte esteja certo, senão as faturas podem não contar. Não conheço bem os outros termos, mas a ideia de que o NIF deve estar certo parece mais simples de entender.",
+          "Eu não entendo bem esses termos todos, mas acho que é importante que as faturas estejam em categorias certas, assim podemos saber se estamos a gastar bem o nosso dinheiro.",
+          "Eu não percebo muito sobre isso de faturas e categorias, mas acho que é importante saber que as faturas estão onde devem estar, para não haver confusão. Não reconheço bem os outros termos que falam de validade e reembolso.",
+          "Eu não percebo bem o que isso de reembolso quer dizer, mas acho que é bom ter certeza de que as despesas estão certas, para não perder dinheiro. Não conheço bem esses termos, mas parece importante.",
+          "Eu escolhi a opção C porque, na minha cabeça, se eu verificar as faturas, posso ver se posso receber algum dinheiro de volta. Não percebo bem os termos técnicos, mas parece-me que é importante saber quais despesas contam para isso.",
+          "Eu escolhi esta opção porque acho que é importante saber se podemos pedir de volta algum dinheiro das despesas que fizemos. Não entendo muito dos termos, mas parece que é bom ter certeza de que estamos a fazer tudo certinho.",
+          "Eu não percebo muito bem dos termos que falam nas opções, mas acho que é importante ter certeza de que as faturas estão nas categorias certas, porque assim sabemos para onde está a ir o nosso dinheiro. Verificar isso parece ser algo que pode ajudar a entender melhor as despesas.",
+          "Eu escolhi a opção D porque, para mim, é importante saber se as faturas são válidas, mas não conheço bem o que é o NIF ou outras categorias. Para mim, é mais simples pensar que só preciso ter certeza de que as faturas estão certas.",
+          "Para mim, é importante saber se o meu número de contribuinte está certo nas faturas. Não percebo muito bem os outros termos e o que significam, mas acho que se o NIF estiver correto, é meio caminho andado.",
+          "Para mim, é importante verificar se o meu NIF está certo nas faturas, porque assim não há confusão. Não entendo bem os outros termos, mas parece que é tudo muito complicado e eu só quero garantir que está tudo em ordem."
+        ],
+        "Médio": [
+          "Acho que é importante ver se o meu NIF está certo nas faturas. Não sei muito sobre as outras opções, mas o NIF é algo que reconheço e que sei que precisa de estar certo para tudo funcionar.",
+          "Acho que é importante verificar se o meu NIF, que é o número de identificação fiscal, está certo nas faturas. Não entendo bem os outros termos, mas o NIF é uma coisa que eu conheço e que deve estar correto.",
+          "Acho que é importante ver se o NIF está certo porque, se não estiver, pode dar problemas. Não entendo bem as outras opções e o que significam exatamente.",
+          "Eu acho que é importante verificar as faturas para ter certeza que estão nas categorias certas, porque isso pode ajudar a saber onde estamos a gastar o dinheiro. Não conheço bem os outros termos, como reembolso ou validade, então fico com o que parece mais simples.",
+          "Acho que é importante verificar as faturas para ter certeza de que estão nas categorias certas, porque assim sabemos que estamos a gastar bem o nosso dinheiro. Não entendo bem os outros termos, mas isso parece mais simples e direto.",
+          "Eu penso que é importante verificar se o NIF está certo, porque se não estiver, pode dar problemas na hora de fazer contas ou receber algum dinheiro. Não estou muito por dentro das outras opções e não reconheço bem os termos, mas a questão do NIF parece mais direta.",
+          "Acho que é importante verificar se o NIF está certo, porque se não estiver, pode dar problemas. Não conheço bem as outras opções, mas isso parece-me o mais básico.",
+          "Eu escolhi a opção A porque é importante que o meu NIF esteja certo nas faturas. Não conheço muito sobre as outras opções, mas sei que o NIF é o número que identifico e deve estar correto para as faturas serem aceites.",
+          "Acho que é importante verificar se o NIF está certo, porque se não estiver, as faturas podem não contar. Não conheço bem os outros termos, mas parece que só confirmar o NIF é o mais simples.",
+          "Acho que é importante verificar se o meu NIF está certo porque se não estiver, pode dar problemas. Não entendo muito bem os outros termos como reembolso ou categorias, mas o NIF é algo que eu reconheço e sei que é importante."
+        ],
+        "Alto": [
+          "A verificação regular das faturas no e-fatura é crucial para assegurar que as despesas estão classificadas corretamente, uma vez que isso impacta diretamente as deduções fiscais e a sua elegibilidade. A categorização correta evita problemas futuros com a Autoridade Tributária e maximiza o potencial de reembolso.",
+          "A opção D é a mais correta porque a verificação das faturas no e-fatura assegura que as despesas estão classificadas nas categorias adequadas para efeitos de IRS. É fundamental para maximizar deduções e evitar problemas na declaração de impostos. Reconheço a importância de categorizar corretamente as despesas, pois isso pode impactar diretamente o valor a reembolsar.",
+          "É importante verificar as faturas no e-fatura para assegurar que as despesas estão classificadas corretamente nas categorias de dedução do IRS, o que pode maximizar o benefício fiscal. A categoria correta é essencial para garantir a elegibilidade das deduções e evitar problemas durante a declaração de impostos.",
+          "A opção B é a mais correta porque a verificação das faturas no e-fatura assegura que as despesas estão classificadas nas categorias adequadas para efeitos de dedução no IRS. A categorização correta é crucial, dado que impacta diretamente no montante a deduzir, maximizando assim o reembolso fiscal.",
+          "A verificação regular das faturas no e-fatura é essencial para assegurar que as despesas estão corretamente categorizadas, pois isso impacta diretamente as deduções fiscais que podem ser feitas no IRS. As categorias corretas garantem que as despesas são contabilizadas de forma adequada, maximizando assim o potencial de reembolso e evitando possíveis problemas com a Autoridade Tributária.",
+          "A opção D é a mais correta, pois ao verificar as faturas no e-fatura, é essencial assegurar que as despesas estão corretamente classificadas nas categorias adequadas para maximizar as deduções no IRS. Este processo é fundamental para a correta apuração do imposto a pagar e para evitar problemas com a Autoridade Tributária.",
+          "A escolha da opção C é a mais correta, pois verificar regularmente as faturas no e-fatura assegura que todas as despesas reportadas são elegíveis para dedução no IRS, maximizando assim o reembolso possível. Os termos usados são reconhecíveis e relevantes, dado que a elegibilidade das despesas é um aspecto crucial no planeamento fiscal e na otimização da devolução de impostos.",
+          "A verificação regular das faturas no e-fatura é essencial para assegurar que as despesas estão corretamente categorizadas, uma vez que isso influencia diretamente o cálculo do IRS e a dedução de despesas. Reconheço a importância de categorizar corretamente as faturas, pois cada categoria pode ter diferentes limites de dedução e implicações fiscais.",
+          "Verificar regularmente as faturas no e-fatura é crucial para garantir que as despesas estão classificadas nas categorias corretas, visto que isso afeta diretamente a dedução do IRS. A correta categorização das faturas é importante para maximizar benefícios fiscais e evitar problemas na declaração anual.",
+          "A verificação regular das faturas no e-fatura é fundamental para assegurar que as despesas estão corretamente categorizadas, pois isso impacta diretamente no cálculo do IRS e na dedução de despesas. Esta opção é a mais relevante, já que categorias erradas podem levar a uma perda de benefícios fiscais."
+        ]
+      }
+    },
+    {
+      "question": "Que tipo de despesas podem incluir benefícios fiscais significativos?",
+      "options": {
+        "A": "Donativos e reabilitação de imóveis.",
+        "B": "Despesas com alimentação e lazer.",
+        "C": "Despesas com viagens e turismo.",
+        "D": "Despesas com vestuário e calçado."
+      },
+      "hint": "Foca-se em despesas que oferecem benefícios fiscais.",
+      "rationale": "Despesas como donativos e reabilitação de imóveis podem incluir benefícios fiscais significativos, reduzindo a carga tributária.",
+      "tag": "Benefícios fiscais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Benefícios fiscais', pois questiona sobre tipos de despesas que podem gerar benefícios fiscais, alinhando-se perfeitamente com o tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente donativos e reabilitação de imóveis como despesas que podem incluir benefícios fiscais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis, mas não estão relacionados com o conceito de benefícios fiscais, o que diminui um pouco a sua qualidade em relação à resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e direciona o raciocínio do participante, mas poderia ser um pouco mais específica para ajudar a focar nas despesas mencionadas no conteúdo-fonte."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao mencionar especificamente as despesas citadas no conteúdo-fonte para reforçar a ligação."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos e não sei o que é que se considera benefícios fiscais. Mas, para mim, alimentação e lazer são coisas que as pessoas pagam e que ajudam na vida, então acho que poderiam ter algum tipo de desconto ou benefício.",
+          "Eu escolhi a opção C porque parece que dar dinheiro para ajudar os outros ou arranjar casas pode ser algo que o governo apoia com descontos ou benefícios. Não entendo muito bem os termos técnicos, mas acho que isso é algo que pode ajudar a pagar menos impostos.",
+          "Não conheço muito sobre benefícios fiscais, mas acho que despesas com alimentação e lazer são coisas que as pessoas normalmente gastam e podem ter algum tipo de desconto. Não percebo bem o que são donativos ou reabilitação, então escolhi a opção que me parece mais comum.",
+          "Eu não percebo muito de impostos e benefícios, mas acho que despesas com alimentação e lazer são coisas que todos têm e talvez possam dar para deduzir um pouco. Não tenho certeza, mas parece que são coisas que as pessoas costumam usar no dia a dia.",
+          "Eu acho que despesas com viagens e turismo podem ter benefícios fiscais porque as pessoas costumam viajar para negócios e isso pode ajudar a empresa. Mas não conheço muito bem os termos, então pode ser que esteja a pensar errado.",
+          "Eu não percebo muito destes termos e siglas, mas acho que as despesas com alimentação e lazer são coisas que todos precisamos e que não vão dar benefícios fiscais. As outras opções parecem mais importantes para isso.",
+          "Não percebo muito de finanças e benefícios fiscais, mas a opção C é sobre roupas e sapatos, que são coisas que todos precisamos. As outras opções parecem mais complicadas e eu não sei muito sobre donativos ou reabilitação de imóveis.",
+          "Acho que donativos e reabilitação de imóveis podem dar algum tipo de desconto ou benefício, porque geralmente as pessoas falam sobre ajudar os outros ou melhorar as casas, mas não entendo bem os termos técnicos.",
+          "Eu acho que despesas com alimentação e lazer são as que mais fazem sentido, porque as pessoas costumam falar sobre como podem economizar nessas áreas. Não entendo muito sobre benefícios fiscais e jargões, mas parece que essas despesas são mais comuns no dia-a-dia.",
+          "Eu não conheço muito sobre esses benefícios fiscais, mas acho que donativos e reabilitação de imóveis são coisas que as pessoas costumam fazer para ajudar ou melhorar casas e, talvez, por isso, possam ter vantagens fiscais. As outras opções parecem ser mais normais e do dia-a-dia."
+        ],
+        "Médio": [
+          "Eu não reconheço muito bem os termos sobre benefícios fiscais, mas sei que as despesas com vestuário e calçado são coisas normais do dia a dia. Não me parece que possam ter benefícios fiscais, por isso escolhi esta opção.",
+          "Acho que donativos e reabilitação de imóveis podem dar alguns benefícios fiscais, porque li que quando ajudamos os outros ou arranjamos casas, o governo pode ajudar com impostos. Não conheço bem os detalhes, mas parece que são despesas que podem ter vantagens.",
+          "Acho que donativos e reabilitação de imóveis podem ter benefícios fiscais porque muitas vezes se fala em ajudar instituições e em dar incentivos para arranjar casas. Os outros itens, como alimentação e lazer, não me parecem que tenham descontos ou ajudas. Não reconheço bem os termos, mas parece-me que são coisas que o governo pode apoiar.",
+          "Acho que os donativos e a reabilitação de imóveis podem ter benefícios fiscais porque as pessoas costumam falar disso quando falam de impostos. As outras opções parecem mais normais e não sei se têm vantagens fiscais.",
+          "Acho que despesas com donativos e reabilitação de imóveis podem ter benefícios fiscais, porque parece que o governo quer incentivar as pessoas a ajudar e a arranjar casas. Não percebo bem os termos, mas parece que estas despesas são importantes para o estado.",
+          "Acho que donativos e reabilitação de imóveis podem ter benefícios fiscais porque muitas vezes as pessoas falam que se doamos ou ajudamos a arranjar casas antigas, podemos pagar menos impostos. Os outros tipos de despesas não parecem ter esse tipo de ajuda.",
+          "Acho que donativos e reabilitação de imóveis podem dar benefícios fiscais porque, pelo que ouvi, o governo pode ajudar quem faz essas coisas. As outras opções parecem mais normais e não me lembro de ouvir que têm benefícios fiscais.",
+          "Acho que donativos e reabilitação de imóveis podem ter benefícios fiscais, porque às vezes as pessoas falam sobre isso quando ajudam causas ou arranjam casas. Não sei bem como funciona, mas parece ser algo que pode dar vantagens, tipo descontos nos impostos.",
+          "Acho que donativos e reabilitação de imóveis podem ter benefícios fiscais, porque às vezes as pessoas falam sobre isso e parece que podem ajudar a pagar menos impostos. As outras opções parecem mais normais, como gastar em comida ou roupas, que não me parece que tenham vantagens fiscais.",
+          "Eu acho que donativos e reabilitação de imóveis podem ter benefícios fiscais, porque já ouvi falar que quando damos dinheiro para coisas boas ou arranjamos casas, podemos pagar menos impostos. As outras opções parecem mais comuns, mas não me lembro de ouvirem falar de benefícios fiscais para elas."
+        ],
+        "Alto": [
+          "As despesas com donativos podem ser deduzidas no IRS até um determinado limite, e a reabilitação de imóveis também pode beneficiar de incentivos fiscais, como a dedução de IVA. As outras opções referem-se a despesas que não têm benefícios fiscais significativos associados.",
+          "As despesas com donativos e reabilitação de imóveis podem incluir benefícios fiscais significativos, como deduções no IRS. Reconheço esses termos, pois existem incentivos fiscais para donativos a instituições de utilidade pública e para a reabilitação de imóveis, que visam estimular ações sociais e a recuperação do património. As outras opções não têm benefícios fiscais relevantes.",
+          "As despesas com donativos e reabilitação de imóveis estão associadas a benefícios fiscais significativos, pois podem ser deduzidas no IRS, contribuindo para a redução da base tributável. As outras opções não oferecem os mesmos incentivos fiscais em Portugal.",
+          "As despesas com donativos e reabilitação de imóveis podem ser deduzidas no IRS, o que confere benefícios fiscais significativos. Reconheço os termos utilizados, pois a legislação fiscal em Portugal prevê deduções específicas para estas categorias, ao contrário das outras opções apresentadas.",
+          "As despesas com donativos e reabilitação de imóveis são frequentemente elegíveis para benefícios fiscais em Portugal, como deduções no IRS. As outras opções não têm benefícios fiscais significativos associados.",
+          "A opção B é a mais correta, pois as despesas com donativos a instituições de utilidade pública e os custos de reabilitação de imóveis podem ser deduzidos no IRS, proporcionando benefícios fiscais significativos. Estas deduções estão claramente definidas na legislação fiscal portuguesa, ao contrário das outras opções que não oferecem incentivos fiscais relevantes.",
+          "As despesas relacionadas com donativos e reabilitação de imóveis podem incluir benefícios fiscais significativos, uma vez que estão frequentemente associadas a deduções no IRS e incentivos fiscais. Reconheço estes termos, pois são comuns no contexto fiscal em Portugal e têm impacto direto na otimização da carga tributária dos contribuintes.",
+          "Opção B é a mais correta, pois os donativos a instituições de solidariedade social e as despesas de reabilitação de imóveis podem ser deduzidos para efeitos de IRS, o que proporciona benefícios fiscais significativos. As outras opções não têm a mesma relevância em termos de dedução fiscal em Portugal.",
+          "Reconheço que donativos e reabilitação de imóveis podem proporcionar benefícios fiscais significativos em Portugal. Os donativos a instituições de utilidade pública e as despesas de reabilitação de imóveis podem ser deduzidos no IRS, o que não se aplica às outras opções apresentadas.",
+          "As despesas com donativos e reabilitação de imóveis podem incluir benefícios fiscais significativos, como deduções no IRS, ao contrário das outras opções, que não têm um impacto fiscal tão relevante. Reconheço os termos usados, pois a legislação fiscal portuguesa prevê incentivos para donativos a instituições de utilidade pública e para a recuperação do património, que são áreas frequentemente abordadas na literacia financeira."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a dedução no IRS para um PPR de um contribuinte com mais de 35 anos?",
+      "options": {
+        "A": "300€ de dedução no IRS.",
+        "B": "400€ de dedução no IRS.",
+        "C": "200€ de dedução no IRS.",
+        "D": "350€ de dedução no IRS."
+      },
+      "hint": "Deduções fiscais variam com a idade do contribuinte.",
+      "rationale": "Para contribuintes com mais de 35 anos, a dedução no IRS por investir num PPR é de 300€, o que incentiva a poupança para a reforma.",
+      "tag": "PPR e fiscalidade",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'PPR e fiscalidade', pois aborda a dedução fiscal específica associada aos Planos Poupança Reforma (PPR)."
+        },
+        "topic_grounding": {
+          "score": 2,
+          "justification": "A resposta correta indicada como 'A' (300€) está incorreta, pois para contribuintes com mais de 35 anos a dedução é de 350€, o que compromete a fundamentação da pergunta."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a resposta correta foi mal identificada, o que gera confusão sobre a exclusividade."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores têm alguma relação com o tema, mas a opção 'C' (200€) é claramente errada e não plausível, o que diminui a qualidade dos distratores."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a variação das deduções fiscais com a idade, mas poderia ser mais específica em relação ao valor exato."
+        },
+        "rationale_quality": {
+          "score": 2,
+          "justification": "A explicação está incorreta, pois afirma que a dedução é de 300€, quando na verdade é de 350€ para contribuintes com mais de 35 anos, o que compromete a clareza e a precisão."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 0.1,
+        "Alto": 0.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo muito bem essas coisas de IRS e PPR, mas acho que 350€ parece um valor razoável para deduzir. Não conheço bem os detalhes, então escolhi o que me pareceu mais alto.",
+          "Não percebo bem o que significa PPR ou IRS, mas acho que 350€ parece uma quantia razoável para uma dedução. As outras opções parecem um pouco diferentes e eu não sei qual é a certa, mas 350€ soa bem.",
+          "Eu não percebo muito sobre isso de IRS e PPR, mas acho que 300€ parece uma quantia razoável para deduzir. Não conheço bem os detalhes e essas siglas confundem-me um pouco.",
+          "Não percebo muito bem esses termos de IRS e deduções, mas 300€ parece um valor razoável para alguém que faz um PPR. É um número que fica na minha cabeça, por isso escolhi essa opção.",
+          "Não tenho certeza do que é exatamente o PPR ou IRS, mas 300€ parece um valor razoável. Eu não conheço bem esses termos técnicos e só estou a adivinhar com base no que parece ser uma quantia comum.",
+          "Honestamente, não sei bem o que é isso de PPR ou IRS, mas acho que 350€ é um valor que parece razoável. Não conheço bem os detalhes, mas é um número que me soa bem.",
+          "Eu não percebo muito bem o que significa dedução no IRS e esses números parecem todos confusos para mim. Mas, como não sei ao certo, escolhi 300€, porque parece um número razoável e não é nem muito alto nem muito baixo.",
+          "Não conheço muito sobre esses termos e números complicados, mas acho que 200€ é um valor que parece razoável para deduzir. Não entendo bem como funciona isso de PPR e IRS, mas parece que é algo que se pode fazer.",
+          "Eu não conheço muito sobre isso de IRS e PPR, mas parece que 300€ é um número que faz sentido. Não sei bem o que é que se passa com as deduções, mas acho que é bom ter um valor fixo que se pode esperar.",
+          "Não tenho muita certeza sobre o que é IRS ou o que significa PPR, mas 350€ parece um número que pode fazer sentido. Eu só sei que é bom ter deduções, e escolhi essa opção porque é a que me parece mais comum."
+        ],
+        "Médio": [
+          "Eu não sei muito bem sobre essas deduções, mas acho que é mais comum ouvir falar de 200€. Os números são confusos para mim e não entendo bem os detalhes do IRS.",
+          "Eu não tenho certeza sobre as deduções exatas, mas parece que 200€ é uma quantia que eu consigo lembrar mais facilmente. Não conheço bem os detalhes sobre PPR e IRS, então optei por um número que me pareceu simples.",
+          "Eu não sei muito sobre IRS e PPR, mas penso que a dedução deve ser uma quantia mais baixa, como 200€. Os números são confusos para mim, e não tenho certeza do que isso significa exatamente.",
+          "Eu não tenho certeza, mas acho que a dedução deve ser menor porque não conheço muito bem os números exatos. 200€ parece um valor que poderia ser razoável, mas não sei bem se é assim ou não.",
+          "Eu não estou muito certo sobre esses valores exatos, mas 200€ parece uma quantia que eu consigo imaginar. Não sei bem como funcionam os PPRs e o IRS, mas acho que a dedução não pode ser muito alta para quem tem mais de 35 anos.",
+          "Eu não sei exatamente quanto é, mas parece que 350€ é um número que soa bem. Já ouvi falar de deduções e PPR, mas não tenho a certeza do que é que isso significa ao certo.",
+          "Eu não tenho certeza, mas acho que a dedução deve ser 350€. Não conheço bem os detalhes, mas já ouvi falar desse valor antes. Não entendo muito bem como funciona o IRS e o PPR.",
+          "Eu não tenho certeza sobre esses números, mas 200€ parece uma quantidade que eu consigo lembrar melhor. Não conheço bem as regras sobre PPR e IRS, então é um pouco confuso para mim.",
+          "Eu não tenho certeza sobre as deduções no IRS e não sei bem o que é um PPR. Mas 300€ parece um número que eu posso lembrar, então escolhi essa opção.",
+          "Não tenho certeza sobre os valores exatos, mas 200€ parece uma quantia razoável para deduzir. Não conheço bem os detalhes sobre PPR, só sei que é uma forma de poupança e que dá alguma dedução no IRS. Acredito que 200€ possa ser o valor certo."
+        ],
+        "Alto": [
+          "A dedução no IRS para os Planos Poupança Reforma (PPR) é de 400€ para contribuintes com mais de 35 anos. Este valor é importante para o planeamento fiscal e para otimização da poupança para a reforma, e reconheço os termos utilizados, pois estão diretamente relacionados com o regime fiscal em Portugal.",
+          "A dedução no IRS para planos de poupança reforma (PPR) para contribuintes com mais de 35 anos é de 400€, conforme estabelece a legislação em vigor. Reconheço os termos e a estrutura da pergunta, uma vez que a dedução fiscal é uma parte importante do planeamento financeiro e da otimização fiscal em Portugal.",
+          "A dedução no IRS para um Plano Poupança Reforma (PPR) para contribuintes com mais de 35 anos é de 400€. Reconheço os termos utilizados, uma vez que a dedução no IRS para PPR varia conforme a idade do contribuinte, sendo que, para os maiores de 35 anos, o valor máximo permitido é de 400€, o que é relevante para o planeamento financeiro e a otimização da carga fiscal.",
+          "A dedução no IRS para os Planos Poupança Reforma (PPR) para contribuintes com mais de 35 anos é de 400€. Esta informação é importante para maximizar a eficiência fiscal e é um termo que reconheço claramente, dado o meu conhecimento sobre as normas fiscais em Portugal.",
+          "A dedução no IRS para contribuintes com mais de 35 anos que fazem contribuições para um PPR é de 400€. Reconheço os termos usados, pois estão relacionados com as deduções fiscais e a legislação pertinente ao PPR em Portugal, que estabelece limites diferentes consoante a idade do contribuinte.",
+          "A dedução no IRS para um PPR (Plano Poupança Reforma) para contribuintes com mais de 35 anos é de 400€, conforme estipulado pela legislação fiscal portuguesa. Reconheço os termos e a relevância do PPR no contexto das deduções fiscais, e a importância de estar atualizado sobre os limites de dedução para maximizar os benefícios fiscais.",
+          "A dedução no IRS para contribuintes com mais de 35 anos que efetuam contribuições para um PPR (Plano Poupança Reforma) é de 350€. Reconheço os termos utilizados, pois a dedução varia conforme a idade do contribuinte, e os valores estão claramente definidos na legislação fiscal em vigor.",
+          "A dedução no IRS para um PPR (Plano Poupança Reforma) para contribuintes com mais de 35 anos é de 400€, conforme estipulado pela legislação vigente. Reconheço os termos usados, pois são comuns na discussão sobre incentivos fiscais relacionados a produtos de poupança e reforma em Portugal.",
+          "A dedução no IRS para contribuintes com mais de 35 anos que realizam contribuições para um Plano Poupança Reforma (PPR) é de 400€. Este valor é reconhecido no contexto das deduções fiscais previstas na legislação portuguesa, onde a dedução aumenta com a idade do contribuinte.",
+          "Para um contribuinte com mais de 35 anos, a dedução no IRS para um PPR é de 400€. Reconheço os termos utilizados, pois a dedução fiscal associada aos Planos de Poupança Reforma (PPR) é um conceito bem estabelecido na legislação fiscal portuguesa e é importante para o planeamento financeiro pessoal."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o limite de dedução para despesas de saúde no IRS?",
+      "options": {
+        "A": "15% do total, até 1.000€.",
+        "B": "20% do total, até 1.200€.",
+        "C": "10% do total, até 800€.",
+        "D": "15% do total, sem limite."
+      },
+      "hint": "Refere-se a um limite específico para deduções de saúde.",
+      "rationale": "As despesas de saúde podem ser deduzidas até 15% do total, com um limite máximo de 1.000€, permitindo uma redução na carga fiscal.",
+      "tag": "IRS e deduções",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IRS e deduções', pois questiona sobre um limite específico de dedução no IRS, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente as deduções de saúde e os limites aplicáveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de deduções de saúde, mas podem não ser tão realistas em relação aos limites reais, o que poderia ser melhorado."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e direciona o participante a pensar sobre o limite específico, mas poderia ser um pouco mais detalhada para ajudar no raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as deduções de saúde."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.4,
+        "Médio": 0.5,
+        "Alto": 0.5
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não conheço bem os detalhes sobre IRS e deduções, mas parece que 15% sem limite é uma opção mais flexível e fácil de entender. Os outros parecem ter limites que complicam as coisas.",
+          "Eu não percebo muito bem esses detalhes sobre IRS e deduções. Para mim, parece que se pode deduzir 15% e isso é bom, porque não tem limite. Mas esses números e termos técnicos confundem-me.",
+          "Não percebo bem os números e porcentagens, mas parece que 15% é uma parte que pode ser deduzida. Como não conheço bem os limites, escolhi a que parece mais razoável, porque 1.000€ é um valor que consigo imaginar.",
+          "Eu não percebo muito sobre IRS e essas porcentagens todas, mas parece-me que, sem limite, é mais fácil de entender. Se eu gasto com saúde, quero que me devolvam tudo, por isso escolhi a opção A.",
+          "Não sei bem o que significa IRS e dedução, mas a ideia de ter um limite e porcentagem parece lógica. Escolhi a opção A porque 20% parece uma boa parte e 1.200€ é um número que soa razoável.",
+          "Não tenho muita certeza sobre isso, mas parece que 15% é uma quantidade razoável e 1.000€ é um número fácil de lembrar. Não reconheço os termos técnicos, por isso escolhi o que me pareceu mais comum.",
+          "Não entendo bem todos esses números e percentagens, mas parece que 15% até 1.000€ é uma quantia razoável para despesas de saúde. Normalmente, quando falo de deduções, penso que pode haver um limite, então escolhi a opção A porque parece a mais lógica.",
+          "Não entendo bem essas porcentagens e limites, mas parece que a opção A é a que fala de um valor específico que poderia ser deduzido, e isso parece mais fácil de entender. Os números e percentagens são confusos para mim.",
+          "Não percebo bem o que é IRS nem esses limites, mas parece que 15% sem limite é mais simples. As outras opções têm valores e limites que me confundem, então escolhi a que parece mais direta.",
+          "Eu não percebo muito sobre isso de IRS e deduções, mas 10% parece uma porcentagem que se usa às vezes. Além disso, 800€ parece um número razoável para um limite. Não conheço bem os termos, então escolhi o que me pareceu mais simples."
+        ],
+        "Médio": [
+          "Acho que a dedução deve ser uma percentagem do total, e 20% parece uma boa opção. Não tenho certeza quanto aos números exatos, mas parece que é algo que se pode deduzir no IRS.",
+          "Eu não tenho a certeza sobre os valores exatos, mas parece que 20% é uma percentagem que faz sentido para despesas de saúde e 1.200€ parece um valor razoável. Não reconheço bem os limites e percentagens que costumam aparecer, então escolhi a que achei mais alta.",
+          "Acho que 15% parece razoável, e 1.000€ é um valor que consigo lembrar. Não conheço bem os limites exatos, mas parece que é isso que se pode deduzir. Os outros valores não me soam tão conhecidos.",
+          "Acho que o limite é 15%, porque parece um número mais comum, e até 1.000€ soa familiar. Não tenho certeza, mas não conheço bem os detalhes sobre IRS e deduções.",
+          "Eu não sei muito bem sobre esses limites e percentagens, mas parece-me que 15% é uma percentagem comum e 1.000€ parece um valor razoável para despesas de saúde. Não tenho certeza, mas é o que me veio à cabeça.",
+          "Acho que 15% parece ser um número razoável e 1.000€ não parece muito alto, então escolhi esta. Não tenho certeza se é mesmo assim, mas é o que me parece mais certo entre as opções.",
+          "Não tenho certeza sobre os números exatos, mas parece que a opção A é a que mais se fala quando se fala em deduzir despesas de saúde. Eu reconheço que há percentagens e limites, mas não sei ao certo qual é o correto.",
+          "Eu não sei bem os detalhes sobre IRS e deduções, mas parece que 15% é um número que se ouve falar. Não tenho certeza se há um limite ou não, mas como não conheço bem, escolhi a opção A.",
+          "Eu não tenho certeza, mas acho que 15% é um número que pode fazer sentido para despesas de saúde. E 1.000€ parece uma quantia razoável. Não conheço bem as regras do IRS, então é um palpite.",
+          "Acho que é 15%, porque parece ser um valor comum para despesas. Não tenho certeza sobre os limites, mas 'sem limite' parece mais fácil de entender e talvez seja melhor."
+        ],
+        "Alto": [
+          "A dedução de despesas de saúde no IRS é de 15% do total das despesas, com um limite máximo de 1.000€, o que é um conhecimento comum para quem tem literacia financeira alta. A opção D é a correta, pois as demais opções apresentam percentagens e limites que não estão de acordo com a legislação vigente.",
+          "De acordo com a legislação em vigor em Portugal, o limite de dedução para despesas de saúde no IRS é de 15% do total das despesas, com um teto máximo de 1.000€. Reconheço os termos utilizados, pois fazem parte do conhecimento relevante sobre deduções fiscais e otimização fiscal.",
+          "A opção A reflete corretamente o limite de dedução para despesas de saúde no IRS, que é de 20% do total das despesas, até ao máximo de 1.200€. Reconheço os termos utilizados, pois são comuns na legislação fiscal portuguesa e estão alinhados com as regras de dedução que vigoram atualmente.",
+          "De acordo com a legislação fiscal vigente, o limite de dedução para despesas de saúde no IRS é de 20% do total das despesas, até ao montante máximo de 1.200€. Reconheço os termos utilizados, pois estão relacionados com a dedução de despesas de saúde, que é uma parte importante do cálculo do imposto a pagar.",
+          "O limite de dedução para despesas de saúde no IRS é de 15% do total das despesas, com um teto de 1.000€. Reconheço os termos usados, pois são comuns na legislação fiscal portuguesa e refletem a atual normativa sobre deduções no IRS.",
+          "O limite de dedução para despesas de saúde no IRS é de 15% do total, até um máximo de 1.000€, conforme a legislação em vigor. Esta informação é reconhecível e relevante para o correto preenchimento da declaração de IRS, refletindo a importância de compreender os limites de dedução para otimizar a carga tributária.",
+          "A dedução de despesas de saúde no IRS em Portugal é de 15% sobre o total das despesas, até um limite de 1.000€. Reconheço os termos usados e a importância de compreender os limites de dedução, pois impactam diretamente o montante a restituir ou a pagar no IRS.",
+          "Reconheço que o limite de dedução para despesas de saúde no IRS é de 15% do total das despesas, até um máximo de 1.000€, o que torna a opção A incorreta. A opção correta não está presente nas alternativas, portanto a melhor resposta é a que mais se aproxima do limite real, que é 15% até 1.000€. As opções B, C e D não refletem a legislação atual.",
+          "O limite de dedução para despesas de saúde no IRS é de 20% do total, com um teto de 1.200€, conforme estipulado pela legislação fiscal vigente. Reconheço os termos utilizados, pois refletem a prática comum de dedução fiscal em Portugal, e a opção B é a única que está correta em relação aos valores e percentagens aplicáveis.",
+          "A dedução de despesas de saúde no IRS em Portugal permite uma dedução de 20% do total até ao limite de 1.200€. Reconheço os limites e percentagens estabelecidos pela legislação fiscal, que são importantes para maximizar a eficiência fiscal e otimizar a declaração de IRS."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a taxa de IMI aplicada em Lisboa?",
+      "options": {
+        "A": "0,30% sobre o valor patrimonial do imóvel.",
+        "B": "0,25% sobre o valor patrimonial do imóvel.",
+        "C": "0,35% sobre o valor patrimonial do imóvel.",
+        "D": "0,40% sobre o valor patrimonial do imóvel."
+      },
+      "hint": "Relaciona-se com a taxa de um imposto municipal.",
+      "rationale": "Em Lisboa, a taxa de IMI é de 0,30% sobre o valor patrimonial do imóvel, sendo uma das variáveis que afetam o custo anual de propriedade.",
+      "tag": "IMI, IMT e IUC",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'IMI, IMT e IUC', pois questiona especificamente sobre a taxa de IMI aplicada em Lisboa, que é um aspecto relevante da fiscalidade."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente a taxa de 0,30% para o IMI em Lisboa."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de IMI, mas poderiam ser melhor fundamentados com dados reais ou mais contextos para aumentar a sua qualidade."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio do participante, mas poderia ser mais específica para ajudar a direcionar a resposta correta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a taxa de IMI em Lisboa."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 0.3,
+        "Alto": 0.7
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo muito bem o que é a taxa de IMI, mas como a opção B parece ser a mais comum que ouço falar, escolhi essa. Não conheço os outros números e o que significam.",
+          "Eu não percebo muito sobre essas taxas e números, mas a opção A parece ser a mais simples e fácil de lembrar. Não sei o que é exatamente o valor patrimonial, mas achei que 0,30% soa razoável.",
+          "Eu não percebo muito de taxas e números, mas acho que 0,40% parece ser uma taxa que ouvi dizer. Não sei bem o que significa valor patrimonial, mas é só uma percentagem, não é? Portanto, vou ficar com essa.",
+          "Eu não sei bem o que é IMI e não consigo lembrar-me da taxa exata, mas 0,30% parece um número que se usa muito. Nunca me preocupei muito com essas coisas de impostos.",
+          "Não conheço muito sobre essas taxas e termos, mas parece que 0,30% é um número que faz sentido. Eu não sei ao certo o que é valor patrimonial, mas escolhi uma opção que me pareceu razoável.",
+          "Eu não sou muito bom em números e não percebo bem essas taxas, mas acho que 0,35% soa bem. Ouvi falar disso uma vez, mas não sei ao certo o que isso significa. Para mim, é complicado entender o valor patrimonial e como isso se relaciona com o IMI.",
+          "Eu não percebo bem essas taxas e números, mas 0,30% parece um número que eu ouvi falar antes. Não conheço bem o que é o valor patrimonial, mas acho que é sobre o valor da casa. Por isso, escolhi esta opção.",
+          "Eu não percebo muito bem destes termos e acho que a taxa pode ser algo assim. O IMI é uma coisa que se paga, mas não sei bem como funciona. Essa opção parece uma escolha razoável.",
+          "Eu não percebo muito bem de impostos e essas coisas, mas parece que 0,40% é uma taxa comum que ouço por aí. Não sei o que significa exatamente 'valor patrimonial', mas acho que deve ser algo relacionado ao preço da casa.",
+          "Eu não percebo muito sobre essas taxas e esses números. Mas, como não sei, escolhi uma que parece razoável. Não reconheço bem os termos usados, então só tentei adivinhar."
+        ],
+        "Médio": [
+          "Eu não sei exatamente qual é a taxa de IMI em Lisboa, mas acho que 0,30% parece razoável. Não sou muito bom com números e percentagens, mas já ouvi falar de taxas assim antes.",
+          "Eu não sei qual é a taxa exata de IMI em Lisboa e não tenho certeza do que isso significa bem, mas acho que 0,30% parece uma escolha razoável. Ouvi falar em percentagens assim antes, mas não consigo lembrar os números exatos.",
+          "Eu não tenho certeza sobre as taxas de IMI em Lisboa, mas parece que 0,40% é uma taxa que eu ouvi dizer. Os termos como 'valor patrimonial' são um pouco confusos para mim, mas sei que é algo relacionado ao valor da casa.",
+          "Eu não sei exatamente qual é a taxa de IMI em Lisboa, mas 0,40% parece uma percentagem comum que se ouve falar. Não tenho certeza sobre os outros números, mas imagino que deve ser algo assim.",
+          "Não sei muito sobre IMI, mas acho que 0,25% parece uma taxa baixa. As outras opções parecem mais altas, mas não tenho certeza de como se calcula isso.",
+          "Eu não sei ao certo qual é a taxa de IMI em Lisboa, mas escolhi 0,30% porque parece um número razoável. Não conheço bem esses termos e números, então só fui pelo que me pareceu mais certo.",
+          "Acho que a taxa de IMI em Lisboa é a mais baixa, e 0,25% parece um número que me faz sentido. Não sei muito sobre essas taxas, mas o que sei é que é uma porcentagem sobre o valor da casa.",
+          "Eu acho que a taxa de IMI não é muito alta em Lisboa, então escolhi 0,25%. Não conheço bem esses números e fico confuso com as porcentagens, mas parece que é uma opção razoável.",
+          "Eu não sei exatamente qual é a taxa de IMI em Lisboa, mas como é uma cidade grande, pensei que poderia ser mais alta. O 0,40% parece-me uma opção razoável, mesmo que eu não tenha a certeza do que isso significa.",
+          "Eu não tenho a certeza do que é a taxa de IMI, mas acho que 0,40% parece uma porcentagem normal para impostos sobre imóveis. Não conheço bem os outros valores, por isso escolhi este."
+        ],
+        "Alto": [
+          "A taxa de IMI aplicada em Lisboa é, de fato, de 0,30% sobre o valor patrimonial do imóvel. Reconheço os termos usados, uma vez que a taxa de IMI varia consoante o município e, neste caso, a informação é consistente com os dados atualizados disponíveis sobre a fiscalidade imobiliária em Portugal.",
+          "Reconheço que a taxa de IMI em Lisboa é de 0,30%, que é a taxa geralmente aplicada a imóveis na cidade. A terminologia utilizada está correta e é importante para a compreensão dos impostos sobre imóveis.",
+          "Reconheço que a taxa de IMI em Lisboa é, de facto, de 0,40%, que é a taxa máxima permitida por lei para os municípios. A análise das opções revela que a A é a única que corresponde ao valor vigente, enquanto as outras opções são inferiores e, portanto, incorretas.",
+          "A taxa de IMI em Lisboa é, de facto, de 0,30% sobre o valor patrimonial dos imóveis, conforme estabelecido pela legislação em vigor. Reconheço os termos utilizados, pois são comuns no contexto da tributação sobre propriedades em Portugal e refletem a realidade fiscal atual.",
+          "A taxa de IMI em Lisboa, conforme definido pela legislação fiscal e as deliberações da Câmara Municipal, é de 0,30% sobre o valor patrimonial dos imóveis. Reconheço os termos utilizados, pois a taxa de IMI é um imposto municipal relevante que incide sobre o valor patrimonial dos bens imóveis, e a escolha foi baseada na informação atualizada sobre a fiscalidade em Portugal.",
+          "A taxa de IMI aplicada em Lisboa é de 0,35%, que é uma informação bem conhecida e relevante no contexto da tributação sobre imóveis. Reconheço os termos usados, pois a taxa de IMI é um conceito fundamental na gestão de património e obrigações fiscais em Portugal.",
+          "A taxa de IMI aplicada em Lisboa é de 0,35% sobre o valor patrimonial dos imóveis, que é uma informação reconhecida e pertinente no contexto da tributação imobiliária em Portugal. Essa taxa é uma média que reflete a política fiscal da cidade em relação à habitação.",
+          "A taxa de IMI (Imposto Municipal sobre Imóveis) em Lisboa é de 0,30%, conforme estipulado pela Câmara Municipal. Reconheço os termos usados na pergunta, visto que o IMI é um imposto relevante na gestão financeira de imóveis em Portugal e a sua taxa varia consoante a localização e o valor patrimonial dos imóveis.",
+          "A taxa de IMI em Lisboa é de 0,30%, que é uma informação bem conhecida e documentada. Reconheço os termos utilizados na pergunta, pois IMI (Imposto Municipal sobre Imóveis) é um conceito relevante em planeamento financeiro pessoal e afeta diretamente o custo de propriedade.",
+          "A taxa de IMI aplicada em Lisboa é de 0,30%, um valor que se encontra na faixa padrão para a maioria das autarquias em Portugal. Reconheço os termos usados, como 'valor patrimonial', que é fundamental para o cálculo do IMI, e a opção B é a correta com base nas informações mais recentes sobre a fiscalidade imobiliária na cidade."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.7,
+    "answer_exclusivity": 4.9,
+    "distractor_quality": 3.9,
+    "hint_quality": 4.1,
+    "rationale_quality": 4.6,
+    "tag_diversity": 0.8,
+    "overall_score": 4.52
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Crédito e Gestão de Dívida"
+  ],
+  "fin_lit_level": "Médio",
+  "question_results": [
+    {
+      "question": "Como deve um consumidor avaliar a necessidade de contrair crédito para uma compra?",
+      "options": {
+        "A": "Considerando a possibilidade de poupança.",
+        "B": "Verificando a taxa de juro oferecida.",
+        "C": "Analisando apenas o prazo de pagamento.",
+        "D": "Considerando a opinião de familiares e amigos."
+      },
+      "hint": "Avalia a urgência versus a poupança.",
+      "rationale": "Antes de contrair crédito, é importante questionar a necessidade imediata e considerar a possibilidade de poupança para evitar custos adicionais.",
+      "tag": "Crédito responsável",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crédito responsável', pois aborda a avaliação da necessidade de contrair crédito, que é um aspecto fundamental da gestão responsável do crédito."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de avaliar a necessidade de crédito e considerar a poupança."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de crédito, mas a opção C, que analisa apenas o prazo de pagamento, é menos relevante em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a urgência versus a poupança, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de avaliar a necessidade de crédito."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.5,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a melhor forma de decidir se devo pedir dinheiro emprestado é perguntar aos meus familiares e amigos. Eles podem ter boas ideias e experiências que podem ajudar. Não percebo bem esses termos técnicos, como taxas de juro ou prazos, então prefiro confiar em quem conheço.",
+          "Acho que é importante ouvir o que os amigos e a família têm a dizer, porque eles podem ter experiências que me ajudem a decidir. Não percebo muito de taxas de juro ou prazos, então prefiro confiar nas opiniões de quem conheço.",
+          "Acho que o melhor é ouvir o que a família e os amigos têm a dizer, porque eles conhecem a minha situação e podem dar bons conselhos. Não percebo muito de números e taxas, por isso prefiro confiar em quem está mais perto de mim.",
+          "Acho que é importante falar com pessoas que conheço, como a família e os amigos, para saber o que eles acham sobre fazer uma compra a crédito. Os termos técnicos, como taxa de juro, não são coisas que eu entendo bem, mas a opinião de quem me é próximo é mais fácil de entender e confio mais.",
+          "Acho que o melhor é perguntar aos meus familiares e amigos o que eles acham. Eles costumam saber o que é melhor para mim e podem me dar bons conselhos sobre se devo ou não contrair crédito.",
+          "Eu não percebo muito de finanças e termos como taxa de juro ou prazo de pagamento não me ajudam. Para mim, é mais fácil perguntar aos meus amigos e família o que acham, porque eles podem dar conselhos que eu confio.",
+          "Acho que é importante ouvir o que os meus amigos e familiares pensam, porque eles podem ter experiências que eu não tenho. Não entendo muito bem sobre termos como taxa de juro ou poupança, então prefiro confiar nas opiniões de quem está mais à minha volta.",
+          "Eu não percebo muito sobre essas coisas de crédito e taxas, mas acho que o melhor é perguntar a quem sabe, como a família ou amigos, porque eles podem ter conselhos bons. Não entendo muito de números ou jargões financeiros.",
+          "Para mim, é mais fácil perguntar aos meus familiares e amigos se acham que vale a pena contrair crédito. Não percebo muito desses termos financeiros complicados, como taxas de juro ou prazos, então confio no que os outros dizem.",
+          "Eu não percebo muito de finanças e esses termos como taxa de juro ou prazo de pagamento não fazem muito sentido para mim. Acho que falar com familiares e amigos é mais fácil e eles podem dar uma boa opinião sobre se devo ou não contrair crédito."
+        ],
+        "Médio": [
+          "Acho que é importante ouvir o que as pessoas que conhecemos pensam. Às vezes, elas podem ajudar a decidir se vale a pena pedir um empréstimo ou não. Não tenho muita certeza sobre taxas de juro e poupança, por isso prefiro confiar na opinião de quem está perto.",
+          "Eu acho que é importante perguntar aos familiares e amigos antes de decidir, porque eles podem ter boas ideias ou avisos sobre pegar crédito. Não sei muito sobre juros ou prazos, então confio mais nas opiniões deles.",
+          "Eu acho que é importante ouvir o que os familiares e amigos pensam, porque eles podem ter experiências e conselhos sobre fazer compras a crédito. As outras opções falam de coisas que não percebo bem, como taxas de juro e prazos de pagamento, que me parecem complicados.",
+          "Acho que é importante pensar se conseguimos poupar o dinheiro em vez de pedir um crédito, porque assim não temos que pagar juros. Não conheço muito bem os outros termos, como a taxa de juro, mas parece-me que poupar é sempre melhor.",
+          "Acho que o mais importante é ver se consigo poupar para a compra em vez de contrair crédito. Não entendo muito bem sobre taxas de juro e prazos, então prefiro pensar se posso juntar o dinheiro primeiro.",
+          "Acho que é importante pensar se posso poupar em vez de pedir dinheiro emprestado. Não percebo muito bem de taxas de juro ou prazos, mas se eu conseguir juntar o dinheiro, talvez não precise de contrair crédito.",
+          "Acredito que ouvir a minha família e amigos é importante, porque eles podem ter conselhos bons sobre se devo ou não fazer um empréstimo. Não entendo bem sobre taxas de juro ou poupança, por isso confio mais nas opiniões deles.",
+          "Acho que é importante ver se consigo poupar primeiro antes de pedir crédito. Não tenho certeza sobre os outros pontos como prazos ou juros, mas poupar parece mais seguro.",
+          "Acho que é importante ouvir o que os familiares e amigos têm a dizer, porque eles podem ter experiências que eu não tenho. Não percebo muito sobre juros ou poupança, então confiar na opinião de quem já passou por isso parece mais fácil.",
+          "Acho que, se puder poupar, é melhor do que contrair crédito. Não entendo muito bem sobre juros ou prazos, mas sei que poupar é sempre uma boa ideia antes de fazer compras grandes."
+        ],
+        "Alto": [
+          "Um consumidor deve avaliar a possibilidade de poupança antes de contrair crédito, pois isso permite determinar se é financeiramente viável fazer a compra à vista, evitando assim o pagamento de juros. A análise da capacidade de poupança é crucial para uma decisão financeira saudável, uma vez que reflete a relação entre despesas e receitas.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, pois isso implica analisar se a compra é realmente necessária e se existem alternativas que possam ser financiadas sem recorrer a juros. A avaliação deve incluir não apenas a taxa de juro, mas também a capacidade de poupança e o impacto no orçamento a longo prazo.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, pois isso permite uma análise mais completa da sua situação financeira. A poupança pode ser uma alternativa viável ao crédito, evitando o pagamento de juros e promovendo uma gestão financeira mais saudável.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, uma vez que isso permite uma análise mais abrangente da sua situação financeira. Avaliar a poupança disponível e o impacto do crédito nos seus objetivos a longo prazo é essencial para uma decisão informada, evitando endividamento desnecessário.",
+          "A opção B é a mais completa, pois avaliar a necessidade de contrair crédito envolve considerar a possibilidade de poupança e a capacidade de pagamento, além da taxa de juro. A poupança pode evitar a necessidade de crédito, sendo fundamental analisar a situação financeira do consumidor antes de contrair dívidas.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, pois isso permite uma análise mais completa da sua situação financeira. Avaliar se a compra pode ser feita sem necessidade de crédito, através da poupança, é fundamental para evitar o endividamento e garantir uma gestão financeira saudável.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, pois isso permite que ele analise se a compra pode ser feita sem recorrer a crédito, evitando encargos adicionais. A avaliação de poupança é crucial para entender a viabilidade financeira da compra e o impacto no orçamento familiar.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando primeiro a possibilidade de poupança, pois isso permite determinar se a compra pode ser feita sem recorrer a dívidas. Essa abordagem ajuda a evitar encargos financeiros desnecessários e a manter uma boa saúde financeira.",
+          "Um consumidor deve avaliar a possibilidade de poupança antes de contrair crédito, pois isso permite que avalie se a compra pode ser feita sem endividar-se, considerando também o impacto do crédito sobre o seu orçamento e as suas finanças a longo prazo. Este raciocínio é fundamental para evitar a sobrecarga de dívidas e garantir uma gestão financeira saudável.",
+          "Um consumidor deve avaliar a necessidade de contrair crédito considerando a possibilidade de poupança, pois isso permite determinar se a compra pode ser feita sem incorrer em dívidas. A análise da poupança é fundamental para garantir que o crédito não comprometa a saúde financeira a longo prazo."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma estratégia eficaz para gerir múltiplas dívidas?",
+      "options": {
+        "A": "Priorizar dívidas com juros mais altos.",
+        "B": "Concentrar-se primeiro nas dívidas de menor montante.",
+        "C": "Pagar todas as dívidas ao mesmo tempo.",
+        "D": "Ignorar as dívidas com juros baixos."
+      },
+      "hint": "Pensa em como reduzir o custo total dos juros.",
+      "rationale": "Priorizar o pagamento das dívidas com juros mais altos pode reduzir o custo total dos juros e ajudar a gerir melhor o endividamento.",
+      "tag": "Endividamento",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Endividamento' e avalia uma estratégia relevante para a gestão de dívidas, que é o foco do conteúdo-fonte."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de priorizar dívidas com juros mais altos como uma estratégia eficaz."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão de dívidas, mas a opção C ('Pagar todas as dívidas ao mesmo tempo') pode ser considerada menos prática, o que pode diminuir sua qualidade como distrator."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao sugerir que o participante pense em como reduzir o custo total dos juros, mas poderia ser mais específica em relação à estratégia de priorização."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, justificando adequadamente a resposta correta e estabelecendo uma ligação explícita ao conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é mais fácil lidar com as dívidas menores primeiro, assim posso ficar com menos contas para pagar. Não reconheço muitos termos técnicos, mas parece que se começar pelas menores, depois fico mais tranquilo.",
+          "Acho que se devemos começar pelas dívidas menores, porque assim vamos eliminá-las mais rapidamente e isso pode ajudar a sentir que estamos a controlar a situação. Não percebo bem os juros e essas coisas complicadas, mas parece mais fácil pagar o que é menos.",
+          "Acho que se for a menor dívida, dá uma sensação de alívio quando pagamos. Não sei bem o que são juros altos ou baixos, mas parece mais fácil resolver as que são menores primeiro.",
+          "Acho que é mais fácil lidar com as dívidas menores primeiro, assim parece que estou a fazer progresso. Não entendo muito sobre juros e essas coisas, mas pagar as pequenas dívidas dá-me uma sensação de alívio.",
+          "Acho que é mais fácil lidar com as dívidas pequenas primeiro, porque assim me sinto mais aliviado. Não percebo muito bem os juros e essas coisas complicadas, mas pagar dívidas pequenas parece ser um bom começo.",
+          "Acho que é melhor pagar as dívidas menores primeiro porque assim fico com menos contas para me preocupar. Não entendo bem os juros e essas coisas complicadas, mas parece mais simples resolver as dívidas pequenas primeiro.",
+          "Eu acho que se concentrar nas dívidas menores é mais fácil, porque assim a pessoa consegue quitar umas logo e sente que está a fazer progresso. Não entendo muito bem os juros altos ou baixos, mas parece-me que começar pelas pequenas é mais motivador.",
+          "Acho que é melhor começar a pagar as dívidas mais pequenas primeiro para ir eliminando algumas, assim parece que estamos a ter mais sucesso e a situação fica menos pesada. Não percebo muito sobre juros e coisas complicadas, mas parece-me que é mais fácil lidar com dívidas que conseguimos pagar rápido.",
+          "Acho que é mais fácil lidar com dívidas menores primeiro, porque assim parece que estou a fazer progresso e a ficar com menos contas. Os termos como 'juros altos' e 'baixos' não são muito claros para mim, mas parece mais simples começar pelo que é pequeno.",
+          "Eu não percebo muito de termos financeiros, mas parece mais fácil começar a pagar as dívidas mais pequenas, porque assim fico com menos coisas para preocupar-me. Se eu pagar as pequenas, depois já me sinto mais leve para lidar com as outras."
+        ],
+        "Médio": [
+          "Acho que se pagar as dívidas mais pequenas primeiro, depois é mais fácil lidar com as outras. Não percebo bem os juros nem essas coisas complicadas, mas parece que assim dá uma sensação de que estou a conseguir resolver as coisas.",
+          "Acho que é mais fácil pagar as dívidas menores primeiro porque assim fico com menos dívidas e é mais motivador. Não percebo bem os termos como juros altos ou baixos, mas parece que é mais simples lidar com menos dívidas de cada vez.",
+          "Acho que é mais fácil começar a pagar as dívidas menores porque assim fico com menos dívidas para pensar. Não conheço bem os termos de juros altos ou baixos, mas parece que se eu pagar as pequenas, posso ficar mais aliviado.",
+          "Acho que pagar primeiro as dívidas que são menores pode ser mais fácil, porque assim fico mais leve e menos preocupado. Não entendo bem os juros e essas coisas, mas parece que é mais prático resolver as pequenas primeiro.",
+          "Acho que é mais fácil pagar dívidas pequenas primeiro, porque assim sinto que estou a fazer progressos. Não compreendo bem os juros altos ou baixos, mas parece que é mais motivador eliminar algumas dívidas de uma vez.",
+          "Eu acho que pode ser mais fácil começar a pagar as dívidas menores primeiro, porque assim vamos eliminando algumas e fica mais leve. Não entendo muito bem sobre juros e essas coisas complicadas, mas parece que é uma maneira simples de lidar com as dívidas.",
+          "Acho que se pagar as dívidas menores primeiro, fico mais aliviado e isso pode ajudar a motivar-me a pagar as maiores. Não percebo bem como funcionam os juros, mas parece mais fácil assim.",
+          "Acho que pagar as dívidas menores primeiro pode ser mais fácil e motivador, porque assim vejo que estou a resolver algumas. Não sei muito sobre juros altos ou baixos, mas parece mais prático começar pelas que são mais pequenas.",
+          "Acho que é melhor pagar as dívidas menores primeiro porque assim parece que estamos a fazer progresso e a eliminar dívidas. Não entendo bem os juros altos ou baixos, mas se pagar as pequenas, pode ajudar a ficar menos stressado.",
+          "Acho que se pagar as dívidas mais pequenas primeiro é mais fácil, porque assim fico com menos dívidas e é mais motivador. Não entendo bem de juros e essas coisas, mas parece-me que é uma boa ideia começar pelas que são mais fáceis de resolver."
+        ],
+        "Alto": [
+          "A opção B é a mais eficaz, pois ao priorizar dívidas com juros mais altos, minimizamos o custo total da dívida ao longo do tempo. Esta abordagem é fundamentada na gestão financeira, onde a redução dos encargos de juros é crucial para uma recuperação financeira eficiente.",
+          "A estratégia mais eficaz para gerir múltiplas dívidas é priorizar aquelas que têm juros mais altos, pois isso minimiza o custo total da dívida ao longo do tempo, evitando que os encargos financeiros aumentem. Esta abordagem é conhecida como 'método da avalanche', que é amplamente reconhecido na literacia financeira como uma forma eficiente de reduzir a carga da dívida.",
+          "A estratégia de priorizar dívidas com juros mais altos é eficaz porque minimiza o custo total das dívidas ao longo do tempo. Os juros compostos podem aumentar rapidamente o montante devido, por isso é crucial focar nas dívidas que geram mais encargos financeiros.",
+          "A estratégia de priorizar dívidas com juros mais altos é eficaz porque minimiza o custo total da dívida ao reduzir o montante de juros pagos ao longo do tempo. Esta abordagem, conhecida como 'método da avalanche', é amplamente reconhecida na gestão de dívidas, pois permite um planeamento financeiro mais eficiente e sustentável.",
+          "A opção B é a mais eficaz, pois ao priorizar o pagamento das dívidas com juros altos, minimiza-se o custo total da dívida a longo prazo, uma vez que os encargos financeiros irão aumentar significativamente com o tempo. Esta estratégia é fundamental na gestão financeira, pois permite uma melhor alocação dos recursos disponíveis e a redução do impacto das taxas de juro elevadas no orçamento pessoal.",
+          "A opção A é a mais correta, pois priorizar o pagamento de dívidas com juros mais altos é uma estratégia eficaz para minimizar o custo total da dívida ao longo do tempo. Isso está alinhado com o conceito de otimização de recursos financeiros, onde se busca reduzir a maior parte dos encargos financeiros envolvidos.",
+          "A opção A é a mais eficaz porque permite reduzir o custo total das dívidas ao pagar aquelas que geram mais encargos financeiros. Este método, conhecido como 'avalanche', é preferível em termos de gestão financeira, pois minimiza o impacto dos juros a longo prazo.",
+          "A opção A é a mais eficaz, pois pagar primeiro as dívidas com juros mais altos minimiza o custo total da dívida ao longo do tempo. Esta abordagem é conhecida como 'método avalanche' e é amplamente reconhecida na gestão de dívidas, pois maximiza a eficiência do pagamento e reduz o impacto dos juros compostos.",
+          "A opção B é a mais eficaz porque, ao priorizar dívidas com juros mais altos, minimizamos o custo total das dívidas ao longo do tempo. Esta estratégia é reconhecida como a abordagem mais racional para a gestão da dívida, pois reduzir a carga de juros pode levar a uma maior poupança a longo prazo.",
+          "A opção A é a mais eficaz, pois ao priorizar dívidas com juros altos, minimizamos o custo total da dívida ao longo do tempo. Este conceito é fundamental na gestão financeira, uma vez que os juros altos podem aumentar rapidamente o montante devido, principalmente em dívidas rotativas como cartões de crédito."
+        ]
+      }
+    },
+    {
+      "question": "O que inclui a TAEG que a TAN não inclui?",
+      "options": {
+        "A": "Todos os encargos associados ao empréstimo.",
+        "B": "Apenas a taxa de juro nominal.",
+        "C": "Os juros mensais apenas.",
+        "D": "O valor do capital emprestado."
+      },
+      "hint": "Compara os elementos de custo do crédito.",
+      "rationale": "A TAEG inclui todos os encargos associados ao empréstimo, permitindo uma comparação mais precisa entre ofertas, ao contrário da TAN que é apenas a taxa de juro declarada.",
+      "tag": "Taxas de juro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 3,
+          "justification": "A pergunta está relacionada com taxas de juro, mas a TAEG e TAN não são diretamente abordadas no conteúdo-fonte, o que limita a sua adequação ao tópico específico de 'Taxas de juro'."
+        },
+        "topic_grounding": {
+          "score": 2,
+          "justification": "A pergunta e a resposta correta contêm informações que não são diretamente sustentadas pelo conteúdo-fonte, que não menciona TAEG ou TAN, resultando em uma fundamentação fraca."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção correta poderia ser mais evidente, pois a opção 'A' é a única que se refere a encargos, enquanto as outras se concentram apenas na taxa de juro."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são relacionados com o tema, mas alguns, como 'Apenas a taxa de juro nominal', não são suficientemente plausíveis como alternativas, pois não refletem a complexidade da TAEG."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil ao sugerir que o participante compare os elementos de custo do crédito, mas poderia ser mais específica em relação à TAEG e TAN."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao incluir exemplos ou detalhes adicionais sobre a diferença entre TAEG e TAN."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.3,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito bem o que são essas taxas e encargos, mas a opção A parece mais simples porque fala apenas da taxa de juro. As outras opções têm muitos termos que eu não conheço e isso confunde-me.",
+          "Eu não percebo bem o que é TAEG ou TAN, mas acho que a opção A faz sentido porque quando pedimos dinheiro, pensamos sempre no valor que vamos receber. Não sei o que são encargos ou juros mensais.",
+          "Não percebo bem o que é TAEG ou TAN, mas parece que a TAEG é só uma taxa que fala de juros. Portanto, talvez seja só uma parte dos custos, como a taxa de juro nominal, que é como a parte principal.",
+          "Não sei o que é TAEG ou TAN, mas parece que a opção A fala de algo que é básico, como o dinheiro que pedimos emprestado. Talvez pense que isso é o que importa mais, e não entendo bem porque são necessárias essas taxas complicadas.",
+          "Eu não conheço bem esses termos como TAEG e TAN. Parece que a opção A fala só sobre uma taxa, então acho que é isso. Para mim, juro é só juro, não sei o que mais poderia incluir.",
+          "Não conheço bem os termos como TAEG e TAN, mas parece que a pergunta fala de taxas e encargos. Eu escolheria que a TAEG inclui os juros mensais, porque parece que é algo que se paga todos os meses.",
+          "Sinceramente, não percebo bem o que é a TAEG ou a TAN. Para mim, a TAEG deve ser só sobre os juros que tenho que pagar todos os meses, porque é isso que interessa, não? Os detalhes financeiros são confusos e não sei o que cada termo quer dizer.",
+          "Eu não percebo bem o que é TAEG ou TAN, mas parece que a TAEG fala sobre o valor que se pede emprestado. Por isso, escolhi a opção que menciona o capital emprestado, que é algo que faz sentido para mim.",
+          "Eu não percebo bem essas siglas e termos complicados, mas acho que a TAEG deve incluir tudo que se paga quando se pede dinheiro emprestado, como taxas e encargos. A TAN parece ser só a parte dos juros, então escolhi a A.",
+          "Não conheço bem os termos como TAEG e TAN, mas parece que a opção A fala do capital que se pede emprestado, e isso é algo que faz sentido para mim no contexto de um empréstimo."
+        ],
+        "Médio": [
+          "Eu não conheço bem esses conceitos de TAEG e TAN, mas parece que a TAEG deve incluir mais coisas, como encargos e taxas, enquanto a TAN é só a taxa de juro. Portanto, acho que a resposta certa é a opção A.",
+          "Eu não conheço bem esses termos como TAEG e TAN, mas parece que a TAEG é mais abrangente e pode incluir outras coisas além da taxa de juro. Por isso, escolhi a opção A, mas não tenho certeza.",
+          "Eu não percebo muito bem o que é TAEG e TAN, mas talvez a TAEG inclua tudo o que se paga a mais além dos juros, como taxas e coisas assim. Então, escolheria a opção A porque parece ser o que se paga de mais no empréstimo.",
+          "Eu acho que a TAEG deve incluir só os juros que pagamos mensalmente, porque a TAN parece ser só uma parte disso. Não estou muito por dentro dos termos, mas parece que a TAEG é uma taxa mais simples que só fala dos juros.",
+          "Acho que a TAEG inclui todos os custos que temos com um empréstimo, enquanto a TAN é só a taxa de juro. Não entendo bem todos os detalhes, mas parece que a TAEG é mais completa.",
+          "Eu não estou muito certo sobre esses termos, mas acho que a TAEG é só a taxa de juro que aparece nos contratos. A TAN é a taxa que já sabemos, por isso parece que a TAEG deve ser só isso. Não percebo bem os encargos nem o que mais é incluído.",
+          "Eu não tenho certeza, mas parece que TAEG tem a ver com juros e talvez só inclua isso. Não reconheço bem os termos, mas acho que TAEG é mais sobre o que pagamos todos os meses, enquanto TAN é só os juros.",
+          "Eu não conheço bem esses termos como TAEG e TAN. Acredito que a TAEG inclui o valor que pedimos emprestado, mas não tenho a certeza. Normalmente, quando falamos de empréstimos, pensamos no dinheiro que recebemos e não em encargos ou taxas.",
+          "Acho que a TAEG deve incluir mais coisas do que só a taxa de juro, talvez até outros custos que vêm com o empréstimo. Não conheço bem os termos, mas parece que a TAEG cobre tudo, enquanto a TAN é só a taxa de juro.",
+          "Eu não conheço muito bem os termos, mas parece que a TAEG deve incluir mais coisas que a TAN, então pensei que a TAN só falasse da taxa de juro. Não percebo bem o que são encargos e outras coisas assim."
+        ],
+        "Alto": [
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas a taxa de juro nominal (TAN), mas também todos os encargos associados ao empréstimo, como comissões, seguros e outros custos que podem impactar o custo total do crédito. Por outro lado, a TAN apenas reflete a taxa de juro sem considerar esses encargos adicionais.",
+          "A TAEG (Taxa Anual Efectiva Global) inclui não apenas a taxa de juro nominal (TAN), mas também todos os encargos associados ao empréstimo, como comissões e seguros, que não estão refletidos na TAN. Reconheço os termos usados, pois a TAEG é uma medida abrangente que permite comparar diferentes ofertas de crédito de forma mais precisa.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas a taxa de juro, mas também todos os encargos associados ao empréstimo, como comissões e seguros, enquanto a TAN (Taxa Anual Nominal) considera apenas a taxa de juro nominal. Assim, a opção B é a mais correta.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui todos os encargos associados ao empréstimo, como comissões e seguros, enquanto a TAN (Taxa Anual Nominal) se refere apenas à taxa de juro aplicada ao capital emprestado. Reconheço os termos usados e compreendo que a TAEG fornece uma visão mais completa do custo total do crédito.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas a taxa de juro, mas todos os encargos associados ao empréstimo, como comissões e seguros, o que a torna uma medida mais abrangente em comparação com a TAN (Taxa Anual Nominal), que se refere apenas à taxa de juro nominal sem considerar outros custos.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui todos os encargos associados ao empréstimo, como comissões e seguros, enquanto a TAN (Taxa Anual Nominal) se refere apenas à taxa de juro nominal. Reconheço estes termos, pois são fundamentais para entender o custo total de um empréstimo e a comparação entre diferentes ofertas financeiras.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui todos os encargos associados ao empréstimo, como comissões e despesas, enquanto a TAN (Taxa Anual Nominal) se refere apenas à taxa de juro. Esta distinção é crucial para avaliar o custo total de um empréstimo.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas os juros, mas também todos os encargos associados ao empréstimo, como comissões e seguros, enquanto a TAN (Taxa Anual Nominal) se refere apenas à taxa de juro nominal sem considerar outros custos. Esta distinção é fundamental para uma análise mais completa do custo total de um empréstimo.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas a taxa de juro nominal (TAN), mas também todos os encargos relacionados ao empréstimo, como comissões e taxas administrativas, que influenciam o custo total do crédito. Reconheço os termos usados e compreendo que a TAEG é uma medida mais abrangente que permite uma comparação mais precisa dos custos dos diferentes produtos de crédito.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) inclui não apenas a taxa de juro nominal (TAN), mas também todos os encargos associados ao empréstimo, como comissões e seguros. Isso a torna uma medida mais abrangente do custo total do crédito, enquanto a TAN se limita apenas à taxa de juro aplicada ao capital emprestado."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma ação recomendada para gerir eficazmente a dívida?",
+      "options": {
+        "A": "Negociar com credores antes de falhar pagamentos.",
+        "B": "Aumentar o limite de crédito disponível.",
+        "C": "Concentrar-se em pagar apenas uma dívida de cada vez.",
+        "D": "Evitar qualquer contacto com os credores."
+      },
+      "hint": "Prevenção de incumprimento.",
+      "rationale": "Negociar com credores antes de falhar pagamentos pode ajudar a evitar incumprimentos e encontrar soluções de pagamento mais adequadas.",
+      "tag": "Gestão da dívida",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Gestão da dívida' e avalia um conhecimento relevante sobre ações recomendadas para gerir dívidas."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de negociar com credores para evitar incumprimentos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão de dívida, mas a opção B ('Aumentar o limite de crédito disponível') pode ser considerada menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica 'Prevenção de incumprimento' orienta o raciocínio do participante de forma útil, mas poderia ser mais específica em relação à ação recomendada."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de negociar com credores."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.2,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu penso que, se tiver mais crédito disponível, posso usar isso para pagar as minhas dívidas. Não entendo bem os termos financeiros, mas parece que ter mais dinheiro à disposição pode ajudar.",
+          "Eu acho que se não falarmos com os credores, talvez eles se esqueçam de nós e não peçam o dinheiro. Não conheço bem esses termos, mas parece que ignorar o problema pode ser uma solução.",
+          "Eu não percebo muito desses termos de finanças, mas parece que se não falar com os credores, eles não vão chatear. Se eu não falo, talvez eles esqueçam de mim e eu não precise me preocupar com a dívida.",
+          "Acho que é melhor focar em pagar uma dívida de cada vez, porque é mais simples e menos confuso. Não entendo bem os termos técnicos, mas parece que assim não fico sobrecarregado com várias dívidas ao mesmo tempo.",
+          "Eu acho que se for só a pagar uma dívida de cada vez é mais fácil de gerir, porque se tentar pagar tudo ao mesmo tempo pode ser confuso e complicado. Não conheço bem os outros termos, mas parece que negociar com credores pode ser complicado.",
+          "Acho que é melhor focar em uma dívida de cada vez, assim não fico confuso. Não entendo muito bem os termos financeiros, mas parece mais simples lidar com uma coisa de cada vez.",
+          "Acho que é melhor falar com quem deve antes de não conseguir pagar. Não percebo bem os termos complicados, mas falar com eles parece mais sensato do que ignorá-los ou aumentar dívidas.",
+          "Eu acho que se não falarmos com os credores, eles vão esquecer a dívida. Não percebo muito dessas coisas de negociar e de pagar de forma certa, mas evitar o contacto parece mais fácil.",
+          "Eu acho que deve ser mais fácil lidar com uma dívida de cada vez, em vez de tentar resolver tudo ao mesmo tempo. Não conheço bem os termos técnicos, mas parece que focar numa coisa só ajuda a não ficar confuso.",
+          "Acho que é mais fácil lidar com uma dívida de cada vez, assim não fico a pensar em tantas coisas ao mesmo tempo. Não percebo bem os termos técnicos, mas pagar uma de cada vez parece mais simples e menos confuso."
+        ],
+        "Médio": [
+          "Acho que negociar com os credores é importante porque pode ajudar a evitar problemas maiores se não conseguir pagar. Não entendo muito bem os termos, mas parece-me que falar com eles é uma boa ideia antes de chegar a uma situação complicada.",
+          "Acho que é melhor pagar uma dívida de cada vez porque assim não fica tudo confuso. Pagar tudo de uma vez parece difícil e pode fazer-me perder o controle das contas.",
+          "Acho que pagar uma dívida de cada vez é mais fácil de entender. Não sei muito sobre negociar ou aumentar limites, e evitar os credores só parece pior. Focar numa dívida dá-me a sensação de que estou a fazer progresso.",
+          "Parece-me que pagar uma dívida de cada vez pode ser mais fácil, porque assim não tenho que me preocupar com várias ao mesmo tempo. Não conheço bem os outros termos, mas essa opção parece a mais simples e direta.",
+          "Acho que é melhor focar numa dívida de cada vez, porque assim não fica tão confuso e é mais fácil de gerir. Não conheço bem os outros termos, mas parece que concentrar-se numa coisa é mais simples.",
+          "Acho que se focar numa dívida de cada vez é boa ideia, porque assim não me confundo com muitas ao mesmo tempo. Não conheço bem os outros termos, mas parece que negociar com credores é complicado e aumentar o crédito pode ser arriscado.",
+          "Acho que pagar uma dívida de cada vez é mais fácil de gerir, porque assim não fico tão confuso com várias ao mesmo tempo. Não tenho certeza do que significa negociar com credores, mas parece complicado.",
+          "Acho que a melhor maneira de lidar com dívidas é focar em pagar uma de cada vez, porque assim parece mais fácil, e não me confunde tanto. Os outros termos, como negociar ou aumentar crédito, parecem complicados e eu não sei bem como funcionam.",
+          "Acho que negociar com os credores é importante, porque se não pagamos, eles podem ficar chateados e isso pode complicar mais as coisas. Não percebo bem os termos, mas parece que é melhor falar antes de ter problemas.",
+          "Acho que pagar uma dívida de cada vez é mais fácil, porque assim não fico confuso com várias ao mesmo tempo. Não reconheço todos os termos, mas parece lógico focar numa coisa só."
+        ],
+        "Alto": [
+          "A opção B é a mais recomendada, pois a comunicação proativa com os credores pode resultar em condições mais favoráveis, como prazos alargados ou taxas de juro reduzidas. Ignorar os credores (opção A) pode levar a consequências negativas, enquanto pagar uma dívida de cada vez (opção C) pode não ser a estratégia mais eficiente se houver dívidas com taxas de juro altas. Aumentar o limite de crédito (opção D) pode agravar a situação de endividamento, em vez de a resolver.",
+          "A opção D é a mais adequada porque negociar com os credores pode ajudar a encontrar soluções que evitem a deterioração da situação financeira, como planos de pagamento mais flexíveis ou taxas de juros reduzidas. Evitar o contacto com os credores (opção A) pode agravar a dívida, pagar apenas uma dívida de cada vez (opção B) pode ser ineficaz se houver múltiplas dívidas prioritárias, e aumentar o limite de crédito (opção C) pode levar a um ciclo de endividamento ainda maior.",
+          "A opção B é a mais aconselhável, pois a negociação com credores pode evitar a deterioração da situação financeira e permitir a reestruturação da dívida. Ignorar credores ou aumentar o limite de crédito não resolve o problema subjacente da dívida, enquanto pagar apenas uma dívida de cada vez pode não ser a abordagem mais eficiente se houver múltiplas taxas de juro envolvidas.",
+          "A opção A é a mais recomendada, pois a negociação com credores pode levar a condições de pagamento mais favoráveis e evitar a degradação da situação financeira. Ignorar a dívida ou aumentar o limite de crédito não resolve o problema e pode agravar a situação financeira, enquanto pagar apenas uma dívida de cada vez pode não ser a abordagem mais eficaz para reduzir a carga total de dívida.",
+          "A opção C é a mais adequada, pois negociar com os credores pode resultar em condições mais favoráveis, como prazos de pagamento alargados ou redução de juros, evitando assim a deterioração da situação financeira. Reconheço que evitar contacto com credores (opção A) e aumentar o limite de crédito (opção B) podem agravar a dívida, enquanto focar-se em pagar uma dívida apenas (opção D) pode não ser a abordagem mais eficaz em termos de gestão de fluxo de caixa.",
+          "A opção C é a mais recomendada porque a negociação com credores pode resultar em condições mais favoráveis para o pagamento da dívida, evitando assim a deterioração do crédito e possíveis sanções. A literacia financeira sugere que manter comunicação aberta com os credores é essencial para uma gestão eficaz da dívida.",
+          "A opção C é a mais recomendada, pois a negociação com credores pode resultar em acordos favoráveis para evitar a deterioração da situação financeira. Ignorar os credores ou focar-se em pagar apenas uma dívida pode agravar a situação, enquanto aumentar o limite de crédito apenas adia o problema.",
+          "A opção C é a mais recomendada, pois negociar com os credores pode levar a condições de pagamento mais favoráveis, evitando assim a deterioração da situação financeira. A comunicação proativa é essencial para a gestão eficaz da dívida, enquanto as outras opções apresentam abordagens menos eficazes ou potencialmente prejudiciais.",
+          "A opção B é a mais recomendada, pois negociar com os credores pode evitar a deterioração da situação financeira e permitir condições de pagamento mais favoráveis. Evitar contacto com os credores ou aumentar o limite de crédito não resolve a dívida e pode agravar a situação financeira a longo prazo.",
+          "A opção B é a mais recomendada, pois a negociação proativa com os credores pode evitar a deterioração da situação financeira e facilitar acordos de pagamento mais favoráveis. Os termos usados, como 'negociar' e 'falhar pagamentos', são fundamentais em gestão de dívidas, e reconheço a importância de manter uma comunicação aberta para evitar consequências mais graves."
+        ]
+      }
+    },
+    {
+      "question": "Que risco está associado ao uso do BNPL?",
+      "options": {
+        "A": "Descontrolo de gastos e endividamento.",
+        "B": "Melhoria imediata do historial de crédito.",
+        "C": "Redução dos custos de juros.",
+        "D": "Aumento do poder de compra sem riscos."
+      },
+      "hint": "Avalia o impacto do pagamento em prestações.",
+      "rationale": "Apesar de permitir acessibilidade imediata, o BNPL pode levar ao descontrolo de gastos e endividamento se não for utilizado com responsabilidade.",
+      "tag": "BNPL (buy now pay later)",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'BNPL (buy now pay later)' e avalia o conhecimento sobre os riscos associados a este método de pagamento."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente os riscos de descontrolo de gastos e endividamento associados ao BNPL."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de BNPL, mas a opção D é um pouco enganosa, pois sugere que não há riscos, o que não é verdade."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio ao focar no impacto do pagamento em prestações, mas poderia ser mais específica em relação aos riscos mencionados."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre os riscos do BNPL."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.4,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que usar BNPL é bom porque parece que podemos comprar coisas sem nos preocuparmos muito. Não percebo bem os riscos ou termos complicados, então imagino que seja só vantagens.",
+          "Acho que o maior risco de usar BNPL é que a pessoa pode acabar a gastar mais do que deve e depois ficar com dívidas. Não entendo bem os termos técnicos, mas parece que isso pode ser um problema comum.",
+          "Eu não conheço bem os termos, mas parece que usar o BNPL é uma forma de comprar agora e pagar depois, o que me faz pensar que é só vantagens. Penso que não há riscos, porque dá-me mais poder de compra.",
+          "Eu escolhi a opção A porque parece boa, já que com BNPL podemos comprar coisas e não vejo como isso pode ser arriscado. Não entendo bem os outros termos, mas ter mais poder de compra soa positivo.",
+          "Eu acho que o uso do BNPL é bom porque permite comprar coisas sem pagar logo, então parece que não há riscos. Não conheço bem os termos financeiros, mas parece que é uma boa maneira de ter mais dinheiro na hora.",
+          "Parece-me que usar BNPL (que eu não sei bem o que é) é bom porque dá para comprar agora e pagar depois, sem risco. Não percebo bem essas coisas de crédito e endividamento, mas a ideia de ter mais poder para comprar é positiva.",
+          "Eu acho que o BNPL é só uma maneira de comprar agora e pagar depois, então parece que não tem riscos. Não percebo bem os termos, mas para mim é como ter mais dinheiro para gastar.",
+          "Acho que o uso do BNPL pode levar a gastar mais do que se tem e, depois, ter dificuldades em pagar. Não conheço bem os termos técnicos, mas parece que pode ser fácil perder o controlo do dinheiro assim.",
+          "Acho que o uso do BNPL pode fazer com que as pessoas gastem demais e depois não consigam pagar. Não conheço bem os termos técnicos, mas parece-me que é fácil acabar a dever dinheiro.",
+          "Acho que o BNPL pode fazer as pessoas gastarem mais do que deveriam, porque é fácil comprar agora e pagar depois. Não percebo bem os termos técnicos, mas parece que isso pode levar a ter muitas dívidas."
+        ],
+        "Médio": [
+          "Acho que o BNPL pode fazer as pessoas gastarem mais do que deveriam e depois ficarem endividadas. Não reconheço bem todos os termos, mas parece que é fácil perder o controle quando se compra assim.",
+          "Eu acho que o BNPL pode fazer as pessoas gastarem mais do que devem, e isso pode levar a ter dívidas. Não entendo bem os termos financeiros, mas parece que é fácil ficar sem controle e acabar a dever muito.",
+          "Acho que o BNPL pode fazer as pessoas gastarem mais do que deviam porque parece fácil comprar agora e pagar depois. Não conheço bem os termos técnicos, mas sei que podemos acabar por nos endividar se não tivermos cuidado.",
+          "Eu não conheço bem os termos como BNPL, mas parece que a opção B fala sobre gastar demais e dever dinheiro. Isso é um risco que eu percebo, porque se comprarmos coisas e não pagarmos, podemos ficar em apuros.",
+          "Eu acho que a opção A faz sentido porque, quando usamos BNPL, podemos acabar por gastar mais do que devemos e depois ficamos com dívidas. Não conheço bem os termos todos, mas sei que pode ser perigoso se não tivermos cuidado com o dinheiro.",
+          "Acho que o BNPL pode fazer as pessoas gastar mais do que deviam, porque parece que estão a comprar agora e a pagar depois. Não conheço bem esses termos, mas parece arriscado ficar endividado.",
+          "Acho que usar BNPL pode fazer as pessoas gastarem mais do que deviam, porque é fácil comprar agora e pagar depois. Não percebo bem todos os detalhes, mas parece que pode levar a dívidas se não tivermos cuidado.",
+          "Eu acho que o risco do BNPL é que as pessoas podem gastar demais e acabar a dever muito dinheiro. Não conheço bem todos os termos, mas parece que pode ser fácil perder o controlo das despesas.",
+          "Acho que a opção B faz sentido porque quando se usa BNPL, pode ser fácil gastar mais do que se devia e depois acabar com dívidas. Não conheço todos os detalhes, mas parece que é fácil perder o controlo.",
+          "Acho que a opção D é a mais certa porque, quando usamos BNPL, podemos acabar a gastar mais do que devemos e depois ter problemas para pagar. Não conheço bem os termos, mas parece que é fácil perder o controlo."
+        ],
+        "Alto": [
+          "O uso do BNPL (Buy Now Pay Later) pode levar ao descontrolo financeiro, uma vez que permite aos consumidores adquirir produtos sem um pagamento imediato, o que pode resultar em gastos excessivos e endividamento se não forem geridos com cuidado. Reconheço os termos utilizados, pois refletem a preocupação com a gestão do crédito e a necessidade de um planeamento financeiro prudente.",
+          "O uso do BNPL (Buy Now, Pay Later) pode levar a um descontrolo nos gastos, uma vez que permite que os consumidores adquiram produtos sem um pagamento imediato, o que pode resultar em endividamento se não houver um adequado planeamento financeiro. Esta opção é a mais correta, pois reflete os riscos associados à facilidade de compra sem uma avaliação rigorosa da capacidade de pagamento.",
+          "A opção C é a mais correta, pois o uso de 'Buy Now, Pay Later' (BNPL) pode levar ao descontrolo dos gastos, uma vez que os consumidores podem acumular várias compras sem perceberem o impacto do seu endividamento. Este mecanismo facilita a aquisição imediata de bens, mas pode resultar em obrigações financeiras que superam a capacidade de pagamento do consumidor, aumentando assim o risco de endividamento.",
+          "O uso do BNPL (Buy Now Pay Later) pode levar a um descontrolo de gastos, uma vez que permite ao consumidor adquirir produtos imediatamente sem um pagamento inicial, o que pode resultar em endividamento se não houver um adequado planejamento financeiro. Reconheço os termos usados, pois refletem preocupações comuns em relação ao crédito e à gestão financeira pessoal.",
+          "O BNPL (Buy Now, Pay Later) pode levar ao descontrolo de gastos, pois os consumidores podem acumular mais dívidas do que conseguem pagar, resultando em endividamento. Esta opção reconhece os riscos associados ao aumento da facilidade de aquisição de produtos sem o pagamento imediato, que pode levar a uma gestão financeira deficiente.",
+          "O uso do BNPL (Buy Now, Pay Later) pode levar a um descontrolo dos gastos, uma vez que os consumidores podem acumular várias compras sem a necessidade imediata de pagamento, aumentando assim o risco de endividamento. Reconheço os termos usados, pois são amplamente discutidos no contexto de literacia financeira e gestão de crédito.",
+          "A opção D reflete o principal risco associado ao uso do BNPL (Buy Now Pay Later), que pode levar a um aumento descontrolado das despesas e a um endividamento excessivo, uma vez que os consumidores podem adquirir produtos sem considerar o impacto financeiro a longo prazo. As outras opções não capturam adequadamente os riscos envolvidos, uma vez que o BNPL pode não necessariamente melhorar o historial de crédito e, embora possa reduzir custos de juros em algumas situações, isso não é garantido.",
+          "O uso do BNPL (Buy Now, Pay Later) pode facilitar o consumo imediato, mas também pode levar a um descontrolo financeiro, uma vez que os consumidores podem acumular dívidas sem uma gestão adequada do seu orçamento. Este risco é bem reconhecido, especialmente em contextos onde a literacia financeira é baixa.",
+          "O BNPL (Buy Now, Pay Later) pode levar ao descontrolo de gastos, pois os consumidores podem acumular múltiplas compras sem perceber o impacto total na sua situação financeira. Este tipo de pagamento pode facilitar o endividamento, uma vez que os consumidores podem não avaliar corretamente a sua capacidade de pagamento futuro, levando a um ciclo de dívida.",
+          "O uso do BNPL (Buy Now, Pay Later) pode levar ao descontrolo de gastos, uma vez que os consumidores podem adquirir produtos sem um pagamento imediato, aumentando o risco de endividamento. Esta opção é a mais correta, pois reflete o risco financeiro real associado a esta modalidade de pagamento."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante comparar propostas de crédito usando a TAEG e o MTIC?",
+      "options": {
+        "A": "Para entender o custo real do crédito.",
+        "B": "Para garantir o menor prazo de pagamento possível.",
+        "C": "Para escolher a instituição com melhor reputação.",
+        "D": "Para assegurar a maior quantia possível de empréstimo."
+      },
+      "hint": "Compara indicadores de custo total.",
+      "rationale": "Comparar propostas usando a TAEG e o MTIC é fundamental para entender o custo real do crédito, incluindo todos os juros e encargos.",
+      "tag": "TAEG e MTIC",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'TAEG e MTIC', pois questiona sobre a importância de comparar propostas de crédito utilizando esses indicadores."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que explica claramente a função da TAEG e do MTIC na comparação de propostas de crédito."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de crédito, mas algumas opções, como B e D, podem ser consideradas menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o que comparar, mas poderia ser mais específica em relação à importância da TAEG e do MTIC."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da TAEG e do MTIC na compreensão do custo do crédito."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.0,
+        "Médio": 0.9,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não entendo bem o que são TAEG e MTIC, mas acho que é mais importante saber qual banco é mais confiável. Se a instituição tem boa reputação, deve ser mais segura para pegar um crédito.",
+          "Eu não entendo bem o que é a TAEG ou o MTIC, mas acho que é mais importante saber se o banco é bom e confiável do que ver números complicados. Assim, escolho a opção que fala sobre a reputação.",
+          "Não percebo bem o que são TAEG ou MTIC, mas acho que é mais importante escolher uma instituição que seja boa e de confiança. Se a reputação for boa, parece que é uma boa escolha.",
+          "Eu não percebo bem o que é TAEG ou MTIC, mas penso que é mais importante saber se o banco é bom ou não. Se eu escolher um banco com boa reputação, talvez eu não tenha problemas mais tarde.",
+          "Eu não conheço bem esses termos como TAEG e MTIC, mas acho que o importante é pagar o menos tempo possível, para não ter de estar a dever dinheiro por muito tempo. Por isso, escolhi a opção A.",
+          "Não percebo bem o que é TAEG ou MTIC, mas acho que é mais importante escolher uma instituição que seja conhecida e confiável, assim sei que não me vão enganar.",
+          "Não entendo bem o que é a TAEG e o MTIC, mas acho que é mais importante ver se a instituição é de confiança. Se as pessoas falam bem, deve ser uma boa escolha.",
+          "Não percebo muito bem o que é TAEG e MTIC, mas acho que o mais importante é saber se a instituição é boa e se tem boa fama. Se for uma empresa de confiança, provavelmente é uma boa escolha.",
+          "Eu não entendo bem o que significa TAEG ou MTIC, mas acho que é mais importante saber qual banco ou instituição é mais confiável. Escolher um lugar respeitável é o que me parece mais seguro.",
+          "Eu não percebo muito bem o que são TAEG e MTIC, mas acho que é importante escolher uma instituição que seja conhecida e confiável. Se a instituição for boa, deve ser seguro fazer um empréstimo com eles."
+        ],
+        "Médio": [
+          "Eu acho que a opção A faz sentido porque, quando pedimos um crédito, queremos saber quanto vamos pagar no total. Não consigo lembrar muito bem o que é a TAEG ou o MTIC, mas parece que têm a ver com os custos do crédito, então é importante saber isso.",
+          "Acho que é importante saber quanto realmente vou pagar pelo crédito, mas não sei muito bem o que é TAEG ou MTIC. Parece que é para entender melhor os custos, então escolhi esta opção.",
+          "Eu não conheço bem esses termos TAEG e MTIC. Para mim, o mais importante é ver qual banco é mais confiável, por isso escolhi a opção A. Comparar propostas parece complicado, então prefiro ir pelo que parece mais seguro.",
+          "Acho que é importante saber quanto vou pagar no total, mas não conheço bem os termos TAEG e MTIC. Penso que isso deve ajudar a perceber melhor o que vou gastar.",
+          "Acho que a TAEG e o MTIC ajudam a perceber quanto é que vou realmente pagar pelo crédito. Não conheço bem os termos, mas parece que são importantes para saber o custo total.",
+          "Acho que é importante entender quanto realmente vou pagar pelo crédito. Não conheço bem a TAEG e o MTIC, mas parece que têm a ver com os custos. O resto das opções não me parece tão relevante.",
+          "Acho que a TAEG e o MTIC ajudam a perceber quanto realmente vou pagar no final. Não conheço bem esses termos, mas parece que são importantes para não ficar a dever mais do que pensava.",
+          "Acho que é importante saber quanto vou pagar realmente pelo crédito. Não conheço bem os termos TAEG e MTIC, mas parece que ajudam a ver isso. Não me preocupo muito com as outras opções, porque o que importa é o que vou ter que gastar.",
+          "Acho que é importante saber quanto vou pagar no total pelo crédito, mas não conheço bem esses termos como TAEG e MTIC. Só sei que comparar as propostas ajuda a entender melhor o que vou gastar.",
+          "Acho que é importante saber quanto é que vamos pagar ao todo, por isso a TAEG e o MTIC devem ajudar a perceber isso. Mas não conheço muito bem esses termos, só sei que têm a ver com o que vamos pagar no fim."
+        ],
+        "Alto": [
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são ambos indicadores essenciais que permitem ao consumidor entender o custo total do crédito, incluindo juros e encargos adicionais, facilitando a comparação entre diferentes propostas de crédito. Reconheço claramente estes termos, pois são fundamentais para uma análise financeira rigorosa e para tomar decisões informadas sobre empréstimos.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são indicadores essenciais para avaliar o custo total de um crédito, incluindo juros e encargos adicionais. Comparar propostas com base nesses critérios permite ao consumidor tomar decisões informadas sobre o crédito que mais se adequa às suas necessidades financeiras.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são instrumentos fundamentais para avaliar o custo total do crédito, pois incluem não só os juros, mas também todas as comissões e encargos associados. Assim, comparar propostas com base nestes indicadores permite ao consumidor tomar decisões informadas e evitar surpresas financeiras.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são indicadores fundamentais para avaliar o custo total do crédito, pois incluem não apenas os juros, mas também todas as comissões e encargos associados. Comparar propostas através destes indicadores permite ao consumidor tomar decisões informadas sobre a melhor oferta disponível.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são essenciais para avaliar o custo total de um crédito, pois incluem não apenas a taxa de juro, mas também todos os encargos associados ao empréstimo. Compreender essas métricas permite ao consumidor fazer uma escolha informada e comparar propostas de forma precisa.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são fundamentais para avaliar o custo total de um crédito, pois incluem não apenas a taxa de juro, mas também todos os encargos associados ao empréstimo, permitindo uma comparação eficaz entre diferentes propostas.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são indicadores fundamentais que permitem compreender o custo total do crédito, incluindo juros e encargos associados, permitindo assim uma comparação precisa entre diferentes propostas.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são fundamentais para avaliar o custo total de um crédito, pois incluem não só a taxa de juro, mas também todos os encargos e comissões associados ao empréstimo. Compreender estes valores permite ao consumidor tomar decisões informadas e comparar propostas de diferentes instituições financeiras de forma eficaz.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são métricas fundamentais que permitem ao consumidor compreender o custo real do crédito, incluindo juros e outros encargos. Comparar propostas com base nestes indicadores é essencial para tomar decisões informadas sobre qual produto de crédito é mais vantajoso.",
+          "A TAEG (Taxa Anual de Encargos Efetiva Global) e o MTIC (Montante Total Imputado ao Consumidor) são indicadores fundamentais para avaliar o custo total do crédito, pois refletem não apenas as taxas de juros, mas também todos os encargos associados, permitindo uma comparação precisa entre diferentes propostas de crédito."
+        ]
+      }
+    },
+    {
+      "question": "O que pode indicar uma taxa de esforço elevada?",
+      "options": {
+        "A": "Risco de incumprimento.",
+        "B": "Capacidade de poupança elevada.",
+        "C": "Maior segurança financeira.",
+        "D": "Oportunidade de investimento."
+      },
+      "hint": "Avalia a relação entre rendimento e dívidas.",
+      "rationale": "Uma taxa de esforço elevada pode indicar um risco de incumprimento, pois representa uma sobrecarga financeira no orçamento mensal.",
+      "tag": "Taxa de esforço",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Taxa de esforço', pois questiona sobre o que pode indicar uma taxa de esforço elevada, que é um conceito central nesse tópico."
+        },
+        "topic_grounding": {
+          "score": 3,
+          "justification": "Embora a pergunta e a resposta correta estejam relacionadas com a taxa de esforço, o conteúdo-fonte não aborda diretamente este conceito, o que limita a fundamentação."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são plausíveis, mas alguns podem não estar diretamente relacionados com o conceito de taxa de esforço, o que diminui sua qualidade."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio ao mencionar a relação entre rendimento e dívidas, mas poderia ser mais específica em relação à taxa de esforço."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao relacionar a taxa de esforço com outros fatores financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.8,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem os termos financeiros, mas acho que uma taxa de esforço elevada significa que alguém está a gastar muito do que ganha. Isso pode fazer com que a pessoa não consiga pagar as contas, logo parece ser um risco de incumprimento.",
+          "Acho que uma taxa de esforço elevada deve ser algo que dá a entender que a pessoa pode ter dificuldades em pagar as suas dívidas. Não conheço bem os termos, mas parece que se alguém está a esforçar-se muito com o que tem que pagar, pode não conseguir cumprir com as obrigações.",
+          "Eu não percebo bem esses termos técnicos, mas parece que uma taxa de esforço elevada poderia significar que a pessoa consegue poupar mais. Se se esforça muito, é porque tem dinheiro para isso, certo?",
+          "Eu não percebo bem esses termos financeiros, mas 'risco de incumprimento' parece que tem a ver com não conseguir pagar as contas. Se a taxa de esforço é elevada, deve ser porque estou a gastar muito do meu dinheiro com dívidas, então é fácil de pensar que posso não conseguir pagar.",
+          "Eu não entendo bem esses termos técnicos, mas acho que se uma pessoa tem uma taxa de esforço alta, isso pode significar que está a ter dificuldades em pagar as suas contas. Por isso, parece que pode haver um risco de não conseguir cumprir com o que deve.",
+          "Eu não percebo muito bem sobre essas taxas e jargões, mas parece que uma taxa de esforço elevada pode querer dizer que a pessoa está a gastar muito do que ganha. Isso pode fazer com que seja mais difícil pagar as contas, então acho que pode ser um risco de incumprimento.",
+          "Acho que uma taxa de esforço elevada significa que a pessoa está a gastar muito do que ganha, o que pode levar a não conseguir pagar as contas. Não percebo bem os termos, mas parece-me que isso é um sinal de que a situação financeira não está boa.",
+          "Acho que uma taxa de esforço elevada quer dizer que as pessoas estão a gastar muito do que ganham, e isso pode fazer com que não consigam pagar as contas. Não conheço bem os termos técnicos, mas parece que isso é um problema.",
+          "Eu não percebo bem o que é uma taxa de esforço, mas parece que se é elevada, pode ser que a pessoa tenha dificuldades em pagar as suas dívidas. Então eu escolheria isso como um risco de incumprimento, porque é mais comum pensar que se alguém gasta muito, pode não conseguir pagar.",
+          "Eu não percebo muito bem estas coisas de finanças, mas acho que uma taxa de esforço elevada pode significar que se consegue poupar mais, porque se está a gastar menos do que se ganha. Não conheço bem os termos, mas parece que é por aí."
+        ],
+        "Médio": [
+          "Eu não percebo muito bem o que é uma taxa de esforço elevada, mas parece que pode significar que não consigo pagar as minhas contas. Então, acho que a opção B, que fala sobre risco de incumprimento, faz sentido para mim.",
+          "Eu não entendo muito bem o que é uma taxa de esforço elevada, mas parece que pode ser algo que indica que não consigo pagar as minhas contas. Se for assim, é um risco de incumprimento, que é quando não consigo pagar o que devo.",
+          "Eu não conheço muito bem o que é a taxa de esforço, mas parece que se for elevada pode significar que a pessoa tem dificuldades em pagar as suas dívidas. Por isso, eu escolhi a opção A.",
+          "Eu não sei muito sobre taxas de esforço, mas acho que se é elevada, pode ser que a pessoa não consiga pagar as suas dívidas, o que é um risco. As outras opções parecem boas, mas não sei se se aplicam a uma taxa de esforço alta.",
+          "Acho que uma taxa de esforço elevada significa que estou a gastar muito do meu dinheiro em dívidas, então pode ser que eu não consiga pagar tudo a tempo, que é o que quer dizer incumprimento. Não percebo muito sobre esses termos, mas parece que é algo negativo.",
+          "Acho que uma taxa de esforço elevada significa que a pessoa está a gastar mais do que pode, então isso pode ser um risco para não pagar as contas. Não conheço bem os outros termos, mas parece que 'incumprimento' é quando alguém não consegue pagar.",
+          "Acho que uma taxa de esforço elevada significa que a pessoa está a gastar muito em comparação com o que ganha. Isso pode fazer com que seja difícil pagar as contas, então há um risco de incumprimento, que é quando não se consegue pagar o que se deve. Os outros termos como poupança ou investimento não fazem muito sentido para mim.",
+          "Acho que uma taxa de esforço elevada significa que uma pessoa está a gastar muito do seu dinheiro com dívidas, por isso pode ter dificuldades em pagar. Não entendo bem todos os termos, mas parece que é um sinal de que a pessoa pode não conseguir cumprir com os pagamentos.",
+          "Eu não percebo muito bem de finanças, mas acho que uma taxa de esforço elevada significa que estou a gastar muito do meu dinheiro com dívidas, então pode ser arriscado não conseguir pagar. Os outros pontos parecem mais positivos, mas como eu não tenho muita segurança financeira, parece que a opção C é a mais certa.",
+          "Acho que uma taxa de esforço elevada significa que a pessoa pode estar a gastar muito do seu dinheiro com dívidas e, por isso, pode ter dificuldades em pagar tudo. Não percebo bem os outros termos, mas acho que incumprimento é não conseguir pagar."
+        ],
+        "Alto": [
+          "Uma taxa de esforço elevada indica que uma grande parte da renda mensal está a ser utilizada para pagar dívidas, o que pode limitar a capacidade do indivíduo para cumprir com as suas obrigações financeiras. Reconheço que a taxa de esforço é um indicador importante da saúde financeira, e uma taxa elevada pode efetivamente sinalizar um maior risco de incumprimento.",
+          "Uma taxa de esforço elevada indica que uma proporção significativa da renda está a ser utilizada para cumprir obrigações de dívida, o que pode comprometer a capacidade de pagamento. Este cenário aumenta o risco de incumprimento, pois pode dificultar a cobertura de despesas essenciais e outras obrigações financeiras.",
+          "Uma taxa de esforço elevada indica que uma grande parte da renda do indivíduo está a ser utilizada para pagar dívidas, o que pode comprometer a sua capacidade de cumprir com outras obrigações financeiras. Reconheço claramente os termos 'taxa de esforço' e 'incumprimento', pois estão diretamente relacionados com a gestão de dívida e a saúde financeira de uma pessoa.",
+          "Uma taxa de esforço elevada, que representa a percentagem da renda disponível que é utilizada para pagar dívidas, indica que o indivíduo pode ter dificuldades em honrar os seus compromissos financeiros. Reconheço que uma taxa de esforço superior a 30% é geralmente considerada preocupante, pois pode sinalizar um risco elevado de incumprimento.",
+          "Uma taxa de esforço elevada indica que uma proporção significativa da renda está a ser utilizada para pagar dívidas, o que pode comprometer a capacidade do devedor de cumprir com as suas obrigações financeiras. Este conceito é amplamente reconhecido em finanças pessoais, pois uma taxa de esforço acima de 30% é frequentemente considerada um sinal de alerta para potenciais dificuldades financeiras.",
+          "Uma taxa de esforço elevada indica que uma proporção significativa da renda está a ser utilizada para pagar dívidas, o que pode comprometer a capacidade de cumprir com as obrigações financeiras. Este conceito está bem estabelecido na literatura de gestão financeira, pois sugere uma maior vulnerabilidade ao incumprimento, especialmente se a pessoa enfrentar imprevistos financeiros.",
+          "Uma taxa de esforço elevada indica que uma percentagem significativa da renda está a ser utilizada para pagar dívidas, o que pode comprometer a capacidade de fazer face a outras despesas e, consequentemente, aumentar o risco de incumprimento. Reconheço os termos utilizados, pois a taxa de esforço é uma medida importante na avaliação da saúde financeira de um indivíduo.",
+          "Uma taxa de esforço elevada indica que uma parte significativa da renda mensal está a ser destinada ao pagamento de dívidas, o que pode comprometer a capacidade de cumprir obrigações financeiras futuras. Este termo é reconhecido na análise financeira pessoal, onde uma taxa de esforço acima de 30% é frequentemente considerada um sinal de alerta para potenciais dificuldades em honrar compromissos financeiros.",
+          "Uma taxa de esforço elevada indica que uma porcentagem significativa da renda mensal está a ser utilizada para o pagamento de dívidas, o que pode levar a dificuldades financeiras e, consequentemente, a um risco de incumprimento. Este é um conceito bem reconhecido em finanças pessoais, pois uma taxa de esforço acima de 30% é frequentemente considerada alarmante e um sinal de alerta para potenciais problemas de pagamento.",
+          "Uma taxa de esforço elevada, que se refere à proporção do rendimento que é destinada ao pagamento de dívidas, indica que uma pessoa pode estar a utilizar uma parte significativa dos seus rendimentos para cumprir obrigações financeiras. Isso aumenta o risco de incumprimento, pois uma eventual alteração nas condições financeiras pode dificultar o cumprimento dessas obrigações."
+        ]
+      }
+    },
+    {
+      "question": "Qual é um benefício da consolidação de dívidas?",
+      "options": {
+        "A": "Reduzir encargos mensais.",
+        "B": "Aumentar o número total de credores.",
+        "C": "Eliminar completamente todas as dívidas.",
+        "D": "Aumentar a taxa de juro média das dívidas."
+      },
+      "hint": "Pensa em simplificar pagamentos.",
+      "rationale": "A consolidação de dívidas pode ajudar a simplificar pagamentos e reduzir encargos mensais, facilitando a gestão financeira.",
+      "tag": "Renegociação e consolidação",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Renegociação e consolidação', pois aborda um benefício específico da consolidação de dívidas, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a consolidação de dívidas como uma forma de reduzir encargos mensais."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de consolidação de dívidas, mas a opção C ('Eliminar completamente todas as dívidas') é um pouco menos realista, pois a consolidação não elimina dívidas, apenas as reorganiza."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica 'Pensa em simplificar pagamentos' é útil e orienta o raciocínio do participante, mas poderia ser um pouco mais específica em relação ao benefício da consolidação."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao mencionar que a consolidação não apenas simplifica pagamentos, mas também pode ajudar a reduzir a taxa de juros em alguns casos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a consolidação de dívidas deve ajudar a pagar menos por mês, porque junta tudo num só pagamento. Não entendo bem os termos financeiros, mas parece lógico que se juntar as dívidas, os pagamentos ficariam mais fáceis.",
+          "Eu acho que o objetivo de consolidar dívidas seria facilitar a vida, então reduzir os encargos mensais parece uma boa ideia. Não entendo bem os termos técnicos, mas fazer com que as contas pesem menos no bolso parece ser um benefício claro.",
+          "Acho que a consolidação de dívidas deve ajudar a apagar tudo de uma vez. Não entendo bem os termos financeiros, mas pelo que sei, se juntar tudo, é como se ficasse livre de uma vez.",
+          "Acho que consolidar dívidas ajuda a pagar menos por mês, mesmo que eu não perceba bem como funciona isso. As outras opções parecem más, como aumentar credores ou juros, que não é bom.",
+          "Acho que a consolidação de dívidas deve ajudar a pagar menos por mês, porque se junta tudo num só. Não percebo bem os termos técnicos, mas parece que é mais fácil assim.",
+          "Penso que consolidar dívidas pode ajudar a pagar menos por mês, porque junta tudo num só lugar e deve ser mais fácil de gerir. Não percebo bem os termos técnicos, mas parece lógico que se eu juntar as dívidas, talvez pague menos ao fim do mês.",
+          "Acho que a consolidação de dívidas pode ajudar a pagar menos por mês, porque junta tudo em um. Não entendo bem os termos complicados, mas isso parece mais fácil de lidar.",
+          "Parece-me que consolidar dívidas deve ajudar a pagar menos por mês, porque assim fica tudo num só lugar e talvez seja mais fácil de gerir. Não percebo bem os termos técnicos, mas se é para reduzir o que se paga todos os meses, parece uma boa ideia.",
+          "Acho que consolidar dívidas deve ajudar a pagar menos por mês, porque junta tudo num só lugar. Não percebo bem os termos técnicos, mas parece que isso facilita a vida.",
+          "Eu não percebo muito sobre finanças, mas parece que consolidar dívidas é para juntar tudo e talvez pagar menos por mês. Isso faz sentido porque assim não tenho tantos pagamentos altos."
+        ],
+        "Médio": [
+          "Acho que consolidar dívidas é uma maneira de juntar tudo e pagar menos por mês, assim fica mais fácil de gerir. Não percebo bem os outros termos, mas isso de eliminar dívidas parece complicado.",
+          "Acho que consolidar dívidas deve ajudar a pagar menos por mês, porque junta tudo num só lugar. Não entendo bem os juros ou ter mais credores, mas parece que a ideia é facilitar a vida e não complicar mais.",
+          "Acho que consolidar dívidas é para juntar tudo e pagar menos por mês, então escolhi a opção B. Não entendo muito bem os outros termos, mas parece que aumentar o número de credores ou a taxa de juro não é bom.",
+          "Eu escolhi a opção D porque parece que consolidar dívidas ajuda a pagar menos por mês. Não percebo bem todos os termos, mas a ideia de juntar tudo e pagar menos parece boa.",
+          "Acho que consolidar dívidas deve ajudar a pagar menos por mês, porque é como juntar tudo num só lugar, então pode ser mais fácil. Não percebo bem os juros ou como funciona, mas parece que é para ajudar a não ter tantas contas.",
+          "Eu acho que consolidar dívidas pode ajudar a pagar menos por mês, porque junta tudo num só lugar. Não entendo bem os termos técnicos, mas parece que é para facilitar as coisas e não ter que lidar com muitos pagamentos.",
+          "Acho que consolidar dívidas é para juntar as dívidas todas e assim fica mais fácil de pagar. Se reduzirem os encargos mensais, isso parece bom, porque assim não fico tão apertado todo mês. As outras opções parecem complicadas ou más.",
+          "Acho que consolidar dívidas deve ajudar a pagar menos por mês, porque junta tudo num só lugar. Não sei bem o que são juros ou credores, mas se é para pagar menos, parece bom.",
+          "Eu acho que consolidar dívidas ajuda a juntar tudo num só lugar e pode fazer com que as prestações sejam mais baixas. Não entendo bem tudo sobre juros e credores, mas se posso pagar menos por mês, parece que é uma boa ideia.",
+          "Acho que consolidar dívidas quer dizer juntar tudo num só pagamento, e isso pode ajudar a pagar menos por mês. Não percebo bem as taxas de juro e os credores, mas parece que é mais fácil gerir assim."
+        ],
+        "Alto": [
+          "A consolidação de dívidas visa, geralmente, agrupar várias dívidas em um único empréstimo, frequentemente com melhores condições, como uma taxa de juro mais baixa, o que pode resultar numa redução dos encargos mensais. Reconheço que as outras opções apresentadas não refletem os objetivos típicos da consolidação de dívidas.",
+          "A consolidação de dívidas normalmente permite que um devedor combine várias dívidas em uma única prestação, frequentemente a uma taxa de juro mais baixa, resultando numa redução dos encargos mensais. As outras opções são falsas, pois a consolidação não elimina todas as dívidas, pode diminuir o número de credores e geralmente não aumenta a taxa de juro média.",
+          "A consolidação de dívidas tem como principal objetivo simplificar o pagamento das mesmas, frequentemente resultando em encargos mensais mais baixos. Isso ocorre porque ao agrupar várias dívidas em uma única, muitas vezes se consegue uma taxa de juro mais favorável, o que reduz o total a pagar mensalmente. As outras opções não oferecem benefícios reais associados à consolidação.",
+          "A consolidação de dívidas geralmente visa unificar várias obrigações financeiras em um único pagamento com condições mais favoráveis, como uma taxa de juro mais baixa. Isso pode resultar na redução dos encargos mensais, tornando a gestão das finanças pessoais mais sustentável. Opções como aumentar a taxa de juro média ou o número de credores não são benefícios desejáveis na consolidação.",
+          "A consolidação de dívidas visa reunir várias dívidas em um único empréstimo, geralmente com condições mais favoráveis, o que pode resultar na redução dos encargos mensais. Essa opção é a mais correta, pois não envolve a eliminação total das dívidas nem a criação de mais credores, e é comum que o novo empréstimo tenha uma taxa de juros mais baixa do que a média das dívidas originais.",
+          "A consolidação de dívidas visa, entre outros benefícios, a redução dos encargos mensais ao reunir várias dívidas em um único empréstimo com uma taxa de juro potencialmente mais baixa. Assim, a opção B é a mais correta, pois permite uma gestão financeira mais sustentável, ao simplificar o pagamento das dívidas e, frequentemente, a redução do montante a pagar mensalmente.",
+          "A consolidação de dívidas visa combinar várias dívidas em uma única, geralmente com uma taxa de juro mais baixa, o que pode resultar em encargos mensais inferiores. Reconheço os termos e a lógica por trás da consolidação, que é uma estratégia comum para gerir e aliviar a pressão financeira, tornando os pagamentos mais geríveis.",
+          "O benefício da consolidação de dívidas é, efetivamente, a possibilidade de reduzir os encargos mensais, uma vez que permite agrupar várias dívidas em um único empréstimo com condições potencialmente mais favoráveis. As opções B, C e D não refletem os objetivos geralmente associados à consolidação de dívidas, que é simplificar a gestão e diminuir a pressão financeira.",
+          "A consolidação de dívidas normalmente permite que o devedor combine várias dívidas em um único empréstimo, frequentemente a uma taxa de juro mais baixa, resultando em pagamentos mensais mais baixos. As opções A e B são desfavoráveis e a opção D é irrealista, pois a consolidação não elimina as dívidas, apenas as reorganiza.",
+          "A consolidação de dívidas permite agrupar várias obrigações em um único empréstimo, frequentemente com uma taxa de juro mais baixa, resultando numa redução dos encargos mensais. As outras opções são incorretas, pois aumentar o número de credores e a taxa de juro média não são benefícios, e a eliminação total das dívidas não é garantida."
+        ]
+      }
+    },
+    {
+      "question": "Que tipo de crédito envolve a compra de bens e pagamento ao longo do tempo?",
+      "options": {
+        "A": "Crédito à Habitação, Pessoal, Automóvel e Cartão.",
+        "B": "Crédito para Educação e Formação.",
+        "C": "Crédito para Pequenas Empresas.",
+        "D": "Crédito para Investimentos de Alto Risco."
+      },
+      "hint": "Identifica os tipos principais de crédito.",
+      "rationale": "Os tipos principais de crédito que permitem a compra de bens e pagamento ao longo do tempo incluem Crédito à Habitação, Pessoal, Automóvel e Cartão de Crédito.",
+      "tag": "Crédito responsável",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crédito e Gestão de Dívida' e a tag 'Crédito responsável', pois aborda os tipos de crédito que permitem a compra de bens e pagamento ao longo do tempo."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente os tipos de crédito que permitem a compra de bens e pagamento ao longo do tempo."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 3,
+          "justification": "Os distratores são relacionados com o tema, mas alguns, como 'Crédito para Investimentos de Alto Risco', não são tipos de crédito que se encaixam na definição dada na pergunta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o participante a pensar sobre os tipos principais de crédito, mas poderia ser mais específica em relação ao contexto da pergunta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao mencionar que a pergunta se refere a créditos que permitem a compra de bens, enfatizando a flexibilidade e o pagamento ao longo do tempo."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu penso que a resposta certa é a opção C porque envolve comprar coisas, como uma casa ou um carro, e depois vamos pagando aos poucos. Não conheço bem os termos, mas parece-me que é isso que estamos a falar.",
+          "Eu acho que a resposta certa é a letra A, porque envolve comprar coisas como casas ou carros e depois pagar aos poucos. Não percebo bem os termos técnicos que estão nas outras opções, mas parece que a A é mais sobre comprar bens.",
+          "Eu acho que o crédito à habitação, pessoal, automóvel e cartão é o que mais se parece com a compra de bens e pagar ao longo do tempo, porque normalmente quando compramos coisas grandes, como uma casa ou um carro, fazemos isso assim. Não conheço bem os termos, mas parece-me que é disso que se fala.",
+          "Acho que a opção D é a mais certa porque fala de vários tipos de crédito que as pessoas usam para comprar coisas e pagar aos poucos. Não conheço bem os outros tipos, mas sei que muitas pessoas falam sobre crédito para comprar casas ou carros, então parece ser isso.",
+          "Eu acho que a opção B é a melhor escolha porque fala sobre diferentes tipos de crédito que podemos usar para comprar coisas, como casas ou carros. Não conheço bem os termos técnicos, mas parece-me que é isso que se refere a pagar ao longo do tempo.",
+          "Acredito que a opção A faz sentido porque fala de diferentes tipos de crédito que as pessoas usam para comprar coisas e pagar ao longo do tempo. Não conheço bem os termos técnicos, mas parece que é isso que as pessoas fazem quando compram um carro ou uma casa.",
+          "Eu conheço mais sobre o crédito à habitação e ao automóvel, pois são coisas que as pessoas costumam usar para comprar casas ou carros e pagam ao longo do tempo. As outras opções parecem mais complicadas e eu não entendo bem o que significam.",
+          "Eu acho que a opção A é a mais certa porque fala de vários tipos de crédito, como o crédito à habitação e o crédito automóvel, que são coisas que as pessoas costumam comprar e pagar aos poucos. Eu não entendo bem os termos técnicos, mas parece-me que é isso que se faz quando se compra algo e se paga ao longo do tempo.",
+          "Penso que esta opção é a que se refere a comprar coisas e depois pagar ao longo do tempo, porque fala de créditos que conheço. As outras opções parecem mais complicadas e não sei o que são.",
+          "Eu não conheço bem os termos, mas parece que o crédito que envolve comprar coisas e pagar ao longo do tempo é aquele que menciona habitação, pessoal e automóvel. Acho que são formas de crédito que usamos no dia-a-dia."
+        ],
+        "Médio": [
+          "Acho que a opção B é a certa porque fala de vários tipos de crédito que podem ser usados para comprar coisas, como casas ou carros, e depois pagamos ao longo do tempo. Reconheço os termos, mas não sei muito bem como funcionam todos.",
+          "Eu acho que a resposta é D porque fala sobre tipos de crédito que normalmente se usam para comprar coisas, como uma casa ou um carro. Eu reconheço esses termos, mas não tenho certeza sobre o que são os outros tipos de crédito.",
+          "Acho que este tipo de crédito é o que faz mais sentido, porque envolve comprar coisas como casas, carros ou até mesmo usar cartões e depois pagar aos poucos. As outras opções parecem mais específicas ou difíceis de entender, e eu não reconheço muito bem os termos.",
+          "Acredito que a opção A é a melhor porque fala de vários tipos de crédito que podemos usar para comprar coisas e depois pagar. Reconheço os termos como crédito à habitação e crédito pessoal, mas não tenho certeza sobre as outras opções, pois não sei muito sobre elas.",
+          "Eu escolhi esta opção porque parece incluir várias maneiras de comprar coisas e pagar ao longo do tempo. Não conheço bem os outros tipos de crédito, mas sei que o crédito à habitação é para casa e o crédito ao automóvel é para carros, então parece que se encaixa na ideia de comprar bens.",
+          "Acredito que a opção B é a melhor, porque fala sobre coisas que as pessoas costumam comprar e pagar depois, como casas ou carros. Os outros tipos de crédito não parecem estar relacionados com compras de bens, só com investimentos ou empresas, que eu não entendo muito bem.",
+          "Acho que a resposta certa é a D, porque esses tipos de crédito são sobre comprar coisas e pagar aos poucos, o que faz sentido. Não conheço bem os outros tipos, mas sei que o crédito à habitação e o crédito automóvel são para comprar casas e carros, e isso é pagar ao longo do tempo.",
+          "Acho que a opção C é a que faz mais sentido porque fala em crédito que podemos usar para comprar coisas como casas, carros e outros bens. Não entendo muito bem os outros tipos de crédito, mas sei que o crédito à habitação e o crédito pessoal são usados para comprar coisas e pagamos ao longo do tempo.",
+          "Acredito que seja a opção D porque fala sobre vários tipos de crédito que podemos usar para comprar coisas, como uma casa ou um carro, e depois vamos pagando ao longo do tempo. Não conheço bem os outros tipos de crédito e não sei muito sobre termos como 'investimentos de alto risco', então parece-me que a opção D é a mais fácil de entender.",
+          "Eu acho que esta opção fala sobre diferentes tipos de crédito que podemos usar para comprar coisas e depois pagamos aos poucos. Os outros tipos de crédito parecem mais complicados ou para situações específicas que eu não entendo muito bem."
+        ],
+        "Alto": [
+          "A opção D é a mais correta, pois abrange os tipos de crédito que permitem a compra de bens (como imóveis, veículos e bens de consumo) com pagamento ao longo do tempo através de prestações. Os outros tipos de crédito referidos nas opções A, B e C não estão diretamente relacionados com a aquisição de bens de consumo de forma parcelada.",
+          "A opção B é a mais correta, pois abrange diferentes tipos de crédito que facilitam a aquisição de bens e o seu pagamento em prestações ao longo do tempo. Os créditos à habitação, pessoal, automóvel e cartões de crédito são todos exemplos de produtos financeiros que permitem a compra imediata de bens ou serviços, com reembolso gradual.",
+          "A opção C refere-se a diferentes tipos de crédito que são utilizados para a compra de bens, como imóveis (Crédito à Habitação), veículos (Crédito Automóvel) ou bens de consumo (Crédito Pessoal e Cartão de Crédito), permitindo o pagamento ao longo do tempo. As outras opções não se encaixam na definição de crédito para aquisição de bens.",
+          "A opção A abrange diferentes tipos de crédito que permitem a aquisição de bens, como casas, veículos ou produtos, com pagamentos parcelados ao longo do tempo. Reconheço os termos usados, pois cada um destes créditos envolve um compromisso financeiro que se estende no tempo, refletindo a definição proposta na pergunta.",
+          "A opção B agrupa diferentes tipos de crédito que permitem a compra de bens, como veículos e imóveis, e possibilitam o pagamento ao longo do tempo. Os outros tipos de crédito mencionados não se focam diretamente na aquisição de bens com pagamento parcelado.",
+          "A opção D refere-se a diferentes tipos de crédito que permitem a aquisição de bens, como casas, automóveis e outros produtos, com pagamento parcelado ao longo do tempo. Este conceito está diretamente ligado à definição de crédito, onde o consumidor obtém um bem e se compromete a pagá-lo em prestações, o que se alinha perfeitamente com a pergunta.",
+          "A opção D é a mais correta, pois abrange diferentes tipos de crédito que permitem a aquisição de bens (como casa, carro ou bens pessoais) e o pagamento em prestações ao longo do tempo. As outras opções referem-se a tipos de crédito que não se enfocam diretamente na compra de bens consumíveis ou duradouros e, portanto, não se aplicam à pergunta.",
+          "A opção B abrange diferentes tipos de crédito que permitem a compra de bens e o seu pagamento ao longo do tempo, como é o caso do crédito à habitação, crédito automóvel e crédito pessoal. Reconheço os termos utilizados, pois são categorias comuns no contexto de financiamento, onde a amortização ocorre através de prestações periódicas.",
+          "A opção D é a mais correta, pois abrange os tipos de crédito que permitem a compra de bens (como imóveis, veículos, ou despesas pessoais) e o pagamento é feito ao longo do tempo através de prestações. Os outros tipos de crédito mencionados nas opções A, B e C não estão diretamente relacionados com a aquisição de bens de consumo ou duradouros.",
+          "A opção C refere-se a diferentes tipos de crédito que permitem a aquisição de bens, como imóveis, veículos e outros produtos, com pagamento faseado ao longo do tempo. Reconheço os termos utilizados, pois este conceito é fundamental na literacia financeira, onde a gestão de crédito e a amortização são cruciais para o planeamento financeiro pessoal."
+        ]
+      }
+    },
+    {
+      "question": "Por que é importante criar um fundo de emergência ao gerir dívidas?",
+      "options": {
+        "A": "Para lidar com imprevistos financeiros.",
+        "B": "Para aumentar o valor disponível para novos investimentos.",
+        "C": "Para garantir uma reforma antecipada tranquila.",
+        "D": "Para evitar a necessidade de renegociar dívidas com frequência."
+      },
+      "hint": "Prepara-te para situações inesperadas.",
+      "rationale": "A criação de um fundo de emergência é recomendada para lidar com imprevistos financeiros, evitando a necessidade de contrair novas dívidas.",
+      "tag": "Gestão da dívida",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Gestão da dívida', pois aborda a importância de um fundo de emergência na gestão de dívidas."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a criação de um fundo de emergência como uma estratégia para lidar com imprevistos financeiros."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão de dívidas, mas algumas opções, como a C, podem ser consideradas menos relevantes no contexto da pergunta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, sugerindo que o fundo de emergência é para situações inesperadas, mas poderia ser mais específica em relação à gestão de dívidas."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do fundo de emergência na gestão de dívidas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Penso que criar um fundo para emergências é importante porque, se acontecer algo inesperado, como um problema com o carro ou uma despesa médica, precisamos de dinheiro para resolver isso. Não conheço muito sobre os outros termos, mas parece que ter dinheiro guardado ajuda a não ficar numa situação complicada.",
+          "Acho que criar um fundo de emergência é importante porque, se acontecer alguma coisa inesperada, como uma despesa que não estava planeada, precisamos de dinheiro para resolver. Não entendo bem os outros termos, mas lidar com imprevistos parece o mais prático no dia-a-dia.",
+          "Acho que é importante ter algum dinheiro guardado para essas coisas que aparecem de repente, como um carro que avaria ou uma despesa médica. Não entendo muito sobre jargão financeiro, mas sei que a vida pode ser cheia de surpresas, e é melhor estar preparado.",
+          "Acredito que é importante ter algum dinheiro guardado para quando aparecem despesas inesperadas, porque assim não fico em apuros com as dívidas. Não conheço bem os termos financeiros, mas parece-me que ter um fundo pode ajudar a não ter que pedir dinheiro emprestado quando algo dá errado.",
+          "Eu escolhi esta opção porque, na minha opinião, é importante ter algum dinheiro guardado para situações inesperadas, como uma despesa que aparece de repente. Não conheço bem os termos financeiros, mas acho que é sempre bom estar preparado para o que não esperamos.",
+          "Acho que é importante ter algum dinheiro guardado para quando as coisas não correm como esperamos, como quando algo se estraga ou temos despesas inesperadas. Não entendo bem os termos financeiros, mas parece-me que ter um fundo ajuda a não ficar em apuros.",
+          "Acho que é importante ter algum dinheiro guardado para quando aparecem despesas que não estávamos à espera, como uma avaria no carro ou uma despesa médica. Não conheço bem os outros termos, mas parece que este faz mais sentido no dia-a-dia.",
+          "Acho que é importante ter algum dinheiro guardado para situações inesperadas, como quando o carro avaria ou temos despesas que não contávamos. Não entendo muito bem os termos técnicos, mas parece-me que um fundo de emergência ajuda a não ficar apertado quando surgem esses problemas.",
+          "Eu acho que é importante ter um fundo para quando as coisas não vão bem, como quando aparece uma despesa inesperada. Não percebo muito dos outros termos, mas parece que ter esse fundo ajuda a não ficar em apuros.",
+          "Eu escolhi esta opção porque parece que ter um fundo de emergência ajuda a resolver problemas que aparecem de repente, como despesas inesperadas. Não entendo bem os outros termos, mas fazer um fundo para emergências faz sentido no dia-a-dia."
+        ],
+        "Médio": [
+          "Acho que é importante ter algum dinheiro guardado para quando aparecem problemas, como uma despesa inesperada. Não sei muito sobre os outros pontos, mas lidar com imprevistos parece ser uma boa razão.",
+          "Acho que criar um fundo de emergência é importante para ter dinheiro quando aparecem coisas inesperadas, como uma despesa que não estávamos a contar. Não entendo muito os outros termos, mas parece que é mais útil ter um fundo para emergências do que para investir ou pensar em reformas.",
+          "Acho que é importante ter algum dinheiro guardado para quando as coisas não vão bem, como se o carro avariar ou se eu ficar sem trabalho. Não conheço bem os outros termos, mas parece que o fundo de emergência é mesmo para esses imprevistos.",
+          "Eu escolhi esta opção porque acho que um fundo de emergência é útil para quando aparecem despesas inesperadas, como consertos na casa ou despesas médicas. Não conheço muito bem os outros termos, mas parece que ter dinheiro guardado ajuda a não ficar em apuros.",
+          "Eu escolhi a opção A porque, se acontecer alguma coisa que eu não estava à espera, como uma despesa surpresa, ter um fundo de emergência ajuda a não ter que recorrer a mais dívidas. Não conheço bem os outros termos, mas acho que lidar com imprevistos é importante.",
+          "Acho que é importante ter um fundo de emergência para quando surgem coisas inesperadas, como uma despesa que não estávamos à espera. Não sei muito sobre investimentos ou reformas, mas lidar com imprevistos parece ser uma boa razão.",
+          "Acho que é importante ter um fundo para quando as coisas não correm como planeado, como se o carro avariar ou se eu tiver despesas inesperadas. Assim, não fico na situação complicada de ter de pedir dinheiro emprestado.",
+          "Eu escolhi a opção B porque, quando temos dívidas, é bom ter um dinheiro guardado para situações inesperadas, tipo despesas que aparecem de repente. Não percebo bem todos os termos, mas parece lógico ter um fundo para não ficar mais complicado.",
+          "Acho que é importante ter um fundo de emergência para poder resolver coisas que aparecem de repente, como uma despesa inesperada. Não entendo bem os outros termos, mas lidar com imprevistos parece ser o mais prático.",
+          "Acho que é importante ter um fundo para lidar com coisas que aparecem de repente, como uma despesa que não estávamos à espera. Não sei muito sobre as outras opções, mas isso de imprevistos parece fazer sentido."
+        ],
+        "Alto": [
+          "A criação de um fundo de emergência é crucial na gestão de dívidas, pois permite fazer face a despesas inesperadas sem recorrer a crédito adicional, o que poderia agravar a situação financeira. Este conceito é amplamente reconhecido na literacia financeira, pois um fundo de emergência oferece segurança financeira e previne a necessidade de renegociações frequentes.",
+          "A criação de um fundo de emergência é crucial para gerir dívidas, pois permite que o indivíduo tenha recursos disponíveis para enfrentar situações inesperadas sem recorrer a crédito adicional, o que poderia agravar a situação financeira. Reconheço a importância de um fundo de emergência na gestão de riscos financeiros, especialmente em contextos onde imprevistos podem surgir e comprometer a capacidade de pagamento das dívidas.",
+          "A criação de um fundo de emergência é crucial para gerir dívidas, pois permite que a pessoa faça face a despesas inesperadas sem recorrer a mais crédito, evitando assim o agravamento da situação financeira. Reconheço que a gestão de imprevistos é uma parte fundamental do planeamento financeiro e da manutenção de uma saúde financeira sólida.",
+          "A criação de um fundo de emergência é essencial para garantir que, em caso de imprevistos financeiros, como despesas médicas ou perda de emprego, não se recorra a crédito adicional, o que pode aumentar o endividamento. Este conceito é amplamente reconhecido nas práticas de gestão financeira, pois permite manter a estabilidade financeira e evitar a necessidade de renegociar dívidas.",
+          "Criar um fundo de emergência é crucial para lidar com imprevistos financeiros, como despesas inesperadas que podem surgir e impactar negativamente a gestão das dívidas. Este fundo atua como um amortecedor, evitando que a pessoa tenha que recorrer a crédito adicional, o que poderia agravar a situação de endividamento.",
+          "A criação de um fundo de emergência é fundamental para garantir que, em caso de imprevistos financeiros, como uma despesa médica inesperada ou perda de emprego, a pessoa possa cobrir esses custos sem recorrer a crédito adicional, evitando assim o agravamento das suas dívidas. Este conceito está diretamente relacionado à gestão de risco financeiro e à proteção da estabilidade financeira a longo prazo.",
+          "A criação de um fundo de emergência é crucial na gestão de dívidas, pois permite lidar com imprevistos financeiros sem recorrer a mais crédito, evitando assim a escalada da dívida. Reconheço a importância de termos como 'imprevistos financeiros' e 'gestão de dívidas', pois compreendo que uma reserva financeira ajuda a manter a estabilidade financeira e evita a necessidade de renegociação constante das dívidas.",
+          "A criação de um fundo de emergência é crucial na gestão de dívidas, pois permite que uma pessoa faça face a imprevistos financeiros sem recorrer a crédito adicional, o que poderia agravar a sua situação de endividamento. Reconheço os termos utilizados, pois um fundo de emergência é fundamental para a saúde financeira e estabilidade, prevenindo a necessidade de renegociação de dívidas em situações de crise.",
+          "A criação de um fundo de emergência é fundamental para assegurar que, em caso de imprevistos financeiros, como uma despesa médica inesperada ou a perda de emprego, a pessoa possa fazer face a essas situações sem recorrer a mais dívidas. Esta estratégia ajuda a evitar a necessidade de renegociar dívidas com frequência, permitindo uma gestão financeira mais estável e segura.",
+          "Criar um fundo de emergência é crucial para lidar com imprevistos financeiros, como despesas médicas ou reparações inesperadas, sem recorrer ao crédito e agravar as dívidas existentes. Este conceito é fundamental na gestão financeira, pois permite manter a estabilidade financeira e evitar ciclos de endividamento."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.8,
+    "topic_grounding": 4.5,
+    "answer_exclusivity": 4.9,
+    "distractor_quality": 3.7,
+    "hint_quality": 4,
+    "rationale_quality": 4.6,
+    "tag_diversity": 0.8,
+    "overall_score": 4.42
+  }
+}

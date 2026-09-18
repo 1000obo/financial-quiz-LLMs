@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Fiscalidade e Otimização Financeira"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como pode a validação de faturas no portal e-fatura impactar o montante de IRS a recuperar?",
+      "options": {
+        "A": "Permite deduções fiscais com base no NIF associado.",
+        "B": "Aumenta o prazo para entrega da declaração de IRS.",
+        "C": "Reduz a taxa de IRS aplicada aos rendimentos.",
+        "D": "Garante o reembolso imediato do IRS."
+      },
+      "hint": "Validação de faturas e deduções fiscais.",
+      "rationale": "A validação de faturas no portal e-fatura é crucial, pois apenas as faturas associadas ao NIF do contribuinte são consideradas para deduções no IRS, permitindo economias significativas.",
+      "tag": "Impostos pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Impostos pessoais' e avalia o conhecimento sobre a validação de faturas e seu impacto no IRS, que é um aspecto central da fiscalidade."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância da validação de faturas para deduções fiscais no IRS."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de IRS, mas a opção D, que sugere um reembolso imediato, pode ser considerada menos realista em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a relação entre validação de faturas e deduções fiscais, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da validação de faturas para deduções no IRS."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que a validação de faturas é importante porque pode ajudar a conseguir deduzir algumas coisas quando preenchemos os papéis do IRS. Como não conheço muito sobre os termos técnicos, só sei que se puser o meu número de contribuinte, pode fazer diferença no que recebo de volta.",
+          "Eu não percebo bem esses termos técnicos, mas parece-me que, se as faturas estão ligadas ao meu número, talvez isso ajude a pagar menos impostos. É como se eu tivesse um desconto por ter as faturas certas.",
+          "Eu não conheço bem esses termos técnicos e jargões, mas parece que se as faturas têm o meu NIF, posso conseguir deduzir alguma coisa e isso deve ajudar a recuperar mais no IRS. É o que faz mais sentido para mim.",
+          "Parece que, se eu colocar o meu número de contribuinte nas faturas, pode ajudar a pagar menos impostos. Não percebo muito dos outros termos, mas deduzir parece bom porque é como se me dessem um desconto nos impostos.",
+          "Acho que a validação de faturas tem a ver com o NIF, porque é assim que se consegue recuperar alguma coisa no IRS. Não percebo muito sobre essas deduções e como funciona, mas parece que é importante ter as faturas certas.",
+          "Acho que a validação de faturas pode ajudar a ter deduções, porque se associamos as faturas ao nosso número de identificação, pode ser que isso nos ajude a pagar menos IRS. Mas não percebo bem os termos complicados que falam.",
+          "Penso que a validação das faturas tem a ver com permitir que se possa tirar proveito de algumas deduções, talvez ligadas ao número de contribuinte. Não percebo bem o que dizem os outros, mas parece importante garantir que as faturas estão certas para poder receber mais de volta.",
+          "Eu acho que a validação das faturas deve ajudar a reduzir o que temos de pagar ou a aumentar o que podemos receber, porque é como se estivéssemos a dizer que gastámos dinheiro e isso deve contar a nosso favor. Não conheço bem esses termos técnicos, mas faz sentido que as faturas ajudem de alguma forma.",
+          "Eu não percebo bem o que é isso de IRS e deduções, mas acho que se as faturas estão validadas e têm o meu número, isso deve ajudar a que eu tenha algum desconto ou algo assim. Parece que é uma maneira de conseguir mais dinheiro de volta.",
+          "Acho que a validação de faturas é importante porque pode ajudar a diminuir o que temos que pagar de impostos. Ouvi dizer que se as faturas estiverem certas, podemos ter algumas deduções, mas não percebo bem como isso funciona. Não entendo bem os termos como NIF, mas parece que é algo que nos ajuda a pagar menos IRS."
+        ],
+        "Médio": [
+          "Eu escolho esta opção porque parece que as faturas têm a ver com o NIF e que isso pode ajudar a diminuir o que temos de pagar ou a receber no IRS. Não sei bem como funciona o resto, mas faz sentido que as faturas ajudem de alguma forma.",
+          "Acho que a validação de faturas é importante porque pode ajudar a ter algumas deduções no IRS. Não entendo bem os detalhes, mas parece que se as faturas estão certas e têm o meu NIF, pode ajudar a pagar menos impostos. As outras opções não me parecem muito claras.",
+          "Eu acho que a resposta certa é a opção C porque, se a fatura tem o meu NIF, isso pode ajudar a pagar menos impostos. Não entendo bem como tudo funciona, mas sei que as faturas podem ajudar na declaração de IRS.",
+          "Acho que a validação de faturas tem a ver com o NIF e com deduções, porque se as faturas estão certas, podem ajudar a pagar menos IRS. Não conheço bem todos os termos, mas parece que isso pode fazer diferença no que podemos recuperar.",
+          "Acho que a validação de faturas no e-fatura ajuda porque permite que as pessoas deduzam algumas despesas do IRS, se tiverem o NIF nas faturas. Não entendo bem os outros termos, mas parece que esta opção faz mais sentido para quem quer recuperar algum dinheiro.",
+          "Acho que a validação de faturas está relacionada com o NIF e que isso pode ajudar a fazer deduções, talvez para pagar menos IRS. Não conheço bem os termos e como funciona tudo, mas parece que assim podemos aproveitar melhor as faturas.",
+          "Eu acho que a resposta certa é a B, porque quando usamos o nosso NIF nas faturas, parece que podemos tirar algumas deduções no IRS. Não conheço muito bem os outros termos, e a ideia de deduzir dinheiro parece fazer mais sentido para recuperar algo no imposto.",
+          "Penso que a validação de faturas no e-fatura é importante porque pode ajudar a ter algumas deduções quando se faz a declaração de IRS. Mas não sei bem o que significa isso de NIF ou deduções fiscais, só sei que se tiver as faturas certas, talvez consiga recuperar algum dinheiro.",
+          "Acho que a opção D faz sentido porque se fala em NIF e deduções, e eu sei que isso tem a ver com faturas e impostos. Não percebo bem como isso funciona, mas parece que se as faturas forem validadas, pode ajudar a pagar menos imposto.",
+          "Acho que a opção B está certa porque se as faturas estão validadas, pode ser que eu consiga deduzir alguma coisa no IRS, mas não sei muito bem como isso funciona. Não reconheço bem os termos todos, mas parece-me que ter o NIF associado é importante para isso."
+        ],
+        "Alto": [
+          "A validação de faturas no portal e-fatura é crucial para garantir que as despesas que podem ser deduzidas no IRS estão corretamente associadas ao NIF do contribuinte, o que, por sua vez, pode aumentar o montante a recuperar. Reconheço que esta opção está diretamente relacionada com a forma como as deduções fiscais funcionam em Portugal, onde as despesas devem ser reportadas e validadas para serem consideradas na declaração de IRS.",
+          "A validação de faturas no portal e-fatura é essencial para garantir que as despesas apresentadas para dedução fiscal estejam corretamente associadas ao NIF do contribuinte. Este processo permite que os montantes gastos em despesas dedutíveis, como saúde ou educação, sejam considerados na declaração de IRS, impactando diretamente o montante a recuperar.",
+          "A validação de faturas no portal e-fatura permite que as despesas sejam consideradas para deduções fiscais, o que pode reduzir o montante de IRS a pagar ou aumentar o montante a recuperar. O NIF associado é crucial, pois apenas as faturas validadas com o NIF podem ser utilizadas para este efeito, reconhecendo assim a importância da correta documentação fiscal.",
+          "A validação de faturas no portal e-fatura permite que os contribuintes registados obtenham deduções fiscais nas suas declarações de IRS, desde que as faturas estejam associadas ao seu NIF. Assim, a correta validação e registo das faturas pode resultar num maior montante a recuperar no IRS, uma vez que aumenta o valor das despesas dedutíveis.",
+          "A validação de faturas no portal e-fatura permite que as despesas sejam associadas ao NIF do contribuinte, possibilitando deduções fiscais que podem reduzir o montante de IRS a pagar ou aumentar o reembolso. Isso é crucial para maximizar as deduções permitidas pela legislação fiscal portuguesa.",
+          "A validação de faturas no portal e-fatura é crucial para que as deduções fiscais sejam reconhecidas. Ao associar as faturas ao NIF do contribuinte, permite que as despesas válidas sejam deduzidas do rendimento tributável, potencialmente aumentando o montante de IRS a recuperar. Os termos utilizados, como 'deduções fiscais' e 'NIF', são claros e relevantes no contexto da legislação fiscal portuguesa.",
+          "A validação de faturas no portal e-fatura é fundamental para que os montantes sejam considerados nas deduções fiscais, uma vez que estas deduções são feitas com base nas despesas cujo NIF foi associado. Portanto, a opção C é a mais correta, uma vez que o reconhecimento e a validação das faturas impactam diretamente o montante de IRS a recuperar.",
+          "A validação de faturas no portal e-fatura é fundamental para que as despesas sejam reconhecidas e contabilizadas nas deduções fiscais, o que pode aumentar o montante de IRS a recuperar. Este processo está diretamente ligado ao NIF associado às faturas, permitindo que os contribuintes aproveitem as deduções disponíveis.",
+          "A validação de faturas no portal e-fatura é crucial para garantir que as despesas sejam consideradas nas deduções fiscais, impactando diretamente o montante de IRS a recuperar. O NIF associado às faturas permite que o contribuinte beneficie de deduções que reduzem a base tributável, o que é um conceito bem conhecido na gestão fiscal em Portugal.",
+          "A validação de faturas no portal e-fatura permite que as despesas sejam consideradas para deduções fiscais, que podem levar a um montante maior de IRS a recuperar, uma vez que as faturas associadas ao NIF do contribuinte diminuem a base tributável. Este conceito é fundamental na gestão fiscal e na maximização de reembolsos."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a importância de simular o IRS antes da entrega da declaração?",
+      "options": {
+        "A": "Identificar a melhor opção fiscal para deduções.",
+        "B": "Evitar multas por atrasos na entrega.",
+        "C": "Calcular o valor exato a pagar de IRS.",
+        "D": "Confirmar a validade dos dados pessoais no sistema."
+      },
+      "hint": "Simulação de IRS e escolha fiscal otimizada.",
+      "rationale": "Simular o IRS antes da entrega permite ao contribuinte identificar a melhor opção fiscal, maximizando as deduções e minimizando o imposto a pagar.",
+      "tag": "IRS e deduções",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IRS e deduções', pois aborda a importância de simular o IRS, que é um aspecto fundamental na gestão das deduções fiscais."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a simulação do IRS não seja explicitamente mencionada, a ideia de otimização fiscal está implícita."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção 'C' pode ser considerada uma resposta válida em um contexto mais amplo, o que gera uma leve ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de IRS, mas alguns podem não ser tão diretamente relevantes para a simulação do IRS."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica sobre a relação entre simulação e deduções."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da simulação para maximizar deduções."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.1,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo muito bem esses termos técnicos, mas acho que simular o IRS é para saber quanto é que temos de pagar. Se calhar é importante para não haver surpresas na hora de entregar, mas não sei se é mesmo o valor exato.",
+          "Acho que simular o IRS é importante para não ter problemas e não levar multas. Não percebo muito dos outros termos, mas evitar multas parece uma coisa boa.",
+          "Acho que simular o IRS pode ajudar a perceber como se pode poupar dinheiro nas deduções. Não percebo bem os termos técnicos, mas acredito que ver as opções pode ser útil para pagar menos.",
+          "Eu não percebo muito sobre IRS e essas coisas, mas acho que simular pode ajudar a não ter problemas com multas. É melhor prevenir do que remediar, certo? Não conheço bem os outros termos, então fico com o que parece mais simples.",
+          "Eu acho que simular o IRS pode ajudar a não entregar a declaração tarde e assim evitar problemas. Não percebo bem o que são deduções ou cálculos exatos, então só penso que é melhor não ter multas.",
+          "Eu não percebo muito bem de impostos e essas coisas, mas acho que simular antes deve ajudar a não ter problemas e evitar multas. É melhor ter tudo em ordem para não levar com uma surpresa depois.",
+          "Eu não percebo muito sobre estas coisas de IRS e números, mas acho que simular pode ajudar a não ter problemas a entregar a declaração a tempo. Não quero que me multem, por isso escolhi a opção de evitar multas.",
+          "Acho que a simulação do IRS é importante para evitar problemas, como receber multas. Não percebo bem os termos técnicos, mas penso que evitar atrasos é algo que qualquer pessoa quer.",
+          "Acho que simular o IRS é importante porque assim a gente não se esquece de entregar a declaração a tempo e evita multas. Não entendo bem os outros termos, mas só de saber que pode dar multa já me assusta.",
+          "Acho que simular o IRS é importante para evitar problemas mais tarde, como multas. Não entendo bem os termos técnicos, mas parece-me que se soubermos antes o que fazer, podemos evitar complicações."
+        ],
+        "Médio": [
+          "Acho que é importante saber quanto vamos pagar de IRS para não sermos apanhados de surpresa. Mas não conheço bem as opções fiscais e como funcionam as deduções e isso parece complicado.",
+          "Acho que simular o IRS é importante para saber quanto é que vou ter de pagar, porque assim consigo planear melhor as minhas contas. Não reconheço muito bem os outros termos, mas saber o valor a pagar parece-me o mais importante para não ter surpresas.",
+          "Acho que simular o IRS é para saber quanto é que vou ter de pagar, assim consigo planear melhor. Não conheço bem todos esses termos, mas parece-me que é importante saber quanto vou gastar.",
+          "Acho que simular o IRS ajuda a não ter problemas com o tempo, porque se não entregar a tempo pode levar a multas. Não entendo muito bem os outros termos, como deduções ou opções fiscais.",
+          "Acho que simular o IRS é importante para saber quanto é que vou ter que pagar, assim não fico surpreendido. Não conheço bem os outros termos, mas sei que é bom saber quanto é que vou pagar.",
+          "Acho que simular o IRS é importante para não ter problemas depois, como multas. Não tenho certeza sobre os outros pontos, mas evitar problemas parece ser uma razão boa.",
+          "Acho que simular o IRS é importante para saber quanto é que vou ter de pagar, assim posso me preparar melhor. Não conheço muito bem os detalhes, mas é bom ter uma ideia do que esperar.",
+          "Acho que simular o IRS é importante para evitar multas, porque se não entregarmos a tempo, podemos ter problemas. Não conheço bem os detalhes das deduções ou como calcular o valor exato a pagar.",
+          "Acho que simular o IRS é importante para ver quais deduções podem ajudar a pagar menos. Não conheço muito sobre isso, mas se puder escolher a melhor opção, parece que é uma boa ideia.",
+          "Acho que simular o IRS é importante para saber quanto é que vou ter de pagar, porque assim posso me preparar melhor. Não tenho a certeza sobre os outros termos, mas calcular o valor parece-me o mais importante."
+        ],
+        "Alto": [
+          "A simulação do IRS é essencial para identificar as melhores opções fiscais, especialmente no que diz respeito a deduções, permitindo otimizar o valor a devolver ou a pagar. Reconheço que esta opção reflete a importância de uma gestão fiscal eficiente e da maximização dos benefícios fiscais disponíveis.",
+          "A simulação do IRS é crucial para determinar a melhor estratégia fiscal, permitindo ao contribuinte maximizar deduções e minimizar o imposto a pagar. Este processo envolve a análise das opções de dedução disponíveis, o que pode ter um impacto significativo no valor final da tributação.",
+          "A simulação do IRS é fundamental para otimizar as deduções fiscais disponíveis, permitindo ao contribuinte escolher a melhor estratégia para maximizar o reembolso ou minimizar o valor a pagar. Esta opção é mais relevante do que calcular um valor exato, pois o valor final depende de muitos fatores que podem ser ajustados durante a simulação.",
+          "A simulação do IRS permite ao contribuinte explorar diferentes cenários de deduções, maximizando assim o seu benefício fiscal. É crucial analisar as deduções disponíveis e escolher a que resulta na menor carga tributária, o que se alinha com a gestão eficiente do planejamento financeiro pessoal.",
+          "A simulação do IRS é fundamental para analisar as deduções disponíveis e maximizar as vantagens fiscais. Isso permite ao contribuinte identificar a melhor estratégia fiscal, otimizando o valor a reembolsar ou a pagar, em vez de apenas calcular um valor exato a pagar.",
+          "A simulação do IRS permite analisar diferentes cenários e deduções possíveis, ajudando a maximizar a restituição ou minimizar o imposto a pagar. Esta análise é crucial para otimizar a situação fiscal, especialmente considerando as várias opções de dedução disponíveis que podem impactar significativamente o resultado final.",
+          "Simular o IRS antes da entrega da declaração é crucial para identificar a melhor estratégia em termos de deduções fiscais que podem ser aplicadas, otimizando assim o valor a pagar ou a receber. O termo 'opção fiscal' refere-se à escolha que o contribuinte tem sobre quais deduções e benefícios fiscais utilizar, algo que pode impactar significativamente o resultado final da declaração.",
+          "Simular o IRS antes da entrega da declaração permite avaliar as diferentes opções de deduções disponíveis e escolher a que maximiza o reembolso ou minimiza o imposto a pagar. Este processo é fundamental para otimizar a situação fiscal do contribuinte, garantindo que todas as deduções legais são corretamente aplicadas.",
+          "A simulação do IRS é crucial para identificar a melhor opção fiscal para deduções, permitindo ao contribuinte maximizar o seu reembolso ou minimizar o montante a pagar. Embora calcular o valor exato a pagar (opção A) seja importante, a simulação permite uma análise mais abrangente das opções de dedução disponíveis, o que pode ter um impacto significativo na carga fiscal.",
+          "Simular o IRS permite avaliar as várias opções de deduções disponíveis, ajudando assim a maximizar o reembolso ou minimizar o imposto a pagar. Este processo é essencial para garantir que se aproveitam todas as deduções legais, refletindo uma boa literacia financeira."
+        ]
+      }
+    },
+    {
+      "question": "De que forma pode a escolha do imóvel impactar os custos de IMT e Imposto de Selo para jovens até 35 anos?",
+      "options": {
+        "A": "Pode beneficiar de isenções no IMT e Imposto de Selo.",
+        "B": "Reduzir o valor da escritura do imóvel.",
+        "C": "Aumentar o prazo para pagamento do IMT.",
+        "D": "Garantir uma taxa fixa de IMI por 10 anos."
+      },
+      "hint": "Isenções fiscais para jovens na compra de imóveis.",
+      "rationale": "Jovens até 35 anos podem beneficiar de isenções no IMT e Imposto de Selo, dependendo do valor do imóvel, o que pode reduzir significativamente os custos de aquisição.",
+      "tag": "IMI, IMT e IUC",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IMI, IMT e IUC', pois aborda como a escolha do imóvel pode impactar os custos de IMT e Imposto de Selo, que são temas centrais desse tópico."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona especificamente as isenções de IMT e Imposto de Selo para jovens até 35 anos."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A) que se destaca claramente das demais."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, mas algumas opções, como a B e a C, não têm relação direta com o impacto das isenções fiscais."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre isenções fiscais, mas poderia ser mais específica em relação ao impacto na escolha do imóvel."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte sobre as isenções para jovens na compra de imóveis."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não percebo bem esses termos, mas parece que se os jovens têm alguma vantagem, como não pagarem impostos, isso é bom para eles. Então, eu escolheria a opção que fala sobre isenções, porque isso ajudaria a pagar menos.",
+          "Eu não entendo bem esses impostos e termos, mas parece que se eu escolher um imóvel, posso não ter que pagar algumas taxas, o que é bom para jovens. Então, acho que a opção A é a mais lógica.",
+          "Eu não percebo muito bem esses termos como IMT ou Imposto de Selo, mas parece que se pode beneficiar de alguma coisa se escolher um imóvel. Então, eu diria que a opção A é a melhor, porque parece que é uma vantagem para os jovens.",
+          "Eu não entendo bem esses termos todos, mas parece que se os jovens até 35 anos têm alguma vantagem, pode ser que não tenham que pagar tanto imposto. Portanto, a opção C parece ser a mais lógica.",
+          "Parece que os jovens até 35 anos podem ter algumas vantagens, como não pagar certos impostos quando compram uma casa. Não entendo bem os termos, mas é sempre bom saber que há maneiras de ajudar quem está a comprar pela primeira vez.",
+          "Acho que escolher um imóvel pode ajudar a não pagar certas taxas, porque ouvi falar que os jovens têm algumas vantagens. Não entendo bem esses impostos que mencionam, mas parece que há maneiras de ficar isento, então escolhi a opção que fala disso.",
+          "Eu não percebo bem o que são esses impostos, mas parece que se escolher um imóvel certo, pode ser que não tenha que pagar tanto, ou até nada, então acho que isso faz sentido.",
+          "Acho que a opção B faz mais sentido, porque parece que jovens podem ter algumas vantagens, como não pagar certos impostos. Os outros termos, como IMI ou IMT, não os reconheço bem, mas isenções soa a algo positivo.",
+          "Eu não percebo muito de impostos e coisas assim, mas parece-me que se os jovens têm isenções, isso pode ajudar a pagar menos. Não sei o que é IMT nem Imposto de Selo, mas se não temos de pagar, é melhor.",
+          "Eu não percebo muito sobre esses impostos e isenções, mas parece que se pode ter algum tipo de ajuda, especialmente para jovens, o que é bom. Eu não conheço os termos todos, mas se diz que pode beneficiar, acho que é uma boa opção."
+        ],
+        "Médio": [
+          "Acho que a opção B faz sentido porque ouvi falar que jovens até 35 anos podem ter algumas vantagens quando compram uma casa. Não tenho certeza sobre os detalhes, mas parece que pode ser mais fácil para eles.",
+          "Acho que, se os jovens até 35 anos escolhem um imóvel, podem ter algumas vantagens, como não pagar certos impostos, mas não sei muito bem como funcionam as isenções, só sei que é bom não ter que pagar tudo.",
+          "Parece-me que os jovens até 35 anos podem ter algumas vantagens, como isenções em impostos quando compram a casa. Não percebo bem todos os detalhes, mas acho que é isso que a pergunta quer dizer.",
+          "Acho que a opção C faz sentido porque eu sei que jovens até 35 anos podem ter algumas vantagens, como isenções em impostos. As outras opções parecem mais complicadas e não estou certo sobre o que significam exatamente.",
+          "Acho que a opção C faz sentido porque, se os jovens até 35 anos têm algumas vantagens, como isenções, isso pode ajudar a não pagar tanto imposto. Não conheço bem os termos, mas parece que é bom para quem está a comprar a primeira casa.",
+          "Eu não percebo bem tudo sobre impostos, mas parece que os jovens podem ter algumas vantagens, como não pagar certas taxas. Isso é bom para quem está a comprar casa pela primeira vez.",
+          "Acho que os jovens até 35 anos podem ter algumas vantagens quando compram um imóvel, talvez não tenham que pagar tanto imposto. Não conheço bem os detalhes, mas parece que é isso que a opção B diz, então escolhi essa.",
+          "Acho que a escolha do imóvel pode ajudar as pessoas jovens a não pagarem tanto imposto, como o IMT e o Imposto de Selo. Normalmente, ouço falar de isenções para quem tem menos de 35 anos, mas não sei detalhar muito bem como funciona.",
+          "Acho que a resposta B faz sentido porque, se os jovens têm algumas isenções, isso pode ajudar a pagar menos impostos quando compram uma casa. Eu conheço um pouco sobre impostos, mas não sei muito sobre as isenções específicas.",
+          "Acho que se escolher um imóvel, pode haver algumas isenções de impostos, especialmente para jovens. Não entendo bem todos os detalhes, mas parece que é uma vantagem para quem compra a casa."
+        ],
+        "Alto": [
+          "A opção D é a mais correta, pois a legislação portuguesa prevê isenções ou reduções no IMT e Imposto de Selo para jovens até 35 anos que adquiram a sua primeira habitação, o que pode resultar em uma significativa economia nos custos associados à compra do imóvel.",
+          "A escolha do imóvel pode impactar os custos de IMT e Imposto de Selo, especialmente para jovens até 35 anos, uma vez que existem isenções ou reduções nestes impostos para imóveis de valor inferior a determinados limites, conforme a legislação em vigor. Este conhecimento é fundamental para um planeamento financeiro eficiente e para maximizar os benefícios fiscais disponíveis.",
+          "A opção C é a mais correta, pois jovens até 35 anos podem beneficiar de isenções ou reduções no pagamento do IMT e do Imposto de Selo, dependendo do valor do imóvel e das condições específicas aplicáveis. Reconheço os termos usados, pois estão diretamente relacionados com a legislação fiscal portuguesa e os incentivos disponíveis para a aquisição de habitação jovem.",
+          "A opção B é a mais correta, pois jovens até 35 anos podem beneficiar de isenções ou taxas reduzidas no IMT e no Imposto de Selo, dependendo do valor do imóvel e da sua utilização. Reconheço os termos usados, já que as isenções são uma forma de incentivo à compra de habitação para jovens, e são relevantes na análise dos custos associados à aquisição de um imóvel.",
+          "A escolha do imóvel pode impactar os custos de IMT e Imposto de Selo, especialmente para jovens até 35 anos, pois existem isenções e reduções específicas aplicáveis a esta faixa etária e a imóveis de valor mais baixo. A opção C é a única que reflete corretamente as vantagens fiscais disponíveis, ao contrário das outras opções que não se aplicam diretamente ao contexto fiscal em questão.",
+          "A escolha do imóvel pode impactar os custos de IMT e Imposto de Selo, especialmente para jovens até 35 anos, pois existem isenções aplicáveis a imóveis que se enquadram em certas condições. Reconheço os termos usados, como IMT (Imposto Municipal sobre Transmissões) e Imposto de Selo, que são relevantes na tributação da compra de imóveis e podem oferecer benefícios fiscais para jovens compradores.",
+          "A opção C é a mais correta, pois jovens até 35 anos podem beneficiar de isenções ou reduções no IMT e Imposto de Selo ao adquirir a sua primeira habitação. Os termos referidos, como IMT (Imposto Municipal sobre Transmissões Onerosas de Imóveis) e Imposto de Selo, são relevantes neste contexto e refletem a legislação vigente que apoia a aquisição de imóveis por jovens.",
+          "A escolha do imóvel pode, de facto, permitir que jovens até 35 anos beneficiem de isenções no IMT (Imposto Municipal sobre Transmissões) e no Imposto de Selo, se o imóvel se destinar à habitação própria e permanente e não ultrapassar certos limites de valor. Este é um incentivo importante para a aquisição de casa por jovens, e reconheço a relevância desses termos dentro do contexto da tributação imobiliária em Portugal.",
+          "A opção A é correta pois, de acordo com a legislação em vigor em Portugal, jovens até 35 anos podem beneficiar de isenções no pagamento do IMT e do Imposto de Selo, desde que adquiram a primeira habitação e que o valor do imóvel não ultrapasse certos limites. Reconheço os termos utilizados, como IMT e Imposto de Selo, que são relevantes na análise dos custos associados à aquisição de um imóvel.",
+          "A opção C é a mais correta, pois jovens até 35 anos podem beneficiar de isenções no IMT (Imposto Municipal sobre Transmissões) e no Imposto de Selo, dependendo do valor do imóvel e do regime de apoio à habitação. As outras opções não refletem corretamente os impactos diretos da escolha do imóvel sobre os custos fiscais."
+        ]
+      }
+    },
+    {
+      "question": "Quais são as condições necessárias para deduzir o IVA em despesas de reparações de automóveis?",
+      "options": {
+        "A": "NIF registado na fatura e limite de 250 euros.",
+        "B": "Fatura emitida por uma oficina certificada e limite de 500 euros.",
+        "C": "Despesas pagas com cartão de crédito e limite de 200 euros.",
+        "D": "Reparações realizadas em veículos com mais de 10 anos e limite de 300 euros."
+      },
+      "hint": "Requisitos para dedução de IVA em despesas.",
+      "rationale": "Para deduzir o IVA em reparações de automóveis, é necessário que o NIF esteja registado nas faturas, e o limite máximo dedutível nesta categoria é de 250 euros.",
+      "tag": "IVA",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IVA', uma vez que aborda as condições para deduzir o IVA em despesas de reparações de automóveis, que é um aspecto específico da fiscalidade."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente a necessidade de ter o NIF registado nas faturas e o limite de 250 euros para dedução."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de dedução de IVA, mas alguns apresentam limites que não são mencionados no conteúdo-fonte, o que pode causar confusão."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre os requisitos para a dedução de IVA, mas poderia ser mais específica para direcionar melhor o raciocínio do participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo explicitamente a ligação ao conteúdo-fonte sobre as condições para deduzir o IVA em reparações de automóveis."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.4,
+        "Médio": 0.6,
+        "Alto": 0.1
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem os termos que estão a ser usados, mas parece que a opção A fala de um limite e de algo relacionado com a idade do carro, que é algo que muitas pessoas costumam ter em mente. Portanto, escolhi esta porque parece mais prática e fácil de entender.",
+          "Eu não percebo bem o que é o IVA nem os limites, mas parece-me que ter o NIF na fatura é importante para qualquer tipo de dedução. E 250 euros parece um valor razoável, então escolhi essa opção.",
+          "Não entendo bem o que é IVA nem as condições para deduzir, mas parece que despesas com cartão de crédito são mais fáceis de lidar. O limite de 200 euros parece razoável, então escolhi essa opção.",
+          "Eu não percebo bem o que é necessário para deduzir IVA, mas acho que deve ser uma fatura de uma oficina que está a funcionar bem. O limite de 500 euros parece razoável, já que os consertos de carros costumam ser caros.",
+          "Não conheço bem os termos e regras sobre IVA, mas parece que é importante ter uma fatura de uma oficina boa. O limite de 500 euros parece razoável, então escolhi essa opção.",
+          "Não percebo bem o que são essas condições, mas a opção A parece a mais lógica, porque eu acho que se tem de ter um recibo de quem fez o serviço. O limite de 500 euros soa a um valor razoável, mas não sei porquê.",
+          "Eu não entendo bem esses termos técnicos, mas parece que ter um NIF na fatura é importante. O limite de 250 euros parece razoável, então escolhi essa opção, porque é a única que menciona algo que parece prático.",
+          "Não percebo muito bem o que significa NIF ou fatura, mas parece que é importante ter um número para poder deduzir alguma coisa. O limite de 250 euros soa razoável, então escolhi esta opção.",
+          "Não percebo bem o que é isso de IVA e faturas, mas parece que a opção A fala de condições específicas. Como não conheço bem os detalhes, escolhi a que parece mais simples e direta.",
+          "Eu não entendo muito sobre o que é NIF ou limites, mas parece que ter um número é importante para deduzir alguma coisa, então escolhi a opção A porque é a que menciona um número que parece ser útil."
+        ],
+        "Médio": [
+          "Eu acho que para deduzir o IVA, é preciso ter um NIF na fatura, que é tipo o número de contribuinte, e um limite de 250 euros parece razoável. Não tenho certeza sobre os outros termos, mas isso faz sentido para mim.",
+          "Não sei bem os detalhes sobre IVA e essas regras, mas a opção C parece a mais lógica porque fala em fatura e oficina, que é onde normalmente se fazem reparações. As outras opções falam de limites que não conheço e de coisas que não me parecem tão relevantes.",
+          "Acho que é importante ter o NIF na fatura porque é algo que ouvi falar, e parece que há sempre um limite em despesas. Não estou muito certo sobre o que são oficinas certificadas ou outros detalhes, então escolhi esta porque é mais simples.",
+          "Acho que a opção A faz sentido porque menciona uma fatura e uma oficina, que são coisas que eu reconheço. Não tenho certeza sobre os limites de dinheiro, mas parece que 500 euros é um valor razoável para reparações, então escolhi essa.",
+          "Eu não estou muito certo sobre os detalhes exatos do IVA e das deduções, mas acho que a opção B parece ser a mais lógica, porque menciona uma oficina certificada, que parece importante para garantir que as reparações são feitas corretamente.",
+          "Eu acho que o NIF é importante porque é o número de identificação fiscal, e é preciso para muitas coisas. Quanto ao limite de 250 euros, parece um valor razoável para deduzir, mas não tenho certeza se é o correto.",
+          "Eu não sei muito bem sobre IVA e essas coisas, mas parece-me que ter um NIF na fatura é importante e talvez 250 euros seja um número que faz sentido. Não entendo bem os outros termos.",
+          "Eu não sei muito sobre IVA e deduções, mas a opção A parece a mais lógica porque fala de uma fatura e uma oficina, que eu acho que é importante. Os limites de 500 euros não sei se estão certos, mas parece que é um valor razoável.",
+          "Eu não conheço bem as regras sobre IVA e reparações, mas a ideia de ter o NIF na fatura parece lógica. O limite de 250 euros também parece razoável, porque não é muito alto.",
+          "Eu não percebo bem todas essas regras, mas parece que a opção A fala de ter um NIF na fatura, o que é importante, e 250 euros parece um limite razoável para um gasto. As outras opções falam de coisas que não conheço bem, como oficinas certificadas e limites altos, então fico com esta que parece mais simples."
+        ],
+        "Alto": [
+          "Para deduzir o IVA nas despesas de reparação de automóveis, é necessário que a fatura seja emitida por uma oficina certificada, e o limite de dedução está fixado em 500 euros. Reconheço que a opção B é a mais precisa, pois reflete as exigências legais para a dedução do IVA, em contraste com as outras opções que não se baseiam na legislação vigente.",
+          "Para deduzir o IVA nas despesas de reparações de automóveis, é necessário ter uma fatura emitida por uma oficina certificada e respeitar um limite de 500 euros, conforme estipulado pela legislação fiscal portuguesa. Esta condição é fundamental, pois garante a validade da dedução do IVA, alinhando-se assim com as regras de dedução de imposto estabelecidas.",
+          "Para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura seja emitida por uma oficina devidamente certificada e as despesas não podem ultrapassar o limite de 500 euros. Reconheço os termos usados, pois estão diretamente relacionados com a legislação fiscal em vigor em Portugal, que estipula estas condições específicas para a dedução de IVA.",
+          "A dedução do IVA nas despesas de reparação de automóveis requer que a fatura seja emitida por uma oficina certificada, e o limite de 500 euros é o mais correto, dado que as despesas de reparação de veículos para uso profissional ou empresarial estão sujeitas a este limite, conforme a legislação fiscal em vigor. As outras opções não refletem corretamente os requisitos legais.",
+          "Para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura seja emitida por uma oficina certificada, o que garante a validade da dedução. O limite de 500 euros está alinhado com as normas fiscais que regulamentam a dedução do IVA em despesas relacionadas com veículos de uso profissional.",
+          "Para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura seja emitida por uma oficina certificada, e o limite de 500 euros está alinhado com as normas fiscais em vigor. Reconheço os termos utilizados, pois refletem as exigências legais para a dedução de IVA em despesas relacionadas com a manutenção de veículos.",
+          "Para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura seja emitida por uma oficina certificada, e o limite de 500 euros é um valor reconhecido para a dedução de IVA em Portugal. Esta opção é a única que reflete corretamente as exigências legais para a dedução de IVA, ao contrário das outras que contêm elementos que não estão de acordo com a legislação vigente.",
+          "Para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura contenha o NIF do contribuinte, o que permite a identificação fiscal da despesa. O limite de 250 euros é uma condição relevante, pois está em conformidade com as normas de dedução do IVA em Portugal.",
+          "A dedução do IVA em despesas de reparações de automóveis requer que a fatura seja emitida por uma oficina certificada, além de um limite de 500 euros, conforme estabelecido pela legislação fiscal portuguesa. Este conceito é bem reconhecido na literacia financeira, pois envolve o cumprimento de requisitos específicos para a dedução do imposto.",
+          "Reconheço que para deduzir o IVA em despesas de reparações de automóveis, é necessário que a fatura seja emitida por uma oficina certificada, conforme estipulado pela legislação fiscal portuguesa. O limite de 500 euros é uma condição correta que se aplica especificamente a este tipo de deduções."
+        ]
+      }
+    },
+    {
+      "question": "Como pode um contribuinte utilizar um PPR para otimizar a carga tributária?",
+      "options": {
+        "A": "Deduz até 20% do valor investido em PPR.",
+        "B": "Deduzir até 30% do valor investido em PPR.",
+        "C": "Isentar de tributação os rendimentos do PPR.",
+        "D": "Transferir o valor do PPR para outra conta sem penalizações."
+      },
+      "hint": "Utilização de PPR para benefícios fiscais.",
+      "rationale": "Investir em PPR permite deduzir até 20% do valor investido anualmente, ajudando a reduzir a carga tributária através de benefícios fiscais.",
+      "tag": "Otimização fiscal",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de 'Otimização fiscal', pois aborda como um contribuinte pode utilizar um PPR para reduzir a carga tributária, que é um aspecto relevante desse tema."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a dedução de despesas e benefícios fiscais, embora não mencione especificamente o PPR."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de otimização fiscal, mas algumas opções, como a D, podem ser consideradas menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre o uso de PPR para benefícios fiscais, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao incluir mais detalhes sobre como o PPR se relaciona com a carga tributária."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.9,
+        "Médio": 1.0,
+        "Alto": 0.3
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não reconheço bem os termos técnicos, mas a opção fala em deduzir um valor, que parece ser algo que se pode fazer com investimentos. Como não sei muito sobre isso, pensei que 20% podia ser uma possibilidade, porque 30% parece muito alto.",
+          "Não percebo bem os termos técnicos, mas deduzir parece-me algo que pode ajudar a pagar menos impostos. Acredito que 20% é um número razoável, então escolhi essa opção.",
+          "Eu não entendo bem como funcionam esses PPRs e impostos, mas acho que deduzir 20% parece mais simples do que 30%. Não conheço os detalhes técnicos, mas suponho que seja uma maneira de pagar menos impostos.",
+          "Eu não sei muito sobre esses termos, mas parece que a opção A é a mais simples e direta. Deduzir parte do que se investe parece uma boa maneira de ajudar a pagar menos impostos.",
+          "Eu não entendo muito bem esses termos financeiros que falam, mas parece que se pode deduzir alguma coisa do que se investe, então acho que a opção A faz mais sentido, porque 20% parece um número mais fácil de lembrar.",
+          "Não percebo muito bem o que é um PPR, mas acho que se pode deduzir um valor, talvez mais de 20%. Então escolhi 30% porque parece mais. Os termos são confusos para mim.",
+          "Não entendo muito bem o que é um PPR, mas parece que pode ajudar de alguma forma a pagar menos impostos. A opção C parece mais simples, então acho que é essa a resposta certa.",
+          "Eu não entendo muito bem esses termos complicados, mas parece que se pode deduzir uma parte do que se investe, então escolhi a opção A porque 20% parece mais razoável do que 30%. Não sei realmente o que é um PPR, mas deduzir é algo que se faz para pagar menos impostos, certo?",
+          "Não percebo bem o que é um PPR, mas acho que se pode deduzir alguma coisa. A opção C parece ser a mais simples e talvez a mais certa, porque 20% parece um número razoável para deduzir. Não conheço bem os termos, então fico confuso.",
+          "Eu não percebo bem o que é um PPR ou como funciona, mas pelo que sei, parece que dá para deduzir alguma coisa no imposto. A opção C parece fazer mais sentido porque 20% parece um número razoável e fácil de lembrar, mas não sei se é mesmo assim."
+        ],
+        "Médio": [
+          "Eu não sei muito sobre PPR e impostos, mas acho que se pode deduzir um valor dos impostos. A opção D parece a mais próxima do que eu ouço as pessoas dizerem, mesmo que não tenha certeza dos números exatos.",
+          "Acho que dá para deduzir alguma coisa do que investimos em PPR, mas não estou certo se é 20% ou 30%. Estes termos são um pouco confusos para mim, e não tenho certeza sobre os valores exatos.",
+          "Acho que é possível deduzir uma porcentagem do que se investe em PPR, mas não tenho certeza se é 20% ou 30%. Reconheço que PPR é algo relacionado com impostos, mas os detalhes são confusos para mim.",
+          "Acho que deduzir 20% é o mais certo, porque parece uma percentagem que se ouve falar. Não sou muito bom com números e não conheço bem o que é PPR, mas parece que é algo que ajuda a pagar menos impostos. As outras opções parecem mais complicadas e não entendo bem.",
+          "Acho que posso deduzir uma percentagem do que coloco no PPR, mas não sei exatamente quanto. Os termos como 'deduzir' e 'carga tributária' são confusos para mim, mas parece que a opção B é a mais simples e direta.",
+          "Acho que a opção B é a que faz mais sentido, porque 20% parece um número razoável para deduzir. Não conheço bem os detalhes sobre PPR ou deduções, mas sei que é algo que pode ajudar a pagar menos impostos. As outras opções parecem um pouco confusas para mim.",
+          "Acho que a opção A é a mais certa porque fala em deduzir um valor que se investe em PPR, que é algo que já ouvi antes. Não conheço bem os outros termos, mas parece que a dedução é uma forma de pagar menos impostos.",
+          "Acho que posso deduzir uma parte do que coloco no PPR, mas não tenho certeza se é 20% ou outro valor. Não conheço bem esses termos de tributação e percentagens, então optei por esta resposta por ser a que me parece mais simples.",
+          "Eu não percebo muito bem sobre PPR e impostos, mas acho que se pode deduzir uma parte do que se investe. Não sei se é 20% ou 30%, mas escolhi 20% porque parece mais razoável. Não conheço bem os termos, então pode ser que esteja a confundir.",
+          "Eu não sei bem o que é um PPR, mas parece que pode ajudar com impostos. Acho que a opção A é a mais acertada porque fala em deduzir, que é algo que se faz com impostos. Os percentuais e os detalhes são confusos para mim."
+        ],
+        "Alto": [
+          "A resposta correta é a opção B, pois atualmente, os contribuintes podem deduzir até 30% do valor investido em Planos Poupança Reforma (PPR) no âmbito das suas despesas de saúde, educação e lares, até ao limite de 400 euros. Esta dedução é uma forma eficaz de otimizar a carga tributária, reduzindo o montante de imposto a pagar.",
+          "Um contribuinte pode deduzir até 20% do valor investido em PPR no IRS, o que permite uma redução da carga tributária. A opção B é incorreta porque os rendimentos do PPR são tributados em sede de IRS quando são resgatados, e as opções C e D não refletem corretamente as regras fiscais aplicáveis.",
+          "Os Planos Poupança Reforma (PPR) permitem que os contribuintes deduzam até 30% do valor investido em sede de IRS, até aos limites estabelecidos para a dedução. Reconheço os termos utilizados, pois são fundamentais na otimização fiscal e na gestão do património pessoal.",
+          "A opção B está correta, pois os contribuintes podem deduzir até 30% do valor investido em Planos de Poupança Reforma (PPR) nas suas declarações de IRS, até ao limite de 400 euros por ano, o que é uma estratégia eficaz para otimizar a carga tributária. As outras opções não são verdadeiras ou não refletem corretamente as características dos PPR.",
+          "Um contribuinte pode deduzir até 30% do valor investido em PPR no seu IRS, o que ajuda a otimizar a carga tributária, pois esta dedução reduz a base de cálculo do imposto a pagar. Os PPR (Planos Poupança Reforma) são instrumentos de poupança com benefícios fiscais, permitindo uma gestão eficiente da carga tributária.",
+          "A opção correta é a C, pois atualmente, a dedução do valor investido em Planos de Poupança Reforma (PPR) no IRS é de até 20% para os limites estabelecidos, que são 400€ para contribuintes solteiros e 800€ para casais. As outras opções não refletem a realidade fiscal portuguesa em relação aos PPR.",
+          "A opção B está correta, pois os contribuintes podem deduzir até 30% do valor investido em Planos de Poupança Reforma (PPR) no IRS, desde que respeitados os limites máximos de dedução. Reconheço os termos utilizados relacionados com a otimização da carga tributária e a legislação fiscal vigente em Portugal, que permite esta dedução como um incentivo à poupança para a reforma.",
+          "A opção C é a mais correta, pois a dedução no IRS para os PPR é de até 30% do valor investido, desde que respeitados os limites de dedução por categoria de contribuinte. Reconheço os termos usados, pois estão diretamente relacionados com a legislação fiscal em vigor em Portugal e a forma como os PPR podem ser utilizados para minimizar a carga tributária.",
+          "A opção B é a mais correta, pois um contribuinte pode deduzir até 30% do valor investido em PPR, desde que respeite os limites estabelecidos na legislação em vigor. Esta dedução é uma forma eficaz de otimizar a carga tributária, uma vez que reduz a base tributável do IRS.",
+          "A opção D menciona a dedução até 20% do valor investido em PPR, que é uma informação incorreta. Na verdade, o contribuinte pode deduzir até 20% do valor investido em PPR, mas há um limite máximo de dedução que é de 400 euros por ano, o que significa que a opção correta deveria refletir isso. Além disso, o PPR também permite a dedução de acordo com a categoria de rendimentos, o que torna a opção mais complexa e suscetível a erros. Portanto, a opção que menciona a dedução até 20% é a mais referenciada, mesmo que não esteja completamente correta."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o impacto de não validar faturas no portal e-fatura?",
+      "options": {
+        "A": "Perdas financeiras devido à não contabilização de despesas.",
+        "B": "Atrasos na entrega da declaração de IRS.",
+        "C": "Penalizações fiscais por irregularidades na declaração.",
+        "D": "Aumento da taxa de IRS aplicada aos rendimentos."
+      },
+      "hint": "Consequências da não validação de faturas.",
+      "rationale": "A falta de validação das faturas no portal e-fatura pode resultar em perdas financeiras significativas, pois as despesas não são contabilizadas para deduções fiscais.",
+      "tag": "Faturas e e-fatura",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Faturas e e-fatura', pois aborda a importância da validação de faturas no portal e-fatura, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a necessidade de validar faturas para maximizar benefícios fiscais e evitar perdas financeiras."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de validação de faturas, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre as consequências da não validação, mas poderia ser um pouco mais específica para direcionar melhor o participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as consequências da falta de validação das faturas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem esses termos técnicos, mas acho que se não validar as faturas, pode ser que eu perca dinheiro porque as despesas não são contadas. Parece lógico que, se não contabilizo algo, não consigo usar isso a meu favor.",
+          "Não percebo bem esses termos técnicos, mas acho que se não validar as faturas, pode ser que perca algum dinheiro, porque as despesas não são contabilizadas. É uma coisa que parece lógica, mas não sei o que significa exatamente 'penalizações fiscais' ou 'IRS'.",
+          "Eu não percebo muito sobre essas coisas de faturas e IRS, mas acho que se não validar as faturas, pode atrasar a entrega da declaração. É como quando temos que entregar um trabalho na escola e não fazemos tudo a tempo.",
+          "Eu não percebo muito bem essas questões de IRS e faturas, mas acho que se não validarmos as faturas, podemos perder dinheiro porque não contamos com algumas despesas que podiam ajudar a diminuir o que temos de pagar. Não conheço bem os outros termos, mas parece-me que esta opção faz mais sentido.",
+          "Não percebo bem os termos técnicos, mas acho que se não validar as faturas, pode demorar mais a entregar a papelada do IRS. Pode ser isso que significa, mas não tenho certeza.",
+          "Não percebo muito bem dos termos todos, mas acho que se não validar as faturas, posso perder dinheiro porque não vou conseguir contar tudo o que gastei. Assim, parece que é melhor para não ficar a perder.",
+          "Eu não entendo bem o que são essas penalizações ou taxas, mas acho que se não validamos faturas, pode atrasar tudo, como a entrega da declaração. Para mim, isso parece ser o mais comum, já que pode causar confusão.",
+          "Eu não percebo muito bem esses termos complicados que vocês usam, mas acho que se não validar as faturas, é como se não estivesse a usar o dinheiro que gastei, e isso parece-me que pode fazer falta no final. Não sei se é bem isso, mas parece que pode ser um problema.",
+          "Eu não percebo muito sobre essas coisas de faturas e IRS. Acho que se não validar as faturas, pode ser que eu atrase a entrega da declaração, porque fica tudo confuso. Não conheço bem os outros termos e o que significam.",
+          "Eu não percebo muito sobre essas coisas de faturas e IRS, mas parece-me que se não validamos as faturas, podemos perder algum dinheiro porque não estamos a contar as despesas que fizemos. Então, escolhi a opção A porque faz sentido que isso possa acontecer."
+        ],
+        "Médio": [
+          "Eu escolhi a opção D porque penso que se não validamos as faturas, podemos perder dinheiro que podíamos ter usado para pagar menos impostos. Não conheço bem os termos, mas isso parece-me lógico, já que se não contamos as despesas, é como se não as tivéssemos.",
+          "Eu acho que se não validar as faturas, pode ser que perca dinheiro porque as despesas não são contadas. Não entendo muito bem os termos técnicos, mas parece que isso pode afetar o que recebo ao final.",
+          "Acho que se não validar as faturas, pode ser que perca dinheiro, porque as despesas não vão contar para o IRS. Não conheço bem todos os termos, mas parece lógico que não contar as despesas pode fazer com que eu tenha que pagar mais.",
+          "Eu escolhi esta opção porque parece que se não validamos as faturas, podemos perder dinheiro que poderíamos ter contado como despesas. Não entendo muito bem os outros termos, mas a ideia de perder dinheiro parece importante.",
+          "Acho que se não validar as faturas, posso perder dinheiro porque não estou a contar as despesas que poderia usar para pagar menos impostos. Não reconheço bem os outros termos, mas parece que esta é a mais simples de entender.",
+          "Acho que se não validar as faturas, pode acabar por perder dinheiro porque as despesas não são consideradas. Não conheço bem os termos técnicos, mas parece que isso pode fazer com que não consiga deduzir o que devia.",
+          "Acho que se não validar as faturas, posso perder dinheiro porque as despesas não ficam contadas. Não conheço bem os outros termos, mas parece que é mais seguro validar as faturas para não ter surpresas.",
+          "Eu escolhi esta opção porque, se não validar as faturas, pode ser que não consiga usar as despesas para pagar menos impostos. Não conheço bem todos os termos e regras, mas parece que isso pode fazer-me perder dinheiro.",
+          "Acho que se não validar as faturas, talvez não consiga usar as despesas que paguei para reduzir o que tenho de pagar no IRS. Não conheço bem todos esses termos, mas parece que é uma maneira de perder dinheiro.",
+          "Acho que se não validar as faturas, pode ser que perca dinheiro porque as despesas não contam para o IRS. Não reconheço bem todos os termos, mas parece que é assim que funciona."
+        ],
+        "Alto": [
+          "A opção A é a mais correta, pois a não validação de faturas no portal e-fatura resulta na não contabilização das despesas dedutíveis, o que pode levar a perdas financeiras na forma de um maior imposto a pagar, uma vez que as deduções não serão consideradas na declaração de IRS. Reconheço os termos usados, dado que eles se relacionam diretamente com a gestão de despesas e a declaração de impostos em Portugal.",
+          "O impacto mais direto de não validar faturas no portal e-fatura é a não contabilização de despesas, o que pode resultar em perdas financeiras significativas, uma vez que essas despesas não serão consideradas na declaração de IRS e, portanto, não poderão ser deduzidas. Reconheço os termos usados, pois estão diretamente relacionados com a gestão fiscal e a otimização dos impostos a pagar.",
+          "A opção A é a mais correta, pois a não validação das faturas no portal e-fatura resulta na não contabilização das despesas que podem ser deduzidas no IRS, levando a perdas financeiras diretas. As demais opções, embora relevantes, não abordam diretamente o impacto financeiro imediato de não validar as faturas.",
+          "A não validação de faturas no portal e-fatura impede que as despesas sejam corretamente contabilizadas para efeitos de IRS, resultando em potenciais perdas financeiras, uma vez que não se poderá usufruir das deduções fiscais correspondentes. Reconheço perfeitamente os termos usados, pois a validação de faturas é crucial para otimizar a declaração de IRS e maximizar as deduções.",
+          "A falta de validação de faturas no portal e-fatura pode resultar na não contabilização de despesas dedutíveis, o que leva a uma maior base tributável e, consequentemente, a perdas financeiras. Reconheço os termos utilizados, pois a contabilização correta das despesas é fundamental para otimizar a declaração de IRS e minimizar a carga fiscal.",
+          "A não validação de faturas no portal e-fatura resulta na não contabilização dessas despesas, o que pode levar a perdas financeiras significativas, já que essas despesas não poderão ser deduzidas no cálculo do IRS. A opção C é a mais correta, pois reflete diretamente o impacto financeiro da falta de validação das faturas.",
+          "A não validação de faturas no portal e-fatura resulta na não contabilização de despesas, o que pode levar a perdas financeiras significativas, uma vez que não se poderá deduzir essas despesas na declaração de IRS. Reconheço os termos usados, pois a validação de faturas é crucial para maximizar as deduções fiscais e, consequentemente, minimizar a carga tributária.",
+          "A opção B é a mais correta, pois não validar faturas no portal e-fatura resulta na não contabilização de despesas que poderiam ser deduzidas no IRS, levando a perdas financeiras diretas. Reconheço os termos usados, pois a contabilização de despesas é fundamental na gestão fiscal e pode afetar diretamente o montante a devolver ou a pagar no IRS.",
+          "A não validação de faturas no portal e-fatura resulta em perdas financeiras, pois as despesas que não estão registadas não podem ser deduzidas no IRS, afetando diretamente o montante a devolver ou a pagar. Reconheço os termos usados, uma vez que a contabilização adequada de despesas é fundamental para otimizar a carga fiscal.",
+          "A validação de faturas no portal e-fatura é crucial para assegurar a contabilização correta das despesas, o que pode impactar diretamente o valor a restituir no IRS. Sem essa validação, as despesas não são consideradas, resultando em perdas financeiras e uma potencial maior carga tributária."
+        ]
+      }
+    },
+    {
+      "question": "Como podem os donativos influenciar o montante de IRS a pagar?",
+      "options": {
+        "A": "Permitem deduções fiscais específicas.",
+        "B": "Aumentam o prazo para entrega do IRS.",
+        "C": "Garantem uma taxa fixa de IRS para o próximo ano.",
+        "D": "Permitem isenção total de IRS sobre os rendimentos."
+      },
+      "hint": "Deduções fiscais através de donativos.",
+      "rationale": "Os donativos estão incluídos nos benefícios fiscais, permitindo deduções específicas que podem reduzir o montante de IRS a pagar.",
+      "tag": "Benefícios fiscais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Benefícios fiscais', pois aborda como os donativos influenciam o montante de IRS a pagar, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona explicitamente que os donativos permitem deduções fiscais que afetam o IRS."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta (A), sem ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de fiscalidade, mas a opção D, que fala sobre isenção total, pode ser considerada menos relevante no contexto de deduções."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre deduções fiscais, mas poderia ser um pouco mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre como os donativos influenciam as deduções fiscais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.5,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não conheço bem o que isso significa, mas pelo que entendo, fazer donativos pode ajudar a pagar menos impostos, talvez porque descontam de algum jeito. Isso parece ser a única opção que fala sobre ajudar a pagar menos.",
+          "Acho que os donativos ajudam a pagar menos IRS, talvez porque se pode tirar alguma parte do que se dá a instituições. Não entendo bem os termos, mas parece que é isso que acontece.",
+          "Eu não percebo muito bem como funciona isso do IRS, mas acho que se os donativos aumentam o prazo para entregar, então talvez ajudem de alguma forma. Os outros termos parecem confusos e complicados para mim.",
+          "Eu não percebo muito bem esses termos complicados, mas acho que quando se faz donativos, pode ser que se pague menos IRS porque é uma espécie de desconto ou algo assim. É o que faz sentido para mim.",
+          "Acho que os donativos ajudam a pagar menos imposto, mas não sei bem como funciona isso. Não percebo muito de termos técnicos, mas parece que se pode tirar um valor do que se tem que pagar.",
+          "Eu não percebo muito de finanças e não sei o que são deduções fiscais, mas parece que se os donativos ajudam a diminuir o que temos que pagar, deve ser isso. As outras opções não fazem sentido para mim.",
+          "Eu não percebo muito de impostos e finanças, mas parece que se eu fizer donativos, isso poderia garantir que pagasse sempre o mesmo de IRS. Não sei bem como funciona, mas pensei que dar dinheiro a instituições ajudasse com os impostos.",
+          "Eu não entendo bem essas coisas de IRS e donativos, mas parece que se faz um donativo, o governo pode deixar de cobrar imposto. Isso soa a uma isenção, então escolhi a opção A.",
+          "Eu não percebo muito sobre impostos e finanças, mas acho que se fizer donativos, isso deve ajudar a pagar menos no próximo ano, como se garantisse um preço fixo. Os termos que usaram parecem complicados e eu não sei o que significam.",
+          "Eu não percebo muito sobre impostos e donativos, mas parece que a opção B faz sentido, porque se os donativos garantem uma taxa fixa, isso deve ajudar a saber quanto vou pagar. Não conheço bem os termos técnicos, então escolhi o que parece mais claro para mim."
+        ],
+        "Médio": [
+          "Acho que os donativos ajudam a reduzir o imposto que tenho de pagar, por isso escolhi a opção que fala em deduções fiscais. Não sei muito sobre isso, mas parece que é algo que pode fazer com que pague menos IRS, mesmo que não perceba bem o que são deduções. As outras opções não me parecem certas.",
+          "Acho que os donativos ajudam a reduzir o que temos de pagar no IRS, talvez porque podemos deduzir uma parte ou assim. Não percebo muito bem os detalhes, mas parece que é isso que significa deduções.",
+          "Acho que os donativos ajudam a pagar menos IRS, talvez porque dá para tirar alguma parte do que doamos. Não entendo bem os detalhes, mas sei que há alguma coisa sobre deduções que faz sentido.",
+          "Eu acho que os donativos podem ajudar a pagar menos IRS, porque talvez possam ser deduzidos. Não conheço bem todos os detalhes, mas parece que deduzir significa que pagamos menos, certo? As outras opções não fazem muito sentido para mim.",
+          "Acho que os donativos ajudam a pagar menos IRS, por isso escolhi a opção B. Não conheço bem as regras de impostos, mas deduzir parece ser algo que faz sentido para reduzir o que temos de pagar.",
+          "Eu acho que os donativos ajudam a reduzir o quanto temos de pagar de IRS, talvez porque dá para descontar um pouco do valor que damos. Não percebo muito bem como funcionam as deduções fiscais, mas parece que é isso que faz com que o nosso IRS fique mais baixo.",
+          "Acho que os donativos ajudam a reduzir o que temos de pagar no IRS, então deve ser isso de deduções. Não conheço bem os outros termos, mas deduzir parece que é algo bom, porque é como se pagássemos menos.",
+          "Eu sei que fazer donativos pode ajudar a pagar menos IRS, então acho que a opção B é a certa. Não percebo bem os detalhes, mas parece que dá para descontar alguma coisa do que temos que pagar.",
+          "Acho que os donativos ajudam a reduzir o imposto que temos de pagar, talvez porque podemos tirar um pouco do que doamos do total. Não conheço bem os termos, mas parece que deduções fiscais é algo que pode ajudar a pagar menos IRS, não é?",
+          "Acho que os donativos ajudam a pagar menos IRS, talvez porque possam ser deduzidos de alguma forma. Não conheço bem os termos, mas parece que é isso que quer dizer deduções."
+        ],
+        "Alto": [
+          "Os donativos podem ser deduzidos ao rendimento tributável, reduzindo assim a base de cálculo do IRS a pagar. Isto é um conceito conhecido em fiscalidade, onde as deduções fiscais ajudam a otimizar a carga tributária.",
+          "Os donativos a instituições de utilidade pública ou associações reconhecidas podem ser considerados como deduções à coleta de IRS, reduzindo assim o montante de imposto a pagar. Esta opção é a única que reflete corretamente a legislação fiscal em vigor em Portugal, onde os donativos não garantem uma taxa fixa, não isentam totalmente o IRS e não afetam prazos de entrega.",
+          "Os donativos a instituições de utilidade pública permitem deduzir uma parte do valor do donativo no IRS, reduzindo assim o montante a pagar. Esta dedução é uma forma de incentivo fiscal e é reconhecida na legislação fiscal portuguesa.",
+          "Os donativos a instituições de utilidade pública permitem deduzir um determinado montante ao rendimento coletável para efeitos de IRS, reduzindo assim o imposto a pagar. Esta dedução está prevista na lei fiscal em Portugal, reconhecendo a importância das contribuições para causas sociais.",
+          "Os donativos a instituições de utilidade pública permitem deduzir um determinado montante à coleta de IRS, reduzindo assim o montante a pagar. Esta opção está correta, pois as deduções fiscais são um benefício direto que influencia o imposto devido.",
+          "Os donativos a instituições de solidariedade social ou outras entidades reconhecidas em Portugal permitem deduzir uma parte do valor do donativo no IRS, reduzindo assim o montante a pagar. Esta dedução é uma forma de incentivo fiscal, reconhecida na legislação portuguesa.",
+          "Os donativos podem ser deduzidos do rendimento coletável, o que reduz a base de cálculo do IRS a pagar. Esta dedução é específica e regulada, permitindo que os contribuintes beneficiem de um abatimento no imposto, desde que os donativos sejam feitos a entidades reconhecidas pelo Estado.",
+          "Os donativos realizados a entidades sem fins lucrativos podem ser deduzidos no IRS, reduzindo assim o montante tributável e, consequentemente, o imposto a pagar. Esta opção é a única que reflete corretamente como os donativos influenciam o IRS, uma vez que as outras alternativas não são precisas ou aplicáveis ao contexto fiscal português.",
+          "Os donativos a instituições de utilidade pública ou a causas específicas permitem deduções fiscais no IRS, reduzindo assim o montante a pagar. Esta dedução é uma forma de incentivo fiscal, reconhecendo a importância das contribuições para a sociedade.",
+          "Os donativos podem ser considerados como despesas dedutíveis no IRS, permitindo ao contribuinte reduzir a sua base tributável, o que se traduz em um montante inferior de imposto a pagar. Reconheço que a dedução é uma estratégia comum utilizada para otimizar a carga fiscal, sendo importante compreender os limites e percentagens aplicáveis."
+        ]
+      }
+    },
+    {
+      "question": "Que fatores devem ser considerados ao investir num PPR para maximizar os benefícios fiscais?",
+      "options": {
+        "A": "Características, custos e condições de resgate.",
+        "B": "Rendibilidade garantida e isenções fiscais.",
+        "C": "Taxas de juro variáveis e benefícios sociais.",
+        "D": "Condições de adesão e garantias de capital."
+      },
+      "hint": "Análise de PPR para benefícios fiscais.",
+      "rationale": "Ao investir num PPR, é importante analisar as características, custos e condições de resgate para maximizar os benefícios fiscais associados.",
+      "tag": "PPR e fiscalidade",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'PPR e fiscalidade', pois aborda fatores relevantes para maximizar os benefícios fiscais ao investir em PPR."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de considerar características, custos e condições de resgate ao investir em PPR."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de PPR, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a análise de PPR para benefícios fiscais, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a análise de fatores ao investir em PPR."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.3,
+        "Alto": 0.9
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem esses termos técnicos, mas acho que é importante saber como funciona e quanto custa para tirar o dinheiro depois de investir. Assim, posso decidir melhor se vale a pena.",
+          "Não conheço bem os termos financeiros, mas 'taxas de juro' é algo que se ouve falar. Acho que ter benefícios sociais pode ser bom, então escolhi esta opção.",
+          "Eu não percebo muito bem o que significa 'maximizar os benefícios fiscais', mas acho que as condições de adesão e garantias de capital são importantes, porque se vou pôr o meu dinheiro num PPR, quero ter certeza de que não vou perder tudo e que posso entrar nele sem problemas. Os outros termos parecem complicados.",
+          "Eu não percebo bem estas coisas de investimentos e impostos. Mas, parece que é importante olhar para as características e quanto custa, além de como posso tirar o dinheiro de volta. Isso faz sentido para mim.",
+          "Não entendo bem os termos técnicos, mas parece que as condições de adesão e garantias de capital são importantes para saber se o investimento é seguro. Afinal, quero ter certeza de que o meu dinheiro está protegido.",
+          "Eu não percebo bem os termos que estão a ser usados, mas parece que se fala de garantias e benefícios fiscais, o que é importante. Por isso, escolhi a opção D, porque penso que ter rendibilidade e ser isento de impostos seria bom.",
+          "Não compreendo bem os termos técnicos, mas parece-me que as condições de adesão e garantias de capital são importantes para saber se vou conseguir o meu dinheiro de volta e como posso entrar no investimento.",
+          "Escolhi a opção B porque parece que ter rendimentos garantidos e não pagar impostos é bom. Não percebo bem os outros termos, mas isso parece mais simples e direto.",
+          "Eu não entendo muito bem o que são esses termos financeiros, mas parece que as características e os custos são coisas que eu deveria considerar. Condições de resgate também parecem importantes, porque eu quero saber se posso tirar o meu dinheiro quando precisar.",
+          "Eu não entendo bem os termos financeiros, mas acho que as condições de adesão e garantias de capital são importantes porque se fala de aderir a algo e ter certeza que não perco o meu dinheiro. As outras opções parecem complicadas e eu não sei o que significam."
+        ],
+        "Médio": [
+          "Acho que a rendibilidade garantida é importante porque queremos ganhar dinheiro, e as isenções fiscais ajudam a poupar nos impostos. Não entendo bem os outros termos, mas esses parecem os mais relevantes para tirar proveito.",
+          "Eu escolhi a opção A porque acho que é importante saber como funciona o PPR, quanto custa e quando posso tirar o dinheiro. Não conheço bem os outros termos, mas parece que a opção A fala de coisas que fazem sentido para mim.",
+          "Acho que é importante saber que o que se investe pode ter algum rendimento garantido e que pode haver isenções fiscais. Não conheço bem os termos mais técnicos, mas parece que isso ajuda a pagar menos impostos.",
+          "Eu não conheço muito bem sobre PPR e investimentos. Mas pensei que as taxas de juro e os benefícios sociais podem ser importantes, porque afetam quanto dinheiro você pode ganhar ou poupar. Os outros termos, como rendibilidade garantida, parecem um pouco confusos para mim.",
+          "Eu escolho a opção A porque parece que fala sobre coisas que são importantes quando se investe, como as características e os custos. Não conheço bem os outros termos como garantias de capital ou rendibilidade garantida, então vou pelo que parece mais simples.",
+          "Acho que a opção A faz sentido porque, ao investir, é importante saber se o dinheiro vai render e se há isenções fiscais, que ajudam a pagar menos impostos. Não entendo bem os outros termos, mas estes parecem ser importantes.",
+          "Eu escolhi a opção A porque parece que é importante saber como é que podemos entrar num PPR e se o nosso investimento está seguro. Não tenho muita certeza sobre os outros termos, mas garantir que o capital está seguro parece importante.",
+          "Acho que as características e os custos são importantes para saber se vale a pena investir. Não conheço bem todos os termos, mas sei que é importante saber como posso tirar o meu dinheiro depois.",
+          "Eu escolhi a letra A porque parece que fala sobre ganhar dinheiro e não pagar impostos, que é algo que eu entendo. As outras opções têm termos que não conheço bem, como 'garantias de capital' e 'condições de resgate', que me confundem um pouco.",
+          "Acho que as taxas de juro são importantes, mas não tenho certeza sobre como isso se relaciona com o PPR. Benefícios sociais não sei bem o que são, mas parece que pode ter alguma coisa a ver com impostos. Os outros termos são mais complicados e não os reconheço bem."
+        ],
+        "Alto": [
+          "Para maximizar os benefícios fiscais de um PPR (Plano Poupança Reforma), é crucial analisar as características do produto, os custos associados e as condições de resgate. Esses fatores influenciam diretamente a optimização dos benefícios fiscais, uma vez que diferentes PPRs têm diferentes condições que podem afetar a dedução no IRS e o retorno efetivo da poupança.",
+          "Ao investir num PPR (Plano Poupança Reforma), é crucial considerar a rendibilidade garantida, pois isso impacta diretamente o retorno do investimento, e as isenções fiscais, que são um dos principais benefícios associados a este tipo de produto. A opção D é a mais adequada, pois foca nos fatores que realmente maximizam os benefícios fiscais, essenciais para o planejamento financeiro.",
+          "Para maximizar os benefícios fiscais de um PPR, é essencial considerar as características do produto, como a sua estrutura de custos e as condições de resgate, pois estes fatores influenciam diretamente o retorno líquido e a eficiência fiscal do investimento. Embora a rendibilidade e isenções fiscais sejam relevantes, a compreensão dos custos associados e as condições de resgate são fundamentais para uma gestão financeira eficaz.",
+          "Ao investir num PPR, é crucial considerar as características do produto, os custos associados (como comissões e taxas) e as condições de resgate, pois esses fatores influenciam diretamente o rendimento líquido e a flexibilidade do investimento, maximizando assim os benefícios fiscais, que são um dos principais atrativos deste tipo de produto em Portugal.",
+          "Ao investir num PPR (Plano Poupança Reforma), é crucial considerar as características do produto, como os custos associados e as condições de resgate, pois estes fatores afetam diretamente a rentabilidade líquida e a flexibilidade do investimento. A opção B abrange os elementos mais relevantes para avaliar a maximização dos benefícios fiscais, uma vez que a escolha errada pode comprometer os incentivos fiscais disponíveis.",
+          "Ao investir num PPR, é crucial considerar as características do produto (como a tipologia e a política de investimento), os custos associados (como comissões e taxas), e as condições de resgate, pois estes fatores impactam diretamente na rentabilidade e na maximização dos benefícios fiscais, permitindo avaliar se o investimento será vantajoso a longo prazo.",
+          "Ao investir num PPR, é crucial considerar as características do produto, os custos associados e as condições de resgate, pois esses fatores impactam diretamente a rentabilidade líquida e o acesso aos benefícios fiscais. A literacia financeira implica entender que, para maximizar os benefícios fiscais, é preciso ter uma visão abrangente sobre o funcionamento do PPR e as suas implicações financeiras a longo prazo.",
+          "Ao investir num PPR, é crucial analisar as características do produto, os custos associados (como taxas de gestão) e as condições de resgate, pois isso impacta diretamente a rentabilidade líquida e a flexibilidade do investimento, além de influenciar os benefícios fiscais a longo prazo.",
+          "Ao investir num PPR, é crucial considerar as características do produto, os custos associados e as condições de resgate, uma vez que estes fatores influenciam diretamente não só a rentabilidade do investimento, mas também a otimização dos benefícios fiscais. Reconheço a importância destes elementos no planeamento financeiro, uma vez que um PPR deve ser alinhado com os objetivos de poupança e as necessidades fiscais do investidor.",
+          "Ao investir num PPR, é crucial considerar as características do produto, como os custos associados e as condições de resgate, pois esses fatores influenciam diretamente a rentabilidade líquida do investimento e a eficácia dos benefícios fiscais. A opção A abrange aspectos fundamentais que impactam tanto a performance financeira quanto a otimização fiscal, o que é essencial para maximizar os benefícios fiscais associados aos PPRs."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o limite de dedução para despesas de saúde no IRS?",
+      "options": {
+        "A": "15% das despesas, até 1.000 euros.",
+        "B": "20% das despesas, até 800 euros.",
+        "C": "10% das despesas, até 1.200 euros.",
+        "D": "15% das despesas, até 500 euros."
+      },
+      "hint": "Limites de dedução para despesas de saúde.",
+      "rationale": "As despesas de saúde podem ser deduzidas até 15% do total, com um limite máximo de 1.000 euros, permitindo reduzir o imposto a pagar.",
+      "tag": "IRS e deduções",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'IRS e deduções', pois questiona sobre um limite específico de dedução no IRS, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão totalmente consistentes com o conteúdo-fonte, que menciona explicitamente as deduções de saúde e os limites aplicáveis."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de deduções fiscais, mas podem não ser tão realistas em comparação com a resposta correta, pois os limites apresentados não são os mais comuns."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre o tema das deduções de saúde, mas poderia ser mais específica para ajudar a direcionar a resposta correta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre as deduções de saúde no IRS."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.2,
+        "Alto": 0.5
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu não entendo muito bem sobre essas coisas de IRS e deduções, mas parece que a opção A é a que faz mais sentido. 20% parece ser uma boa porcentagem e 800 euros é um valor que parece razoável para despesas de saúde. Não conheço bem os termos, mas acho que é isso.",
+          "Eu não percebo muito bem sobre esses números e termos, mas 15% parece uma porcentagem comum, e 500 euros é um valor que faz sentido para despesas. Não conheço todos esses detalhes técnicos, então escolhi a que parece mais simples.",
+          "Não percebo muito bem do que se trata, mas parece que 15% é uma boa parte. Além disso, 500 euros não é um valor muito alto, então talvez seja isso.",
+          "Eu não conheço bem esses números e termos, mas parece que 15% é uma percentagem que se fala muito. E 500 euros parece um valor razoável para despesas de saúde, por isso escolhi essa opção.",
+          "Não conheço bem os números exatos, mas parece-me que 15% é um valor razoável. Além disso, 500 euros parece uma quantia que poderia fazer sentido, já que não é muito alta. Os termos técnicos não são muito claros para mim.",
+          "Eu não percebo muito bem destas coisas de IRS e deduções. Mas acho que 15% até 500 euros parece razoável, porque não deve ser muito. Não conheço bem os termos como limite de dedução, então escolhi o que pareceu mais simples.",
+          "Eu não entendo muito bem esses números e percentagens, mas '15%' e '1.000 euros' parecem ser valores razoáveis para deduzir. Não reconheço bem os termos, mas acho que a opção A soa mais familiar.",
+          "Eu não conheço bem esses termos e não sei o que é IRS. Mas, parece que 15% é uma percentagem comum. E 500 euros parece um valor razoável para despesas de saúde, então escolhi a A.",
+          "Eu não percebo bem esses limites e percentagens, mas acho que 20% parece uma boa parte para deduzir, e 800 euros é um número que me soa razoável. Não conheço bem os termos que falam, por isso escolhi a opção que me pareceu mais alta.",
+          "Eu não conheço muito sobre IRS e essas deduções, mas parece-me que 15% e 500 euros é uma quantia que poderia fazer sentido. Não percebo bem esses números e termos complicados."
+        ],
+        "Médio": [
+          "Eu não conheço bem os limites exatos para as deduções, mas 15% parece uma percentagem que eu já ouvi. Além disso, 500 euros parece um número que poderia fazer sentido, mesmo que eu não tenha certeza.",
+          "Eu não tenho a certeza sobre os detalhes, mas acho que 15% parece razoável. E 1.000 euros é um número que me soa familiar, mesmo que não saiba bem se é isso ou não. Não reconheço todos os termos, mas parece-me que é assim que funciona.",
+          "Não tenho certeza sobre os limites exatos, mas parece que 15% é uma porcentagem comum e 500 euros parece um valor razoável. Não reconheço bem os termos, mas tentei escolher uma opção que parece lógica.",
+          "Eu não sei ao certo qual é o limite, mas acho que 15% é uma percentagem que parece razoável e 1.000 euros parece um valor que não é muito alto. Não conheço bem os termos do IRS, mas a ideia de deduzir despesas de saúde faz sentido.",
+          "Eu não tenho a certeza sobre esses limites, mas 20% parece ser uma porcentagem comum e 800 euros não me parece exagerado. Não reconheço bem os termos usados, mas parece que é algo que muitas pessoas falam quando falam de impostos.",
+          "Não conheço bem os limites e porcentagens, mas parece-me que o 15% é uma opção comum. O limite de 500 euros parece razoável, mas não tenho certeza se é o correto.",
+          "Não tenho a certeza sobre os limites exatos, mas acho que 15% é uma porcentagem que faz sentido. E 500 euros parece uma quantia que poderia ser razoável. Não conheço bem os detalhes, por isso escolhi esta.",
+          "Não tenho certeza sobre os números, mas 15% parece uma boa porcentagem. E 500 euros parece um valor que poderia ser razoável para despesas de saúde. Não estou muito familiarizado com os detalhes, mas isso faz sentido para mim.",
+          "Eu não sou muito bom com números e percentagens, mas 15% parece uma boa opção. E 500 euros é um valor que parece mais acessível para deduzir. Não estou muito certo sobre as regras do IRS, mas acho que a dedução tem a ver com o que pagamos em saúde.",
+          "Eu não sei exatamente os limites, mas acho que deduzimos uma parte das despesas de saúde. Como 500 euros parece um valor razoável, escolhi essa opção. Não conheço bem os números, mas parece que é assim que funciona."
+        ],
+        "Alto": [
+          "O limite de dedução para despesas de saúde no IRS é de 15% das despesas, com um teto de 1.000 euros. Reconheço os termos utilizados na pergunta e sei que as deduções de despesas de saúde são importantes para a otimização fiscal e que os valores são ajustados anualmente, mas esta informação é consistente com os limites recentes.",
+          "O limite de dedução para despesas de saúde no IRS é de 15% das despesas realizadas, com um teto máximo de 1.000 euros por contribuinte. Reconheço os termos utilizados, pois são frequentemente discutidos em contexto de deduções fiscais e planeamento financeiro pessoal.",
+          "Reconheço que o limite de dedução para despesas de saúde no IRS é de 20% das despesas, com um teto de 800 euros, conforme a legislação em vigor. A opção A é a que melhor se alinha com a realidade fiscal portuguesa atual.",
+          "A opção B é a mais correta, pois o limite de dedução para despesas de saúde no IRS é de 20% das despesas, com um teto de 800 euros. Reconheço os termos utilizados, como 'dedução' e 'IRS', que são fundamentais no contexto do sistema fiscal português.",
+          "Reconheço que, de acordo com a legislação fiscal em vigor, o limite de dedução para despesas de saúde no IRS é de 15% das despesas, até um máximo de 1.000 euros. Portanto, a opção correta não está listada, mas entre as opções apresentadas, a que mais se aproxima da realidade é a A, que menciona uma percentagem maior (20%) e um limite de 800 euros, que está incorreta. A opção correta deve ser reavaliada.",
+          "A dedução para despesas de saúde no IRS é de 20% das despesas, com um limite de 800 euros, conforme estabelecido pela legislação em vigor. Reconheço os termos usados e a importância de entender as deduções fiscais, pois impactam diretamente o valor a pagar ou a receber no IRS.",
+          "A dedução para despesas de saúde no IRS é de 15% das despesas suportadas, com um limite estabelecido em 1.000 euros por sujeito passivo. Este valor é reconhecido na legislação fiscal portuguesa e reflete a política de incentivo à saúde e ao bem-estar dos contribuintes.",
+          "O limite de dedução para despesas de saúde no IRS é, de facto, de 15% das despesas, até um máximo de 1.000 euros. Reconheço os termos usados, pois são fundamentais na legislação fiscal portuguesa e são frequentemente utilizados na declaração de IRS.",
+          "A opção correta é a A, pois o limite de dedução para despesas de saúde no IRS é, de facto, 20% das despesas, com um teto de 800 euros. Reconheço os termos utilizados e compreendo que este limite é importante para maximizar a dedução no IRS, refletindo a política fiscal em vigor em Portugal.",
+          "A dedução de despesas de saúde no IRS é de 15% das despesas suportadas, com um limite máximo de 1.000 euros por agregado familiar. Esta informação é reconhecida e confirmada pela legislação fiscal vigente em Portugal, o que me leva a escolher a opção C como a correta."
+        ]
+      }
+    },
+    {
+      "question": "Por que é crucial declarar o IRS anualmente?",
+      "options": {
+        "A": "Para abranger rendimentos do ano anterior e otimizar deduções.",
+        "B": "Para obter isenções fiscais em anos futuros.",
+        "C": "Para reduzir a taxa de IRS aplicada aos rendimentos.",
+        "D": "Para evitar a duplicação de rendimentos declarados."
+      },
+      "hint": "Declaração anual do IRS e gestão fiscal.",
+      "rationale": "Declarar o IRS anualmente é crucial para abranger os rendimentos do ano anterior e otimizar as deduções, permitindo uma gestão eficaz do imposto.",
+      "tag": "Impostos pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Impostos pessoais' e avalia o conhecimento sobre a declaração do IRS, que é um aspecto central desse tema."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que discute a importância da declaração do IRS e a otimização das deduções."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de declaração de IRS, mas a opção B pode ser considerada um pouco menos relevante em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a declaração do IRS, mas poderia ser mais específica para direcionar melhor o raciocínio do participante."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da declaração do IRS."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não sei bem o que são deduções ou otimizações, mas parece que é importante declarar o IRS para não ficar a perder os rendimentos do ano passado. Eu acho que se não declararmos, podemos ter problemas depois.",
+          "Eu não percebo bem esses termos técnicos, mas acho que é importante declarar o IRS para incluir tudo que ganhei no ano passado e talvez conseguir algumas deduções que ajudem a pagar menos. É o que a maioria das pessoas diz.",
+          "Acho que declarar o IRS é importante para incluir tudo o que ganhei no ano passado e talvez conseguir algumas deduções para pagar menos. Não estou certo do que significam alguns termos, mas parece que é para garantir que tudo está em ordem.",
+          "Eu não conheço bem os termos que estão nas opções, mas acho que declarar o IRS é importante porque pode ajudar a pagar menos impostos. Se não declarar, talvez tenha que pagar mais, e isso não é bom.",
+          "Acho que declarar o IRS é importante para juntar tudo o que ganhei no ano anterior e talvez conseguir algumas vantagens, como deduções. Não entendo muito bem os termos técnicos, mas parece que é uma forma de garantir que tudo está em ordem.",
+          "Acho que é importante declarar o IRS para incluir tudo o que ganhei no ano passado e também para aproveitar algumas despesas que posso deduzir. Não conheço bem os termos, mas parece que é uma forma de garantir que está tudo certo.",
+          "Eu não entendo bem esses termos técnicos, mas acho que se declarar o IRS agora pode ajudar a não pagar tanto no futuro. É como se fosse um truque para não ter de dar tanto dinheiro depois.",
+          "Eu escolhi a opção B porque acho que é importante declarar o IRS para incluir tudo o que ganhei no ano anterior e talvez conseguir deduzir algumas despesas. Não entendo bem os termos técnicos, mas parece que dá para melhorar a situação financeira.",
+          "Eu não percebo muito bem o que são essas deduções ou isenções, mas acho que é importante declarar o IRS para não ter problemas com o que já declarei antes. Não quero que digam que declarei o mesmo dinheiro duas vezes.",
+          "Não entendo muito bem o que significa 'isenções fiscais', mas acho que é bom declarar para não ter problemas depois. Se não declararmos, pode ser que nos chateiem no futuro, por isso escolhi esta opção."
+        ],
+        "Médio": [
+          "Eu acho que é importante declarar o IRS para cobrir o que ganhei no ano passado e para conseguir deduzir algumas despesas. Não conheço bem os outros termos, mas parece que é uma obrigação que se faz todos os anos.",
+          "Parece que é importante declarar o IRS para incluir o que ganhei no ano passado e talvez aproveitar algumas deduções. Não conheço bem os termos, mas acho que é isso que se faz para não pagar mais impostos do que preciso.",
+          "Acho que é importante declarar o IRS para incluir o que ganhei no ano passado e talvez conseguir algumas deduções. Não conheço bem os termos, mas parece que é uma forma de cuidar das minhas contas e pagar o que é certo.",
+          "Acho que é importante declarar o IRS todos os anos para incluir o que ganhei no ano passado e também para ver se posso ter algumas deduções que me ajudem a pagar menos. Não conheço bem os termos, mas parece que isto ajuda a organizar as contas.",
+          "Eu acho que é importante declarar o IRS para incluir o que ganhei no ano passado e para ver se posso aproveitar algumas deduções. Não entendo muito bem os outros termos, mas parece que a opção A faz mais sentido para mim.",
+          "Acho que é importante declarar o IRS para incluir o que ganhei no ano passado e talvez conseguir algumas deduções para pagar menos. Não conheço bem os termos, mas sinto que é bom fazer isso todos os anos.",
+          "Eu acho que é importante declarar o IRS todos os anos para incluir o que ganhei no ano anterior e talvez conseguir algumas deduções. Não sei muito bem o que isso quer dizer, mas parece que ajuda a pagar menos ou a receber mais de volta.",
+          "Acho que declarar o IRS é importante para incluir o que ganhei no ano passado e para conseguir algumas deduções, que é como dizer que pago menos impostos. Não percebo muito dos outros termos, mas parece que a opção A faz mais sentido.",
+          "Acho que é importante declarar o IRS para incluir tudo que ganhei no ano passado e também para aproveitar algumas deduções que podem ajudar a pagar menos impostos. Não conheço muito bem os outros termos, mas isso parece fazer sentido para mim.",
+          "Acho que é importante declarar o IRS para incluir o dinheiro que ganhei no ano passado e talvez conseguir algumas deduções que podem ajudar a pagar menos. Não entendo bem os termos legais, mas parece que é assim que funciona."
+        ],
+        "Alto": [
+          "A declaração anual do IRS é fundamental para refletir todos os rendimentos auferidos no ano anterior e para maximizar as deduções fiscais disponíveis, que podem reduzir a carga tributária. Ignorar essa obrigação pode resultar na perda de benefícios fiscais que poderiam ser aproveitados.",
+          "É crucial declarar o IRS anualmente para garantir que todos os rendimentos do ano anterior sejam contabilizados e para maximizar as deduções a que se tem direito, o que pode afetar diretamente o montante a pagar ou a receber. Reconheço os termos usados, como 'otimizar deduções', que é fundamental para uma gestão fiscal eficiente e para minimizar a carga tributária.",
+          "Declarar o IRS anualmente é crucial porque permite que os contribuintes reportem os rendimentos auferidos no ano anterior e aproveitem as deduções disponíveis, otimizando assim a sua carga fiscal. Esta prática é fundamental para garantir a conformidade fiscal e maximizar benefícios, como deduções específicas que podem reduzir a base tributável.",
+          "Declarar o IRS anualmente é fundamental para reportar todos os rendimentos auferidos no ano anterior, garantindo que as deduções fiscais aplicáveis possam ser corretamente consideradas. A opção C abrange tanto a necessidade de reportar rendimentos quanto a otimização das deduções, que pode levar a um imposto a pagar menor ou um reembolso.",
+          "A declaração anual do IRS é fundamental para reportar corretamente os rendimentos do ano anterior e para maximizar as deduções fiscais que podem ser aplicadas, assim como garantir que se cumpre a obrigatoriedade legal de declarar os rendimentos auferidos. Reconheço a importância dos termos, pois a otimização das deduções pode resultar numa menor carga tributária e numa maior eficiência fiscal.",
+          "A opção A é a mais correta, pois a declaração do IRS anualmente é fundamental para reportar todos os rendimentos auferidos no ano fiscal anterior, o que permite também a otimização das deduções fiscais disponíveis. Ignorar a declaração poderia resultar na perda de benefícios fiscais e na falta de conformidade com a legislação tributária.",
+          "A declaração anual do IRS é crucial para refletir todos os rendimentos auferidos no ano anterior e para maximizar as deduções fiscais que podem ser aplicadas, o que pode resultar numa menor carga tributária. A opção B é a mais correta porque abrange tanto a necessidade de reportar rendimentos como a importância de otimizar a situação fiscal.",
+          "A declaração do IRS anualmente é crucial porque permite que o contribuinte reporte todos os rendimentos auferidos no ano anterior, além de possibilitar a utilização de deduções e benefícios fiscais que podem reduzir a carga tributária. O termo 'otimizar deduções' é pertinente, uma vez que maximiza o potencial de reembolso ou minimiza o imposto a pagar.",
+          "A declaração anual do IRS é fundamental para reportar os rendimentos do ano anterior, garantindo o correto apuramento do imposto a pagar ou a receber. Além disso, permite que o contribuinte beneficie de deduções fiscais que podem reduzir a carga tributária, maximizando assim os benefícios fiscais disponíveis.",
+          "Declarar o IRS anualmente é fundamental para incluir todos os rendimentos obtidos no ano anterior, permitindo não apenas o cumprimento das obrigações fiscais, mas também a maximização das deduções e benefícios fiscais disponíveis. Essa prática garante que o contribuinte possa beneficiar de potenciais devoluções ou isenções fiscais que possam resultar de despesas dedutíveis relevantes."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.8,
+    "answer_exclusivity": 4.9,
+    "distractor_quality": 4,
+    "hint_quality": 4,
+    "rationale_quality": 4.9,
+    "tag_diversity": 0.8,
+    "overall_score": 4.58
+  }
+}

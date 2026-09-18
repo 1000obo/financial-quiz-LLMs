@@ -1,0 +1,828 @@
+{
+  "topics": [
+    "Mindset, Comportamento e Hábitos"
+  ],
+  "fin_lit_level": "Alto",
+  "question_results": [
+    {
+      "question": "Como pode a ansiedade financeira afetar o comportamento de uma pessoa?",
+      "options": {
+        "A": "Pode levar a decisões financeiras impulsivas.",
+        "B": "Pode aumentar a aversão ao risco nas decisões financeiras.",
+        "C": "Pode resultar em poupanças excessivas e desnecessárias.",
+        "D": "Pode induzir a procrastinação em decisões financeiras importantes."
+      },
+      "hint": "Relação entre ansiedade e decisões financeiras.",
+      "rationale": "A ansiedade financeira, resultante da falta de clareza sobre a situação financeira, pode influenciar negativamente o comportamento financeiro, levando a decisões impulsivas.",
+      "tag": "Mentalidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mentalidade financeira', pois aborda como a ansiedade financeira pode impactar o comportamento de uma pessoa, que é um aspecto central da mentalidade financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que descreve como a ansiedade financeira pode levar a comportamentos como decisões impulsivas."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção correta 'A' pode ser considerada um pouco ambígua em relação a outras opções, como 'D', que também pode ser uma consequência da ansiedade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de ansiedade financeira, embora 'C' possa ser visto como menos diretamente relacionado do que as outras opções."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a relação entre ansiedade e decisões financeiras, mas poderia ser mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao incluir exemplos específicos de como a ansiedade financeira leva a decisões impulsivas."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 0.4
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, como gastar dinheiro rapidamente em coisas que não precisam. Não percebo bem os termos técnicos, mas parece que quando estamos preocupados com dinheiro, podemos acabar a fazer escolhas erradas.",
+          "Acho que as pessoas podem agir sem pensar bem quando estão nervosas com dinheiro. Não entendo bem os termos técnicos, mas sei que às vezes, quando estamos preocupados, podemos fazer compras ou gastar dinheiro de forma rápida e sem pensar.",
+          "Eu acho que a ansiedade financeira pode fazer com que as pessoas sintam que precisam de agir rapidamente, como comprar algo sem pensar bem, porque estão preocupadas com o dinheiro. Não conheço bem os termos técnicos, mas parece que isso faz sentido.",
+          "Acho que a ansiedade faz as pessoas a agir sem pensar, como gastar dinheiro de forma impulsiva, porque estão preocupadas com o que pode acontecer se não o fizerem. Não conheço bem os termos técnicos, mas é assim que eu vejo.",
+          "Eu acho que a ansiedade financeira pode fazer as pessoas tomarem decisões de forma rápida e sem pensar muito. Às vezes, quando estamos preocupados com dinheiro, podemos comprar coisas que não precisamos, só para nos sentirmos melhor.",
+          "Acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, como quando estão nervosas e acabam por gastar dinheiro de forma rápida. Não conheço bem os termos, mas parece que isso faz sentido, porque quando estamos preocupados, é fácil tomar decisões erradas.",
+          "Acho que a ansiedade pode fazer as pessoas agirem sem pensar, como quando compram coisas só para se sentirem melhor. Não entendo bem os outros termos, mas parece que todos eles falam de como as pessoas lidam com dinheiro, e eu só sei que, se estiver nervoso com o dinheiro, posso acabar a gastar sem pensar.",
+          "Eu não percebo bem esses termos financeiros complicados, mas acho que quando se está ansioso sobre dinheiro, pode-se acabar por gastar sem pensar, como comprar coisas que não são necessárias. Isso parece ser uma decisão impensada.",
+          "Acho que isso faz sentido, porque quando alguém está nervoso com dinheiro, pode acabar a comprar coisas sem pensar bem. Não entendo muito dos termos, mas é como quando alguém se apressa a gastar para se sentir melhor.",
+          "Acho que a ansiedade pode fazer a pessoa agir sem pensar, como quando se compra algo só porque se está nervoso. Não entendo bem os termos, mas parece que isso faz sentido."
+        ],
+        "Médio": [
+          "Acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, como comprar coisas que não precisam. Não conheço bem os outros termos, mas isso parece algo que acontece quando se está preocupado com dinheiro.",
+          "Acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, tipo comprar coisas que não precisam de repente. Não entendo bem os termos mais técnicos, mas parece que quando se está nervoso com dinheiro, é fácil fazer escolhas erradas.",
+          "Acho que a ansiedade financeira pode fazer com que as pessoas comprem coisas sem pensar bem, porque estão nervosas ou querem resolver os problemas rapidamente. Não conheço bem os outros termos, mas esta opção parece fazer mais sentido para mim.",
+          "Acho que a ansiedade pode fazer as pessoas agirem sem pensar, como comprar coisas de que não precisam de repente. Não conheço bem os termos técnicos, mas parece que isso faz sentido.",
+          "Acho que a ansiedade financeira pode fazer com que as pessoas ajam rápido e comprem coisas sem pensar bem, porque estão preocupadas com dinheiro. Não conheço bem os outros termos, mas isso parece mais simples e faz sentido.",
+          "Acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, como gastar dinheiro de forma impulsiva. Não conheço bem os outros termos, mas parece que a pressão pode fazer alguém tomar decisões rápidas e erradas.",
+          "Acho que a ansiedade financeira pode fazer as pessoas agirem sem pensar, tipo comprar coisas de que não precisam só para aliviar o stress. Não conheço bem os outros termos, mas parece que a pressão pode fazer as pessoas decidirem rápido.",
+          "Acho que a ansiedade pode fazer as pessoas agirem sem pensar bem, tipo comprar coisas de que não precisam só para se sentirem melhor. Não sei muito sobre os outros termos, mas isso parece mais fácil de entender.",
+          "Acho que a ansiedade financeira pode fazer com que as pessoas comprem coisas sem pensar, como quando estão nervosas e querem aliviar a pressão. Não reconheço bem os outros termos, mas isso parece mais simples.",
+          "Acho que a ansiedade financeira faz as pessoas a comprarem coisas sem pensar, tipo quando estão nervosas e só querem gastar para se sentirem melhor. Não conheço bem os outros termos, mas sei que às vezes as pessoas ficam tão preocupadas que fazem coisas sem pensar."
+        ],
+        "Alto": [
+          "A ansiedade financeira pode levar uma pessoa a procrastinar na tomada de decisões financeiras importantes, pois o medo de cometer erros pode paralisá-la. Este comportamento é reconhecido como uma resposta comum à incerteza financeira, onde a falta de confiança nas próprias capacidades de gestão financeira provoca adiamentos nas ações necessárias.",
+          "A ansiedade financeira pode levar as pessoas a tomarem decisões apressadas, sem a devida análise dos riscos envolvidos, o que é um comportamento comum quando se sente pressão emocional. Reconheço os termos usados, como 'decisões financeiras impulsivas', que refletem uma falta de planeamento e consideração das consequências a longo prazo.",
+          "A ansiedade financeira frequentemente resulta em decisões precipitadas, pois as pessoas podem sentir-se pressionadas a resolver problemas financeiros rapidamente, levando a escolhas que não são bem ponderadas. Reconheço os termos usados, como 'decisões financeiras impulsivas', que se relacionam com a falta de reflexão e análise crítica que a ansiedade pode induzir.",
+          "A ansiedade financeira frequentemente resulta em procrastinação, uma vez que o medo de tomar a decisão errada pode levar uma pessoa a adiar ações cruciais, como investir ou planear a reforma. Este comportamento é reconhecido no âmbito da literacia financeira, pois a procrastinação pode comprometer o rendimento a longo prazo e a capacidade de alcançar objetivos financeiros.",
+          "A ansiedade financeira pode levar uma pessoa a evitar enfrentar questões financeiras, resultando em procrastinação. Reconheço que a procrastinação é uma resposta comum ao estresse financeiro, pois a pressão de tomar decisões pode ser avassaladora, levando a um comportamento de adiamento.",
+          "A ansiedade financeira muitas vezes resulta em um comportamento mais conservador, levando as pessoas a evitarem investimentos que poderiam ser benéficos, mas que são percebidos como arriscados. Reconheço o termo 'aversão ao risco' como um conceito central na psicologia financeira, que descreve a tendência de evitar perdas em vez de buscar ganhos.",
+          "A ansiedade financeira pode levar a um estado de paralisia, onde a pessoa evita tomar decisões financeiras cruciais devido ao medo das consequências. Este comportamento é reconhecido na literatura financeira como procrastinação, que pode ter um impacto negativo significativo na gestão financeira a longo prazo.",
+          "A ansiedade financeira pode levar a decisões financeiras impulsivas, uma vez que a pressão emocional pode fazer com que a pessoa tome decisões sem considerar plenamente as consequências a longo prazo. Este comportamento é reconhecido na literatura de psicologia financeira, onde se analisa como o stress pode distorcer a avaliação de risco e a análise de opções.",
+          "A ansiedade financeira pode provocar decisões rápidas e não ponderadas, uma vez que o indivíduo busca alívio imediato da pressão sentida. O reconhecimento de termos como 'decisões financeiras impulsivas' é crucial, pois compreendo que essas decisões muitas vezes resultam em consequências financeiras negativas a longo prazo.",
+          "A ansiedade financeira pode levar uma pessoa a evitar tomar decisões financeiras cruciais, resultando em procrastinação. Isto acontece porque a pressão e o medo de errar podem paralisar a capacidade de agir, mesmo que a pessoa tenha conhecimento técnico e entenda a importância de um planejamento financeiro adequado."
+        ]
+      }
+    },
+    {
+      "question": "De que forma uma crença negativa sobre o dinheiro pode impactar o comportamento financeiro a longo prazo?",
+      "options": {
+        "A": "Pode resultar em gastos impulsivos.",
+        "B": "Pode encorajar uma abordagem excessivamente conservadora ao investimento.",
+        "C": "Pode resultar em poupança excessiva e evitar gastos necessários.",
+        "D": "Pode levar a uma confiança excessiva em conselhos financeiros externos."
+      },
+      "hint": "Efeito de crenças negativas sobre o comportamento financeiro.",
+      "rationale": "Crenças negativas, como a ideia de que não se deve gastar em prazeres, podem levar a comportamentos de privação que eventualmente resultam em gastos impulsivos.",
+      "tag": "Crenças financeiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crenças financeiras', pois explora como crenças negativas sobre o dinheiro afetam o comportamento financeiro."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a resposta correta 'A' não seja a única interpretação possível das crenças negativas."
+        },
+        "answer_exclusivity": {
+          "score": 3,
+          "justification": "Embora a opção 'A' se destaque como a mais correta, outras opções também podem ser consideradas válidas, o que gera alguma ambiguidade."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados ao conceito de crenças financeiras, mas alguns podem não ser tão diretamente impactados por crenças negativas quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre o impacto das crenças negativas, mas poderia ser mais específica para direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao abordar outras possíveis consequências de crenças negativas sobre o dinheiro."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.4,
+        "Alto": 0.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que quem tem crenças negativas sobre dinheiro pode ficar tão preocupado em não gastar que acaba não comprando coisas que realmente precisa. Não conheço bem os termos financeiros, mas parece que isso faz sentido no dia-a-dia.",
+          "Acho que se a pessoa tem uma crença negativa sobre dinheiro, pode acabar a guardar tudo e não gastar em coisas que realmente precisa. Não conheço bem os termos, mas parece que isso faz sentido porque as pessoas ficam com medo de gastar.",
+          "Acho que isso faz sentido porque se uma pessoa tem medo de gastar, pode acabar a poupar muito e a não comprar coisas que realmente precisa. Não entendo bem os termos técnicos, mas parece que isso pode ser um problema.",
+          "Acho que as pessoas que têm uma ideia negativa sobre dinheiro podem ficar tão preocupadas em não gastar que acabam por não comprar coisas que realmente precisam, como comida ou roupa. Não percebo bem os termos financeiros, mas isso parece ser uma forma de pensar que pode fazer com que as pessoas vivam com medo de gastar.",
+          "Eu acho que isso faz sentido porque se alguém acredita que o dinheiro é sempre mau ou que nunca se deve gastar, pode acabar por guardar tudo e não usar para coisas que realmente precisa. Não conheço bem os termos técnicos, mas parece que é sobre não saber equilibrar o que se deve gastar e o que se deve poupar.",
+          "Acho que pessoas que têm uma ideia negativa sobre dinheiro podem ficar tão preocupadas em não gastar que acabam por poupar muito, mesmo em coisas que precisam. Não conheço bem os termos técnicos, mas parece que isso faz sentido, porque se a pessoa tem medo de perder dinheiro, pode evitar gastar até no que é realmente importante.",
+          "Eu não percebo muito bem o que é cada opção, mas acho que quando se tem uma ideia negativa sobre dinheiro, as pessoas podem acabar a gastar mais do que deviam, como para se sentirem melhor ou para compensar. Por isso, escolhi a opção D.",
+          "Acho que é importante poupar, mas se alguém tem uma crença negativa sobre dinheiro, pode acabar por poupar demais e não gastar em coisas que realmente precisa. Não percebo bem os termos, mas parece que isso faz sentido.",
+          "Acho que a crença negativa sobre o dinheiro pode fazer as pessoas terem medo de gastar, mesmo quando precisam. Não entendo bem os termos, mas parece que isso pode levar a guardar muito dinheiro e não usar para coisas importantes.",
+          "Eu acho que acreditar que o dinheiro é mau pode fazer com que as pessoas tenham medo de gastar, mesmo em coisas que precisam. Eu não percebo muito sobre termos financeiros, mas parece que quem pensa assim acaba a guardar tudo e não aproveita a vida."
+        ],
+        "Médio": [
+          "Acho que a crença negativa sobre o dinheiro pode fazer com que as pessoas, como eu, tenham medo de não ter o suficiente, e por isso acabam a gastar de forma impulsiva para se sentirem melhor. Não reconheço bem os termos mais técnicos, mas parece que é isso que acontece.",
+          "Eu acho que se alguém tem uma crença negativa sobre o dinheiro, pode acabar por querer poupar muito e não gastar mesmo em coisas que precisam. Não percebo bem as outras opções, mas poupar a todo o custo parece mais fácil de entender.",
+          "Acho que uma crença negativa sobre o dinheiro pode fazer as pessoas quererem gastar mais para se sentirem melhor, tipo comprar coisas que não precisam. Não percebo bem os termos mais técnicos, mas parece que isso faz sentido.",
+          "Eu acho que se uma pessoa tem uma crença negativa sobre o dinheiro, ela pode ter medo de gastar e então vai querer poupar muito, até em coisas que precisa. Não conheço bem os outros termos, mas parece que é isso.",
+          "Acho que ter uma crença negativa sobre o dinheiro pode fazer com que as pessoas queiram poupar muito, quase a ponto de não quererem gastar em coisas que realmente precisam. Não entendo bem os termos, mas parece que isso faz sentido, porque se alguém acha que o dinheiro é mau, pode preferir guardar tudo e não gastar.",
+          "Acho que se uma pessoa tem uma crença negativa sobre dinheiro, pode acabar a gastar sem pensar, porque pode querer compensar isso de alguma forma. Não conheço bem os outros termos, mas parece que gastar impulsivamente é algo que pode acontecer.",
+          "Acho que pode ser assim porque, se alguém tem uma ideia negativa sobre dinheiro, pode pensar que deve sempre poupar muito e ter medo de gastar, mesmo em coisas que precisa. Não conheço bem os termos, mas faz sentido que alguém que não confia no dinheiro acabe por não gastar quando deve.",
+          "Acho que isso pode acontecer porque, se alguém pensa que o dinheiro é mau ou traz problemas, pode querer guardar tudo e não gastar, mesmo em coisas que são importantes. Não conheço bem os termos, mas faz sentido que ter medo do dinheiro faça a pessoa poupar demais.",
+          "Eu acho que uma crença negativa sobre o dinheiro pode fazer com que as pessoas gastem mais, como se quisessem aproveitar antes que o dinheiro desapareça. Não conheço bem os outros termos, mas parece que gastar impulsivamente faz sentido neste caso.",
+          "Eu acho que uma crença negativa sobre o dinheiro pode fazer as pessoas terem medo de gastar, mesmo quando precisam de comprar coisas importantes. Não sei muito sobre investimento ou outras opções, mas parece que é mais fácil pensar que é melhor guardar tudo do que gastar."
+        ],
+        "Alto": [
+          "Uma crença negativa sobre o dinheiro pode levar a uma mentalidade de escassez, fazendo com que a pessoa sinta necessidade de acumular poupança a todo custo, muitas vezes negligenciando gastos que são essenciais para o bem-estar. Isso pode resultar em uma gestão financeira desequilibrada, onde a segurança financeira é priorizada em detrimento da qualidade de vida.",
+          "Uma crença negativa sobre o dinheiro pode levar a uma aversão ao risco, resultando numa abordagem excessivamente conservadora ao investimento. Isso pode limitar o potencial de crescimento do património a longo prazo, uma vez que investimentos mais seguros geralmente oferecem retornos mais baixos em comparação com opções de maior risco.",
+          "Uma crença negativa sobre o dinheiro pode levar a uma mentalidade de escassez, resultando em poupança excessiva, mesmo em detrimento de necessidades básicas. Esta abordagem pode comprometer o bem-estar financeiro a longo prazo, pois a pessoa pode evitar investimentos essenciais ou despesas que poderiam melhorar a sua qualidade de vida.",
+          "Uma crença negativa sobre o dinheiro pode levar a um comportamento de poupança excessiva, onde o indivíduo evita gastar, mesmo em despesas essenciais, por medo de perder o que tem. Este comportamento pode ser visto como uma resposta emocional à ansiedade financeira, refletindo a falta de confiança na gestão do dinheiro.",
+          "Uma crença negativa sobre o dinheiro pode levar uma pessoa a temer o risco associado aos investimentos, resultando numa abordagem excessivamente conservadora. Isso pode limitar o potencial de crescimento do capital, já que a diversificação e a aceitação de algum nível de risco são componentes essenciais de um bom planeamento financeiro.",
+          "Uma crença negativa sobre o dinheiro pode levar as pessoas a temerem o investimento, resultando numa abordagem excessivamente conservadora. Esta mentalidade pode impedir o crescimento do patrimônio a longo prazo, dado que a diversificação e o risco controlado são essenciais para maximizar o retorno sobre os investimentos.",
+          "Uma crença negativa sobre o dinheiro pode levar uma pessoa a adotar uma mentalidade de escassez, resultando em uma poupança excessiva e na evitação de gastos que são, na verdade, necessários para o bem-estar e a qualidade de vida. Isto é reconhecido no âmbito da literacia financeira, onde a gestão equilibrada entre poupança e consumo é essencial para uma saúde financeira sustentável.",
+          "Uma crença negativa sobre o dinheiro pode levar a um medo de perder capital, resultando numa hesitação em assumir riscos necessários para um crescimento financeiro. Este comportamento excessivamente conservador pode limitar o potencial de retorno dos investimentos, uma vez que a diversificação e a tomada de riscos calculados são fundamentais na gestão de uma carteira de investimentos.",
+          "Uma crença negativa sobre o dinheiro pode levar a uma mentalidade de escassez, fazendo com que a pessoa sinta que deve economizar a todo custo, mesmo em despesas essenciais. Este comportamento pode resultar em um desequilíbrio financeiro, onde a segurança financeira é priorizada em detrimento de um consumo saudável e necessário, o que é um conceito bem reconhecido na literacia financeira.",
+          "Uma crença negativa sobre o dinheiro geralmente leva a um medo excessivo de perdas, o que pode resultar numa aversão ao risco. Assim, a pessoa pode optar por não investir ou investir apenas em opções com baixíssimo risco, o que, a longo prazo, pode impactar negativamente o crescimento do seu património, dado que a diversificação e o equilíbrio entre risco e retorno são fundamentais para um planeamento financeiro eficaz."
+        ]
+      }
+    },
+    {
+      "question": "Porque é importante alinhar as decisões financeiras com os valores pessoais?",
+      "options": {
+        "A": "Para garantir satisfação e evitar conflitos internos.",
+        "B": "Para maximizar o retorno financeiro a curto prazo.",
+        "C": "Para evitar a necessidade de ajustamentos financeiros frequentes.",
+        "D": "Para garantir uma abordagem financeira mais agressiva."
+      },
+      "hint": "Conexão entre valores pessoais e satisfação financeira.",
+      "rationale": "Alinhar as decisões financeiras com os valores pessoais ajuda a garantir satisfação e evita conflitos internos, promovendo uma gestão financeira mais equilibrada.",
+      "tag": "Valores pessoais",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com a tag 'Valores pessoais', pois questiona sobre a importância de alinhar decisões financeiras com os valores pessoais, que é o foco da tag."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a ligação ao conteúdo específico sobre orçamento e gestão financeira pessoal poderia ser mais explícita."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, mas a opção B, por exemplo, pode ser considerada menos relevante no contexto de valores pessoais."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica para ajudar a guiar o participante em direção à resposta correta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de alinhar decisões financeiras com valores pessoais."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que é importante que as decisões financeiras façam sentido para nós e que nos deixem felizes. Se fizermos coisas que não combinam com o que acreditamos, podemos ficar confusos ou insatisfeitos. Não entendo bem os termos técnicos, mas sei que é melhor seguir o que nos faz sentir bem.",
+          "Acho que é importante que o que fazemos com o nosso dinheiro faça sentido para nós. Se gastamos ou poupamos de acordo com o que realmente valorizamos, ficamos mais felizes e não temos de lidar com sentimentos confusos sobre as nossas escolhas.",
+          "Eu acho que é importante alinhar as decisões financeiras com o que a gente valoriza na vida para ficarmos felizes e não termos problemas internos. Não entendo muito de termos financeiros, mas parece que se fizermos o que realmente acreditamos, vamos nos sentir melhor.",
+          "Acho que é importante que o que fazemos com o dinheiro esteja de acordo com o que valorizamos na vida, assim ficamos mais felizes e não nos sentimos mal com as nossas escolhas. Não percebo bem os outros termos, mas parece que o mais importante é estar satisfeito.",
+          "Acho que é importante que o que fazemos com o nosso dinheiro faça sentido para nós, senão podemos ficar confusos ou insatisfeitos. Não entendo bem os termos técnicos, mas sei que se não estivermos alinhados com o que queremos, isso pode causar problemas.",
+          "Eu acho que é importante fazer as coisas que nos fazem sentir bem e que estão de acordo com o que acreditamos. Se as decisões financeiras não combinam com o que valorizamos na vida, isso pode causar stress e desconforto.",
+          "Acho que é importante que o que fazemos com o dinheiro esteja de acordo com o que acreditamos. Se não estiver, podemos sentir-nos mal ou confusos sobre as nossas decisões. Não reconheço bem os termos financeiros, mas penso que é mais sobre como nos sentimos do que números.",
+          "Acho que é importante que as decisões que tomamos com o nosso dinheiro façam sentido para nós e que nos deixem felizes. Não percebo bem os termos técnicos, mas quero que o que faço com o meu dinheiro não me cause problemas ou preocupações.",
+          "Acho que é importante que o que fazemos com o nosso dinheiro esteja de acordo com o que acreditamos e queremos na vida. Assim, ficamos mais felizes e não sentimos que estamos a fazer algo que não queremos, mesmo que não perceba bem os termos financeiros.",
+          "Acho que é importante que o que fazemos com o nosso dinheiro esteja de acordo com o que acreditamos e queremos. Se não for assim, podemos ficar infelizes ou confusos sobre as nossas escolhas, mesmo que as pessoas digam que é bom para ganhar mais dinheiro."
+        ],
+        "Médio": [
+          "Acho que é importante alinhar as decisões financeiras com o que realmente gostamos, para nos sentirmos bem e não termos problemas na nossa cabeça. Não percebo muito dos outros termos, mas parece que a opção A faz mais sentido para mim.",
+          "Acho que é importante alinhar o que fazemos com o que sentimos. Se gastamos dinheiro em coisas que não importam para nós, podemos ficar chateados. Não conheço bem os termos mais técnicos, mas parece fazer sentido querer estar feliz com o que escolhemos.",
+          "Acho que é importante que o que fazemos com o nosso dinheiro esteja de acordo com o que valorizamos na vida, assim ficamos mais felizes e não nos sentimos mal com as nossas escolhas. Não conheço bem os termos técnicos, mas faz sentido que ter dinheiro alinhado com os nossos valores traz paz de espírito.",
+          "Acho que é importante alinhar as finanças com o que a gente valoriza, porque assim ficamos mais felizes e não sentimos que estamos a fazer algo que não gostamos. Não conheço bem os outros termos, mas parece que a satisfação é o que importa.",
+          "Acho que é importante alinhar as decisões financeiras com o que realmente valorizamos, porque isso nos faz sentir bem e evita que tenhamos problemas dentro de nós mesmos. Não conheço bem os outros termos, mas parece que ter satisfação é o mais importante.",
+          "Acho que é importante que as decisões financeiras estejam alinhadas com o que a gente valoriza na vida. Se não for assim, pode causar stress e descontentamento. Não sou especialista, mas parece lógico querer sentir-se bem com as escolhas que fazemos.",
+          "Acho que é importante alinhar o que fazemos com o que sentimos. Se as nossas decisões financeiras vão contra o que acreditamos, pode causar conflitos dentro de nós. Não conheço bem os outros termos, mas parece que esta opção fala sobre estar feliz com as nossas escolhas.",
+          "Acho que é importante alinhar as decisões financeiras com o que a gente acredita e valoriza. Assim, ficamos mais felizes e não nos sentimos mal com as nossas escolhas. Não entendo muito bem os outros termos, mas isso faz sentido para mim.",
+          "Acho que é importante que a gente se sinta bem com o que fazemos com o nosso dinheiro. Se as decisões financeiras não estão alinhadas com o que acreditamos, pode causar confusão ou deixar-nos infelizes. Não conheço bem termos complicados, mas isso parece fazer sentido.",
+          "Acho que é importante alinhar o que gastamos com o que realmente valorizamos na vida. Assim, ficamos mais satisfeitos e não nos sentimos mal por fazer escolhas que não fazem sentido para nós."
+        ],
+        "Alto": [
+          "Alinhar decisões financeiras com valores pessoais é crucial, pois isso promove a satisfação pessoal e evita conflitos internos que podem surgir quando as ações financeiras não refletem as crenças e prioridades individuais. Esta abordagem integra a saúde financeira com o bem-estar emocional, resultando em decisões mais sustentáveis a longo prazo.",
+          "Alinhar decisões financeiras com valores pessoais é fundamental para garantir que as escolhas feitas não apenas atendem a necessidades financeiras, mas também refletem as crenças e prioridades individuais. Isso ajuda a manter a motivação e a satisfação a longo prazo, evitando conflitos internos que podem surgir quando as decisões financeiras não estão em sintonia com os valores pessoais.",
+          "Alinhar as decisões financeiras com os valores pessoais é crucial para garantir satisfação e evitar conflitos internos, pois as escolhas financeiras devem refletir as prioridades e aspirações individuais. Isso não só promove uma maior realização pessoal, mas também reduz a ansiedade associada a decisões financeiras que não estão em consonância com os nossos princípios.",
+          "A opção C é a mais correta porque alinha as decisões financeiras com os valores pessoais, promovendo a satisfação e evitando conflitos internos que podem surgir de decisões financeiras que não refletem as crenças e prioridades individuais. O reconhecimento de que as finanças pessoais devem estar em harmonia com os valores é crucial para uma gestão financeira saudável e sustentável.",
+          "Alinhar as decisões financeiras com os valores pessoais é crucial, pois promove uma maior satisfação na vida e evita conflitos internos que podem surgir quando há uma desconexão entre o que valorizamos e como gerimos os nossos recursos. Esta abordagem não só assegura um equilíbrio emocional, mas também favorece uma gestão financeira mais coerente e sustentável a longo prazo.",
+          "Alinhar as decisões financeiras com os valores pessoais é crucial para garantir uma sensação de satisfação e coerência interna. Quando as decisões financeiras refletem os nossos valores, reduzimos a probabilidade de conflitos internos e aumentamos a motivação para manter uma boa saúde financeira a longo prazo.",
+          "Alinhar as decisões financeiras com os valores pessoais é fundamental para garantir um sentido de satisfação e coerência na vida financeira. Quando as escolhas financeiras estão em sintonia com os nossos princípios e objetivos, reduzimos a probabilidade de conflitos internos e aumentamos a motivação para manter um planeamento financeiro sustentável a longo prazo.",
+          "Alinhar decisões financeiras com valores pessoais é crucial para garantir uma sensação de satisfação e coerência nas escolhas feitas, evitando assim conflitos internos que podem surgir de decisões que não refletem os nossos princípios e objetivos a longo prazo.",
+          "A opção A é a mais correta porque alinha-se com a importância de ter decisões financeiras que reflitam os nossos valores pessoais, promovendo a satisfação e reduzindo conflitos internos. Os termos utilizados, como 'satisfação' e 'conflitos internos', são relevantes, pois evidenciam como a congruência entre finanças pessoais e valores pode impactar o bem-estar emocional e a coerência nas escolhas financeiras.",
+          "Alinhar as decisões financeiras com os valores pessoais é fundamental para assegurar que as escolhas financeiras não apenas atendem a necessidades materiais, mas também refletem as crenças e prioridades individuais. Isso previne insatisfação e conflitos internos, que podem surgir quando existe uma discrepância entre o que a pessoa valoriza e a forma como gere as suas finanças."
+        ]
+      }
+    },
+    {
+      "question": "Qual é o impacto de estabelecer uma meta de poupança semanal no comportamento financeiro?",
+      "options": {
+        "A": "Promove hábitos financeiros saudáveis e mensuráveis.",
+        "B": "Aumenta a aversão ao risco nas decisões de investimento.",
+        "C": "Facilita a identificação de despesas desnecessárias.",
+        "D": "Incentiva a dependência de crédito para despesas diárias."
+      },
+      "hint": "Efeito de metas financeiras na criação de hábitos.",
+      "rationale": "Estabelecer metas de poupança, como poupar 20€/semana, é uma abordagem prática que incentiva a criação de hábitos financeiros saudáveis e mensuráveis.",
+      "tag": "Hábitos financeiros",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Hábitos financeiros', pois aborda a importância de estabelecer metas de poupança, que é um hábito financeiro essencial."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a resposta correta não seja explicitamente mencionada, a ideia de promover hábitos financeiros saudáveis está implícita."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de comportamento financeiro, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o efeito das metas financeiras, mas poderia ser um pouco mais específica para direcionar melhor o raciocínio."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao estabelecer uma ligação mais explícita com o conteúdo-fonte."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.7,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que se eu tiver uma meta de poupança, isso vai me ajudar a ser mais responsável com o dinheiro. Não entendo muito bem os termos financeiros, mas parece que é uma boa ideia ter um plano para poupar.",
+          "Acho que estabelecer uma meta de poupança semanal ajuda a ter um controlo melhor sobre o que gastamos e a formar bons hábitos. Não percebo bem os termos técnicos, mas parece que isso é algo positivo para a nossa relação com o dinheiro.",
+          "Acho que se eu tiver uma meta de poupança, isso vai ajudar a guardar dinheiro e a gastar menos, mesmo que os termos sejam complicados. É como ter um objetivo, e assim consigo controlar melhor o que faço com o meu dinheiro.",
+          "Acho que ao poupar uma quantia toda semana, fica mais fácil ver onde gasto dinheiro e isso ajuda a ter um controle melhor. Não entendo muito bem os termos, mas parece que é uma boa forma de me organizar.",
+          "Eu acho que quando a gente tenta poupar, acaba por perceber melhor onde estamos a gastar dinheiro à toa. Não conheço bem os termos que falam, mas parece-me que ao olhar para o que gastamos, conseguimos ver melhor o que podemos cortar.",
+          "Eu escolhi a opção C porque, a meu ver, ter uma meta de poupança ajuda a pessoa a poupar mais e a estar mais atenta ao que gasta. Não entendo bem os outros termos, mas parece-me que poupar é sempre bom e ajuda a controlar melhor o dinheiro.",
+          "Eu não entendo bem todos esses termos complicados, mas acho que se tivermos uma meta de poupança, começamos a ver melhor onde estamos a gastar o dinheiro à toa. Assim, podemos parar de gastar em coisas que não precisamos.",
+          "Acho que a opção C faz sentido porque, se tivermos uma meta de poupança, vamos perceber melhor onde estamos a gastar dinheiro que não precisamos. Não conheço bem os outros termos, mas parece que esta opção é a mais prática.",
+          "Acho que estabelecer uma meta de poupança semanal ajuda a ter um plano e a controlar melhor o que gastamos. Não percebo bem os termos técnicos, mas parece que é uma boa maneira de ter hábitos melhores com o dinheiro.",
+          "Acho que ao poupar semanalmente, a pessoa acaba por se organizar melhor e a gastar menos em coisas que não precisa. Não entendo muito dos termos que usam, mas parece que é bom ter um controle sobre o que se gasta."
+        ],
+        "Médio": [
+          "Acho que estabelecer uma meta de poupança semanal pode ajudar as pessoas a serem mais organizadas com o dinheiro. Isso parece bom porque ajuda a controlar os gastos e a poupança, mesmo que eu não perceba bem todos os termos financeiros.",
+          "Acho que estabelecer uma meta de poupança ajuda a controlar melhor o dinheiro e a poupar mais. Não entendo bem os termos técnicos, mas parece que isso é bom para ter um bom hábito financeiro.",
+          "Acho que ao ter uma meta de poupança, ajuda as pessoas a serem mais organizadas com o dinheiro e a poupar mais. Não sei muito sobre os outros termos, mas parece que é bom ter um objetivo para não gastar tudo.",
+          "Acho que ter uma meta de poupança ajuda a ser mais organizado com o dinheiro e a poupar melhor. Não entendo bem os outros termos, mas parece que poupar é sempre bom e ajuda a não gastar demais.",
+          "Acho que estabelecer uma meta de poupança faz com que as pessoas se organizem melhor e consigam guardar dinheiro. Não percebo muito bem os termos mais complicados, mas parece-me que quando temos um objetivo, ficamos mais focados em poupar e a evitar gastar em coisas que não precisamos.",
+          "Acho que a melhor opção é a D, porque quando se estabelece uma meta de poupança, ajuda a ter um melhor controlo sobre o dinheiro e a gastar menos em coisas que não são necessárias. Não conheço bem os outros termos, mas parece que esta opção é a mais direta e fácil de entender.",
+          "Acho que quando se tem uma meta de poupança, ajuda a organizar melhor o dinheiro e a poupar mais. Não entendo bem os outros termos, mas parece que esta opção fala sobre ter bons hábitos, o que é importante.",
+          "Acho que a meta de poupança ajuda a ter melhores hábitos com o dinheiro, como saber quanto se pode gastar e poupar. Não conheço bem os outros termos, mas parece que esta opção fala de algo positivo que se pode fazer com o dinheiro.",
+          "Acho que a opção D é a melhor porque, quando se estabelece uma meta de poupança, ajuda a ter um melhor controle sobre o que gastamos e a poupar mais. Os outros termos, como 'aversão ao risco' ou 'dependência de crédito', não me são muito familiares e parecem complicados.",
+          "Acho que, se tiver uma meta de poupança semanal, isso pode ajudar-me a ser mais responsável com o que gasto. Não conheço bem os termos financeiros, mas parece-me que se tiver um objetivo, vou gastar melhor e não comprar coisas que não preciso."
+        ],
+        "Alto": [
+          "Estabelecer uma meta de poupança semanal incentiva a disciplina financeira e a monitorização das despesas, promovendo assim hábitos saudáveis. A opção C é a mais correta, pois reflete a importância de ter objetivos claros e mensuráveis para melhorar a gestão financeira pessoal.",
+          "Estabelecer uma meta de poupança semanal promove a disciplina financeira e incentiva a prática de hábitos de poupança regulares, resultando em um comportamento financeiro mais responsável e uma melhor gestão do orçamento. Além disso, esta abordagem permite que o indivíduo monitore o progresso em direção aos seus objetivos financeiros, o que é crucial para manter a motivação e a responsabilidade.",
+          "Estabelecer uma meta de poupança semanal ajuda a criar disciplina financeira, permitindo que a pessoa monitore e avalie seu progresso. Essa prática é fundamental para desenvolver hábitos financeiros saudáveis e mensuráveis, além de incentivar uma gestão mais consciente das despesas.",
+          "Estabelecer uma meta de poupança semanal incentiva um comportamento financeiro mais disciplinado, ajudando os indivíduos a monitorizar e a controlar as suas despesas. Isso contribui para a formação de hábitos financeiros saudáveis, uma vez que a poupança torna-se uma prioridade, levando a uma melhor gestão do orçamento e a um maior foco no planejamento financeiro.",
+          "Estabelecer uma meta de poupança semanal ajuda a criar disciplina financeira, permitindo que os indivíduos monitorem seus progressos e ajustem seus comportamentos de gasto. Isso não só promove uma mentalidade de poupança, mas também incentiva a reflexão sobre despesas, contribuindo para uma gestão financeira mais eficaz.",
+          "Estabelecer uma meta de poupança semanal permite que o indivíduo crie um plano financeiro estruturado, promovendo a disciplina e a responsabilidade nas suas finanças. Isso resulta em hábitos financeiros saudáveis, uma vez que a poupança se torna um objetivo claro e mensurável, ajudando a evitar gastos impulsivos e a planear melhor o orçamento.",
+          "Estabelecer uma meta de poupança semanal ajuda a criar disciplina e a monitorizar o progresso financeiro, promovendo uma cultura de poupança e controle orçamentário. Reconheço que o estabelecimento de metas é uma prática fundamental em finanças pessoais, pois permite uma abordagem proativa na gestão dos recursos financeiros.",
+          "Estabelecer uma meta de poupança semanal é uma prática que incentiva a disciplina financeira e ajuda a criar hábitos saudáveis de gestão do dinheiro, tornando a poupança um objetivo tangível e mensurável. Isso contrasta com as outras opções, que não refletem diretamente o impacto positivo que uma meta de poupança pode ter na formação de hábitos financeiros.",
+          "Estabelecer uma meta de poupança semanal contribui para a criação de hábitos financeiros positivos e sustentáveis, permitindo que o indivíduo tenha um objetivo claro e mensurável. Isso ajuda a reforçar a disciplina financeira e a monitorar o progresso, o que é essencial para uma gestão financeira eficaz.",
+          "Estabelecer uma meta de poupança semanal ajuda a criar uma disciplina financeira, promovendo o desenvolvimento de hábitos saudáveis, como a monitorização das receitas e despesas. Este tipo de planeamento favorece o autocontrole e permite uma gestão mais eficaz dos recursos, ao mesmo tempo que torna a poupança um objetivo tangível e mensurável."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma estratégia eficaz para reduzir a ansiedade financeira nas famílias?",
+      "options": {
+        "A": "Promover comunicação aberta sobre finanças.",
+        "B": "Implementar um sistema de recompensas financeiras para poupança.",
+        "C": "Reduzir drasticamente todas as despesas não essenciais.",
+        "D": "Estabelecer regras rígidas para o uso do dinheiro em família."
+      },
+      "hint": "Estratégia para melhorar a saúde financeira familiar.",
+      "rationale": "Promover uma comunicação aberta sobre finanças pode ajudar a reduzir a ansiedade financeira, melhorando a saúde mental e financeira das famílias.",
+      "tag": "Comportamento financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Comportamento financeiro', pois aborda estratégias para lidar com a ansiedade financeira nas famílias, que é um aspecto importante do comportamento financeiro."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância da comunicação sobre finanças para reduzir a ansiedade financeira."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de gestão financeira, mas a opção B, por exemplo, pode não ser tão diretamente relacionada à redução da ansiedade financeira como a opção A."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o tema, mas poderia ser mais específica em relação à comunicação aberta, que é a resposta correta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância da comunicação para a saúde financeira e mental."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que falar sobre dinheiro é importante, porque assim todos na família sabem o que está a acontecer e podem ajudar-se uns aos outros. Não percebo bem os outros termos, mas se comunicarmos, fica tudo mais claro.",
+          "Eu acho que é importante falar sobre dinheiro em família, porque assim ninguém fica preocupado ou ansioso. Não entendo muito bem de finanças, mas se todos conversarem sobre o que precisam e como podem gastar, pode ajudar a aliviar a ansiedade.",
+          "Acho que falar abertamente sobre dinheiro pode ajudar as pessoas a entenderem-se melhor e a resolverem problemas. Não sei muito sobre os outros termos, mas parece que a comunicação é sempre boa.",
+          "Acho que falar sobre dinheiro com a família é importante, porque assim todos ficam a saber o que está a acontecer e podem pensar juntos. As outras opções parecem muito complicadas ou muito rígidas, e eu não entendo bem os termos técnicos.",
+          "Acho que falar sobre dinheiro é importante, porque assim as pessoas podem entender melhor o que se passa e não ficar preocupadas sozinhas. Não conheço bem os outros termos, mas comunicar parece ser uma boa ideia para evitar problemas.",
+          "Acho que é importante as pessoas falarem sobre dinheiro, porque assim conseguem entender-se melhor e evitar problemas. Não conheço bem os outros termos e parece complicado, mas falar parece mais fácil e útil.",
+          "Acho que falar sobre dinheiro é importante para que todos na família saibam o que está a acontecer. Assim, não há surpresas e as pessoas ficam mais tranquilas. Não entendo bem os termos técnicos, mas sei que a comunicação ajuda.",
+          "Acho que é importante falar sobre dinheiro em família. Se todos souberem o que está a acontecer, isso pode ajudar a aliviar a ansiedade. Não percebo bem os termos técnicos, mas parece que conversar é sempre uma boa ideia.",
+          "Parece que falar sobre dinheiro é sempre uma boa ideia, porque assim todos ficam a saber como estão as coisas. Não percebo bem das outras opções, mas se falarmos, talvez a ansiedade diminua.",
+          "Penso que falar sobre dinheiro é importante, porque assim as pessoas conseguem entender melhor as suas situações. Não conheço bem os termos financeiros, mas acho que se todos falarem sobre o que ganham e gastam, fica tudo mais claro e menos assustador."
+        ],
+        "Médio": [
+          "Acho que falar sobre dinheiro na família é importante. Se todos souberem o que se passa, talvez fiquem menos nervosos. Não percebo bem os outros termos, mas comunicar parece mais fácil para lidar com a ansiedade.",
+          "Acho que falar sobre dinheiro é importante, porque assim todos na família podem entender melhor os problemas e encontrar soluções juntos. Os outros pontos parecem mais complicados ou muito rígidos, e eu não sei se funcionariam bem.",
+          "Acho que é importante falar sobre dinheiro em família, porque assim todos sabem o que se passa e podem ajudar-se uns aos outros. Não percebo bem os outros termos, mas parece que conversar é mais fácil.",
+          "Acho que falar sobre dinheiro é importante, porque assim todos na família sabem o que está a acontecer. Não entendo bem alguns termos, mas sei que se conversarmos, fica tudo mais claro e menos stressante.",
+          "Acho que falar sobre dinheiro com a família é importante, porque assim todos entendem melhor a situação e podem ajudar-se uns aos outros. As outras opções parecem muito complicadas ou rigorosas, e eu não estou muito confortável com essas regras ou sistemas.",
+          "Acho que falar sobre dinheiro e como gastá-lo é importante, porque assim todos na família podem entender melhor e ajudar-se uns aos outros. Não reconheço bem os outros termos, mas parece que comunicar é o mais simples.",
+          "Acho que é importante falar sobre dinheiro e como gastá-lo, porque assim todos na família podem entender melhor a situação financeira. Os outros exemplos parecem mais complicados ou difíceis de aplicar.",
+          "Acho que é importante falar sobre dinheiro em família, porque assim todos sabem o que se passa e podem ajudar-se. As outras opções parecem muito complicadas e rígidas para mim.",
+          "Acho que falar abertamente sobre dinheiro é importante, porque se as pessoas na família conversarem, podem entender melhor os problemas e encontrar soluções. Não conheço bem as outras opções, mas parece que comunicar é sempre melhor.",
+          "Acho que falar sobre dinheiro com a família é importante, porque assim todos sabem o que está a acontecer e podem ajudar uns aos outros. As outras opções parecem muito complicadas ou rígidas, e eu não percebo bem os sistemas de recompensas ou regras. Comunicar parece mais fácil."
+        ],
+        "Alto": [
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira nas famílias, pois permite que todos os membros partilhem preocupações, estabeleçam expectativas e colaborem em soluções. Este conceito é bem reconhecido na literacia financeira, pois a transparência ajuda a evitar mal-entendidos e fomenta um ambiente de confiança.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que todos os membros da família compreendam a situação financeira, alinhem expectativas e trabalhem juntos em soluções. Reconheço que a falta de diálogo sobre dinheiro pode levar a mal-entendidos e tensões, enquanto uma abordagem colaborativa promove um ambiente de apoio e compreensão.",
+          "A promoção de uma comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que todos os membros da família compreendam a situação financeira conjunta, discutam preocupações e tomem decisões informadas. Este enfoque colaborativo é mais eficaz do que abordagens rígidas ou restritivas, pois promove a transparência e o entendimento mútuo.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que todos os membros da família estejam informados e alinhados sobre a situação financeira, objetivos e estratégias. Isso ajuda a evitar mal-entendidos e promove um ambiente de colaboração e apoio, o que é mais eficaz do que regras rígidas ou reduções drásticas de despesas.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que os membros da família discutam abertamente as suas preocupações e planos financeiros, promovendo uma melhor compreensão e colaboração na gestão do orçamento familiar. Esta abordagem é mais eficaz do que as opções que envolvem punições ou restrições, pois fomenta um ambiente de transparência e apoio mútuo.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que todos os membros da família compreendam a situação financeira, partilhem preocupações e trabalhem juntos em soluções. Isso promove um ambiente de transparência e confiança, essencial para lidar com a gestão financeira familiar.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que os membros da família expressem as suas preocupações e discutam soluções em conjunto. Esta estratégia ajuda a criar um ambiente de transparência e compreensão, que é crucial para uma boa gestão financeira.",
+          "A comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira nas famílias, pois permite que todos os membros compreendam a situação financeira, discutam preocupações e colaborem na definição de objetivos financeiros. Ao contrário das outras opções, que podem ser demasiado rígidas ou punitivas, a comunicação promove um ambiente de confiança e entendimento, essencial para a gestão eficaz das finanças familiares.",
+          "A comunicação aberta sobre finanças permite que todos os membros da família partilhem preocupações e estratégias, reduzindo a ansiedade e promovendo a transparência. Esta abordagem é fundamental para construir um entendimento coletivo da situação financeira, criando um ambiente de apoio e colaboração.",
+          "Promover comunicação aberta sobre finanças é fundamental para reduzir a ansiedade financeira, pois permite que todos os membros da família estejam alinhados nas suas metas financeiras e preocupações. Essa transparência ajuda a criar um ambiente de confiança, onde as dificuldades podem ser discutidas e as soluções colaborativas podem ser encontradas, mitigando assim a ansiedade relacionada à gestão financeira."
+        ]
+      }
+    },
+    {
+      "question": "Como pode uma identidade financeira positiva influenciar as decisões financeiras?",
+      "options": {
+        "A": "Leva a melhores decisões e maior autocontrolo.",
+        "B": "Conduz a uma maior dependência de conselhos financeiros externos.",
+        "C": "Aumenta a probabilidade de tomar decisões financeiras arriscadas.",
+        "D": "Resulta em menor preocupação com a poupança a longo prazo."
+      },
+      "hint": "Relação entre identidade financeira e autocontrolo.",
+      "rationale": "Uma identidade financeira positiva valoriza a educação financeira e a responsabilidade, resultando em melhores decisões financeiras e maior autocontrolo.",
+      "tag": "Identidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Identidade financeira' e avalia claramente o conhecimento sobre como uma identidade financeira positiva pode influenciar decisões financeiras."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora o conteúdo não aborde diretamente a identidade financeira, a relação com decisões financeiras é implícita."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de identidade financeira, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser um pouco mais específica para ajudar a direcionar melhor a resposta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conceito de identidade financeira e suas implicações nas decisões financeiras."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.3,
+        "Médio": 0.6,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Eu acho que ter uma boa identidade financeira significa que a pessoa se sente mais confiante nas suas escolhas. Se se sente bem com o dinheiro, provavelmente vai tomar decisões mais certas e não vai andar a gastar à toa.",
+          "Eu acho que se uma pessoa tem uma boa identidade financeira, ela consegue tomar decisões melhores porque se sente mais segura. Não entendo bem os termos financeiros, mas parece que ter autocontrolo é importante para não gastar demais.",
+          "Eu acho que se uma pessoa tem uma identidade financeira positiva, pode acabar a arriscar mais, porque se sente confiante com o que tem. Não percebo bem os termos técnicos, mas parece-me que quem se sente bem com a sua situação financeira pode fazer decisões mais ousadas.",
+          "Eu não percebo bem os termos financeiros, mas parece que se tens uma boa identidade financeira, não te preocupas tanto com o futuro e a poupança. É como quando vou ao supermercado e não me preocupo com o que gasto, porque estou a ganhar bem.",
+          "Eu acho que ter uma boa identidade financeira deve ajudar as pessoas a tomarem decisões mais acertadas, porque se sentem mais confiantes no que estão a fazer. Não conheço bem os termos financeiros, mas parece lógico que quem sabe mais sobre o próprio dinheiro faz escolhas melhores.",
+          "Acho que uma identidade financeira positiva pode fazer as pessoas se sentirem mais seguras e, por isso, podem acabar a arriscar mais. Não conheço bem os termos técnicos, mas parece que quando estamos confiantes, fazemos coisas que talvez não devêssemos.",
+          "Eu acho que, se alguém tem uma boa situação financeira, pode sentir-se mais confiante e, por isso, pode querer arriscar mais. Não conheço bem os termos financeiros, mas faz-me sentido que quem se sente seguro pode fazer escolhas mais ousadas.",
+          "Eu não percebo bem o que significa ter uma identidade financeira positiva, mas parece que se alguém se sente bem sobre o seu dinheiro, pode acabar por arriscar mais. Se a pessoa estiver confiante, pode achar que pode fazer coisas como gastar mais ou investir em coisas sem pensar muito.",
+          "Eu não entendo muito bem o que é uma identidade financeira positiva, mas parece que se não te preocupas com a poupança, isso é bom. Se as pessoas não se preocupam com isso, talvez queiram gastar mais, e isso deve ser positivo para elas.",
+          "Eu acho que se tivermos uma boa identidade financeira, não precisamos de nos preocupar tanto com poupança. Não entendo bem os termos técnicos, mas parece que é mais fácil viver assim."
+        ],
+        "Médio": [
+          "Eu acho que ter uma boa identidade financeira pode fazer as pessoas pensarem que não precisam de se preocupar tanto com poupança, porque se sentem seguras com o que têm. Não conheço bem os outros termos, mas parece que isso faz sentido.",
+          "Acho que uma identidade financeira positiva pode fazer as pessoas se sentirem mais confiantes e, por isso, podem acabar a fazer escolhas mais arriscadas com o dinheiro. Não percebo bem todos os termos, mas parece que ter uma boa imagem financeira pode levar a isso.",
+          "Acho que se tiver uma boa identidade financeira, pode fazer com que as pessoas se sintam mais confiantes e, por isso, podem arriscar mais, como gastar em coisas que não são tão seguras. Não conheço bem os termos, mas parece que é assim que funciona.",
+          "Acho que uma identidade financeira positiva pode fazer com que as pessoas se sintam mais confiantes e, por isso, podem arriscar mais. Não estou muito a par dos termos técnicos, mas parece-me que é isso que acontece.",
+          "Penso que uma identidade financeira positiva significa que a pessoa está mais confiante e consegue manter melhor o controlo sobre o que gasta. Assim, é mais fácil tomar boas decisões sobre o dinheiro.",
+          "Acho que uma identidade financeira positiva é boa porque ajuda a pessoa a tomar melhores decisões e a controlar melhor o que gasta. Não conheço bem os outros termos, mas parece que ter uma boa ideia das finanças faz com que a pessoa se preocupe mais com o futuro.",
+          "Acredito que ter uma boa identidade financeira ajuda a pensar melhor sobre o dinheiro e a gastar de forma mais controlada. Não conheço bem os outros termos, mas parece que a opção A faz mais sentido.",
+          "Acho que uma identidade financeira positiva é boa porque faz com que as pessoas pensem melhor sobre o que gastam e poupam. Não entendo bem termos complicados, mas parece que saber controlar o dinheiro é importante.",
+          "Acho que uma identidade financeira positiva significa que a pessoa se sente bem com o seu dinheiro, então provavelmente toma decisões melhores e consegue controlar melhor os gastos. Não sou muito bom com termos financeiros, mas parece lógico.",
+          "Eu acho que uma identidade financeira positiva pode ajudar a pessoa a sentir-se mais segura e a tomar melhores decisões. Se a pessoa sabe gerir bem o seu dinheiro, é mais provável que tenha autocontrolo e faça escolhas certas."
+        ],
+        "Alto": [
+          "Uma identidade financeira positiva está associada a uma maior capacidade de gerir as finanças pessoais, resultando em melhores decisões, maior autocontrolo e um foco mais claro nos objetivos financeiros. Este conceito está alinhado com princípios de literacia financeira, onde a autoconfiança e o conhecimento promovem escolhas mais informadas e responsáveis.",
+          "Uma identidade financeira positiva está associada a uma melhor compreensão dos conceitos financeiros e uma maior confiança nas decisões tomadas, resultando em escolhas mais informadas e racionais. Esta opção reflete a capacidade de autocontrolo e planeamento, aspectos fundamentais da literacia financeira.",
+          "Uma identidade financeira positiva está associada a uma maior confiança nas próprias capacidades de gerir finanças, o que resulta em decisões mais informadas e disciplinadas. O autocontrolo é crucial para evitar gastos excessivos e para a construção de uma poupança robusta a longo prazo.",
+          "Uma identidade financeira positiva geralmente é associada a um maior conhecimento e compreensão das finanças pessoais, o que resulta em melhores decisões financeiras e maior autocontrolo. Isso é fundamental para evitar gastos impulsivos e para o planejamento adequado de poupanças e investimentos.",
+          "Uma identidade financeira positiva geralmente está associada a uma melhor compreensão das finanças pessoais e a uma abordagem mais responsável na gestão do dinheiro. Isto resulta em decisões financeiras mais informadas e ponderadas, além de um maior autocontrolo, permitindo evitar gastos impulsivos e priorizar objetivos de poupança a longo prazo.",
+          "Uma identidade financeira positiva está frequentemente associada ao desenvolvimento de competências financeiras sólidas e à capacidade de gerir recursos de forma eficaz. Isso resulta em melhores decisões financeiras, uma vez que as pessoas com essa identidade tendem a ser mais informadas e autocontroladas em relação aos seus gastos e investimentos.",
+          "Uma identidade financeira positiva implica uma compreensão sólida de conceitos financeiros, resultando em decisões mais informadas e prudentes. Isso está diretamente relacionado ao autocontrolo financeiro, que é crucial para evitar gastos impulsivos e promover a poupança a longo prazo.",
+          "Uma identidade financeira positiva geralmente está associada a um maior conhecimento e confiança na gestão financeira, o que resulta em melhores decisões e maior autocontrolo. Reconheço que a literacia financeira é fundamental para evitar comportamentos impulsivos e para a formação de estratégias de poupança e investimento eficazes.",
+          "Uma identidade financeira positiva está associada a uma maior confiança e autoconhecimento em relação às finanças pessoais. Isso resulta em uma gestão mais eficaz dos recursos, promovendo decisões racionais e ponderadas, além de um autocontrolo que facilita o cumprimento de objetivos financeiros a longo prazo.",
+          "Uma identidade financeira positiva geralmente está associada a uma maior literacia financeira e autoconfiança nas decisões financeiras. Isso resulta em escolhas mais informadas e um comportamento financeiro mais responsável, como a capacidade de resistir a impulsos de consumo e priorizar a poupança e o investimento."
+        ]
+      }
+    },
+    {
+      "question": "Qual é uma prática eficaz para desenvolver disciplina financeira a longo prazo?",
+      "options": {
+        "A": "Adiar compras e definir limites de gastos.",
+        "B": "Aumentar gradualmente os limites de crédito disponíveis.",
+        "C": "Concentrar-se em investimentos de alto risco para ganhos rápidos.",
+        "D": "Estabelecer metas financeiras flexíveis e adaptáveis."
+      },
+      "hint": "Estratégias para aumentar o autocontrolo financeiro.",
+      "rationale": "Adiar compras e definir limites de gastos são estratégias eficazes para desenvolver disciplina financeira e alcançar objetivos a longo prazo.",
+      "tag": "Autocontrolo e disciplina",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico de autocontrolo e disciplina, pois aborda práticas que ajudam a desenvolver disciplina financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que enfatiza a importância de controlar despesas e estabelecer limites."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta que é inequívoca."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de disciplina financeira, mas a opção C, que sugere investimentos de alto risco, é menos relevante."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre o autocontrolo financeiro, mas poderia ser mais específica em relação à prática mencionada na pergunta."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância de adiar compras e definir limites."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que adiar compras e ter limites é uma boa ideia, porque assim não gasto demais e evito problemas. Não conheço bem os outros termos, mas parece que se arriscar muito ou aumentar créditos pode ser confuso e perigoso.",
+          "Acho que adiar compras e ter limites é uma boa ideia porque assim não gastamos dinheiro à toa. Não entendo bem os outros termos, mas parece que esta opção ajuda a controlar melhor o que temos.",
+          "Eu acho que adiar compras é uma boa ideia, porque assim a gente não gasta à toa. Definir limites de gastos parece sensato, porque assim não se acaba o dinheiro rápido. Não entendo bem esses termos técnicos, mas isso parece mais prático no dia a dia.",
+          "Acho que adiar compras e ter limites é uma forma de não gastar muito e manter o dinheiro para coisas importantes. Não entendo bem o que são investimentos de alto risco ou limites de crédito, mas parece que isso é uma maneira prática de controlar as despesas.",
+          "Acho que a melhor maneira de ter disciplina financeira é não comprar tudo de uma vez e ter um limite para o que posso gastar. Não entendo bem os termos técnicos, mas parece que adiar as compras ajuda a não gastar demais.",
+          "Acho que adiar compras e definir limites de gastos faz sentido, porque assim não gastamos dinheiro à toa e conseguimos poupar. Não conheço os termos financeiros, mas parece que essa é uma forma simples de controlar o que gastamos.",
+          "Eu acho que adiar compras e definir limites de gastos é uma boa ideia porque ajuda a não gastar demais e a poupar. Os outros termos parecem complicados e não sei bem o que significam, mas esta opção parece simples e prática.",
+          "Acho que adiar compras e ter limites de gastos é uma boa ideia porque ajuda a não gastar dinheiro à toa. Não conheço bem os termos financeiros, mas sei que é importante controlar o que se gasta e não comprar tudo o que se vê.",
+          "Acho que a melhor maneira de ter disciplina é não comprar tudo de repente e ter um máximo que posso gastar. Não conheço bem esses termos financeiros, mas parece-me que assim consigo controlar melhor o que tenho.",
+          "Acho que a melhor maneira de ter disciplina financeira é evitar compras impulsivas e saber até onde posso gastar. Não entendo bem os termos complicados, mas parece que adiar compras é uma boa ideia para não gastar demais."
+        ],
+        "Médio": [
+          "Acho que adiar compras e definir limites de gastos é uma boa ideia porque ajuda a não gastar muito de uma vez. Não conheço bem os outros termos, mas parece que essa opção é mais segura e prática para controlar o dinheiro.",
+          "Acho que adiar compras e definir limites de gastos é uma boa ideia porque assim não gastamos dinheiro à toa. Não conheço muito sobre investimentos de alto risco ou limites de crédito, mas parece que controlar o que gastamos é mais seguro.",
+          "Acho que adiar compras e ter limites de gastos é uma boa ideia porque assim não gasto tudo de uma vez e consigo controlar melhor o meu dinheiro. Não conheço bem os outros termos, mas isso parece mais simples e prático.",
+          "Acho que adiar compras e definir limites de gastos é uma boa ideia porque ajuda a não gastar tudo de uma vez e a ter um controlo melhor do dinheiro. Os outros pontos parecem complicados e não sei bem como funcionam.",
+          "Eu escolhi a opção A porque parece mais simples e prática. Adiar compras é uma boa ideia para não gastar demais e definir limites de gastos ajuda a controlar melhor o dinheiro. Os outros termos, como investimentos de alto risco, parecem complicados e não sei bem o que significam.",
+          "Acho que a melhor forma de ter disciplina financeira é adiar compras e definir limites de gastos. Isso parece mais simples e prático. Não conheço muito sobre investimentos de alto risco ou limites de crédito, então prefiro o que é mais fácil de entender.",
+          "Acho que adiar compras e ter limites de gastos faz sentido para não gastar demais. Não conheço bem os termos mais complicados, mas parece que isso ajuda a controlar o dinheiro.",
+          "Acho que adiar compras é uma boa ideia para não gastar muito. Definir limites de gastos parece-me importante para não me perder com o dinheiro, mesmo que não conheça bem os termos. As outras opções parecem complicadas e arriscadas.",
+          "Acho que adiar compras e ter limites de gastos é uma boa ideia porque assim não gastamos mais do que devemos. Não entendo bem os investimentos de alto risco ou metas financeiras flexíveis, mas sei que é importante controlar os gastos.",
+          "Acho que adiar compras e definir limites de gastos é uma boa ideia porque ajuda a não gastar demais e a ter mais controlo sobre o dinheiro. Não conheço muito sobre investimentos de alto risco ou limites de crédito, mas sei que é importante não comprar tudo de uma vez."
+        ],
+        "Alto": [
+          "A prática de adiar compras e definir limites de gastos é fundamental para o desenvolvimento da disciplina financeira, pois permite um melhor controlo do orçamento e evita gastos impulsivos. Reconheço a importância de definir um orçamento rigoroso e de resistir à tentação de compras que não são essenciais, promovendo assim uma gestão financeira mais saudável a longo prazo.",
+          "A disciplina financeira a longo prazo é melhor desenvolvida através da implementação de práticas que promovam autocontrole e responsabilidade, como adiar compras impulsivas e estabelecer limites de gastos. Esta estratégia ajuda a evitar dívidas desnecessárias e a manter o foco nas metas financeiras a longo prazo.",
+          "A prática de adiar compras e definir limites de gastos é fundamental para o desenvolvimento da disciplina financeira a longo prazo, pois permite evitar dívidas desnecessárias e promove a poupança. Reconheço a importância de estratégias de autocontrole e gestão orçamental, que são essenciais para manter um equilíbrio financeiro saudável.",
+          "Adiar compras e definir limites de gastos é uma prática eficaz para desenvolver disciplina financeira a longo prazo, pois promove uma abordagem de consumo consciente e ajuda a evitar gastos impulsivos. Esta estratégia está alinhada com conceitos de gestão orçamental, uma vez que permite que o indivíduo controle melhor as suas finanças, evitando endividamento desnecessário e favorecendo a poupança.",
+          "A prática de adiar compras e definir limites de gastos é fundamental para desenvolver disciplina financeira a longo prazo, pois ajuda a controlar impulsos e a manter um orçamento equilibrado. Estratégias como estas são reconhecidas como pilares da literacia financeira, promovendo uma gestão consciente das finanças pessoais e evitando o endividamento desnecessário.",
+          "A opção D é a mais eficaz para desenvolver disciplina financeira a longo prazo, pois envolve o estabelecimento de restrições que ajudam a controlar os impulsos de consumo, assegurando que as despesas se mantêm dentro de um orçamento planejado. Reconheço que a definição de limites de gastos é fundamental para evitar o endividamento e promover uma poupança consistente.",
+          "A disciplina financeira a longo prazo é melhor alcançada através da implementação de limites de gastos e adiamento de compras não essenciais, o que permite uma gestão mais eficaz do orçamento e a acumulação de poupança. Esta prática ajuda a evitar o endividamento e a manter um controle rigoroso sobre as finanças pessoais.",
+          "A disciplina financeira a longo prazo é melhor desenvolvida através da prática de adiar compras impulsivas e estabelecer limites de gastos. Esta abordagem ajuda a controlar os gastos, promove a poupança e permite uma gestão orçamental mais eficaz, em vez de depender de crédito ou de estratégias de investimento de alto risco.",
+          "A opção D é a mais eficaz para desenvolver disciplina financeira a longo prazo, pois envolve uma gestão consciente das despesas, ajudando a evitar consumos impulsivos e a manter um orçamento equilibrado. Reconheço que adiar compras e estabelecer limites é uma prática comum na literacia financeira, pois permite que os indivíduos analisem melhor as suas necessidades versus desejos, promovendo assim uma poupança saudável.",
+          "A opção D é a mais eficaz para desenvolver disciplina financeira a longo prazo, uma vez que promove a prática de reflexão antes da compra e a definição de limites orçamentais claros, essenciais para uma gestão financeira sólida. Reconheço a importância de adiar compras impulsivas e estabelecer um orçamento, pois isso ajuda a evitar dívidas e a construir uma poupança consistente."
+        ]
+      }
+    },
+    {
+      "question": "Como pode a entrega do IRS ser utilizada para ajustar objetivos financeiros?",
+      "options": {
+        "A": "Serve como oportunidade para reavaliar metas.",
+        "B": "Permite a criação de um fundo de emergência imediato.",
+        "C": "Serve como base para aumentar o consumo no curto prazo.",
+        "D": "Facilita a eliminação de todas as dívidas existentes."
+      },
+      "hint": "Relação entre IRS e reavaliação financeira.",
+      "rationale": "A entrega do IRS pode ser vista como uma oportunidade para reavaliar e ajustar os objetivos financeiros, proporcionando um sentido de direção nas decisões financeiras.",
+      "tag": "Propósito financeiro",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 4,
+          "justification": "A pergunta está bem alinhada com o tópico de 'Propósito financeiro', pois aborda a reavaliação de objetivos financeiros, que é um aspecto importante do planejamento financeiro."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que menciona a importância de ter um objetivo claro e a necessidade de reavaliar metas financeiras."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de planejamento financeiro, embora alguns possam ser considerados menos relevantes em comparação com a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica fornece uma orientação útil sobre a relação entre a entrega do IRS e a reavaliação financeira, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como a entrega do IRS especificamente ajuda na reavaliação de objetivos financeiros."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.6,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Não percebo bem os termos financeiros, mas parece que é uma boa ideia pensar nos nossos objetivos depois de receber o IRS. É como quando temos um dinheiro extra e pensamos no que queremos fazer com ele.",
+          "Eu não percebo bem essas coisas de finanças, mas parece que quando recebo o IRS, posso gastar mais rapidamente. Assim, acho que é uma boa ideia usar esse dinheiro para comprar coisas que preciso agora.",
+          "Acho que quando fazemos o IRS, podemos pensar sobre o que queremos para o futuro, tipo se queremos poupar mais ou gastar menos. Não entendo bem os outros termos, mas parece que esta opção fala sobre pensar no que queremos na vida.",
+          "Acho que a entrega do IRS pode ser uma boa altura para pensar nas nossas metas financeiras. Às vezes, recebemos um dinheiro extra e podemos decidir melhor o que fazer com ele, como poupar ou gastar. Não percebo muito de termos financeiros, mas parece-me que é um momento em que podemos parar e pensar no que queremos para o futuro.",
+          "Eu não conheço bem esses termos financeiros, mas parece que receber o IRS pode ajudar a pensar melhor sobre o que quero fazer com o meu dinheiro. Às vezes, é bom parar e ver se os meus objetivos estão certos.",
+          "Eu não percebo muito sobre finanças, mas parece que se receber dinheiro do IRS, é uma boa altura para gastar um pouco mais, como comprar coisas que precisamos ou queremos. Não sei muito sobre ajustar metas ou criar fundos, mas gastar parece mais simples.",
+          "Acho que quando recebemos o IRS, é uma boa hora para pensar no que queremos fazer com o dinheiro. Não entendo bem o que é um fundo de emergência ou eliminar dívidas, mas reavaliar metas parece algo que todos devemos fazer de vez em quando.",
+          "Acho que a entrega do IRS é uma boa altura para pensar no que quero para o futuro. Não entendo bem os termos técnicos, mas parece que é uma chance de ver se estou a fazer o que realmente quero com o meu dinheiro.",
+          "Eu acho que quando recebo o IRS, posso gastar um pouco mais e comprar algumas coisas que queria. Não entendo muito bem sobre ajustar objetivos financeiros ou reavaliar metas, mas aumentar o consumo parece mais prático.",
+          "Eu não percebo muito desses termos financeiros, mas acho que se receber dinheiro do IRS, é uma boa ideia gastar um pouco agora, como por exemplo, comprar coisas que preciso. Não sei se é bom para ajustar objetivos, mas consumir parece uma opção prática."
+        ],
+        "Médio": [
+          "Acho que depois de receber o IRS, é um bom momento para pensar nas nossas metas financeiras. Não percebo bem todos os termos, mas parece que é uma altura em que podemos olhar para o que queremos fazer com o dinheiro.",
+          "Acho que o IRS é uma boa altura para pensar no que quero fazer com o dinheiro, tipo para onde quero ir ou o que quero comprar. Não percebo bem todos os termos, mas reavaliar parece bom para ajustar as minhas metas.",
+          "Acho que a entrega do IRS ajuda a pensar melhor nos nossos objetivos financeiros, como saber se estamos a gastar demais ou se precisamos de poupar mais. Não entendo bem os termos técnicos, mas parece que é uma boa altura para rever o que queremos fazer com o nosso dinheiro.",
+          "Acho que isso faz sentido porque depois de receber o IRS, podemos pensar melhor sobre o que queremos fazer com o dinheiro. Não conheço muito bem os termos, mas parece que é uma boa altura para pensar nos nossos objetivos.",
+          "Acho que a entrega do IRS pode ajudar a pensar em como estamos a gastar o dinheiro e se estamos a conseguir o que queremos. Não percebo bem os termos, mas parece que é uma boa altura para ver se precisamos de mudar alguma coisa nos nossos objetivos.",
+          "Acho que o IRS pode ajudar a pensar nas nossas metas financeiras, porque quando recebemos esse dinheiro, podemos parar e olhar para o que queremos alcançar. Não conheço bem os termos técnicos, mas parece que é uma boa altura para pensar no que fazer com o que temos.",
+          "Acho que a entrega do IRS pode ajudar a pensar nos nossos objetivos financeiros, porque é uma boa altura para olhar para o que queremos fazer com o dinheiro, como poupar ou planear melhor. Não conheço bem os termos mais complicados, mas isso parece uma boa ideia.",
+          "Acho que a entrega do IRS é uma boa altura para pensar nas nossas metas financeiras e se estamos a fazer o que precisamos. Não percebo bem o que são fundos de emergência ou eliminar dívidas, e aumentar o consumo parece arriscado. Por isso, a opção A parece a mais certa.",
+          "Acho que é mais fácil perceber que a entrega do IRS pode ajudar a pensar nas nossas metas financeiras. Não entendo bem os termos técnicos, mas parece que é uma boa altura para pensar no que queremos fazer com o nosso dinheiro.",
+          "Acho que podemos usar o IRS para pensar melhor nas nossas metas financeiras. Não percebo bem todos os termos, mas parece que é uma boa altura para ver o que queremos fazer com o dinheiro e ajustar os nossos planos."
+        ],
+        "Alto": [
+          "A entrega do IRS pode proporcionar uma visão clara sobre a situação financeira atual, permitindo que o contribuinte reavalie e ajuste os seus objetivos financeiros de acordo com a realidade dos seus rendimentos e despesas. Essa reavaliação é fundamental para garantir que as metas financeiras sejam realistas e alcançáveis, em consonância com a situação fiscal.",
+          "A entrega do IRS permite ao contribuinte analisar a sua situação financeira, incluindo rendimentos e despesas, o que é fundamental para ajustar e reavaliar objetivos financeiros. Este é um momento oportuno para refletir sobre a poupança, investimento e outras metas de longo prazo, uma vez que se obtêm dados concretos sobre a situação fiscal.",
+          "A entrega do IRS representa um momento significativo que pode ser utilizado para reavaliar e ajustar objetivos financeiros, uma vez que fornece uma visão clara da situação fiscal e do potencial reembolso, permitindo assim um planeamento mais eficaz. Reconheço a importância de reavaliar as metas financeiras, pois isso ajuda a alinhar as despesas e poupanças com os objetivos de longo prazo.",
+          "A entrega do IRS permite uma análise detalhada das finanças pessoais, possibilitando a reavaliação das metas financeiras em função dos reembolsos ou impostos a pagar. Isso é crucial para um planeamento financeiro eficaz, onde a definição e ajuste de objetivos são fundamentais para o sucesso a longo prazo.",
+          "A entrega do IRS pode ser uma oportunidade para reavaliar metas financeiras, pois fornece uma visão clara dos rendimentos e despesas do ano anterior, permitindo ajustar o planeamento financeiro e a definição de novos objetivos. Reconheço que esta opção é a mais correta, pois a reavaliação de metas é essencial para um bom gerenciamento financeiro pessoal.",
+          "A entrega do IRS oferece uma visão clara da situação financeira do contribuinte, permitindo ajustar objetivos financeiros a partir da análise dos rendimentos e despesas do ano anterior. Reavaliar metas financeiras é crucial para garantir um planeamento eficaz e a adaptação a novas realidades financeiras.",
+          "A entrega do IRS deve ser vista como uma oportunidade para reavaliar as metas financeiras, pois permite uma análise detalhada da situação financeira do contribuinte, incluindo rendimentos e despesas. Com essa informação, é possível ajustar os objetivos de poupança, investimento e gestão de dívidas, promovendo uma melhor planificação financeira.",
+          "A entrega do IRS fornece uma visão clara da situação financeira do contribuinte, permitindo a reavaliação de objetivos financeiros a curto e longo prazo. Através da análise das restituições ou impostos a pagar, é possível ajustar as metas de poupança, investimento ou pagamento de dívidas, reconhecendo a importância de um planeamento financeiro mais eficaz.",
+          "A entrega do IRS é um momento crucial para rever a situação financeira e ajustar objetivos, uma vez que permite avaliar rendimentos, deduções e eventuais reembolsos, ajudando a alinhar as metas financeiras com a realidade. Reconheço que a reavaliação de metas é essencial para um planeamento financeiro eficaz, e não só a eliminação de dívidas ou o aumento do consumo imediato.",
+          "A entrega do IRS realmente oferece uma oportunidade para reavaliar as metas financeiras, pois permite analisar a situação fiscal e os rendimentos do ano anterior. Isso pode influenciar decisões de poupança e investimento, ajustando assim os objetivos financeiros conforme a situação atual."
+        ]
+      }
+    },
+    {
+      "question": "Qual é a relação entre conhecer a própria realidade financeira e a redução da ansiedade?",
+      "options": {
+        "A": "Conhecer a realidade financeira reduz a ansiedade.",
+        "B": "Aumentar a confiança na tomada de decisões financeiras arriscadas.",
+        "C": "Reduzir o interesse em planear o futuro financeiro.",
+        "D": "Promover a dependência de conselhos financeiros de terceiros."
+      },
+      "hint": "Efeito do conhecimento financeiro na ansiedade.",
+      "rationale": "Conhecer a própria realidade financeira, incluindo rendimentos, despesas e dívidas, é crucial para mitigar a ansiedade financeira e melhorar o comportamento financeiro.",
+      "tag": "Mentalidade financeira",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Mentalidade financeira', pois aborda a relação entre a compreensão da realidade financeira e a ansiedade, que é um aspecto central da mentalidade financeira."
+        },
+        "topic_grounding": {
+          "score": 5,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, que destaca a importância do conhecimento financeiro para a redução da ansiedade."
+        },
+        "answer_exclusivity": {
+          "score": 5,
+          "justification": "As opções de resposta são claras e mutuamente exclusivas, com apenas uma resposta correta, que é a opção A."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito de mentalidade financeira, mas a opção C, por exemplo, é um pouco menos relevante em comparação com as outras."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica é útil e orienta o raciocínio sobre a relação entre conhecimento financeiro e ansiedade, mas poderia ser um pouco mais específica."
+        },
+        "rationale_quality": {
+          "score": 5,
+          "justification": "A explicação está correta, clara e completa, estabelecendo uma ligação explícita ao conteúdo-fonte sobre a importância do conhecimento financeiro na mitigação da ansiedade."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 1.0,
+        "Médio": 1.0,
+        "Alto": 1.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que saber como estamos com o dinheiro ajuda a ficar menos preocupados. Se soubermos onde estamos, talvez não sintamos tanto medo do futuro, mesmo que não perceba bem os termos complicados.",
+          "Acho que se soubermos como estão as nossas finanças, ficamos menos preocupados. Se não soubermos, ficamos sempre a pensar no que pode acontecer. Não percebo bem os termos financeiros, mas parece que faz sentido conhecer a nossa situação.",
+          "Acho que se soubermos como estamos financeiramente, ficamos menos preocupados, porque não estamos a adivinhar. Não percebo bem as outras opções, mas parece que conhecer a nossa situação é melhor.",
+          "Eu acho que se soubermos o que temos e como estamos financeiramente, isso deve ajudar a sentir-nos mais calmos. Não entendo bem os termos financeiros complicados, mas parece que saber é sempre melhor do que não saber.",
+          "Acho que se soubermos como estão as nossas contas e quanto podemos gastar, ficamos menos preocupados. Não entendo bem os termos financeiros, mas parece lógico que saber mais nos ajuda a não ficar tão ansiosos.",
+          "Acho que se soubermos como estão as nossas finanças, isso vai ajudar a ficar mais calmos. Se não soubermos, pode dar mais confusão e preocupação. Não conheço bem os termos, mas parece lógico.",
+          "Acho que se souber como andam as minhas contas e o que posso gastar, fico menos preocupado. Não entendo bem os termos financeiros, mas parece que saber o que se tem ajuda a não ficar ansioso.",
+          "Penso que, se souber como estão as minhas finanças, provavelmente fico menos nervoso. Não entendo bem os termos técnicos, mas parece lógico que saber a verdade ajuda a sentir-me mais tranquilo.",
+          "Eu acho que se conhecermos melhor a nossa situação financeira, ficamos menos preocupados, porque assim sabemos o que podemos gastar e o que não podemos. Não percebo bem os termos técnicos, mas faz sentido que entender a nossa situação ajude a aliviar o stress.",
+          "Eu acho que se a pessoa souber como estão as suas finanças, fica menos preocupada. Se não souber, pode ficar ansiosa porque não sabe se tem dinheiro ou não. Não percebo bem os termos complicados, mas faz sentido."
+        ],
+        "Médio": [
+          "Acredito que conhecer a minha situação financeira me ajuda a sentir-me mais tranquilo. Se sei o que tenho e o que posso gastar, fico menos preocupado com o futuro e não tenho medo de fazer planos.",
+          "Acho que se a gente souber mais sobre o que temos e como gastamos, fica mais fácil lidar com as preocupações. Não entendo muito bem os termos complicados, mas parece que saber a verdade ajuda a não ficar tão nervoso.",
+          "Acho que se soubermos como estão as nossas finanças, ficamos menos preocupados. É como saber o que temos e o que podemos gastar, assim não andamos à toa e isso deve ajudar a sentir-nos melhor.",
+          "Penso que saber como estão as minhas finanças me faz sentir mais tranquilo, porque assim sei o que posso ou não fazer. Não entendo bem os termos mais complicados, mas acho que quando conhecemos a nossa situação, ficamos menos preocupados.",
+          "Acredito que se soubermos como estamos financeiramente, ficamos menos preocupados. A opção B parece dizer isso, e faz sentido para mim, pois quando sabemos onde estamos, é mais fácil lidar com as coisas.",
+          "Acho que se conhecermos bem a nossa situação financeira, ficamos menos preocupados e mais calmos. Não entendo bem todos os termos, mas parece-me que saber onde estamos ajuda a não ter medo do futuro.",
+          "Acho que, se soubermos como está a nossa situação financeira, isso pode ajudar a sentir menos preocupação. Quando não sabemos, podemos ficar mais nervosos com o que pode acontecer.",
+          "Acho que se soubermos como estão as nossas finanças, ficamos menos preocupados. Não entendo muito bem o que são algumas das opções, mas parece que conhecer a situação ajuda a ficar mais calmo.",
+          "Acho que se soubermos bem como estamos financeiramente, isso pode ajudar a sentir menos preocupação. Não percebo bem os outros conceitos, mas parece lógico que saber onde estamos pode tornar as coisas mais fáceis.",
+          "Acho que se soubermos bem como estão as nossas finanças, não ficamos tão preocupados e ansiosos. Não conheço muito bem os termos, mas parece lógico que saber o que temos e o que devemos ajuda a sentir-nos mais calmos."
+        ],
+        "Alto": [
+          "A opção C é a mais correta porque a compreensão da própria realidade financeira permite que os indivíduos sintam um maior controlo sobre a sua situação, o que, por sua vez, diminui a incerteza e a ansiedade associada a questões financeiras. Conhecer os próprios recursos, despesas e obrigações financeiras facilita o planeamento e a tomada de decisões, promovendo a confiança no futuro.",
+          "A opção D é a mais correta, pois compreender a própria situação financeira permite que os indivíduos tenham uma visão clara das suas finanças, o que, por sua vez, diminui a incerteza e a ansiedade relacionadas com o futuro financeiro. Ao conhecer a realidade financeira, é possível tomar decisões informadas e planeadas, reduzindo o stress associado a questões financeiras.",
+          "Conhecer a própria realidade financeira permite uma melhor gestão de recursos e a planeação adequada do futuro, o que, por sua vez, contribui para uma redução da ansiedade associada a incertezas financeiras. Este conhecimento é fundamental para a tomada de decisões informadas e para evitar a dependência de terceiros.",
+          "A opção C é a mais correta, pois compreender a própria realidade financeira permite que uma pessoa tome decisões informadas, o que, por sua vez, diminui a incerteza e a ansiedade associadas a questões financeiras. Conhecer a situação financeira ajuda a planejar adequadamente e a enfrentar desafios financeiros com maior confiança.",
+          "Conhecer a própria realidade financeira permite uma melhor gestão do orçamento e das expectativas financeiras, o que, por sua vez, leva a uma diminuição da ansiedade. Isto porque a clareza sobre a situação financeira ajuda a tomar decisões informadas e a planear adequadamente para o futuro, reduzindo assim a incerteza.",
+          "A opção C é a mais correta, pois ter uma compreensão clara da própria situação financeira permite que se façam escolhas informadas e planeadas, o que, por sua vez, diminui a incerteza e a ansiedade relacionada a questões monetárias. Compreender a própria realidade financeira é fundamental para evitar decisões impulsivas e promover uma gestão financeira saudável.",
+          "A opção C é a mais correta, pois conhecer a própria realidade financeira permite uma melhor gestão do orçamento e da poupança, resultando em maior segurança e redução da incerteza, o que naturalmente diminui a ansiedade. A literacia financeira é fundamental para que as pessoas se sintam mais capacitadas a tomar decisões informadas e a planear o seu futuro financeiro.",
+          "A opção D é a mais correta, pois ter uma compreensão clara da própria situação financeira permite que os indivíduos planeiem melhor e sintam-se mais seguros nas suas decisões, reduzindo assim a ansiedade associada à incerteza. A literacia financeira é fundamental para a gestão do stress financeiro, uma vez que o conhecimento proporciona um maior controle sobre as finanças pessoais.",
+          "Conhecer a própria realidade financeira permite uma melhor gestão do orçamento e das despesas, o que tem um impacto direto na redução da ansiedade. A literacia financeira ajuda a entender as próprias finanças, permitindo planeamento e decisões mais informadas, o que, por sua vez, diminui a incerteza e o stress associado a questões financeiras.",
+          "A opção B é a mais correta, pois conhecer a própria realidade financeira permite uma melhor gestão do orçamento, planeamento e poupança, o que, por sua vez, reduz a incerteza e a ansiedade associadas à situação financeira. A literacia financeira ajuda a tomar decisões informadas, contribuindo para uma maior tranquilidade."
+        ]
+      }
+    },
+    {
+      "question": "Como pode a crença de que \"não se deve gastar em prazeres\" afetar o comportamento financeiro?",
+      "options": {
+        "A": "Pode levar a privação e gastos impulsivos.",
+        "B": "Pode encorajar um comportamento financeiro excessivamente conservador.",
+        "C": "Pode levar a uma abordagem indiferente em relação às despesas.",
+        "D": "Pode resultar em confiança excessiva na estabilidade financeira atual."
+      },
+      "hint": "Impacto de crenças restritivas no comportamento financeiro.",
+      "rationale": "A crença de que \"não se deve gastar em prazeres\" pode levar a um comportamento de privação, resultando em gastos impulsivos mais tarde.",
+      "tag": "Crenças financeiras",
+      "LLM_judge": {
+        "topic_matching": {
+          "score": 5,
+          "justification": "A pergunta está diretamente relacionada com o tópico 'Crenças financeiras' e avalia claramente o impacto de crenças sobre o comportamento financeiro, que é o conhecimento que este tópico pretende avaliar."
+        },
+        "topic_grounding": {
+          "score": 4,
+          "justification": "A pergunta e a resposta correta estão bem fundamentadas pelo conteúdo-fonte, embora a fundamentação poderia ser mais explícita em relação a como crenças específicas afetam o comportamento financeiro."
+        },
+        "answer_exclusivity": {
+          "score": 4,
+          "justification": "As opções de resposta são claras e distintas, mas a opção A, embora correta, pode ser interpretada de forma a incluir nuances que poderiam levar a confusão."
+        },
+        "distractor_quality": {
+          "score": 4,
+          "justification": "Os distratores são plausíveis e relacionados com o conceito avaliado, mas alguns podem não ser tão diretamente relevantes quanto a resposta correta."
+        },
+        "hint_quality": {
+          "score": 4,
+          "justification": "A dica orienta o raciocínio de forma útil, mas poderia ser mais específica para direcionar melhor o participante sem revelar a resposta."
+        },
+        "rationale_quality": {
+          "score": 4,
+          "justification": "A explicação está correta e clara, mas poderia ser mais completa ao detalhar como a crença leva à privação e, subsequentemente, a gastos impulsivos."
+        }
+      },
+      "simulated_students": {
+        "Baixo": 0.1,
+        "Médio": 0.0,
+        "Alto": 0.0
+      },
+      "simulated_students_reasoning": {
+        "Baixo": [
+          "Acho que as pessoas que pensam que não se deve gastar em prazeres podem ficar com medo de gastar dinheiro e acabam não aproveitando a vida. Não percebo bem os termos financeiros, mas sei que se guardamos muito, podemos perder momentos bons.",
+          "Acho que se alguém acredita que não deve gastar em prazeres, pode acabar a ser muito cuidadoso com o dinheiro. Não percebo bem os termos técnicos, mas parece que essa pessoa pode evitar gastar mesmo nas coisas que fazem feliz.",
+          "Eu não percebo bem os termos técnicos, mas acho que se as pessoas pensam que não devem gastar em coisas que gostam, acabam por guardar muito dinheiro e não se permitem aproveitar a vida. Isso parece-me que é ser muito cauteloso e pode não ser bom.",
+          "Acho que se alguém acredita que não deve gastar em prazeres, pode acabar por não gastar nada e depois ficar tão frustrado que acaba a gastar tudo de uma vez. Não percebo bem as palavras difíceis, mas parece que é isso que acontece.",
+          "Eu acho que se a pessoa acredita que não se deve gastar em prazeres, isso pode fazer com que ela tenha medo de gastar dinheiro e, por isso, fique muito conservadora. Não reconheço bem esses termos técnicos, mas parece lógico que alguém que evita gastar pode acabar a poupar demais e não aproveitar a vida.",
+          "Acho que não gastar em prazeres pode fazer as pessoas ficarem muito preocupadas com o dinheiro e a poupança. Não entendo bem os termos técnicos, mas parece que isso pode fazer com que as pessoas tenham medo de gastar e acabem por não desfrutar da vida.",
+          "Acredito que se não devemos gastar em prazeres, isso pode fazer com que as pessoas sejam muito cuidadosas com o dinheiro e evitem gastar, mesmo quando poderiam. Não conheço bem os termos financeiros, mas parece-me que isso é como guardar tudo e nunca aproveitar a vida.",
+          "Eu acho que, se alguém pensa que não deve gastar em prazeres, pode acabar por ser muito cuidadoso com o dinheiro e não querer gastar nada, mesmo em coisas que poderiam fazer bem. Não conheço bem os termos, mas parece que isso é o que esta opção diz.",
+          "Acho que se não se deve gastar em prazeres, as pessoas podem ficar muito preocupadas em não gastar nada e acabam por não aproveitar a vida. Não percebo bem o que é um comportamento financeiro conservador, mas parece que é algo que não deixa as pessoas serem felizes.",
+          "Eu acho que a crença de que 'não se deve gastar em prazeres' pode fazer com que as pessoas tenham medo de gastar, mesmo em coisas que poderiam trazer alegria. Assim, elas podem ser muito cautelosas com o dinheiro e evitar qualquer despesa que não seja absolutamente necessária."
+        ],
+        "Médio": [
+          "Acho que se alguém acredita que não deve gastar em prazeres, pode acabar a ser muito cuidadoso com o dinheiro e a não gastar nada que não seja necessário. Não conheço bem os termos, mas parece que isso é o que acontece.",
+          "Acredito que se não devemos gastar em prazeres, isso pode fazer com que a pessoa fique muito apegada a poupar e a não gastar nada, mesmo quando é preciso. Não sei muito bem o que significa 'excessivamente conservador', mas parece que é alguém que tem medo de gastar, o que pode ser um problema.",
+          "Acho que se a pessoa acredita que não deve gastar em prazeres, pode ficar muito rígida com o dinheiro e evitar qualquer gasto que pareça desnecessário. Não percebo bem os termos financeiros, mas parece que isso pode ser um problema porque pode levar a não desfrutar da vida.",
+          "Acredito que gastar pouco e ser conservador é o melhor, porque assim não fico sem dinheiro. Não entendo bem os outros termos, mas parece que se não gastar com prazeres, pode ser mais seguro.",
+          "Acredito que se não se deve gastar em prazeres, isso pode fazer com que as pessoas sejam muito cuidadosas com o dinheiro e não queiram gastar nada. Não estou muito familiarizado com os termos, mas parece que é uma forma de evitar riscos.",
+          "Acho que isso faz sentido porque se alguém acredita que não deve gastar em prazeres, pode acabar a poupar tanto que nem se permite comprar coisas que gostava. Não conheço bem os termos, mas parece que é isso que acontece.",
+          "Acho que isso faz sentido porque se alguém pensa que gastar em prazeres é mau, pode acabar por não gastar nada e guardar tudo. Não conheço bem esses termos, mas parece que é melhor ser seguro com o dinheiro.",
+          "Acho que, se alguém acredita que não deve gastar em prazeres, pode acabar por ser muito cuidadoso com o dinheiro. Isso pode fazer com que a pessoa não aproveite as coisas boas da vida, como sair ou comprar algo que gosta, só para poupar. Não conheço bem os termos, mas parece que é isso.",
+          "Eu acho que isso faz sentido porque se a pessoa acha que não deve gastar em prazeres, pode ficar muito agarrada ao dinheiro e não querer gastar em nada. Isso pode levar a ser muito cauteloso com o que tem e não aproveitar a vida. Não conheço muitos dos termos que estão nas outras opções, mas parece que esta é a que mais se alinha com o que eu entendo.",
+          "Acho que a gente pode acabar tão focado em não gastar com prazeres que fica com medo de usar o dinheiro de jeito nenhum. Isso pode fazer com que as pessoas sejam muito cautelosas e não aproveitem a vida, só pensando em economizar."
+        ],
+        "Alto": [
+          "A crença de que 'não se deve gastar em prazeres' pode levar a um comportamento financeiro excessivamente conservador, onde a pessoa evita qualquer despesa que não seja estritamente necessária, resultando em uma vida financeira que pode ser equilibrada, mas também menos gratificante. Isso pode levar a uma falta de investimento em experiências que, embora consideradas 'prazeres', podem ter um impacto positivo no bem-estar geral.",
+          "A crença de que 'não se deve gastar em prazeres' pode levar a um comportamento financeiro excessivamente conservador, já que a pessoa pode evitar despesas que consideraria supérfluas. Isso pode resultar em uma acumulação de poupança, mas também em uma vida financeira desequilibrada, onde o prazer e a satisfação pessoal são sacrificados em prol de uma segurança financeira que pode ser desnecessariamente rígida.",
+          "A crença de que \"não se deve gastar em prazeres\" pode levar a uma abordagem financeira que evita qualquer tipo de despesa que não seja essencial, resultando numa acumulação de poupança, mas também numa falta de investimento em experiências que podem proporcionar satisfação e bem-estar. Este comportamento excessivamente conservador pode prejudicar a qualidade de vida e a realização pessoal.",
+          "A crença de que \"não se deve gastar em prazeres\" pode levar a uma aversão ao risco que se traduz num comportamento financeiro excessivamente conservador, resultando em uma poupança excessiva e falta de investimento em experiências que podem trazer satisfação e bem-estar. Reconheço os termos usados, pois o equilíbrio entre poupança e despesas é crucial para uma boa gestão financeira pessoal.",
+          "A crença de que \"não se deve gastar em prazeres\" pode levar a uma abordagem excessivamente conservadora nas finanças pessoais, resultando em uma diminuição da qualidade de vida e na negação de despesas que poderiam trazer satisfação e equilíbrio. Este comportamento pode ser visto como uma forma de priorizar a poupança em detrimento do bem-estar, refletindo uma visão negativa sobre o consumo e as despesas relacionadas ao lazer.",
+          "A crença de que \"não se deve gastar em prazeres\" pode levar a uma aversão ao risco e um foco excessivo na poupança, resultando em um comportamento financeiro conservador. Esta mentalidade pode impedir a pessoa de investir em oportunidades que poderiam melhorar a sua situação financeira a longo prazo, pois prioriza a segurança a curto prazo em detrimento do potencial de crescimento.",
+          "A crença de que 'não se deve gastar em prazeres' pode levar a um comportamento financeiro excessivamente conservador, pois a pessoa pode evitar qualquer despesa que não seja considerada essencial, prejudicando assim a qualidade de vida e a capacidade de desfrutar de experiências que também podem contribuir para o bem-estar. Este comportamento pode resultar numa acumulação de poupança, mas também num risco de não se aproveitar adequadamente os recursos financeiros disponíveis.",
+          "A crença de que \"não se deve gastar em prazeres\" pode levar a uma mentalidade de escassez, onde o indivíduo evita gastos que poderiam trazer satisfação ou lazer. Isso, por sua vez, pode resultar em um comportamento financeiro excessivamente conservador, onde a pessoa prioriza a poupança em detrimento do bem-estar pessoal e da qualidade de vida, negligenciando a importância de equilibrar o orçamento entre necessidades e prazeres.",
+          "A crença de que 'não se deve gastar em prazeres' pode levar a uma mentalidade de escassez, onde a pessoa evita despesas que poderiam proporcionar satisfação ou felicidade. Isso resulta em um comportamento financeiro excessivamente conservador, pois a pessoa pode optar por não investir em experiências ou bens que, em um equilíbrio saudável, poderiam contribuir para o bem-estar, levando a uma visão desequilibrada das finanças pessoais.",
+          "A crença de que 'não se deve gastar em prazeres' pode levar a um comportamento financeiro excessivamente conservador, pois a pessoa pode evitar qualquer tipo de despesa que não seja absolutamente necessária, prejudicando o equilíbrio entre poupança e consumo. Essa abordagem pode resultar em uma vida financeira desequilibrada, onde a falta de gastos em prazeres pode levar a um aumento do stress e insatisfação, afetando negativamente o bem-estar pessoal."
+        ]
+      }
+    }
+  ],
+  "quiz_results": {
+    "topic_matching": 4.9,
+    "topic_grounding": 4.4,
+    "answer_exclusivity": 4.6,
+    "distractor_quality": 4,
+    "hint_quality": 4,
+    "rationale_quality": 4.5,
+    "tag_diversity": 0.8,
+    "overall_score": 4.4
+  }
+}
