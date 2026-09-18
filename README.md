@@ -6,7 +6,7 @@ Framework for generating and evaluating financial literacy quizzes in European P
 
 This project implements a two-stage pipeline to generate multiple-choice financial literacy quizzes using Retrieval-Augmented Generation (RAG) and Distractor Theory.
 
-
+![framework](https://github.com/1000obo/financial-quiz-LLMs/blob/main/docs/quiz_framework_figure.png)
 
 ### Features
 
